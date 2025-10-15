@@ -256,7 +256,7 @@ export default function Table() {
                           )
                         }
                         key={i}
-                        className="flex items-center gap-1 border border-gray-400 rounded-lg px-3 py-1 cursor-pointer bg-zinc-800/95"
+                        className="flex items-center gap-1 border border-gray-400 rounded-lg px-3 py-1 cursor-pointer bg-[oklch(0.205_0_0)]"
                       >
                         <span>{String(value)}</span>
                         <IoMdCloseCircleOutline size={18} />
