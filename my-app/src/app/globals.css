@@ -78,6 +78,18 @@
   --sidebar-ring: oklch(0.708 0 0);
 }
 
+.legacy-scope {
+  /* force plain white text and neutralize token/opacity inheritance */
+  color: rgb(0, 0, 0) !important;
+  --tw-text-opacity: 1;
+}
+
+/* if borders also look re-tinted by global rules, force them too */
+.legacy-scope .border,
+.legacy-scope [class*="border-"] {
+  border-color: rgb(0, 0, 0) !important; /* gray-400 */
+}
+
 .dark {
   --background: oklch(0.145 0 0);
   --foreground: oklch(0.985 0 0);
@@ -112,11 +124,12 @@
   --sidebar-ring: oklch(0.556 0 0);
 }
 
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background ;
   }
 }

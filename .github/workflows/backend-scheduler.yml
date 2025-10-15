@@ -1,0 +1,56 @@
+name: Run Backend Tasks (Scrape + AI)
+
+on:
+  workflow_dispatch: # allows manual trigger
+  schedule:
+    - cron: "0 */3 * * *" # runs every 3 hours (UTC)
+
+jobs:
+  backend:
+    name: Run Scraper and AI Processor
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    defaults:
+      run:
+        working-directory: backend # all commands execute inside backend/
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libpq-dev curl
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright + Chromium
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Run WebScape.py (scraper)
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Starting WebScape.py..."
+          python WebScape.py
+
+      - name: Run AIfilter.py (AI analysis)
+        if: success() # only runs if previous step succeeded
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Running AIfilter.py..."
+          python AIfilter.py
