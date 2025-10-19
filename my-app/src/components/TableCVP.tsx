@@ -32,11 +32,12 @@ import {
 } from "@tanstack/react-table";
 
 // ✅ type-only import so client bundle doesn’t pull server code
-import type { TableRow } from "@/app/db/schema";
+import type { CVPRow } from "@/app/db/schema";
 import type { SelectedProps } from "@/app/types/navigation";
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 
-const columns: ColumnDef<TableRow>[] = [
+const columns: ColumnDef<CVPRow>[] = [
   {
     id: "select",
     header: ({ table }) => (
@@ -65,16 +66,38 @@ const columns: ColumnDef<TableRow>[] = [
       return offs + row.index + 1;
     },
   },
-  { accessorKey: "rusis", header: "Rūšis" },
-  { accessorKey: "pavadinimas", header: "Pavadinimas" },
-  { accessorKey: "istaigos_nr", header: "Įstaigos Nr." },
-  { accessorKey: "priemimo_data", header: "Priėmimo data" },
-  { accessorKey: "isigaliojimo_data", header: "Įsigaliojimo data" },
   {
-    id: "projektai_nuoroda",
-    header: " Projektai nuoroda",
+    accessorKey: "notice_id",
+    header: "Notice ID",
     cell: ({ row }) => {
-      const value = row.original.projektai_nuoroda;
+      const id = row.original.notice_id; // string | null
+
+      if (!id) {
+        return <span className="text-zinc-500 italic">—</span>; // or "No ID"
+      }
+
+      return (
+        <Link
+          target="_blank"
+          href={`/notices/${encodeURIComponent(id)}`}
+          prefetch
+          className="text-blue-400 underline hover:opacity-80"
+          onClick={(e) => e.stopPropagation()}
+        >
+          {id}
+        </Link>
+      );
+    },
+  },
+  { accessorKey: "title", header: "Title" },
+
+  { accessorKey: "publish_date", header: "Priėmimo data" },
+
+  {
+    id: "notice_url",
+    header: " Notice url",
+    cell: ({ row }) => {
+      const value = row.original.notice_url;
 
       if (!value) return null;
 
@@ -94,10 +117,10 @@ const columns: ColumnDef<TableRow>[] = [
   },
 
   {
-    id: "ai_risk_score",
+    id: "lot_no",
     header: "Korupcijos rizika",
     cell: ({ row }) => {
-      const raw = row.original.ai_risk_score;
+      const raw = row.original.lot_no;
       const score = raw == null ? NaN : parseFloat(raw);
 
       return (
@@ -133,9 +156,9 @@ const columns: ColumnDef<TableRow>[] = [
   },
 ];
 
-export default function Table() {
+export default function TableCVP() {
   // Declarations //
-  const [data, setData] = useState<TableRow[]>([]);
+  const [data, setData] = useState<CVPRow[]>([]);
   const [expanded, setExpanded] = useState({});
   //Selection
   const [rowSelection, setRowSelection] = useState({});
@@ -183,8 +206,11 @@ export default function Table() {
         setOffset(newOffset);
 
         const res = await fetch(
-          `/api/ta?limit=${pageSize}&offset=${newOffset}&${qs}`,
-          { signal: controller.signal, cache: "no-store" }
+          `/api/cvp?limit=${pageSize}&offset=${newOffset}`,
+          {
+            signal: controller.signal,
+            cache: "no-store",
+          }
         );
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
@@ -230,7 +256,7 @@ export default function Table() {
 
   return (
     <>
-      <div className="flex flex-col rounded-lg max-w-[1300px] min-w-[1200px] mx-auto">
+      <div className="flex flex-col rounded-lg max-w-[1350px] min-w-[1250px] mx-auto">
         <div className="w-full bg-[oklch(0.205_0_0)] rounded-t-xl p-2 dark:border-[oklch(1_0_0_/_10%)] border border-gray-800">
           <div className="mx-auto max-w-[1400px] h-20 grid grid-cols-3 items-center px-4 ">
             {/* left column: filter + chips */}
@@ -274,7 +300,6 @@ export default function Table() {
                 isLoading={isLoading}
                 pageSize={pageSize}
                 totalRows={totalRows}
-                table={table}
                 setPageIndex={setPageIndex}
               />
             </div>
@@ -294,9 +319,6 @@ export default function Table() {
             </div>
           </div>
 
-          {openShare && (
-            <Share {...{ selectedFromIds, openShare, setOpenShare }} />
-          )}
           {openFilter && (
             <Navigator
               {...{ openFilter, setOpenFilter, sorting, setSorting }}
@@ -311,7 +333,7 @@ export default function Table() {
                 {hg.headers.map((h) => (
                   <th
                     key={h.id}
-                    className={`border border-t-0 border-black dark:border-[oklch(1_0_0_/_10%)] border: 
+                    className={`border border-t-0 p-1 border-black dark:border-[oklch(1_0_0_/_10%)] border: 
               ${h.column.id === "pavadinimas" ? "  w-[470px] " : undefined}
               ${h.column.id === "select" ? "  w-[85px] " : undefined}
                ${h.column.id === "eil_nr" ? " w-[85px]" : undefined}
@@ -384,7 +406,7 @@ export default function Table() {
                                   Dirbtinio intelekto išvada
                                 </p>
                                 <p className="mt-2 text-lg leading-relaxed text-gray-800 whitespace-pre-line dark:text-[oklch(0.930_0_0)]">
-                                  {row.original.ai_summary ?? "—"}
+                                  {row.original.lot_no ?? "—"}
                                 </p>
                               </div>
 
@@ -398,21 +420,21 @@ export default function Table() {
                                 <span
                                   className={`mt-2 inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-semibold ring-1 ring-inset
                 ${
-                  !row.original.ai_risk_score
+                  !row.original.lot_no
                     ? "bg-gray-100 text-gray-700 ring-gray-200"
-                    : parseFloat(row.original.ai_risk_score) >= 0.7
+                    : parseFloat(row.original.lot_no) >= 0.7
                     ? "bg-red-100 text-red-700 ring-red-200"
-                    : parseFloat(row.original.ai_risk_score) >= 0.5
+                    : parseFloat(row.original.lot_no) >= 0.5
                     ? "bg-yellow-100 text-yellow-800 ring-yellow-200"
                     : "bg-green-100 text-green-700 ring-green-200"
                 }`}
                                 >
                                   {Number.isFinite(
-                                    parseFloat(row.original.ai_risk_score ?? "")
+                                    parseFloat(row.original.lot_no ?? "")
                                   )
-                                    ? parseFloat(
-                                        row.original.ai_risk_score!
-                                      ).toFixed(3)
+                                    ? parseFloat(row.original.lot_no!).toFixed(
+                                        3
+                                      )
                                     : "—"}
                                 </span>
 
@@ -421,15 +443,15 @@ export default function Table() {
                                   <div
                                     className={`h-2 rounded-full
                   ${
-                    !row.original.ai_risk_score
+                    !row.original.lot_no
                       ? "w-0 bg-gray-300"
-                      : parseFloat(row.original.ai_risk_score) >= 0.9
+                      : parseFloat(row.original.lot_no) >= 0.9
                       ? "w-full bg-red-500"
-                      : parseFloat(row.original.ai_risk_score) >= 0.7
+                      : parseFloat(row.original.lot_no) >= 0.7
                       ? "w-4/5 bg-red-500"
-                      : parseFloat(row.original.ai_risk_score) >= 0.5
+                      : parseFloat(row.original.lot_no) >= 0.5
                       ? "w-3/5 bg-yellow-400"
-                      : parseFloat(row.original.ai_risk_score) >= 0.3
+                      : parseFloat(row.original.lot_no) >= 0.3
                       ? "w-2/5 bg-green-500"
                       : "w-1/5 bg-green-500"
                   }`}
@@ -453,7 +475,6 @@ export default function Table() {
             pageIndex={pageIndex}
             isLoading={isLoading}
             totalRows={totalRows}
-            table={table}
             pageSize={pageSize}
             setPageIndex={setPageIndex}
           />

@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { db } from '@/app/db/client';
+import { dbTAR } from '@/app/db/client';
 import { TAtable } from '@/app/db/schema';
 import { and, desc, gte, ilike, sql } from 'drizzle-orm';
 
@@ -35,18 +35,18 @@ const whereAll =
 // rows
 const rows = await (
   whereAll
-    ? db.select().from(TAtable).where(whereAll).orderBy(orderPrimary, orderTie).limit(limit).offset(offset)
-    : (await db.select().from(TAtable).orderBy(orderPrimary, orderTie).limit(limit).offset(offset))
+    ? dbTAR.select().from(TAtable).where(whereAll).orderBy(orderPrimary, orderTie).limit(limit).offset(offset)
+    : (await dbTAR.select().from(TAtable).orderBy(orderPrimary, orderTie).limit(limit).offset(offset))
 );
 
 // count
 const [{ count }] = await (
   whereAll
-    ? db.select({ count: sql<number>`count(*)` }).from(TAtable).where(whereAll)
-    : db.select({ count: sql<number>`count(*)` }).from(TAtable)
+    ? dbTAR.select({ count: sql<number>`count(*)` }).from(TAtable).where(whereAll)
+    : dbTAR.select({ count: sql<number>`count(*)` }).from(TAtable)
 );
 
-    await new Promise((resolve) => setTimeout(resolve, 350));
+
 
    return NextResponse.json({
     rows,

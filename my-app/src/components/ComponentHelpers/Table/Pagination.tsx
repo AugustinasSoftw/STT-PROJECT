@@ -4,11 +4,8 @@ import {
   NextButton,
   NextNextButton,
 } from "../Buttons/Buttons";
-import { Table } from "@tanstack/react-table";
-import type { TableRow } from "@/app/db/schema";
 
-type PaginationProps<TableRow> = {
-  table: Table<TableRow>;
+type PaginationProps = {
   totalRows: number;
   setPageIndex: (page: number) => void;
   pageSize: number;
@@ -16,14 +13,13 @@ type PaginationProps<TableRow> = {
   pageIndex: number;
 };
 
-export default function Paggination<TableRow>({
+export default function Paggination({
   totalRows,
-  table,
   setPageIndex,
   isLoading = false,
   pageSize,
   pageIndex,
-}: PaginationProps<TableRow>) {
+}: PaginationProps) {
   const totalPages = Math.ceil(totalRows / pageSize);
   const maxButtons = 10;
   const current = pageIndex + 1;

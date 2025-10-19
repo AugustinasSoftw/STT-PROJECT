@@ -11,6 +11,7 @@ import {
   Plus,
   Projector,
   ChevronDown,
+  HomeIcon,
 } from "lucide-react";
 import {
   Sidebar,
@@ -42,34 +43,6 @@ import {
   CollapsibleTrigger,
 } from "./ui/collapsible";
 
-const items = [
-  {
-    title: "Home",
-    url: "/",
-    icon: Home,
-  },
-  {
-    title: "Inbox",
-    url: "#",
-    icon: Inbox,
-  },
-  {
-    title: "Calendar",
-    url: "#",
-    icon: Calendar,
-  },
-  {
-    title: "TAR Apžvalga",
-    url: "/table",
-    icon: Search,
-  },
-  {
-    title: "Settings",
-    url: "#",
-    icon: Settings,
-  },
-];
-
 const AppSidebar = () => {
   return (
     <Sidebar collapsible="icon">
@@ -87,20 +60,45 @@ const AppSidebar = () => {
       </SidebarHeader>
       <SidebarSeparator className="" />
       <SidebarContent>
-        <SidebarGroup>
+        <SidebarGroup className="mt-2">
+          <SidebarGroupContent>
+            <SidebarMenu>
+              <SidebarMenuItem>
+                <SidebarMenuButton asChild>
+                  <Link href="/">
+                    <HomeIcon />
+                    <span>Home</span>
+                  </Link>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
+            </SidebarMenu>
+          </SidebarGroupContent>
+        </SidebarGroup>
+        <SidebarGroup className="-mt-2">
           <SidebarGroupLabel>Aplikacijos</SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
-              {items.map((item) => (
-                <SidebarMenuItem key={item.title}>
-                  <SidebarMenuButton asChild>
-                    <Link href={item.url}>
-                      <item.icon />
-                      <span>{item.title}</span>
-                    </Link>
-                  </SidebarMenuButton>
-                </SidebarMenuItem>
-              ))}
+              <SidebarMenuItem>
+                <SidebarMenuButton asChild>
+                  <Link href="/tableCVP">
+                    <img
+                      src="/download.png"
+                      width={20}
+                      height={20}
+                      className=""
+                    />
+                    <span>CVP Analizė</span>
+                  </Link>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
+              <SidebarMenuItem>
+                <SidebarMenuButton asChild>
+                  <Link href="/tableTAR">
+                    <img src="/TAR.png" width={20} height={20} className="" />
+                    <span>TAR Analizė</span>
+                  </Link>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
             </SidebarMenu>
           </SidebarGroupContent>
         </SidebarGroup>
@@ -115,14 +113,6 @@ const AppSidebar = () => {
             <CollapsibleContent>
               <SidebarGroupContent>
                 <SidebarMenu>
-                  <SidebarMenuItem>
-                    <SidebarMenuButton asChild>
-                      <Link href="/#">
-                        <Projector />
-                        See all Projects
-                      </Link>
-                    </SidebarMenuButton>
-                  </SidebarMenuItem>
                   <SidebarMenuItem>
                     <SidebarMenuButton asChild>
                       <Link href="/#">
