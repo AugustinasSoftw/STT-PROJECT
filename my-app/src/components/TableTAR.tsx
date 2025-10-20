@@ -32,7 +32,7 @@ import {
 
 // ✅ type-only import so client bundle doesn’t pull server code
 import type { TableRow } from "@/app/db/schema";
-import type { SelectedProps } from "@/app/types/navigation";
+import type { SelectedProps } from "@/app/types/types";
 import { usePathname } from "next/navigation";
 //
 const columns: ColumnDef<TableRow>[] = [

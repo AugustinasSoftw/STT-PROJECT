@@ -1,5 +1,6 @@
 "use client";
 import { CVPRow } from "@/app/db/schema";
+import SavePageButton from "@/components/SavePageButton";
 import { useState } from "react";
 
 export default function NoticeClient({ rowValue }: { rowValue: CVPRow }) {
@@ -31,6 +32,11 @@ export default function NoticeClient({ rowValue }: { rowValue: CVPRow }) {
       <header className="flex items-center justify-between">
         <h1 className="text-2xl font-semibold">Notice {rowValue.notice_id}</h1>
         <RiskBadge score={aiAnalysis.riskScore} />
+         <SavePageButton
+          id={rowValue.notice_id ?? "unknown"}
+          title={rowValue.title ?? rowValue.buyer_name ?? "Untitled notice"}
+          href={`/notices/${rowValue.notice_id}`}
+  />
       </header>
 
       {/* Summary grid */}

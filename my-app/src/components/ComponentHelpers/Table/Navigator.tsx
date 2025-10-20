@@ -2,7 +2,7 @@
 
 import { useId, useState } from "react";
 import { IoMdClose } from "react-icons/io";
-import type { SelectedProps } from "@/app/types/navigation";
+import type { SelectedProps } from "@/app/types/types";
 import { IoIosArrowDown } from "react-icons/io";
 import { MdKeyboardArrowRight } from "react-icons/md";
 

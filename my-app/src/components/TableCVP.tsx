@@ -33,7 +33,7 @@ import {
 
 // ✅ type-only import so client bundle doesn’t pull server code
 import type { CVPRow } from "@/app/db/schema";
-import type { SelectedProps } from "@/app/types/navigation";
+import type { SelectedProps } from "@/app/types/types";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 

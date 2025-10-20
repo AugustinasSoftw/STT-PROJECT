@@ -42,6 +42,7 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "./ui/collapsible";
+import SavedSection from "./ComponentHelpers/sidebar/SavedSection";
 
 const AppSidebar = () => {
   return (
@@ -106,7 +107,7 @@ const AppSidebar = () => {
           <SidebarGroup>
             <SidebarGroupLabel asChild>
               <CollapsibleTrigger>
-                Collapsable group
+                Workspace
                 <ChevronDown className="ml-auto transition-transform group-data-[state=open]/collapsible:rotate-180" />
               </CollapsibleTrigger>
             </SidebarGroupLabel>
@@ -121,10 +122,13 @@ const AppSidebar = () => {
                       </Link>
                     </SidebarMenuButton>
                   </SidebarMenuItem>
+                 
                 </SidebarMenu>
               </SidebarGroupContent>
+              <SavedSection />
             </CollapsibleContent>
           </SidebarGroup>
+          
         </Collapsible>
       </SidebarContent>
       <SidebarFooter>
