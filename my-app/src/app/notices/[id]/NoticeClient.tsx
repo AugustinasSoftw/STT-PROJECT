@@ -1,7 +1,8 @@
 "use client";
 import { CVPRow } from "@/app/db/schema";
-import SavePageButton from "@/components/SavePageButton";
+
 import { useState } from "react";
+import { SaveButton } from "./SaveButton";
 
 export default function NoticeClient({ rowValue }: { rowValue: CVPRow }) {
   // Mock AI & historical analysis
@@ -31,12 +32,9 @@ export default function NoticeClient({ rowValue }: { rowValue: CVPRow }) {
       {/* Header */}
       <header className="flex items-center justify-between">
         <h1 className="text-2xl font-semibold">Notice {rowValue.notice_id}</h1>
+        <SaveButton rowValue={rowValue}/>
         <RiskBadge score={aiAnalysis.riskScore} />
-         <SavePageButton
-          id={rowValue.notice_id ?? "unknown"}
-          title={rowValue.title ?? rowValue.buyer_name ?? "Untitled notice"}
-          href={`/notices/${rowValue.notice_id}`}
-  />
+    
       </header>
 
       {/* Summary grid */}

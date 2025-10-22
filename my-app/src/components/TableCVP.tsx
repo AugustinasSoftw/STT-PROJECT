@@ -249,10 +249,8 @@ export default function TableCVP() {
       offset,
     },
   });
-  console.log(isLoading);
-  const selectedFromIds = table
-    .getSelectedRowModel()
-    .flatRows.map((r) => r.original);
+  
+
 
   return (
     <>

@@ -6,13 +6,18 @@ import NoticeClient from "./NoticeClient"; // client component below
 
 export const revalidate = 300; // optional ISR
 
-export default async function Page({ params }: { params: { id: string } }) {
-  const id = decodeURIComponent(params.id);
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = await params;             // ✅ wait for the async params
+  const decodedId = decodeURIComponent(id);
 
   const [row] = await dbCVP
     .select()
     .from(CVPTable)
-    .where(eq(CVPTable.notice_id, id))
+    .where(eq(CVPTable.notice_id, decodedId))
     .limit(1);
 
   if (!row) return notFound();

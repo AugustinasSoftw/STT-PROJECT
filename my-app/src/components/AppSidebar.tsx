@@ -42,7 +42,8 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "./ui/collapsible";
-import SavedSection from "./ComponentHelpers/sidebar/SavedSection";
+import SidebarGroups from "@/app/notices/[id]/SidebarGroups";
+
 
 const AppSidebar = () => {
   return (
@@ -114,21 +115,13 @@ const AppSidebar = () => {
             <CollapsibleContent>
               <SidebarGroupContent>
                 <SidebarMenu>
-                  <SidebarMenuItem>
-                    <SidebarMenuButton asChild>
-                      <Link href="/#">
-                        <Plus />
-                        Add Project
-                      </Link>
-                    </SidebarMenuButton>
-                  </SidebarMenuItem>
-                 
+                    
                 </SidebarMenu>
               </SidebarGroupContent>
-              <SavedSection />
+             
             </CollapsibleContent>
           </SidebarGroup>
-          
+          <SidebarGroups/>
         </Collapsible>
       </SidebarContent>
       <SidebarFooter>

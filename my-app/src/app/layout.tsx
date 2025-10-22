@@ -6,7 +6,6 @@ import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { SidebarProvider } from "@/components/ui/sidebar";
 import AppSidebar from "@/components/AppSidebar";
 import { cookies } from "next/headers";
-import { WorkspaceProvider } from "@/components/providers/workspace";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -42,7 +41,6 @@ export default async function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <WorkspaceProvider>
           <SidebarProvider defaultOpen={defaultOpen}>
             <AppSidebar />
 
@@ -51,7 +49,7 @@ export default async function RootLayout({
               <div className="px-4">{children}</div>
             </main>
           </SidebarProvider>
-          </WorkspaceProvider>
+         
         </ThemeProvider>
       </body>
     </html>
