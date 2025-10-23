@@ -31,9 +31,17 @@ export default function NoticeClient({ rowValue }: { rowValue: CVPRow }) {
     <main className="p-8 space-y-8">
       {/* Header */}
       <header className="flex items-center justify-between">
-        <h1 className="text-2xl font-semibold">Notice {rowValue.notice_id}</h1>
-        <SaveButton rowValue={rowValue}/>
+        <div className="flex flex-row gap-3">
+           <h1 className="text-2xl font-semibold">Notice {rowValue.notice_id}</h1>
         <RiskBadge score={aiAnalysis.riskScore} />
+        </div>
+       
+        <div>
+           
+           <SaveButton rowValue={rowValue}/>
+       
+        </div>
+       
     
       </header>
 
@@ -121,7 +129,7 @@ function RiskBadge({ score }: any) {
     (label = "High Risk"), (color = "bg-red-500/20 text-red-400");
 
   return (
-    <span className={`px-3 py-1 rounded-full text-sm font-medium ${color}`}>
+    <span className={`px-3 flex justify-center items-center rounded-full text-sm font-medium ${color}`}>
       {label} ({Math.round(score * 100)}%)
     </span>
   );

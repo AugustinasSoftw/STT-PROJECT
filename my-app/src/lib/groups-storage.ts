@@ -52,3 +52,28 @@ export function removeGroup(name: string) {
   delete groups[name];
   writeGroups(groups);
 }
+
+export function renameGroup(oldName: string, newName: string) {
+  const groups = readGroups();
+
+  const from = oldName.trim();
+  const to = newName.trim();
+
+  if (!from || !to) return { ok: false, error: "Empty name." };
+  if (!groups[from]) return { ok: false, error: "Group not found." };
+  if (from === to) return { ok: true }; // no-op
+  if (groups[to]) return { ok: false, error: "A group with that name already exists." };
+
+  groups[to] = groups[from];
+  delete groups[from];
+  writeGroups(groups);
+
+  // notify any listeners
+  window.dispatchEvent(
+    new CustomEvent("groups:update", {
+      detail: { type: "rename", oldName: from, newName: to },
+    })
+  );
+
+  return { ok: true };
+}

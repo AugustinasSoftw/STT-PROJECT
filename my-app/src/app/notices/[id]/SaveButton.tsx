@@ -8,6 +8,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { readGroups } from "@/lib/groups-storage";
 
 const GROUPS_KEY = "groups:v1";
 const GROUPS_UPDATE = "groups:update"; // <- notify same-tab readers
@@ -24,14 +25,7 @@ type SaveButtonProps = {
   rowValue: RowData;
 };
 
-function loadGroups(): Groups {
-  try {
-    const raw = localStorage.getItem(GROUPS_KEY);
-    return raw ? (JSON.parse(raw) as Groups) : {};
-  } catch {
-    return {};
-  }
-}
+
 
 function persistGroups(groups: Groups) {
   localStorage.setItem(GROUPS_KEY, JSON.stringify(groups));
@@ -54,10 +48,11 @@ export function SaveButton({ rowValue }: SaveButtonProps) {
   const [groups, setGroups] = React.useState<Groups>({});
   const [newGroupName, setNewGroupName] = React.useState("");
   const [selectedGroup, setSelectedGroup] = React.useState<string>("");
+  const [saved,setSaved] = React.useState(false);
 
   // Load groups on mount (client only)
   React.useEffect(() => {
-    setGroups(loadGroups());
+    setGroups(readGroups());
   }, []);
 
   const handleSave = (groupName: string) => {
@@ -79,23 +74,23 @@ export function SaveButton({ rowValue }: SaveButtonProps) {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="outline">Save</Button>
+        <Button variant="outline">Pridėti į grupes</Button>
       </SheetTrigger>
 
-      <SheetContent className="p-2">
+      <SheetContent className="p-3">
         <SheetHeader>
-          <SheetTitle>Add to Group</SheetTitle>
+          <SheetTitle>Pridėti į grupes</SheetTitle>
           <SheetDescription>
-            Choose an existing group or create a new one, then click Save.
+            Pasirinkti esama grupę arba kurkite naują.
           </SheetDescription>
 
           <div className="mt-4 space-y-6">
             {/* New group input */}
             <div className="grid gap-2">
-              <Label htmlFor="group-name">New group</Label>
+              <Label htmlFor="group-name">Naujos grupės pavadinimas</Label>
               <Input
                 id="group-name"
-                placeholder="e.g. Favorites"
+                placeholder="e.g. Aukšta korupcija"
                 value={newGroupName}
                 onChange={(e) => setNewGroupName(e.target.value)}
               />
@@ -103,7 +98,7 @@ export function SaveButton({ rowValue }: SaveButtonProps) {
 
             {/* Existing groups */}
             <div className="grid gap-3">
-              <h2 className="text-sm font-medium">Or select an existing group:</h2>
+              <h2 className="text-sm font-medium">Pasirinkti esamą grupę:</h2>
               <div className="flex flex-col gap-2">
                 {existingNames.length === 0 && (
                   <span className="text-muted-foreground text-sm">No groups yet.</span>
@@ -111,9 +106,12 @@ export function SaveButton({ rowValue }: SaveButtonProps) {
                 {existingNames.map((name) => (
                   <button
                     key={name}
-                    onClick={() => handleSave(name)}
+                    onClick={() => {
+                      handleSave(name)
+                      setSaved(true);
+                    }}
                     className={`text-left rounded-lg border px-3 py-2 hover:bg-accent transition ${
-                      selectedGroup === name ? "ring-2 ring-offset-2" : ""
+                      selectedGroup === name ? "ring-1 ring-offset-1" : ""
                     }`}
                     title={`${groups[name].length} item(s)`}
                   >
@@ -123,6 +121,7 @@ export function SaveButton({ rowValue }: SaveButtonProps) {
                     </span>
                   </button>
                 ))}
+               
               </div>
             </div>
           </div>
@@ -134,10 +133,10 @@ export function SaveButton({ rowValue }: SaveButtonProps) {
             className="justify-self-start"
             disabled={!newGroupName.trim()}
           >
-            Save to new group
+            Pridėti naują grupę
           </Button>
           <SheetClose asChild>
-            <Button variant="outline">Close</Button>
+            <Button variant="outline">Uždaryti</Button>
           </SheetClose>
         </SheetFooter>
       </SheetContent>

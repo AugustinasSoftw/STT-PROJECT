@@ -5,12 +5,13 @@ import { Button } from "@/components/ui/button";
 import {
   Table, TableHeader, TableHead, TableRow, TableBody, TableCell,
 } from "@/components/ui/table";
-import { readGroups, removeItem, removeGroup, RowData } from "@/lib/groups-storage";
+import { readGroups, removeItem, removeGroup, RowData, renameGroup } from "@/lib/groups-storage";
 import Link from "next/link";
 
 import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem, DropdownMenuLabel, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 import { useEffect, useState } from "react";
 import { Settings } from "lucide-react";
+import GroupNameSheet from "./GroupUpdate";
 
 export default function GroupPage() {
     
@@ -55,10 +56,27 @@ export default function GroupPage() {
           {groupName} <span className="text-sm text-muted-foreground">({items.length})</span>
         </h1>
         <div className="flex gap-2">
-          <Button variant="destructive" onClick={handleDeleteGroup}>
+         
+          
+           <GroupNameSheet
+    mode="rename"
+    initialName={groupName}
+    trigger={<Button variant="secondary">Rename</Button>}
+    onSubmit={(nextName) => {
+      const res = renameGroup(groupName, nextName);
+      if (!res.ok) {
+        alert(res.error);
+        return;
+      }
+      // go to the new group's page
+      router.push(`/groups/${encodeURIComponent(nextName)}`);
+    }}
+  />
+  <Button variant="destructive" onClick={handleDeleteGroup}>
             Delete group
           </Button>
         </div>
+       
       </div>
 
       {items.length === 0 ? (
@@ -67,18 +85,22 @@ export default function GroupPage() {
         <Table>
           <TableHeader>
             <TableRow>
-              <TableHead className="w-[160px]">ID</TableHead>
+              <TableHead>ID</TableHead>
               <TableHead>Notice</TableHead>
+              
+              
+              <TableHead>Test</TableHead>
               <TableHead>Actions</TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>
             {items.map((row) => (
               <TableRow key={String(row.id)}>
-                <TableCell>{String(row.id)}</TableCell>
+                <TableCell><Link className="underline" href={`/notices/${row.notice_id}`}>{String(row.id)}</Link></TableCell>
                 <TableCell>{row.notice_id ?? "-"}</TableCell>
+                <TableCell>{row.notice_id ?? "-"}</TableCell>
+               
                 <TableCell>
-                  
                   <DropdownMenu modal={false}>
         <DropdownMenuTrigger asChild>
           <Button variant="outline" aria-label="Open menu" size="icon-sm">

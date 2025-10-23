@@ -16,6 +16,7 @@ import {
 import { Button } from "./ui/button";
 import { useTheme } from "next-themes";
 import { SidebarTrigger } from "./ui/sidebar";
+import { ProfileAvatar } from "./ui/profile-avatar";
 
 const Navbar = () => {
   const { theme, setTheme } = useTheme();
@@ -24,7 +25,7 @@ const Navbar = () => {
     <nav className="items-center flex justify-between p-4">
       <SidebarTrigger />
       <div className="flex items-center gap-4">
-        <Link href="/">Dashboard</Link>
+        
         {/* Light mode */}
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
@@ -36,26 +37,23 @@ const Navbar = () => {
           </DropdownMenuTrigger>
           <DropdownMenuContent align="end">
             <DropdownMenuItem onClick={() => setTheme("light")}>
-              Light
+              Šviesus
             </DropdownMenuItem>
             <DropdownMenuItem onClick={() => setTheme("dark")}>
-              Dark
+              Tamsus
             </DropdownMenuItem>
             <DropdownMenuItem onClick={() => setTheme("system")}>
-              System
+              Systemos
             </DropdownMenuItem>
           </DropdownMenuContent>
         </DropdownMenu>
         {/* Profile */}
         <DropdownMenu>
           <DropdownMenuTrigger>
-            <Avatar>
-              <AvatarImage src="https://github.com/shadcn.png" />
-              <AvatarFallback>CN</AvatarFallback>
-            </Avatar>
+            <ProfileAvatar/>
           </DropdownMenuTrigger>
           <DropdownMenuContent>
-            <DropdownMenuLabel>My Account</DropdownMenuLabel>
+            <DropdownMenuLabel>Paskyra</DropdownMenuLabel>
             <DropdownMenuSeparator />
             <DropdownMenuItem>
               <User className="h-[1.2rem] w-[1.2rem] mr-1" />
@@ -63,11 +61,11 @@ const Navbar = () => {
             </DropdownMenuItem>
             <DropdownMenuItem>
               <Settings className="h-[1.2rem] w-[1.2rem] mr-1" />
-              Settings
+                  Nustatymai
             </DropdownMenuItem>
             <DropdownMenuItem variant="destructive">
               <LogOut className="h-[1.2rem] w-[1.2rem] mr-1" />
-              Logout
+                  Atsijungti
             </DropdownMenuItem>
           </DropdownMenuContent>
         </DropdownMenu>
