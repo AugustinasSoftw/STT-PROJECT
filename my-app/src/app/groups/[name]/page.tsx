@@ -3,18 +3,35 @@
 import { useParams, useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import {
-  Table, TableHeader, TableHead, TableRow, TableBody, TableCell,
+  Table,
+  TableHeader,
+  TableHead,
+  TableRow,
+  TableBody,
+  TableCell,
 } from "@/components/ui/table";
-import { readGroups, removeItem, removeGroup, RowData, renameGroup } from "@/lib/groups-storage";
+import {
+  readGroups,
+  removeItem,
+  removeGroup,
+  RowData,
+  renameGroup,
+} from "@/lib/groups-storage";
 import Link from "next/link";
 
-import { DropdownMenu, DropdownMenuContent, DropdownMenuGroup, DropdownMenuItem, DropdownMenuLabel, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuGroup,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
 import { useEffect, useState } from "react";
 import { Settings } from "lucide-react";
 import GroupNameSheet from "./GroupUpdate";
 
 export default function GroupPage() {
-    
   const params = useParams<{ name: string }>();
   const router = useRouter();
   const groupName = decodeURIComponent(params.name);
@@ -41,44 +58,32 @@ export default function GroupPage() {
     );
   }
 
-  const handleDeleteGroup = () => {
-    if (confirm(`Delete group "${groupName}"?`)) {
-      removeGroup(groupName);
-      router.push("/");
-    }
-  };
-  
-
   return (
     <div className="p-6 space-y-4">
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-semibold">
-          {groupName} <span className="text-sm text-muted-foreground">({items.length})</span>
+          {groupName}{" "}
+          <span className="text-sm text-muted-foreground">
+            ({items.length})
+          </span>
         </h1>
         <div className="flex gap-2">
-         
-          
-           <GroupNameSheet
-    mode="rename"
-    initialName={groupName}
-    trigger={<Button variant="secondary">Rename</Button>}
-    onSubmit={(nextName) => {
-      const res = renameGroup(groupName, nextName);
-      if (!res.ok) {
-        alert(res.error);
-        return;
-      }
-      // go to the new group's page
-      router.push(`/groups/${encodeURIComponent(nextName)}`);
-    }}
-  />
-  <Button variant="destructive" onClick={handleDeleteGroup}>
-            Delete group
-          </Button>
+          <GroupNameSheet
+            mode="rename"
+            initialName={groupName}
+            trigger={<Button variant="secondary">Manage</Button>}
+            onSubmit={(nextName) => {
+              const res = renameGroup(groupName, nextName);
+              if (!res.ok) {
+                alert(res.error);
+                return;
+              }
+              // go to the new group's page
+              router.push(`/groups/${encodeURIComponent(nextName)}`);
+            }}
+          />
         </div>
-       
       </div>
-
       {items.length === 0 ? (
         <p className="text-sm text-muted-foreground">No items in this group.</p>
       ) : (
@@ -87,8 +92,7 @@ export default function GroupPage() {
             <TableRow>
               <TableHead>ID</TableHead>
               <TableHead>Notice</TableHead>
-              
-              
+
               <TableHead>Test</TableHead>
               <TableHead>Actions</TableHead>
             </TableRow>
@@ -96,30 +100,41 @@ export default function GroupPage() {
           <TableBody>
             {items.map((row) => (
               <TableRow key={String(row.id)}>
-                <TableCell><Link className="underline" href={`/notices/${row.notice_id}`}>{String(row.id)}</Link></TableCell>
+                <TableCell>
+                  <Link
+                    className="underline"
+                    href={`/notices/${row.notice_id}`}
+                  >
+                    {String(row.id)}
+                  </Link>
+                </TableCell>
                 <TableCell>{row.notice_id ?? "-"}</TableCell>
                 <TableCell>{row.notice_id ?? "-"}</TableCell>
-               
+
                 <TableCell>
                   <DropdownMenu modal={false}>
-        <DropdownMenuTrigger asChild>
-          <Button variant="outline" aria-label="Open menu" size="icon-sm">
-            <Settings />
-          </Button>
-        </DropdownMenuTrigger>
-        <DropdownMenuContent className="w-40" align="end">
-          <DropdownMenuLabel>File Actions</DropdownMenuLabel>
-          <DropdownMenuGroup>
-            <DropdownMenuItem onClick={() => removeItem(groupName, row.id)}>
-              Remove item
-            </DropdownMenuItem>
-            <DropdownMenuItem >
-              Share...
-            </DropdownMenuItem>
-            <DropdownMenuItem disabled>Download</DropdownMenuItem>
-          </DropdownMenuGroup>
-        </DropdownMenuContent>
-      </DropdownMenu>
+                    <DropdownMenuTrigger asChild>
+                      <Button
+                        variant="outline"
+                        aria-label="Open menu"
+                        size="icon-sm"
+                      >
+                        <Settings />
+                      </Button>
+                    </DropdownMenuTrigger>
+                    <DropdownMenuContent className="w-40" align="end">
+                      <DropdownMenuLabel>File Actions</DropdownMenuLabel>
+                      <DropdownMenuGroup>
+                        <DropdownMenuItem
+                          onClick={() => removeItem(groupName, row.id)}
+                        >
+                          Remove item
+                        </DropdownMenuItem>
+                        <DropdownMenuItem>Share...</DropdownMenuItem>
+                        <DropdownMenuItem disabled>Download</DropdownMenuItem>
+                      </DropdownMenuGroup>
+                    </DropdownMenuContent>
+                  </DropdownMenu>
                 </TableCell>
               </TableRow>
             ))}
@@ -127,5 +142,5 @@ export default function GroupPage() {
         </Table>
       )}
     </div>
-  )
+  );
 }
