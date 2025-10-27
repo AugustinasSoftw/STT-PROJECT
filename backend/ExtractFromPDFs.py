@@ -53,11 +53,14 @@ def db_connect():
 SELECT_SQL = """
 SELECT notice_id, pdf_urls
 FROM public.notices_stage
-WHERE (buyer_name IS NULL
+WHERE (
+       buyer_name IS NULL
     OR pirkimo_budas IS NULL
     OR procedura_pagreitinta IS NULL
     OR aprasymas IS NULL
-    OR lots IS NULL)
+    OR lots IS NULL
+    OR viso_sutarciu_verte IS NULL   -- 👈 add this line
+)
   AND pdf_urls IS NOT NULL
 ORDER BY publish_date DESC NULLS LAST, notice_id;
 """
@@ -72,7 +75,12 @@ def db_update_partial(conn, notice_id: str, fields: Dict[str, Any], status: str)
     sets, params = [], []
     for k in keys:
         sets.append(f"{k} = %s")
-        params.append(Json(fields[k]) if k == "lots" else fields[k])
+        v = fields[k]
+        # wrap JSON-ish values so psycopg2 knows how to send them
+        if isinstance(v, (dict, list)) or k in ("lots", "viso_sutarciu_verte"):
+            params.append(Json(v))
+        else:
+            params.append(v)
     sets.append("extraction_status = %s"); params.append(status)
     sets.append("last_extracted_at = NOW()")
     sql = f"UPDATE public.notices_stage SET {', '.join(sets)} WHERE notice_id = %s"
@@ -191,12 +199,17 @@ WS = re.compile(r"[ \t]+")
 def normalize_pdf_text(s: str) -> str:
     if not s:
         return ""
-    s = s.replace("\xa0", " ")
+    # normalize whitespace variants
+    s = s.replace("\xa0", " ")        # NBSP
+    s = s.replace("\u202f", " ")      # NARROW NO-BREAK SPACE
+    s = s.replace("\u2007", " ")      # FIGURE SPACE
+    # existing rules
     s = ZERO_WIDTH.sub("", s)
     s = UNICODE_DASHES.sub("-", s)
     s = s.replace("\r", "\n")
     s = re.sub(r"\n{2,}", "\n", s)
     return s
+
 
 def norm_one_line(s: str) -> str:
     s = s.replace("\xa0", " ").replace("\r", " ")
@@ -266,6 +279,44 @@ def extract_aprasymas(text: str) -> Optional[str]:
         return norm_one_line(m.group(1))
     return None
 
+def extract_viso_sutarciu_verte(text: str) -> Optional[Dict[str, Any]]:
+    """
+    Extract 'Visų šiame pranešime suteiktų sutarčių vertė: ... Euro'
+    Robust to line breaks, thin spaces, and punctuation variations.
+    """
+    # 1) Find the marker (allow for diacritics + optional punctuation)
+    marker = re.search(
+        r"(?:Vis[ųu]\s+šiame\s+pranešime\s+suteikt[ųu]\s+sutar[čc]i[ųu]\s+vert[ėe])\s*[:\-]?",
+        text, re.IGNORECASE
+    )
+    if not marker:
+        return None
+
+    # 2) Look ahead a short window after the marker; collapse whitespace
+    window = text[marker.end(): marker.end() + 200]
+    window = norm_one_line(window)  # turns newlines/tabs into single spaces
+
+    # 3) Direct regex for the numeric chunk (+ optional currency)
+    #    Accepts digits, spaces, thin spaces, commas, dots; currency optional.
+    mnum = re.search(
+        r"([0-9][0-9 \u00A0\u202F\u2007\.,]*[0-9](?:[.,][0-9]{1,2})?)\s*(?:EUR|Euro|€)?",
+        window,
+        re.IGNORECASE,
+    )
+    if not mnum:
+        return None
+
+    raw = mnum.group(1)
+
+    # 4) Normalize number and parse
+    #    (parse_money already handles comma decimal, but we pass a cleaned string)
+    amount, currency = parse_money(raw)
+    if amount is None:
+        return None
+    if not currency and re.search(r"\b(EUR|Euro|€)\b", window, re.IGNORECASE):
+        currency = "EUR"
+
+    return {"amount": amount, "currency": currency}
 
 
 # -------------------------
@@ -489,12 +540,14 @@ def main():
                 continue
 
             text = normalize_pdf_text(text)
+
             # Keep a copy for debugging/iteration
             out_path = TEXT_DIR / f"{notice_id}.txt"
             with open(out_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
             # Extract fields (NULL-on-unknown policy)
+            viso_sutarciu_verte = extract_viso_sutarciu_verte(text)
             buyer, (budas, pagreitinta), desc = None, (None, None), None
             try:
                 buyer = extract_buyer(text)
@@ -516,6 +569,7 @@ def main():
                 "procedura_pagreitinta": pagreitinta if pagreitinta is not None else None,
                 "aprasymas": desc if desc else None,
                 "lots": lots if lots else None,
+                "viso_sutarciu_verte": viso_sutarciu_verte if viso_sutarciu_verte else None,
             }
 
             db_update_partial(conn, notice_id, extracted, status="ok")
