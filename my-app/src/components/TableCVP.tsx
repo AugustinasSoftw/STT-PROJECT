@@ -39,26 +39,6 @@ import Link from "next/link";
 
 const columns: ColumnDef<CVPRow>[] = [
   {
-    id: "select",
-    header: ({ table }) => (
-      <Checkbox
-        checked={table.getIsAllRowsSelected()}
-        indeterminate={table.getIsSomeRowsSelected()}
-        onChange={table.getToggleAllRowsSelectedHandler()}
-      />
-    ),
-    cell: ({ row }) => (
-      <Checkbox
-        checked={row.getIsSelected()}
-        indeterminate={row.getIsSomeSelected?.()}
-        onChange={row.getToggleSelectedHandler()}
-      />
-    ),
-    size: 35,
-    enableSorting: false,
-    enableHiding: false,
-  },
-  {
     id: "eil_nr",
     header: "Eil_nr",
     cell: ({ row, table }) => {
@@ -89,15 +69,17 @@ const columns: ColumnDef<CVPRow>[] = [
       );
     },
   },
+  { accessorKey: "skelbimo_tipas", header: "Skelbimo tipas" },
   { accessorKey: "title", header: "Title" },
+  { accessorKey: "buyer_name", header: "PV" },
 
-  { accessorKey: "publish_date", header: "Priėmimo data" },
+  { accessorKey: "publish_date", header: "Paskelbimo data" },
 
   {
     id: "notice_url",
     header: " Notice url",
     cell: ({ row }) => {
-      const value = row.original.notice_url;
+      const value = row.original.pdf_url;
 
       if (!value) return null;
 
@@ -116,44 +98,6 @@ const columns: ColumnDef<CVPRow>[] = [
     },
   },
 
-  {
-    id: "lot_no",
-    header: "Korupcijos rizika",
-    cell: ({ row }) => {
-      const raw = row.original.lot_no;
-      const score = raw == null ? NaN : parseFloat(raw);
-
-      return (
-        <div
-          className={`border w-4 h-4 border-black rounded-full inline-flex items-center justify-center
-      ${
-        score >= 0.7
-          ? "bg-red-700"
-          : score >= 0.5
-          ? "bg-yellow-400"
-          : "bg-green-500"
-      }
-      `}
-        ></div>
-      );
-    },
-  },
-
-  {
-    id: "actions",
-    header: "Analizė",
-    cell: ({ row }) => (
-      <button
-        type="button"
-        onClick={() => row.toggleExpanded()}
-        aria-expanded={row.getIsExpanded()}
-        title={row.getIsExpanded() ? "Collapse" : "Expand"}
-        className="cursor-pointer"
-      >
-        {row.getIsExpanded() ? <MdKeyboardArrowDown /> : <MdKeyboardArrowUp />}
-      </button>
-    ),
-  },
 ];
 
 export default function TableCVP() {
@@ -333,7 +277,11 @@ export default function TableCVP() {
                     key={h.id}
                     className={`border border-t-0 p-1 border-black dark:border-[oklch(1_0_0_/_10%)] border: 
               ${h.column.id === "pavadinimas" ? "  w-[470px] " : undefined}
-              ${h.column.id === "select" ? "  w-[85px] " : undefined}
+               ${
+                h.column.id === "notice_id"
+                  ? "text  font-medium w-[130px]"
+                  : undefined
+              }
                ${h.column.id === "eil_nr" ? " w-[85px]" : undefined}
               `}
                   >
@@ -372,6 +320,11 @@ export default function TableCVP() {
                   ? "text  font-medium w-[470px]"
                   : undefined
               }
+               ${
+                cell.column.id === "notice_id"
+                  ? "text  font-medium w-[130px]"
+                  : undefined
+              }
               ${
                 cell.column.id === "eil_nr"
                   ? " font-medium w-[85px]"
@@ -386,82 +339,7 @@ export default function TableCVP() {
                     ))}
                   </tr>,
 
-                  row.getIsExpanded() && (
-                    <tr
-                      className="dark:border-[oklch(1_0_0_/_10%)] border "
-                      key={`${row.id}-exp`}
-                    >
-                      <td
-                        colSpan={table.getVisibleLeafColumns().length}
-                        className="p-0 bg-white dark:bg-[oklch(0.205_0_0)] border-none "
-                      >
-                        <div className="border-t bg-[oklch(0.205_0_0)] ">
-                          <div className=" mb-3 rounded-b-xl border border-black dark:border-[oklch(1_0_0_/_55%)] overflow-hidden border-t-0  p-6 shadow-sm ">
-                            <div className="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
-                              {/* Summary */}
-                              <div className="min-w-0 md:max-w-[80%]">
-                                <p className="text-base font-semibold uppercase tracking-wider text-gray-500 dark:text-[oklch(0.930_0_0)]">
-                                  Dirbtinio intelekto išvada
-                                </p>
-                                <p className="mt-2 text-lg leading-relaxed text-gray-800 whitespace-pre-line dark:text-[oklch(0.930_0_0)]">
-                                  {row.original.lot_no ?? "—"}
-                                </p>
-                              </div>
-
-                              {/* Risk panel */}
-                              <div className="shrink-0 md:text-right">
-                                <p className="text-base font-semibold uppercase tracking-wider text-gray-500 font-mono dark:text-[oklch(0.930_0_0)]">
-                                  Rizika
-                                </p>
-
-                                {/* score badge */}
-                                <span
-                                  className={`mt-2 inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-semibold ring-1 ring-inset
-                ${
-                  !row.original.lot_no
-                    ? "bg-gray-100 text-gray-700 ring-gray-200"
-                    : parseFloat(row.original.lot_no) >= 0.7
-                    ? "bg-red-100 text-red-700 ring-red-200"
-                    : parseFloat(row.original.lot_no) >= 0.5
-                    ? "bg-yellow-100 text-yellow-800 ring-yellow-200"
-                    : "bg-green-100 text-green-700 ring-green-200"
-                }`}
-                                >
-                                  {Number.isFinite(
-                                    parseFloat(row.original.lot_no ?? "")
-                                  )
-                                    ? parseFloat(row.original.lot_no!).toFixed(
-                                        3
-                                      )
-                                    : "—"}
-                                </span>
-
-                                {/* progress bar (width via Tailwind fractions, no inline style) */}
-                                <div className="mt-2 h-2 w-40 rounded-full bg-gray-200">
-                                  <div
-                                    className={`h-2 rounded-full
-                  ${
-                    !row.original.lot_no
-                      ? "w-0 bg-gray-300"
-                      : parseFloat(row.original.lot_no) >= 0.9
-                      ? "w-full bg-red-500"
-                      : parseFloat(row.original.lot_no) >= 0.7
-                      ? "w-4/5 bg-red-500"
-                      : parseFloat(row.original.lot_no) >= 0.5
-                      ? "w-3/5 bg-yellow-400"
-                      : parseFloat(row.original.lot_no) >= 0.3
-                      ? "w-2/5 bg-green-500"
-                      : "w-1/5 bg-green-500"
-                  }`}
-                                  />
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </td>
-                    </tr>
-                  ),
+                  
                 ].filter(Boolean)
               )}
             </tbody>

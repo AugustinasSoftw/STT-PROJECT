@@ -19,7 +19,7 @@ const DEFAULT_LIMIT = 10;
       : DEFAULT_LIMIT;
 
 const orderPrimary = desc(CVPTable.publish_date); 
-const orderTie = desc(CVPTable.id);   
+const orderTie = desc(CVPTable.notice_id);   
 const offset = Number.isFinite(rawOffset) && rawOffset >= 0 ? rawOffset : 0;
 
 const rows = await (

@@ -1,4 +1,4 @@
-import { timestamp, pgTable, serial,date, integer, text, numeric, uuid, boolean } from 'drizzle-orm/pg-core';
+import { timestamp, pgTable, serial,date, integer, text, numeric, uuid, boolean, jsonb } from 'drizzle-orm/pg-core';
 
 export const TAtable = pgTable('sprendimai', {
   id: serial('id').primaryKey(),
@@ -15,40 +15,31 @@ export const TAtable = pgTable('sprendimai', {
 
 });
 
-export const CVPTable = pgTable("awards", {
-  id: uuid("id").defaultRandom().primaryKey(),
+export const CVPTable = pgTable("notices_stage", {
+  notice_id: text("notice_id").primaryKey(),        // TEXT PK
 
-  notice_id: text("notice_id"),
-  lot_no: text("lot_no"),
-  lot_title: text("lot_title"),
-
-  buyer_name: text("buyer_name"),
-  buyer_code: text("buyer_code"),
   title: text("title"),
-  cpv: text("cpv"),
+  skelbimo_tipas: text("skelbimo_tipas"),
 
+  // If your column is TIMESTAMP WITHOUT TIME ZONE:
   publish_date: date("publish_date"),
-  award_date: date("award_date"),
+  // If it’s TIMESTAMPTZ, flip to { withTimezone: true }.
 
-  winner_name: text("winner_name"),
-  winner_code: text("winner_code"),
-  award_value_eur: numeric("award_value_eur", { precision: 14, scale: 2 }),
-  offers_count: integer("offers_count"),
+  pdf_url: text("pdf_urls"),
+  buyer_name: text("buyer_name"),
+  pirkimo_budas: text("pirkimo_budas"),
+  procedura_pagreitinta: boolean("procedura_pagreitinta"),
 
-  procedure_type: text("procedure_type"),
-  procedure_title: text("procedure_title"),
-  procedure_description: text("procedure_description"),
+  // Keep JSONB flexible but strongly typed on the TS side if you like:
+  lots: jsonb("lots").$type<Record<string, unknown>>(),
 
-  previous_notice_id: text("previous_notice_id"),
-  procedure_accelerated: boolean("procedure_accelerated"),
+  extractionStatus: text("extraction_status"),
+  lastExtractedAt: timestamp("last_extracted_at", { withTimezone: false }),
 
-  notice_url: text("notice_url"),
-  pdf_url: text("pdf_url"),
+  aprasymas: text("aprasymas"),
 
-  source: text("source").notNull().default("cvpis"),
-  ingested_at: timestamp("ingested_at", { withTimezone: true }).notNull().defaultNow(),
-
-  sha256_text: text("sha256_text"), // drizzle doesn’t have bytea, store as text (base64/hex)
+  // Can be number, array, or object—type to what you actually store:
+  visoSutarciuVerte: jsonb("viso_sutarciu_verte").$type<unknown>(),
 });
 
 
