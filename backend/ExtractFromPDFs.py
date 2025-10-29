@@ -564,7 +564,7 @@ def main():
                 logging.warning("extract_lots failed for %s: %r", notice_id, e)
 
             extracted: Dict[str, Any] = {
-                "buyer_name": buyer if buyer else None,
+                #"buyer_name": buyer if buyer else None,
                 "pirkimo_budas": budas if budas else None,
                 "procedura_pagreitinta": pagreitinta if pagreitinta is not None else None,
                 "aprasymas": desc if desc else None,

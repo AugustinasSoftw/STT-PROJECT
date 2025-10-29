@@ -39,7 +39,8 @@ CREATE TABLE IF NOT EXISTS notices_stage (
     title          TEXT,
     skelbimo_tipas TEXT,
     publish_date   TIMESTAMP NULL,
-    pdf_urls       TEXT NULL
+    pdf_urls       TEXT NULL,
+    buyer_name     TEXT NULL          
 );
 """
 
@@ -49,19 +50,29 @@ CREATE TABLE IF NOT EXISTS notices_stage (
 # - RETURNING tells us whether it was an insert or update
 UPSERT_SQL = """
 INSERT INTO notices_stage
-(notice_id, title, skelbimo_tipas, publish_date, pdf_urls)
+  (notice_id, title, skelbimo_tipas, publish_date, pdf_urls, buyer_name)
 VALUES %s
 ON CONFLICT (notice_id) DO UPDATE SET
   title          = EXCLUDED.title,
   skelbimo_tipas = EXCLUDED.skelbimo_tipas,
   publish_date   = EXCLUDED.publish_date,
-  pdf_urls       = EXCLUDED.pdf_urls
-WHERE (EXCLUDED.title          IS DISTINCT FROM notices_stage.title)
+  pdf_urls       = EXCLUDED.pdf_urls,
+  -- only update buyer_name if non-empty
+  buyer_name     = CASE
+                     WHEN NULLIF(EXCLUDED.buyer_name, '') IS NOT NULL
+                     THEN EXCLUDED.buyer_name
+                     ELSE notices_stage.buyer_name
+                   END
+WHERE
+      (EXCLUDED.title          IS DISTINCT FROM notices_stage.title)
    OR (EXCLUDED.skelbimo_tipas IS DISTINCT FROM notices_stage.skelbimo_tipas)
    OR (EXCLUDED.publish_date   IS DISTINCT FROM notices_stage.publish_date)
    OR (EXCLUDED.pdf_urls       IS DISTINCT FROM notices_stage.pdf_urls)
+   OR (NULLIF(EXCLUDED.buyer_name, '') IS NOT NULL
+       AND EXCLUDED.buyer_name IS DISTINCT FROM notices_stage.buyer_name)
 RETURNING notice_id, (xmax = 0) AS inserted, (xmax <> 0) AS updated;
 """
+
 
 # -------------------------------------------------------
 # Utils
@@ -170,15 +181,16 @@ def db_upsert_rows(conn, rows: List[Dict[str, Any]]):
         }
 
     values = [
-        (
-            r["notice_id"],
-            r["title"],
-            r["skelbimo_tipas"],
-            r["publish_date"],
-            r.get("pdf_urls"),
-        )
-        for r in valid_rows
-    ]
+    (
+        r["notice_id"],
+        r["title"],
+        r["skelbimo_tipas"],
+        r["publish_date"],
+        r.get("pdf_urls"),
+        r.get("buyer_name"),       # 👈 add
+    )
+    for r in valid_rows
+]
     ids_attempted = [r["notice_id"] for r in valid_rows]
 
     try:
@@ -260,71 +272,102 @@ async def set_per_page_100(page):
         pass
 
 async def extract_rows_on_page(page) -> List[Dict[str, Any]]:
-    """
-    Extract notice rows — pdf_urls now stores what notice_url used to (detail page URL).
-    """
-    try:
-        await page.locator("table tbody tr").first.wait_for(timeout=15000)
-    except PWTimeout:
-        await asyncio.sleep(1.0)
-
+    ...
     rows = await page.eval_on_selector_all(
-        "table tbody tr",
-        r"""
-        (trs) => trs.map(tr => {
-          const norm = (s) => (s || '').replace(/\u00a0/g,' ').toLowerCase().replace(/\s+/g,' ').trim();
-          const tds  = Array.from(tr.querySelectorAll('td'));
+    "table",  # operate per table so we can read its THEAD
+    r"""
+(tables) => {
+  const norm = (s) => (s || '').replace(/\u00a0/g,' ').replace(/\s+/g,' ').trim();
+  const normKey = (s) => norm(s).toLowerCase();
 
-          const byCol = (targets) => {
-            const cand = tds.filter(td => td.hasAttribute('data-column'));
-            for (const td of cand) {
-              const v = norm(td.getAttribute('data-column'));
-              for (const tgt of targets) {
-                if (v.startsWith(norm(tgt)) || v === norm(tgt)) return td;
-              }
-            }
-            return null;
-          };
+  const out = [];
+  for (const table of tables) {
+    const ths = Array.from(table.querySelectorAll('thead th, thead td'));
+    const headers = ths.map(th => norm(th.innerText || th.textContent));
+    const headersKey = headers.map(h => h.toLowerCase());
 
-          const idTd    = byCol(['Pranešimo ID','Notice ID']) || tds[1] || null;
-          const typeTd  = byCol(['Pranešimo tipas','Notice type']) || tds[2] || null;
-          const titleTd = byCol(['Pranešimo pavadinimas','Notice title']) || tds[3] || null;
+    // Find PV column by exact 'PV' or common LT headers
+    let pvIdx = headersKey.findIndex(h => h === 'pv');
+    if (pvIdx < 0) {
+      pvIdx = headersKey.findIndex(h =>
+        h.includes('perkančioji organizacija') ||
+        h.includes('perkančiosios organizacijos')
+      );
+    }
 
-          let dateTd = byCol(['Paskelbimo data','Publish date']);
-          if (!dateTd) dateTd = tds[tds.length - 1] || null;
+    const bodyRows = Array.from(table.querySelectorAll('tbody tr'));
+    for (const tr of bodyRows) {
+      const tds = Array.from(tr.querySelectorAll('td'));
+      if (!tds.length) continue;
 
-          const anchors = Array.from(tr.querySelectorAll('a'));
-          // detail page (non-PDF) — this is what used to go to notice_url
-          const detailA  = anchors.find(a => !/\.pdf(\?|$)/i.test(a.href)) || anchors[0] || null;
+      const byCol = (labels) => {
+        // try data-column attribute first
+        const cand = tds.filter(td => td.hasAttribute('data-column'));
+        for (const td of cand) {
+          const v = normKey(td.getAttribute('data-column'));
+          for (const lbl of labels) {
+            const k = normKey(lbl);
+            if (v === k || v.startsWith(k)) return td;
+          }
+        }
+        return null;
+      };
 
-          const notice_id = ((idTd?.textContent) || '').trim();
-          const title     = ((titleTd?.textContent) || '').trim();
-          const skelbimo_tipas = ((typeTd?.textContent) || '').trim();
+      const idTd    = byCol(['Pranešimo ID','Notice ID']) || tds[1] || null;
+      const typeTd  = byCol(['Pranešimo tipas','Notice type']) || tds[2] || null;
+      const titleTd = byCol(['Pranešimo pavadinimas','Notice title']) || tds[3] || null;
 
-          const publish_date_text = ((dateTd?.innerText) || '')
-            .replace(/\u00a0/g,' ')
-            .replace(/\s+/g,' ')
-            .trim();
+      // Buyer by header index if available, else fall back to byCol
+      let buyerTd = null;
+      if (pvIdx >= 0 && pvIdx < tds.length) buyerTd = tds[pvIdx];
+      if (!buyerTd) {
+        buyerTd = byCol([
+          'Perkančioji organizacija',
+          'Perkančiosios organizacijos pavadinimas',
+          'Perkančioji organizacija (pv)',
+          'Perkančiosios organizacijos pavadinimas (pv)',
+          'Buyer',
+          'Contracting authority',
+          'PV'
+        ]);
+      }
 
-          const detailUrl = detailA ? detailA.href : null;
+      let dateTd = byCol(['Paskelbimo data','Publish date']);
+      if (!dateTd) dateTd = tds[tds.length - 1] || null;
 
-          return {
-            notice_id,
-            title,
-            skelbimo_tipas,
-            publish_date_text,
-            pdf_urls: detailUrl,   // repurposed to store the detail link
-            _detail_url: detailUrl // internal helper for EXTRACT_PDFS (optional)
-          };
-        })
-        """
-    )
+      const anchors = Array.from(tr.querySelectorAll('a'));
+      const detailA = anchors.find(a => !/\.pdf(\?|$)/i.test(a.href)) || anchors[0] || null;
+
+      const rec = {
+        notice_id: norm(idTd?.textContent),
+        title: norm(titleTd?.textContent),
+        skelbimo_tipas: norm(typeTd?.textContent),
+        buyer_name: norm(buyerTd?.innerText || buyerTd?.textContent || ''),
+        publish_date_text: norm(dateTd?.innerText || ''),
+        pdf_urls: detailA ? detailA.href : null,
+        _detail_url: detailA ? detailA.href : null
+      };
+
+      // strip trailing " (PV)"
+      rec.buyer_name = rec.buyer_name.replace(/\s*\(PV\)\s*$/i, '');
+      out.push(rec);
+    }
+  }
+  return out;
+}
+"""
+)
+
 
     # Python-side normalization
     for r in rows:
         pub_dt = parse_publish_date(r.get("publish_date_text"))
         r["publish_date"] = pub_dt
         r.pop("publish_date_text", None)
+    for r in rows:
+        b = (r.get("buyer_name") or "").strip()
+        # Remove (PV) suffix or similar artifacts
+        r["buyer_name"] = re.sub(r"\s*\(PV\)\s*$", "", b, flags=re.IGNORECASE)
 
     return rows
 
