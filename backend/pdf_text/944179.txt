@@ -1,0 +1,144 @@
+Lietuva: Viešojo transporto paslaugų autobusai
+M3 klasės autobuso pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: PS Uždaroji akcinė bendrovė Mažeikių autobusų parkas
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Miesto geležinkelio, tramvajų, troleibusų ar autobusų paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: M3 klasės autobuso pirkimas
+Aprašymas: M3 klasės autobuso pirkimas (atviras supaprastintas konkursas(du vokai)
+Procedūros identifikatorius: a555d230-5ea3-4700-9a2c-5c6819dc1f0f
+Ankstesnis skelbimas: 52645-2025
+Vidaus identifikatorius: 881784
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34121100 Viešojo transporto paslaugų autobusai
+2.1.3 Vertė
+Numatoma vertė be PVM: 65 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: M3 klasės autobuso pirkimas
+Aprašymas: M3 klasės autobuso pirkimas
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34121100 Viešojo transporto paslaugų autobusai
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Laižuvos g.82D 
+Miestas: Mažeikiai
+Pašto kodas: 89213
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 3 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 65 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai įtraukti
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kriterijaus reikšmė -dalyvio balas už pasiūlytą kainą Eur be PVM
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Papildoma garantija autobuso pagrindiniams agregatams
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Autobuso eksploatacijos regionas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: PS Uždaroji akcinė bendrovė Mažeikių autobusų 
+parkas -
+Organizacija, iš kurios biudžeto mokama pagal sutartį: PS Uždaroji akcinė bendrovė Mažeikių autobusų parkas
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: PS Uždaroji akcinė bendrovė Mažeikių autobusų parkas
+Registracijos numeris: 166552032
+Pašto adresas: Laižuvos g.82D 
+Miestas: Mažeikiai
+Pašto kodas: 89213
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: finansai@mazeikiuap.lt
+Telefono numeris: +37067799937
+Interneto adresas: www.mazeikiuap.lt
+Pirkėjo profilis: www.mazeikiuap.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g.83, 
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 65216037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 926b9571-0585-4e86-8eff-7df9029517e5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/01/2025 14:32 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

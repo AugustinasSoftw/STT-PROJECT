@@ -1,0 +1,223 @@
+Lietuva: Geležinkelio lokomotyvai ir tenderiai
+742197, 379140, 688489 28346 Dyzelinių traukinių PESA730ML valdymo sistemos elektronikos 
+komponentai (DPS: 24128)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 742197, 379140, 688489 28346 Dyzelinių traukinių PESA730ML valdymo sistemos elektronikos 
+komponentai (DPS: 24128)
+Aprašymas: 28346 Dyzelinių traukinių PESA730ML valdymo sistemos elektronikos komponentai (DPS: 24128)
+Procedūros identifikatorius: 9a9029f9-ef57-45ef-91ad-dc9ad6dec30b
+Ankstesnis skelbimas: 570139-2023
+Vidaus identifikatorius: Seno CVP IS Nr. 742197, Pirkimo ID: 379140.,DPS pirkimo numerį senoje CVP IS, DPS seno 
+CVP IS Nr. 688489)
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34610000 Geležinkelio lokomotyvai ir tenderiai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 pirkimo objekto dalis: Dyzelinių traukinių PESA730ML valdymo sistemos elektronikos komponentai
+Aprašymas: Dyzelinių traukinių PESA730ML valdymo sistemos elektronikos komponentai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama prekė nėra įtraukta į Produktų sąrašą, aplinkosauginiai reikalavimai nustatyti LTG, 
+vadovaujantis Aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti 
+pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 
+2011 m. birželio 28 d. įsakymu Nr. D1-508 (Lietuvos Respublikos aplinkos ministro 2021 m. kovo 31 d. įsakymo 
+Nr. D1-192 redakcija) 4.4.4.5. punktu: 5. prekė, virtusi atliekomis, yra tinkama paruošti pakartotiniam naudojimui ar 
+perdirbimui.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: numatyt PĮ
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: numatyt PĮ
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Lietuvos geležinkeliai (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Lietuvos geležinkeliai (PV) -
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 pirkimo objekto dalis: Dyzelinių traukinių PESA730ML valdymo sistemos komunikacinis modulis
+Aprašymas: Dyzelinių traukinių PESA730ML valdymo sistemos komunikacinis modulis
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama prekė nėra įtraukta į Produktų sąrašą, aplinkosauginiai reikalavimai nustatyti LTG, 
+vadovaujantis Aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti 
+pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 
+2011 m. birželio 28 d. įsakymu Nr. D1-508 (Lietuvos Respublikos aplinkos ministro 2021 m. kovo 31 d. įsakymo 
+Nr. D1-192 redakcija) 4.4.4.5. punktu: 5. prekė, virtusi atliekomis, yra tinkama paruošti pakartotiniam naudojimui ar 
+perdirbimui.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: numatyti PĮ.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: numatyti PĮ.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Lietuvos geležinkeliai (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 605 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Trauka LT, UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 222 706,02 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Produkto ar paslaugos kilmės šalis: Lietuva
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SL-9/2025
+Data, kurią buvo pasirinktas laimėtojas: 02/01/2025
+Sutarties sudarymo data: 07/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Baltpola, UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 35 685 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Produkto ar paslaugos kilmės šalis: Lietuva
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SL-4/2025
+Data, kurią buvo pasirinktas laimėtojas: 02/01/2025
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Registracijos numeris: 110053842
+Pašto adresas: Geležinkelio g. 16 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Trauka LT, UAB
+Registracijos numeris: 305435212
+Miestas: Vilnius
+Pašto kodas: LT-08228
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Baltpola, UAB
+Registracijos numeris: 304611885
+Miestas: vILNIUS
+Pašto kodas: LT-05273
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 7c1d3393-402c-4339-a669-782c267c2be1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/02/2025 07:36 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

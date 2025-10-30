@@ -1,0 +1,186 @@
+Lietuva: Transporto įranga ir pagalbiniai transportavimo gaminiai
+Savivartis automobilis miesto priežiūrai su įranga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Utenos komunalininkas PV
+Pirkėjo teisinė forma: Organizacija, skirianti sutartį, subsidijuojamą vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Savivartis automobilis miesto priežiūrai su įranga
+Aprašymas: Perkamas naudotas, techniškai tvarkingas, N3 klasės spec. paskirties savivartis automobilis, su 
+sumontuota įranga (buldozeriu), miesto gatvių priežiūrai, kurio pagaminimo metai ne ankstesni kaip 2014 m.
+Procedūros identifikatorius: 4211d28a-7552-44f0-ad22-3d755273909d
+Ankstesnis skelbimas: 240643-2025
+Vidaus identifikatorius: 2103762
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34000000 Transporto įranga ir pagalbiniai transportavimo gaminiai
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: Rašės g. 4 
+Miestas: Utena
+Pašto kodas: 28197
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 100 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Savivartis automobilis miesto priežiūrai su įranga
+Aprašymas: Perkamas naudotas, techniškai tvarkingas, N3 klasės spec. paskirties savivartis automobilis, su 
+sumontuota įranga (buldozeriu), miesto gatvių priežiūrai, kurio pagaminimo metai ne ankstesni kaip 2014 m.
+Vidaus identifikatorius: LOT-0001
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34000000 Transporto įranga ir pagalbiniai transportavimo gaminiai
+Kiekis: 1 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 4 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 100 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi minimalūs aplinkosauginia reikalavimai
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Prekės kaina (C)
+Aprašymas: Prekės kaina (C)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (vienetui)
+Skyrimo kriterijus: skaičius: 80
+Kategorija skyrimo kriterijaus fiksuota vertė: Didžiausias atrinktų pasiūlymų skaičius
+Skyrimo kriterijus: skaičius: 80
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Techninio vertinimo kriterijus (T)
+Aprašymas: Techninio vertinimo kriterijus (T)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 5
+Kategorija skyrimo kriterijaus fiksuota vertė: Didžiausias atrinktų pasiūlymų skaičius
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Prekės pristatymo terminas (P)
+Aprašymas: Prekės pristatymo terminas (P)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 15
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UAB Utenos komunalininkas PV -
+Organizacija, pasirašanti sutartį: UAB Utenos komunalininkas PV
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 85 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB EEL CARGO
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 85 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: UK-2025/06/17
+Data, kurią buvo pasirinktas laimėtojas: 16/06/2025
+Sutarties sudarymo data: 17/06/2025
+Organizacija, pasirašanti sutartį: UAB Utenos komunalininkas PV
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Utenos komunalininkas PV
+Registracijos numeris: 183606952
+Pašto adresas: Rašės g. 4 
+Miestas: Utena
+Pašto kodas: 28197
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: komunalininkas@utenoskom.lt
+Telefono numeris: +370 389 63802
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezys.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB EEL CARGO
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306207941
+Pašto adresas: Molėtų g. 80 
+Miestas: Utena
+Pašto kodas: 28135
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: e28018c7-c035-4cc6-8cc2-acc98a9e1c17 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/06/2025 14:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

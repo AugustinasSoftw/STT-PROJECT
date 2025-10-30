@@ -1,0 +1,180 @@
+Lietuva: Kelių remonto darbai
+Mažeikių rajono vietinės reikšmės kelių ir gatvių paprastasis remontas ir priežiūra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Mažeikių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mažeikių rajono vietinės reikšmės kelių ir gatvių paprastasis remontas ir priežiūra
+Aprašymas: Perkami preliminarių darbų kiekių įkainiai
+Procedūros identifikatorius: a5de0837-3cae-443b-bba3-c20a2d2369fb
+Ankstesnis skelbimas: 6b62aa62-9704-4746-9598-0d06074be359-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233142 Kelių remonto darbai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Mažeikiai
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 4 154 830 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mažeikių rajono vietinės reikšmės kelių ir gatvių paprastasis remontas ir priežiūra
+Aprašymas: Perkami preliminarių darbų kiekių įkainiai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233142 Kelių remonto darbai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Mažeikiai
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 4 154 830 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas vykdomas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 
+patvirtinimo“ (aktualios redakcijos, toliau - Aprašas) 4.1. punktu. Aplinkos apaugos kriterijai nustatyti Aprašo 2 
+priedo XVII skyriaus „Kelių projektavimo paslaugos ir statybos darbai, kelio elementai“ 26.1. punkte.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Sutarčiai taikoma fiksuotų įkainių kainodara
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Bendra pasiūlymo palyginamoji 
+kaina laikoma palyginamuoju parametru vertinant pasiūlymus ir nustatant viešojo pirkimo laimėtoją. Sutartyje nurodyta 
+maksimali pirkimui skirta lėšų suma.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Informacija apie peržiūros terminus: Lietuvos Respublikos viešųjų pirkimų įstatymo VII skyriuje nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Mažeikių rajono savivaldybės administracija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 4 154 830 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Telšių keliai"
+Laimėtojo subrangovai:
+Oficialus pavadinimas: UAB „Vilgrinda“, UAB „Žėrutis“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000039530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 296 645,2 Euro
+Subranga: Taip
+Subrangos vertė žinoma: taip
+Subrangos vertė: 252 630,98 Euro
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 11
+Informacija apie sutartį:
+Sutarties identifikatorius: 17987
+Sutarties sudarymo data: 28/04/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Mažeikių rajono savivaldybės administracija
+Registracijos numeris: 167371234
+Pašto adresas: Laisvės g. 8 
+Miestas: Mažeikiai
+Pašto kodas: 89233
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: jovita.kontene@mazeikiai.lt
+Telefono numeris: +37044398215
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Telšių keliai"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 180200843
+Pašto adresas: Mažeikių g. 18, LT-87101 Telšiai 
+Miestas: Telšiai
+Pašto kodas: LT-87101
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: ruta@tkeliai.lt
+Telefono numeris: +37068268388
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 83 
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 65216037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: UAB „Vilgrinda“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 305215426
+Miestas: Akmenė
+Pašto kodas: 85364
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Subrangovas
+8.1 ORG-0006
+Oficialus pavadinimas: UAB „Žėrutis“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 166402043
+Miestas: Mažeikiai
+Pašto kodas: 89104
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Subrangovas
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7e730e23-9e81-4cfe-9a45-8e79d1324508 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/05/2025 14:37 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

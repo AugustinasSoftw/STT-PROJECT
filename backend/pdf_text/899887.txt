@@ -1,0 +1,467 @@
+Lietuva: Kapinių priežiūros paslaugos
+747151 - Vilniaus miesto kapinių priežiūros paslaugos-neskelbiamos derybos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 747151 - Vilniaus miesto kapinių priežiūros paslaugos-neskelbiamos derybos
+Aprašymas: 747151 - Vilniaus miesto kapinių priežiūros paslaugos- perkeltos iš senos CVP IS neskelbiamos derybos. 
+Prekių tiekimo (paslaugų teikimo, darbų atlikimo) terminai: iki datos, kada įsigalios atviro konkurso būdu vykdomo 
+pirkimo (pirkimo numeris 731993) sutartis (-ys), bet ne ilgiau kaip 5 mėn. nuo pirkimo sutarties įsigaliojimo dienos.
+Procedūros identifikatorius: 78b1e43d-e6c4-4118-a1e3-5c5430d93ac1
+Vidaus identifikatorius: 747151
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 600 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Paveldo saugomų kapinių priežiūros paslaugos
+Aprašymas: Perkamos paveldo saugomų kapinių priežiūros paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus (tiekėjo įsipareigojimas pirkimo sutarties vykdymui skirti 55 metų ir vyresnius 
+asmenis)
+Lyginamasis svoris (balai, tikslus skaičius): 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkosauginis reikalavimas transporto priemonėms, kuriomis bus teikiamos paslaugos
+Lyginamasis svoris (balai, tikslus skaičius): 2
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Rokantiškių saugomų kapinių priežiūros paslaugos
+Aprašymas: Perkamos Rokantiškių saugomų kapinių priežiūros paslaugos
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus (tiekėjo įsipareigojimas pirkimo sutarties vykdymui skirti 55 metų ir vyresnius 
+asmenis)
+Lyginamasis svoris (balai, tikslus skaičius): 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkosauginis reikalavimas transporto priemonėms, kuriomis bus teikiamos paslaugos
+Lyginamasis svoris (balai, tikslus skaičius): 2
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Karveliškių grupės kapinių priežiūros paslaugos
+Aprašymas: Perkamos Karveliškių grupės kapinių priežiūros paslaugos
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus (tiekėjo įsipareigojimas pirkimo sutarties vykdymui skirti 55 metų ir vyresnius 
+asmenis)
+Lyginamasis svoris (balai, tikslus skaičius): 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkosauginis reikalavimas transporto priemonėms, kuriomis bus teikiamos paslaugos
+Lyginamasis svoris (balai, tikslus skaičius): 2
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Saltoniškių grupės kapinių priežiūros paslaugos
+Aprašymas: Perkamos Saltoniškių grupės kapinių priežiūros paslaugos
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus (tiekėjo įsipareigojimas pirkimo sutarties vykdymui skirti 55 metų ir vyresnius 
+asmenis)
+Lyginamasis svoris (balai, tikslus skaičius): 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkosauginis reikalavimas transporto priemonėms, kuriomis bus teikiamos paslaugos
+Lyginamasis svoris (balai, tikslus skaičius): 2
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Panerių ir Grigiškių grupės kapinių priežiūros paslaugos
+Aprašymas: Perkamos Panerių ir Grigiškių grupės kapinių priežiūros paslaugos
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus (tiekėjo įsipareigojimas pirkimo sutarties vykdymui skirti 55 metų ir vyresnius 
+asmenis)
+Lyginamasis svoris (balai, tikslus skaičius): 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkosauginis reikalavimas transporto priemonėms, kuriomis bus teikiamos paslaugos
+Lyginamasis svoris (balai, tikslus skaičius): 2
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Kairėnų grupės kapinių priežiūros paslaugos
+Aprašymas: Perkamos Kairėnų grupės kapinių priežiūros paslaugos
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 98371111 Kapinių priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus (tiekėjo įsipareigojimas pirkimo sutarties vykdymui skirti 55 metų ir vyresnius 
+asmenis)
+Lyginamasis svoris (balai, tikslus skaičius): 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkosauginis reikalavimas transporto priemonėms, kuriomis bus teikiamos paslaugos
+Lyginamasis svoris (balai, tikslus skaičius): 2
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 600 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Ypatinga skuba dėl įvykių, kurių pirkėjas negalėjo numatyti
+Kitas pagrindimas: Vykdant Vilniaus miesto kapinių priežiūros paslaugų tarptautinės vertės pirkimo (pirkimo 
+numeris 731993) procedūras, kilo ginčas su tiekėju, buvo gauta pretenzija ir yra didelė tikimybė, kad ginčas 
+persikels į teismus. Dėl šios priežasties atsirado neplanuotas kapinių priežiūros paslaugų poreikis nuo 2024 m. 
+lapkričio 19 d. iki ginčo su tiekėju pabaigos iki datos, kada įsigalios atviro konkurso būdu vykdomo pirkimo sutartis 
+(-ys).
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ecoservice
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 1 d.
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-899/24
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ecoservice
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 2 d.
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-897/24
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ecoservice
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 3 d.
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-898/24
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ecoservice
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 4 d.
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-896/24
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ecoservice
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 5 d.
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-900/24
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ecoservice
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 6 d.
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-901/24
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Registracijos numeris: 188710061
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: VILNIUS
+Pašto kodas: 09601
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.vaitiekunaite@vilnius.lt
+Telefono numeris: +37052112693
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Ecoservice
+Registracijos numeris: 123044722
+Miestas: Vilnius
+Pašto kodas: 02123
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ecoservice@ecoservice.lt
+Telefono numeris: +370 800 53533
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003, LOT-0004, LOT-0005, LOT-0006
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 367eb249-c409-482f-aff7-ea64735ada81 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/01/2025 14:06 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

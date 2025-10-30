@@ -1,0 +1,153 @@
+Lietuva: Apšvietimo įrenginiai ir elektros šviestuvai
+Elektros prekės ir susiję gaminiai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos kalėjimų tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Elektros prekės ir susiję gaminiai
+Aprašymas: Elektros prekės ir susiję gaminiai
+Procedūros identifikatorius: 809c64ca-13a7-44db-b5b8-59248bb8b2a1
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31500000 Apšvietimo įrenginiai ir elektros šviestuvai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Elektros prekės ir susiję gaminiai
+Aprašymas: Elektros prekės ir susiję gaminiai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31500000 Apšvietimo įrenginiai ir elektros šviestuvai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 322,31 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Techninės specifikacijos lentelės eilutėse: 82, 84 - 94, 96, 97, 102, 103, 106 - 108 nurodytoms 
+prekėms taikomi minimalūs aplinkos apsaugos kriterijai, nustatyti Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. 
+įsakymu Nr. D1-508 (toliau - Tvarkos aprašas), 2 priedo 14 skyriaus 22 punkte arba taikomas I tipo ekologinio 
+ženklo reikalavimas - prekė atitinka jai nustatytus I tipo ekologinio ženklo reikalavimus pagal standartą LST EN 
+ISO 14024 ir yra paženklinta I tipo ekologiniu ženklu arba kitu tiekėjo pateiktu lygiaverčiu įrodymu. Vadovaujantis 
+Tvarkos aprašo 6 punktu, jeigu techninės specifikacijos lentelės eilutėse: 82, 84 - 94, 96, 97, 102, 103, 106 - 
+108 nurodyta prekė, turi būti tiekiama ar perduodama antrinėje pakuotėje, ji turi atitikti pakuotėms nustatytus 
+minimalius aplinkos apsaugos kriterijus (Tvarkos aprašo 2 priedo II skyrius „Pakuotės“), nebent tai prieštarauja 
+higienos normoms. Visoms perkamoms prekėms taikomas, vadovaujantis Tvarkos aprašo 4.4.4.3 papunkčiu, 
+perkančiosios organizacijos savarankiškai nustatytas aplinkos apsaugos kriterijus: tiekėjas įsipareigoja pristatant 
+prekes į pristatymo vietą turi būti sunaudojama mažiau gamtos išteklių - visas užsakytas prekių kiekis į konkrečią 
+vietą privalo būti pristatytas ne dalimis, o vienu kartu; atvykimui į pristatymo vietą turi būti pasirenkamas optimalus 
+maršrutas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūrų terminai nurodyti pirkimo dokumentuose.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kalėjimų tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kalėjimų tarnyba
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 41 322,31 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Taiklu
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000097629
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 38 065,85 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31728
+Sutarties sudarymo data: 01/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos kalėjimų tarnyba
+Registracijos numeris: 288697120
+Pašto adresas: L. Sapiegos g. 1 
+Miestas: Vilnius
+Pašto kodas: 10312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@kalejimai.lt
+Telefono numeris: +370 602 15704
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Taiklu
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 304437662
+Pašto adresas: Marvelės g. 106A 
+Miestas: Kaunas
+Pašto kodas: 46205
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@taiklu.lt
+Telefono numeris: +37060996170
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d0e9ae35-8b82-472e-8920-2cfeefc5afa5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/10/2025 12:32 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

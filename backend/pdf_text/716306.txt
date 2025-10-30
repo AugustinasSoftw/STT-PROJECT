@@ -1,0 +1,138 @@
+Lietuva: Kompiuterinė įranga ir reikmenys
+3D spausdintuvai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno technologijos universiteto inžinerijos licėjus
+Pirkėjo teisinė forma: ES institucija, įstaiga ar agentūra
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 3D spausdintuvai
+Aprašymas: Perkami 3D spausdintuvai 7 vnt. su medžiagomis (plastikais)
+Procedūros identifikatorius: 67fecaa3-c49e-414f-ae93-2aa16329ad27
+Ankstesnis skelbimas: e4eca9cd-cc07-4204-a041-529a11066699-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: taip
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 10 495 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 3D spausdintuvai
+Aprašymas: Perkami 3D spausdintuvai 7 vnt. su medžiagomis (plastikais)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Kaunas
+5.1.5 Vertė
+Numatoma vertė be PVM: 10 495 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Didžiausias atrinktų pasiūlymų skaičius: 4 500
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: Vienintėlis tiekėjas pateikęs pasiūlymą
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno technologijos universiteto inžinerijos licėjus
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 4 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Spikarė UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000010027
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Subrangos vertė: 0 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 2223
+Sutarties sudarymo data: 19/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno technologijos universiteto inžinerijos licėjus
+Registracijos numeris: 190136353
+Pašto adresas: S.Lozoraičio g. 13, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 50137
+Šalis: Lietuva
+E. paštas: rastine@inzinerijoslicejus.ktu.edu
+Telefono numeris: 068202624
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Spikarė UAB
+Registracijos numeris: 135008748
+Pašto adresas: Savanorių pr. 241-67 
+Miestas: Kaunas
+Pašto kodas: 50185
+Šalis: Lietuva
+E. paštas: gintaras@rcl.lt
+Telefono numeris: +37065539344
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 0319a830-9a42-4186-b0ad-0b5c280f4d78 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/01/2025 12:41 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

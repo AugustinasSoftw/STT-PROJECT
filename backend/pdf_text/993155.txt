@@ -1,0 +1,791 @@
+Lietuva: Laboratorijų paslaugos
+Pirkimas 747697 - Išorinės tarplaboratorinės kontrolės paslaugų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pirkimas 747697 - Išorinės tarplaboratorinės kontrolės paslaugų pirkimas
+Aprašymas: Išorinės tarplaboratorinės kontrolės paslaugų pirkimas - 162 kompl.
+Procedūros identifikatorius: 6d65595c-341e-4a66-852b-98e711f6c86b
+Ankstesnis skelbimas: 715439-2024
+Vidaus identifikatorius: 747697
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Parazitologija
+Aprašymas: Parazitologija - 12 kompl.
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: SARS-CoV-2 RNR
+Aprašymas: SARS-CoV-2 RNR - 6 kompl.
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: Bendroji mikrobiologija
+Aprašymas: Bendroji mikrobiologija - 6 kompl.
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Bendroji klinikinė chemija - 2 veiklos adresai
+Aprašymas: Bendroji klinikinė chemija - 2 veiklos adresai - 6 kompl.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Hematologija
+Aprašymas: Hematologija - 18 kompl.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Krešėjimo tyrimai
+Aprašymas: Krešėjimo tyrimai - 6 kompl.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Šlapimo tyrimai
+Aprašymas: Šlapimo tyrimai - 12 kompl.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Miokardo pažeidimo žymenys
+Aprašymas: Miokardo pažeidimo žymenys - 6 kompl.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Virusologijos tyrimai imunofermentiniu metodu
+Aprašymas: Virusologijos tyrimai imunofermentiniu metodu - 48 kompl.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: ASO, RF, ACCP
+Aprašymas: ASO, RF, ACCP - 6 kompl.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Imunohematologiniai tyrimai
+Aprašymas: Imunohematologiniai tyrimai - 6 kompl.
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: Bakterijų serologija
+Aprašymas: Bakterijų serologija - 30 kompl.
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71900000 Laboratorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 23 610 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P10
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 1 560 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0076 (10)
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Medfarmos“ laboratorijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: P11
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 960 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0070 (11)
+Sutarties sudarymo data: 27/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Medfarmos“ laboratorijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: P12
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 510 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0070 (12)
+Sutarties sudarymo data: 27/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 450 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0076 (1)
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB ,,Interautomatika“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 1 932 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0075 (2)
+Sutarties sudarymo data: 28/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB ,,Interautomatika“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 1 380 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0075 (3)
+Sutarties sudarymo data: 28/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 1 428 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0076 (4)
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P5
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 1 980 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0076 (5)
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P6
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 6 756 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0076 (6)
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB ,,Interautomatika“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P7
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 912 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0075 (7)
+Sutarties sudarymo data: 28/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Medfarmos“ laboratorijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: P8
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 2 112 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0070 (8)
+Sutarties sudarymo data: 27/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P9
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 3 630 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1VS-0076 (9)
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Registracijos numeris: 302583800
+Pašto adresas: Josvainių g. 2, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 47144
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@kaunoligonine.lt
+Telefono numeris: +37037426077
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Laboratorinė medicina“
+Registracijos numeris: 124635920
+Miestas: Vilnius
+Pašto kodas: 08433
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0010, LOT-0001, LOT-0004, LOT-0005, LOT-0006, LOT-0009
+8.1 ORG-0005
+Oficialus pavadinimas: UAB ,,Interautomatika“
+Registracijos numeris: 300002253
+Miestas: Vilnius
+Pašto kodas: 05131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003, LOT-0007
+8.1 ORG-0006
+Oficialus pavadinimas: UAB „Medfarmos“ laboratorijos
+Registracijos numeris: 124484379
+Miestas: Vilnius
+Pašto kodas: 08311
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0011, LOT-0012, LOT-0008
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 46576c49-bb69-45ca-8f28-448a98f9a46c - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 05/03/2025 12:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

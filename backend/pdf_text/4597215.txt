@@ -1,0 +1,212 @@
+Lietuva: Kraujo tyrimų paslaugos
+2413681 Genetinių tyrimų atlikimo paslaugos (HR HLA) (atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 2413681 Genetinių tyrimų atlikimo paslaugos (HR HLA) (atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti genetinių tyrimų paslaugas (HR HLA). Žr. pirkimo dokumentus.
+Procedūros identifikatorius: aa7450ef-ab34-47e5-b961-b135f5cbb1e1
+Ankstesnis skelbimas: 55afcd91-7a37-4bb7-a8d7-7143a30eb80d-01
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 85111810 Kraujo tyrimų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 pirkimo dalis. HR HLA tyrimų paslauga HLA-A,B,C,DRB1, DQB1 3x tipavimas
+Aprašymas: Perkančioji organizacija numato įsigyti genetinių tyrimų paslaugas (HR HLA). Žr. pirkimo dokumentus.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 85111810 Kraujo tyrimų paslaugos
+Pasirinkimo galimybės:
+Galimybių 
+aprašymas: Šalių abipusiu rašytiniu Susitarimu Sutartis tomis pačiomis sąlygomis gali būti pratęsta 1 (vieną) kartą ne ilges
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 24 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 1
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 pirkimo dalis. HLA-A*02 alelio subtipavimo paslauga, HLA-A 4x aukštos rezoliucijos tipavimas
+Aprašymas: Perkančioji organizacija numato įsigyti genetinių tyrimų paslaugas (HR HLA). Žr. pirkimo dokumentus.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 85111810 Kraujo tyrimų paslaugos
+Pasirinkimo galimybės:
+Galimybių 
+aprašymas: Šalių abipusiu rašytiniu Susitarimu Sutartis tomis pačiomis sąlygomis gali būti pratęsta 1 (vieną) kartą ne ilges
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 24 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 1
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 241 145 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laborama”
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064304
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 145 500 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30491
+Data, kurią buvo pasirinktas laimėtojas: 31/07/2025
+Sutarties sudarymo data: 13/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laborama”
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064304
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 95 645 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30492
+Data, kurią buvo pasirinktas laimėtojas: 31/07/2025
+Sutarties sudarymo data: 13/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Registracijos numeris: 135163499
+Pašto adresas: Eivenių g. 2 
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: karolina.morkevice@kaunoklinikos.lt
+Telefono numeris: +37037787360
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Laborama”
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302818839
+Pašto adresas: V. Kuzmos g. 26 
+Miestas: Vilnius
+Pašto kodas: LT-08431
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@laborama.lt
+Telefono numeris: +37052657222
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +37037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b08b481f-e32a-4e51-a766-da876dff3de9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 19/09/2025 14:13 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

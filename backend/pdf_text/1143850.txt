@@ -1,0 +1,146 @@
+Lietuva: Saulės fotovoltiniai moduliai
+Įrangos saulės elektrinėms pirkimas (Skelbiama apklausa)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Pakruojo vandentiekis
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Įrangos saulės elektrinėms pirkimas (Skelbiama apklausa)
+Aprašymas: Perkami fotoelektriniai moduliai iki 100 kW su pristatymu į Pramonės g. 1, Pakruojo m.
+Procedūros identifikatorius: 58cfe0ed-264a-4d05-ae59-5fb0f29c34cf
+Ankstesnis skelbimas: 2e17516d-4216-442e-975f-bfc7ea3b38d7-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09331200 Saulės fotovoltiniai moduliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 17 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Įrangos saulės elektrinėms pirkimas (Skelbiama apklausa)
+Aprašymas: Perkami fotoelektriniai moduliai iki 100 kW su pristatymu į Pramonės g. 1, Pakruojo m.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09331200 Saulės fotovoltiniai moduliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 17 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Saulės moduliai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Pagal galiojančius teisės aktus
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Pagal galiojančius teisės aktus
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Pakruojo vandentiekis -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Pakruojo vandentiekis -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 9 840 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Ekoenergas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019269
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 9 840 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 3742
+Sutarties sudarymo data: 05/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 6
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Pakruojo vandentiekis
+Registracijos numeris: 167922698
+Pašto adresas: Pramonės 1 
+Miestas: Pakruojis
+Pašto kodas: LT-83163
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: laima.bernotiene@vandentiekis.com
+Telefono numeris: 065266918
+Interneto adresas: www.vandentiekis.com
+Pirkėjo profilis: www.vandentiekis.com
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Ekoenergas"
+Registracijos numeris: 302766869
+Pašto adresas: Sodo g. 26 
+Miestas: Šiauliai
+Pašto kodas: 76178
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: projektai@ekoenergas.lt
+Telefono numeris: +37060707940
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 5f046002-83ef-4100-ace8-6389223c245f - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/02/2025 14:27 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

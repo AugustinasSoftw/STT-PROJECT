@@ -1,0 +1,155 @@
+Lietuva: Su programine įranga susijusios paslaugos
+Informacinių technologijų paslaugų valdymo tarnybos programinės įrangos Ivanti service 
+desk licencijų palaikymo (naujumo garantijų) bei šios programinės įrangos priežiūros ir 
+vystymo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė energetikos reguliavimo taryba
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Informacinių technologijų paslaugų valdymo tarnybos programinės įrangos Ivanti service desk licencijų 
+palaikymo (naujumo garantijų) bei šios programinės įrangos priežiūros ir vystymo paslaugos
+Aprašymas: Informacinių technologijų paslaugų valdymo tarnybos programinės įrangos (IVANTI SERVICE DESK) 
+licencijų palaikymo (naujumo garantijų) bei šios programinės įrangos priežiūros ir vystymo paslaugos
+Procedūros identifikatorius: d0c3f9d8-3212-40e1-a254-bb93c0764cff
+Ankstesnis skelbimas: 1a67ed2a-595f-4bdb-8019-32f2a1e17fd8-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+Kiti klasifikacijos kodai (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+Kiti klasifikacijos kodai (cpv): 48771000 Bendrųjų paslaugų programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Informacinių technologijų paslaugų valdymo tarnybos programinės įrangos Ivanti service desk licencijų 
+palaikymo (naujumo garantijų) bei šios programinės įrangos priežiūros ir vystymo paslaugos
+Aprašymas: Informacinių technologijų paslaugų valdymo tarnybos programinės įrangos (IVANTI SERVICE DESK) 
+licencijų palaikymo (naujumo garantijų) bei šios programinės įrangos priežiūros ir vystymo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+Kiti klasifikacijos kodai (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+Kiti klasifikacijos kodai (cpv): 48771000 Bendrųjų paslaugų programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai aplinkosaugos reikalavimai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymo kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Nuotolinio prisijungimo prie Tarybos tarnybinių stočių ar kitų informacinių išteklių būdas.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė energetikos reguliavimo taryba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybinė energetikos reguliavimo taryba
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 33 850 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Synergy Consulting
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000093181
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 33 850 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33144
+Sutarties sudarymo data: 13/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė energetikos reguliavimo taryba
+Registracijos numeris: 188706554
+Pašto adresas: Verkių g. 25C-1 
+Miestas: Vilnius
+Pašto kodas: LT-08223
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: raimonda.zukauskaite@vert.lt
+Telefono numeris: +37061579380
+Pirkėjo profilis: www.vert.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Synergy Consulting
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300129699
+Pašto adresas: Laisvės pr. 78B - 221 
+Miestas: Vilnius
+Pašto kodas: 05263
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tyrunasj@synergy.eu
+Telefono numeris: +37065298200
+Interneto adresas: www.synergy.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 96b364a2-ef93-48c3-86c5-6b3dda1ff27d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/10/2025 14:36 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

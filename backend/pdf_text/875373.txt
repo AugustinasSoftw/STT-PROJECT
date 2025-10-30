@@ -1,0 +1,123 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Pastato Telšiuose, Respublikos g. 28 remonto projekto parengimas, numatant priemones 
+rūsio ir kitų patalpų apsaugai nuo gruntinio vandens patekimo
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Telšių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pastato Telšiuose, Respublikos g. 28 remonto projekto parengimas, numatant priemones rūsio ir kitų 
+patalpų apsaugai nuo gruntinio vandens patekimo
+Aprašymas: Pastato Telšiuose, Respublikos g. 28 remonto projekto parengimas, numatant priemones rūsio ir kitų 
+patalpų apsaugai nuo gruntinio vandens patekimo
+Procedūros identifikatorius: 5f78e96c-9b16-459a-8f67-8eb3d2ac8937
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pastato Telšiuose, Respublikos g. 28 remonto projekto parengimas, numatant priemones rūsio ir kitų 
+patalpų apsaugai nuo gruntinio vandens patekimo
+Aprašymas: Pastato Telšiuose, Respublikos g. 28 remonto projekto parengimas, numatant priemones rūsio ir kitų 
+patalpų apsaugai nuo gruntinio vandens patekimo
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Telšių rajono savivaldybės administracija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Telšių rajono savivaldybės administracija
+Registracijos numeris: 180878299
+Pašto adresas: Žemaitės g. 14 
+Miestas: Telšiai
+Pašto kodas: LT-87133
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: renata.kniukstiene@telsiai.lt
+Telefono numeris: +370 44440216
+Interneto adresas: www.telsiai.lt
+Pirkėjo profilis: www.telsiai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: ecef508e-947c-4223-8da3-bcdfd3296822 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/01/2025 10:37 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

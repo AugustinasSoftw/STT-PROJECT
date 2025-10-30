@@ -1,0 +1,110 @@
+Lietuva: Mokymo naudotis apsaugos ir gynybos reikmenimis paslaugos
+SRAIGTASPARNIO UH-60 "BLACK HAWK" T4 SUPAŽINDINIMO KURSAS
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LIETUVOS KARIUOMENĖ
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: SRAIGTASPARNIO UH-60 "BLACK HAWK" T4 SUPAŽINDINIMO KURSAS
+Aprašymas: SRAIGTASPARNIO UH-60 "BLACK HAWK" T4 SUPAŽINDINIMO KURSAS
+Procedūros identifikatorius: 1ecb7e93-dff5-4fc2-a168-1d116feda954
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80600000 Mokymo naudotis apsaugos ir gynybos reikmenimis paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Slovakija
+Bet kur Europos ekonominės erdvėje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: SRAIGTASPARNIO UH-60 "BLACK HAWK" T4 SUPAŽINDINIMO KURSAS
+Aprašymas: SRAIGTASPARNIO UH-60 "BLACK HAWK" T4 SUPAŽINDINIMO KURSAS
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80600000 Mokymo naudotis apsaugos ir gynybos reikmenimis paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Slovakija
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: VPĮ 71 str. 6 d. 5 punktas
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Heli Company s.r.o.
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: KPS-93
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LIETUVOS KARIUOMENĖ
+Registracijos numeris: 188732677
+Pašto adresas: Šv. Ignoto g. 8 
+Miestas: Vilnius
+Pašto kodas: 01144
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vygantas.martisiunas@kam.lt
+Telefono numeris: +370 680 65 613
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Heli Company s.r.o.
+Miestas: Prešov
+Pašto kodas: 08006
+Šalies administracinis vienetas (NUTS): Prešovský kraj (SK041)
+Šalis: Slovakija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: aeeb29cc-c6f5-497e-8465-1479e172e381 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 06/10/2025 09:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

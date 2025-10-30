@@ -1,0 +1,161 @@
+Lietuva: Medicinos įranga
+Medicinos priemonių ir įrangos pirkimas (artroskopinės įrangos komplektas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medicinos priemonių ir įrangos pirkimas (artroskopinės įrangos komplektas)
+Aprašymas: Atliekamas medicinos priemonių ir įrangos pirkimas (artroskopinės įrangos komplektas). Konkretus 
+pirkimas atliekamas VšĮ Regioninei Mažeikių ligoninei (juridinio asmens kodas 166913899).
+Procedūros identifikatorius: f5c0aa77-7cd9-4ae8-bbfe-fc1e217ae55b
+Ankstesnis skelbimas: 170887-2023
+Vidaus identifikatorius: 514889
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Medicinos priemonių ir įrangos pirkimas (artroskopinės įrangos komplektas)
+Aprašymas: Atliekamas medicinos priemonių ir įrangos pirkimas (artroskopinės įrangos komplektas). Konkretus 
+pirkimas atliekamas VšĮ Regioninei Mažeikių ligoninei (juridinio asmens kodas 166913899).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: VšĮ Regioninė Mažeikių ligoninė
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT -
+Organizacija, atliekanti mokėjimus: VšĮ Regioninė Mažeikių ligoninė
+Organizacija, pasirašanti sutartį: VšĮ Regioninė Mažeikių ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 60 562 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB OSTECA
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 60 562 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: F8-017/25
+Sutarties sudarymo data: 11/02/2025
+Organizacija, pasirašanti sutartį: VšĮ Regioninė Mažeikių ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@cpo.lt
+Telefono numeris: +37066629090
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB OSTECA
+Registracijos numeris: 300871049
+Pašto adresas: Danės g, 47 
+Miestas: Klaipėda
+Pašto kodas: LT-92108
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info@osteca.lt
+Telefono numeris: 8 46 400002
+Fakso numeris: 8 46 314094
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: VšĮ Regioninė Mažeikių ligoninė
+Registracijos numeris: 166913899
+Miestas: Mažeikiai
+Pašto kodas: 89217
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Organizacija, atliekanti mokėjimus
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 4e460f6f-ba19-4fb3-9cc7-eaeffebeb67d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/02/2025 14:41 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,146 @@
+Lietuva: Kadastrinio tyrinėjimo paslaugos
+Apsaugos zonų nustatymas (supaprastintas atviras prkimas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Aukštaitijos vandenys"
+Pirkėjo teisinė forma: Organizacija, skirianti sutartį, subsidijuojamą regioninės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Apsaugos zonų nustatymas (supaprastintas atviras prkimas)
+Aprašymas: SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ NUSTATYMO PANEVĖŽIO MIESTO PIETINĖJE DALYJE 
+IR PANEVĖŽIO RAJONO PAVIEŠEČIŲ, MOLAINIŲ, ŠILAGALIO, PAŽAGIENIŲ, VELŽIO, VELŽELIO, STANIŪNŲ, 
+VYČIŲ, DEMBAVOS, OŽELIŲ KAIMUOSE PASLAUGŲ PIRKIMAS
+Procedūros identifikatorius: f60ed12f-175e-4777-902c-ec871ecf49b1
+Ankstesnis skelbimas: c1428e8e-1b63-4de0-869f-e29752215527-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Apsaugos zonų nustatymas (supaprastintas atviras prkimas)
+Aprašymas: SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ NUSTATYMO PANEVĖŽIO MIESTO PIETINĖJE DALYJE 
+IR PANEVĖŽIO RAJONO PAVIEŠEČIŲ, MOLAINIŲ, ŠILAGALIO, PAŽAGIENIŲ, VELŽIO, VELŽELIO, STANIŪNŲ, 
+VYČIŲ, DEMBAVOS, OŽELIŲ KAIMUOSE PASLAUGŲ PIRKIMAS
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Peržiūra nenumatyta
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūra nenumatyta
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB "Aukštaitijos vandenys" -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB "Aukštaitijos vandenys" -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 67 760 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Daugėla"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011770
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 67 760 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 3429
+Sutarties sudarymo data: 23/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "Aukštaitijos vandenys"
+Registracijos numeris: 147104754
+Pašto adresas: Velžio kelias 13 
+Miestas: Panevėžys
+Pašto kodas: LT-36111
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: gediminas.ambraska@avandenys.lt
+Telefono numeris: +37069965252
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Daugėla"
+Registracijos numeris: 300031924
+Pašto adresas: A. Smetonos 8-2 
+Miestas: Vilnius
+Pašto kodas: 01115
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: gaudenta@daugela.lt
+Telefono numeris: +37068533215
+Interneto adresas: www.daugela.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 5e330a46-a0ca-4d21-a30b-9051ba2a0020 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/01/2025 09:44 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

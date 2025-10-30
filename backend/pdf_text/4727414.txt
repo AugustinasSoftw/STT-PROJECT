@@ -1,0 +1,211 @@
+Lietuva: Asmeniniai kompiuteriai
+Kompiuteriai (tarptautinis atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kompiuteriai (tarptautinis atviras konkursas)
+Aprašymas: Perkami kompiuteriai. Pirkimo objektas skaidomas į 2 pirkimo objekto dalis: 1 pirkimo objekto dalis: 
+staliniai kompiuteriai; 2 pirkimo objekto dalis: nešiojami kompiuteriai.
+Procedūros identifikatorius: d6621acb-509b-42f0-9d5b-98062ea72fb1
+Ankstesnis skelbimas: 69a4e450-5c50-479c-9eae-22206109ba1e-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30213000 Asmeniniai kompiuteriai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Staliniai kompiuteriai
+Aprašymas: Perkami kompiuteriai. Pirkimo objektas skaidomas į 2 pirkimo objekto dalis: 1 pirkimo objekto dalis: 
+staliniai kompiuteriai; 2 pirkimo objekto dalis: nešiojami kompiuteriai.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30213000 Asmeniniai kompiuteriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 50
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 50
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos nacionalinė Martyno Mažvydo 
+biblioteka
+Organizacija, atliekanti mokėjimus: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Nešiojami kompiuteriai
+Aprašymas: Perkami kompiuteriai. Pirkimo objektas skaidomas į 2 pirkimo objekto dalis: 1 pirkimo objekto dalis: 
+staliniai kompiuteriai; 2 pirkimo objekto dalis: nešiojami kompiuteriai.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30213000 Asmeniniai kompiuteriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 50
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 50
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos nacionalinė Martyno Mažvydo 
+biblioteka
+Organizacija, atliekanti mokėjimus: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 233 828,1 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: IT Gama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000089536
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 139 573 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31382
+Data, kurią buvo pasirinktas laimėtojas: 04/09/2025
+Sutarties sudarymo data: 22/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: IT Gama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000089536
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 62 850 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31383
+Data, kurią buvo pasirinktas laimėtojas: 04/09/2025
+Sutarties sudarymo data: 22/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Registracijos numeris: 290757560
+Pašto adresas: Gedimino pr. 51 
+Miestas: Vilnius
+Pašto kodas: 01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vainora.knopkuviene@lnb.lt
+Telefono numeris: +37052398509
+Interneto adresas: www.lnb.lt
+Pirkėjo profilis: www.lnb.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: IT Gama
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302786971
+Pašto adresas: S. Žukausko g. 23 
+Miestas: Vilnius
+Pašto kodas: 08234
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@itgama.lt
+Telefono numeris: +370 5 2034270
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ff4259b5-089f-43ad-a00b-55406f79b626 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/09/2025 16:31 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

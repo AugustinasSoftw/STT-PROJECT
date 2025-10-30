@@ -1,0 +1,157 @@
+Lietuva: Atliekų deginimo paslaugos
+Senos CVPIS Nr. 745522 Nepavojingų atliekų deginimo paslauga (Skelbiama apklausa/
+supaprastintas/tarptautinis)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Tauragės regiono atliekų tvarkymo centras
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama regioninės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Senos CVPIS Nr. 745522 Nepavojingų atliekų deginimo paslauga (Skelbiama apklausa/supaprastintas/
+tarptautinis)
+Aprašymas: Šiame pirkime yra tęsiamos senoje CVP IS 2024-11-07 paskelbto pirkimo Nr. 745522 procedūros. Pirkimo 
+dokumentai ir skelbimas apie pirkimą yra paskelbti senoje CVP IS. Naujas Nacionalinis skelbimas apie pirkimą 
+paskelbtas tik informavimo tikslais.
+Procedūros identifikatorius: 8aa45edd-f5fd-4646-9e48-88d898df132e
+Ankstesnis skelbimas: 21398a20-c858-41a1-b85e-6ae381561a15-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90513300 Atliekų deginimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Senos CVPIS Nr. 745522 Nepavojingų atliekų deginimo paslauga (Skelbiama apklausa/supaprastintas/
+tarptautinis)
+Aprašymas: Šiame pirkime yra tęsiamos senoje CVP IS 2024-11-07 paskelbto pirkimo Nr. 745522 procedūros. Pirkimo 
+dokumentai ir skelbimas apie pirkimą yra paskelbti senoje CVP IS. Naujas Nacionalinis skelbimas apie pirkimą 
+paskelbtas tik informavimo tikslais.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90513300 Atliekų deginimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Tauragės regiono atliekų tvarkymo centras -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 306 800 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Gren Klaipėda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000004431
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 653 400 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 5823
+Sutarties sudarymo data: 05/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Tauragės regiono atliekų tvarkymo centras
+Registracijos numeris: 179901854
+Pašto adresas: Paberžių g. 14 
+Miestas: Tauragė
+Pašto kodas: 72325
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: viesiejipirkimai@uabtratc.lt
+Telefono numeris: +37064033716
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Gren Klaipėda
+Registracijos numeris: 301276531
+Pašto adresas: Kretainio g. 3 
+Miestas: Klaipėda
+Pašto kodas: 94103
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info.klaipeda@gren.com
+Telefono numeris: +370 46 49 34 02
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: LT-92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 233687ea-4637-488e-84e5-868acc16b904 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/03/2025 16:08 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

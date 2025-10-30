@@ -1,0 +1,151 @@
+Lietuva: Galimybių studijos, konsultavimo paslaugos, analizė
+741810, 168670 (9908) CO2 vertės grandinės techninės ir komercinės galimybių studijos 
+parengimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB KN Energies
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 741810, 168670 (9908) CO2 vertės grandinės techninės ir komercinės galimybių studijos parengimo 
+paslaugos
+Aprašymas: CO2 vertės grandinės techninės ir komercinės galimybių studijos parengimo paslaugos
+Procedūros identifikatorius: 6248e777-53bf-48e6-a971-c428644d63ab
+Ankstesnis skelbimas: 615990-2024
+Vidaus identifikatorius: 741810, 168670
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71241000 Galimybių studijos, konsultavimo paslaugos, analizė
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: CO2 vertės grandinės techninės ir komercinės galimybių studijos parengimo paslaugos
+Aprašymas: CO2 vertės grandinės techninės ir komercinės galimybių studijos parengimo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71241000 Galimybių studijos, konsultavimo paslaugos, analizė
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB KN Energies -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 760 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: io consulting (energy) UK LLP
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 760 000 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: J4-9-2025
+Sutarties sudarymo data: 22/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB KN Energies
+Registracijos numeris: 110648893
+Pašto adresas: Burių g. 19, Klaipėda 
+Miestas: Klaipėda
+Pašto kodas: 92276
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: d.nedzveckas@kn.lt
+Telefono numeris: +370 620 18249
+Interneto adresas: www.kn.lt
+Pirkėjo profilis: www.kn.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Miestas: Klaipėda
+Pašto kodas: 12345
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: io consulting (energy) UK LLP
+Registracijos numeris: OC397313
+Miestas: London
+Pašto kodas: SE1 0SU
+Šalies administracinis vienetas (NUTS): Camden and City of London (UKI31)
+Šalis: Jungtinė Karalystė
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 71b0053f-f875-4409-a056-442a20f0bf8a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/02/2025 19:06 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

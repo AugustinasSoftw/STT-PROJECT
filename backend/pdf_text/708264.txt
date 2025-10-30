@@ -1,0 +1,148 @@
+Lietuva: Naftos produktai, kuras, elektra ir kiti energijos šaltiniai
+743204_(2024-ESO-594) Elektros energija su disbalanso valdymo paslauga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 743204_(2024-ESO-594) Elektros energija su disbalanso valdymo paslauga
+Aprašymas: 743204_(2024-ESO-594) Elektros energija su disbalanso valdymo paslauga
+Procedūros identifikatorius: 4d36a3c2-b8c4-454f-b46b-62007e75c5d7
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09000000 Naftos produktai, kuras, elektra ir kiti energijos šaltiniai
+Kiti klasifikacijos kodai (cpv): 79000000 Verslo paslaugos: teisinės, rinkodaros, konsultavimo, įdarbinimo, spausdinimo 
+ir apsaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 39 600 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 743204_(2024-ESO-594) Elektros energija su disbalanso valdymo paslauga
+Aprašymas: (2024-ESO-594) Elektros energija su disbalanso valdymo paslauga
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09000000 Naftos produktai, kuras, elektra ir kiti energijos šaltiniai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 97
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Žaliasis kriterijus
+Aprašymas: Prekių tiekimui taikomi Aplinkos apsaugos vadybos sistemos reikalavimai
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 3
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Ignitis grupės paslaugų centras (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Ignitis grupės paslaugų centras (PV)
+Organizacija, pasirašanti sutartį: Ignitis, UAB
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 39 600 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 12400/342021
+Data, kurią buvo pasirinktas laimėtojas: 26/11/2024
+Sutarties sudarymo data: 20/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: Ignitis, UAB
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Registracijos numeris: ORG-0001
+Registracijos numeris: 303200016
+Padalinys: UAB Ignitis grupės paslaugų centras
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zivile.kasparaviciene@ignitis.lt
+Telefono numeris: +37069836092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Padalinys: Vilniaus apygardos teismas
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Ignitis, UAB
+Registracijos numeris: 303383884
+Padalinys: Ignitis, UAB
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ignitis.lt
+Telefono numeris: +37067721802
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 523d77d5-ddc9-407c-857b-65ff4e7e76a9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/01/2025 14:12 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,200 @@
+Lietuva: Kraujui tirti skirti reagentai
+Reagentai ir darbo priemonės gliukozės, kraujo krešumo rodiklių nustatymui
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Šilutės ligoninė
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Reagentai ir darbo priemonės gliukozės, kraujo krešumo rodiklių nustatymui
+Aprašymas: Reagentai ir darbo priemonės gliukozės nustatymui, analizatorius pagal panaudą arba nuomą, techninė 
+priežiūra ir remonto paslaugos; Reagentai ir darbo priemonės kraujo krešumo rodiklių nustatymui, analizatorius pagal 
+panaudą arba nuomą, techninė priežiūra ir remonto paslaugos.
+Procedūros identifikatorius: c8316cc4-a59e-40a2-9d85-be4c6d2c9c33
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+Kiti klasifikacijos kodai (cpv): 50421000 Medicinos įrangos remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 24 500 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 pirkimo dalis. Reagentai ir darbo priemonės gliukozės nustatymui, analizatorius pagal panaudą arba 
+nuomą, techninė priežiūra ir remonto paslaugos
+Aprašymas: Reagentai ir darbo priemonės gliukozės nustatymui, analizatorius pagal panaudą arba nuomą, techninė 
+priežiūra ir remonto paslaugos; Reagentai ir darbo priemonės kraujo krešumo rodiklių nustatymui, analizatorius pagal 
+panaudą arba nuomą, techninė priežiūra ir remonto paslaugos.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+Kiti klasifikacijos kodai (cpv): 50421000 Medicinos įrangos remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 24 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybinės charakteristikos
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriuje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriuje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Šilutės ligoninė -
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 pirkimo dalis. Reagentai ir darbo priemonės kraujo krešumo rodiklių nustatymui, analizatorius pagal 
+panaudą arba nuomą, techninė priežiūra ir remonto paslaugos
+Aprašymas: Reagentai ir darbo priemonės gliukozės nustatymui, analizatorius pagal panaudą arba nuomą, techninė 
+priežiūra ir remonto paslaugos; Reagentai ir darbo priemonės kraujo krešumo rodiklių nustatymui, analizatorius pagal 
+panaudą arba nuomą, techninė priežiūra ir remonto paslaugos.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+Kiti klasifikacijos kodai (cpv): 50421000 Medicinos įrangos remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 24 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Pasiūlymo kaina
+Aprašymas: Pasiūlymo kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybiniai parametrai
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriuje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriuje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Šilutės ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Šilutės ligoninė
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Šilutės ligoninė
+Registracijos numeris: 277329430
+Pašto adresas: Rusnės g.1 
+Miestas: Šilutė
+Pašto kodas: LT-99185
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: elena.barauskiene@silutesligonine.lt
+Telefono numeris: +37064013171
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: LT-92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 6ec3c68a-f904-465e-babd-c55352c68c3f - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/04/2025 11:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

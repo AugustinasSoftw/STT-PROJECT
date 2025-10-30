@@ -1,0 +1,198 @@
+Lietuva: Hidrauliniai kėlikliai
+29735 Mažosios mechanizacijos priemonės (DPS: 28322)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 29735 Mažosios mechanizacijos priemonės (DPS: 28322)
+Aprašymas: Mažosios mechanizacijos priemonės (toliau tekste - Prekės). Detalus pirkimo objekto aprašymas 
+pateikiamas Techninėje specifikacijoje. Pirkimo objektas į dalis neskaidomas, tiekėjas, kuris bus pakviestas pateikti 
+pasiūlymą, turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Procedūros identifikatorius: 3dd84132-6d9f-4a02-9f83-a131e6eca431
+Ankstesnis skelbimas: 131031-2022
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42413200 Hidrauliniai kėlikliai
+Kiti klasifikacijos kodai (cpv): 42630000 Metalo apdirbimo staklės
+Kiti klasifikacijos kodai (cpv): 42637100 Metalo gręžimo staklės
+Kiti klasifikacijos kodai (cpv): 31100000 Elektros varikliai, generatoriai ir transformatoriai
+Kiti klasifikacijos kodai (cpv): 31158200 Pūstuvai
+Kiti klasifikacijos kodai (cpv): 16160000 Įvairūs sodininkystės įrenginiai
+Kiti klasifikacijos kodai (cpv): 43812000 Pjovimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 03400000 Miškininkystės ir medienos ruošos produktai
+Kiti klasifikacijos kodai (cpv): 42662000 Suvirinimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 16800000 Žemės ir miškų mašinų dalys
+Kiti klasifikacijos kodai (cpv): 09211000 Tepalinės alyvos ir tepimo priemonės
+Kiti klasifikacijos kodai (cpv): 34910000 Arklių traukiami arba rankiniai vežimai, kitos nesavaeigės transporto 
+priemonės, bagažo vežimai ir įvairios atsarginės dalys
+Kiti klasifikacijos kodai (cpv): 42122130 Vandens siurbliai
+Kiti klasifikacijos kodai (cpv): 16810000 Žemės ūkio mašinų dalys
+Kiti klasifikacijos kodai (cpv): 42123000 Kompresoriai
+Kiti klasifikacijos kodai (cpv): 42123400 Oro kompresoriai
+Kiti klasifikacijos kodai (cpv): 43328000 Hidraulinė įranga
+Kiti klasifikacijos kodai (cpv): 42410000 Kėlimo ir krovimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 42400000 Kėlimo ir krovimo įrenginiai ir dalys
+2.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: Žr. pirkimo dokumentuose
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 29735 Mažosios mechanizacijos priemonės (DPS: 28322)
+Aprašymas: Mažosios mechanizacijos priemonės (toliau tekste - Prekės). Detalus pirkimo objekto aprašymas 
+pateikiamas Techninėje specifikacijoje. Pirkimo objektas į dalis neskaidomas, tiekėjas, kuris bus pakviestas pateikti 
+pasiūlymą, turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42413200 Hidrauliniai kėlikliai
+Kiti klasifikacijos kodai (cpv): 42630000 Metalo apdirbimo staklės
+Kiti klasifikacijos kodai (cpv): 42637100 Metalo gręžimo staklės
+Kiti klasifikacijos kodai (cpv): 31100000 Elektros varikliai, generatoriai ir transformatoriai
+Kiti klasifikacijos kodai (cpv): 31158200 Pūstuvai
+Kiti klasifikacijos kodai (cpv): 16160000 Įvairūs sodininkystės įrenginiai
+Kiti klasifikacijos kodai (cpv): 43812000 Pjovimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 03400000 Miškininkystės ir medienos ruošos produktai
+Kiti klasifikacijos kodai (cpv): 42662000 Suvirinimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 16800000 Žemės ir miškų mašinų dalys
+Kiti klasifikacijos kodai (cpv): 09211000 Tepalinės alyvos ir tepimo priemonės
+Kiti klasifikacijos kodai (cpv): 34910000 Arklių traukiami arba rankiniai vežimai, kitos nesavaeigės transporto 
+priemonės, bagažo vežimai ir įvairios atsarginės dalys
+Kiti klasifikacijos kodai (cpv): 42122130 Vandens siurbliai
+Kiti klasifikacijos kodai (cpv): 16810000 Žemės ūkio mašinų dalys
+Kiti klasifikacijos kodai (cpv): 42123000 Kompresoriai
+Kiti klasifikacijos kodai (cpv): 42123400 Oro kompresoriai
+Kiti klasifikacijos kodai (cpv): 43328000 Hidraulinė įranga
+Kiti klasifikacijos kodai (cpv): 42410000 Kėlimo ir krovimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 42400000 Kėlimo ir krovimo įrenginiai ir dalys
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: Žr. pirkimo dokumentuose
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: LTG Kompetencijų centras UAB (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LTG Kompetencijų centras UAB (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: LTG Kompetencijų centras UAB (PV)
+Organizacija, pasirašanti sutartį: AB „LTG Infra“
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 50 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Mocevičiaus firma Ginalas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028485
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 50 000 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34112
+Sutarties sudarymo data: 25/03/2023
+Organizacija, pasirašanti sutartį: AB „LTG Infra“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Registracijos numeris: 307037118
+Pašto adresas: Pelesos g. 10-102 
+Miestas: Vilnius
+Pašto kodas: LT-02111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Pirkėjo profilis: www.litrail.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Mocevičiaus firma Ginalas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 165702461
+Pašto adresas: Esperanto g. 26 
+Miestas: Kazlų Rūda
+Pašto kodas: LT-69428
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: edas@ginalas.lt
+Telefono numeris: 069825548
+Fakso numeris: 034396343
+Interneto adresas: www.ginalas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: AB „LTG Infra“
+Registracijos numeris: 305202934
+Miestas: Vilnius
+Pašto kodas: 02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7a172de2-f5e1-45aa-9d0f-086086e2af15 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 22/10/2025 16:33 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

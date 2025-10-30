@@ -1,5 +1,10 @@
 import { timestamp, pgTable, serial,date, integer, text, numeric, uuid, boolean, jsonb } from 'drizzle-orm/pg-core';
 
+type Money = {
+  amount: number;
+  currency: string;
+};
+
 export const TAtable = pgTable('sprendimai', {
   id: serial('id').primaryKey(),
   eil_nr: integer('eil_nr').notNull(),
@@ -39,7 +44,7 @@ export const CVPTable = pgTable("notices_stage", {
   aprasymas: text("aprasymas"),
 
   // Can be number, array, or object—type to what you actually store:
-  visoSutarciuVerte: jsonb("viso_sutarciu_verte").$type<unknown>(),
+  visoSutarciuVerte: jsonb("viso_sutarciu_verte").$type<Money | null>(),
 });
 
 

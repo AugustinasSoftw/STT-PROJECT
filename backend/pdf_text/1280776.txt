@@ -1,0 +1,139 @@
+Lietuva: Kraujui tirti skirti reagentai
+Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui 
+kapiliariniame kraujyje su įrangos įsigijimu panaudos būdu
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui kapiliariniame 
+kraujyje su įrangos įsigijimu panaudos būdu
+Aprašymas: Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui kapiliariniame 
+kraujyje su įrangos įsigijimu panaudos būdu
+Procedūros identifikatorius: 138c2cd9-5313-419f-bbed-947f14a6c408
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui kapiliariniame 
+kraujyje su įrangos įsigijimu panaudos būdu
+Aprašymas: Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui kapiliariniame 
+kraujyje su įrangos įsigijimu panaudos būdu
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+Kiekis: 280 000 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Šalys, vykdydamos Sutartį, įsipareigoja laikytis šių aplinkosaugos reikalavimų: mažinti popieriaus 
+sunaudojimą, atsisakyti nebūtino dokumentų kopijavimo ir spausdinimo. Su Sutarties vykdymu susiję dokumentai 
+Šalims turi būti pateikti tik elektroniniu formatu (nebent Sutartyje ir jos prieduose nenumatyta kitaip). Išimtiniais 
+atvejais su Sutarties vykdymu susiję dokumentai, turi (gali) būti pateikiami popieriniu formatu, jeigu toks formatas 
+privalomas pagal teisės aktus arba Šalys nurodo tokį būtinumą - tokiu atveju turi būti naudojamas perdirbtas 
+popierius, kuris atitinka minimaliuosius aplinkos apsaugos kriterijus, patvirtintus Lietuvos Respublikos aplinkos 
+ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Produktų, kurių viešiesiems pirkimams taikytini aplinkos 
+2 apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir Aplinkos apsaugos kriterijų, kuriuos perkančiosios 
+organizacijos turi taikyti pirkdamos prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 70 balų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Sistemos techninės charakteristikos
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Pirkimas nutrauktas
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Pirkimas nutrauktas
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Registracijos numeris: 126413338
+Pašto adresas: Žolyno g. 34 
+Miestas: Vilnius
+Pašto kodas: LT-10246
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: i.vaitekenaite@kraujodonoryste.lt
+Telefono numeris: +370 5 2392438
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 38678f59-a36c-4f16-9e3b-00c13c479485 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/02/2025 15:53 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

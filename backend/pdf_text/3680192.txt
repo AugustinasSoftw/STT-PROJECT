@@ -1,0 +1,155 @@
+Lietuva: Lokomotyvų ir riedmenų dalys
+30309 Dyzelinių traukinių PESA 630MiL monitoriai (DPS: 28312)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 30309 Dyzelinių traukinių PESA 630MiL monitoriai (DPS: 28312)
+Aprašymas: Dyzelinių traukinių PESA 630MiL monitoriai (toliau tekste - Prekės). Detalus pirkimo objekto aprašymas 
+pateikiamas Techninėje specifikacijoje. Pirkimo objektas į dalis neskaidomas, tiekėjas, kuris bus pakviestas pateikti 
+pasiūlymą, turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Procedūros identifikatorius: d2232c46-51eb-4a30-bed6-398b81943bde
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+2.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 30309 Dyzelinių traukinių PESA 630MiL monitoriai (DPS: 28312)
+Aprašymas: Dyzelinių traukinių PESA 630MiL monitoriai (toliau tekste - Prekės). Detalus pirkimo objekto aprašymas 
+pateikiamas Techninėje specifikacijoje. Pirkimo objektas į dalis neskaidomas, tiekėjas, kuris bus pakviestas pateikti 
+pasiūlymą, turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. pirkimo dokumentuose
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Lietuvos geležinkeliai (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Lietuvos geležinkeliai (PV)
+Organizacija, pasirašanti sutartį: AB "LTG Link"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 35 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Public Transport Service Spółka z ograniczoną odpowiedzialnością
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019761
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 16 800 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24558
+Data, kurią buvo pasirinktas laimėtojas: 11/02/2025
+Sutarties sudarymo data: 21/02/2025
+Organizacija, pasirašanti sutartį: AB "LTG Link"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Registracijos numeris: 110053842
+Pašto adresas: Geležinkelio g. 16 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Public Transport Service Spółka z ograniczoną odpowiedzialnością
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: Number KRS: 0000604846
+Pašto adresas: ul. ALEJA "SOLIDARNOŚCI", nr 75, lok. 26 
+Miestas: Warszawa
+Pašto kodas: 00-090 Warszawa
+Šalies administracinis vienetas (NUTS): Miasto Warszawa (PL911)
+Šalis: Lenkija
+E. paštas: office@publictransportservice.com
+Telefono numeris: +48 881 242 881
+Interneto adresas: www.ptservice.com.pl
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: AB "LTG Link"
+Registracijos numeris: 305052228
+Miestas: Vilnius
+Pašto kodas: 02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 36630771-ea06-4d0b-ae17-7fc720ce6951 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/07/2025 17:40 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

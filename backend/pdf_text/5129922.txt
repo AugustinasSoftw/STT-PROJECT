@@ -1,0 +1,243 @@
+Lietuva: Enterinis maistas
+Vaistai ir farmacijos produktai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vaistai ir farmacijos produktai
+Aprašymas: Perkami Vaistai ir farmacijos produktai VšĮ Alytaus apskrities S. Kudirkos ligoninei. Pirkimo objektas 
+skaidomas į 32 pirkimo dalis. Pasiūlymų vertinimo kriterijus - Kaina/sąnaudos.
+Procedūros identifikatorius: dc31883e-ecd1-4e77-b881-3ea6b17a04c1
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+Kiti klasifikacijos kodai (cpv): 33610000 Virškinimo traktą ir metabolizmą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33620000 Kraują, kraujodaros organus ir širdies bei kraujagyslių sistemą veikiantys 
+vaistai
+Kiti klasifikacijos kodai (cpv): 33630000 Dermatologiniai vaistai ir raumenų bei skeleto sistemą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33640000 Urogenitalinę sistemą veikiantys vaistai ir hormonai
+Kiti klasifikacijos kodai (cpv): 33650000 Sistemiškai veikiantys priešinfekciniai vaistai, vakcinos, antinavikiniai vaistai ir 
+imunomoduliatoriai
+Kiti klasifikacijos kodai (cpv): 33660000 Nervų sistemą ir jutimo organus veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33670000 Kvėpavimo sistemą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33600000 Farmacijos produktai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: VARDINIAI IR KITI VAISTINIAI PREPARATAI BEI FARMACIJOS PRODUKTAI (privaloma didmeninio 
+platinimo licencija)
+Aprašymas: Perkami Vaistai ir farmacijos produktai VšĮ Alytaus apskrities S. Kudirkos ligoninei. Pirkimo objektas 
+skaidomas į 32 pirkimo dalis. Pasiūlymų vertinimo kriterijus - Kaina/sąnaudos.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+Kiti klasifikacijos kodai (cpv): 33610000 Virškinimo traktą ir metabolizmą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33620000 Kraują, kraujodaros organus ir širdies bei kraujagyslių sistemą veikiantys 
+vaistai
+Kiti klasifikacijos kodai (cpv): 33630000 Dermatologiniai vaistai ir raumenų bei skeleto sistemą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33640000 Urogenitalinę sistemą veikiantys vaistai ir hormonai
+Kiti klasifikacijos kodai (cpv): 33650000 Sistemiškai veikiantys priešinfekciniai vaistai, vakcinos, antinavikiniai vaistai ir 
+imunomoduliatoriai
+Kiti klasifikacijos kodai (cpv): 33660000 Nervų sistemą ir jutimo organus veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33670000 Kvėpavimo sistemą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33600000 Farmacijos produktai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga CPO LT
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 30 892,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064060
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 16 854 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31191
+Sutarties sudarymo data: 17/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB Tamro
+Pasiūlymas:
+Pasiūlymo identifikatorius: 009 Tamro
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 136,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 009 Tamro
+Sutarties sudarymo data: 16/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB Nemuno vaistinė
+Pasiūlymas:
+Pasiūlymo identifikatorius: 142 Nemuno vaistinė
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 4 824 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 142 Nemuno vaistinė
+Sutarties sudarymo data: 15/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB PharmaDIA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 272 PharmaDia
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 9 078 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 272 PharmaDia
+Sutarties sudarymo data: 25/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.valakeviciute@cpo.lt
+Telefono numeris: 06721158
+Pirkėjo profilis: www.cpo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Armila
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123813957
+Pašto adresas: Molėtų pl. 75 
+Miestas: Vilnius
+Pašto kodas: 14259
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@armila.com
+Telefono numeris: +37052777596
+Fakso numeris: +370 5 2737381
+Interneto adresas: www.armila.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Registracijos numeris: 190272175
+Miestas: Alytus
+Pašto kodas: 62114
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+8.1 ORG-0007
+Oficialus pavadinimas: UAB Nemuno vaistinė
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 134778482
+Miestas: Kaunas
+Pašto kodas: 48179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0008
+Oficialus pavadinimas: UAB PharmaDIA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304052894
+Miestas: Kaunas
+Pašto kodas: 50143
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0009
+Oficialus pavadinimas: UAB Tamro
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111448632
+Miestas: Kaunas
+Pašto kodas: 54468
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 6776aec3-998a-44ab-96f4-9578b7a8e03b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/10/2025 00:48 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

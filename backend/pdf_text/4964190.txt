@@ -1,0 +1,109 @@
+Lietuva: Administravimo programinės įrangos paketai
+Mobiliųjų įrenginių valdymo programinės įrangos licencijų pirkimas
+Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant sutrumpinti pasiūlymų 
+priėmimo terminą
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mobiliųjų įrenginių valdymo programinės įrangos licencijų pirkimas
+Aprašymas: Numatoma įsigyti Mobiliųjų įrenginių valdymo programinės įrangos licencijos 36 mėn. laikotarpiui, 
+preliminarus kiekis 2500 vnt.
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48219300 Administravimo programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+2.1.6 Pašalinimo pagrindai
+Pašalinimo pagrindų šaltiniai: Europos bendrasis viešųjų pirkimų dokumentas (EBVPD)
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mobiliųjų įrenginių valdymo programinės įrangos pirkimas
+Aprašymas: Numatoma įsigyti Mobiliųjų įrenginių valdymo programinės įrangos licencijos 36 mėn. laikotarpiui, 
+preliminarus kiekis 2500 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48219300 Administravimo programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.6 Bendra informacija
+Rezervuota dalyvavimo teisė: Dalyvavimas nerezervuotas.
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.9 Atrankos kriterijai
+Pasirinkimo kriterijų šaltiniai: Pirkimo dokumentas
+5.1.12 Pirkimo sąlygos
+Pateikimo sąlygos:
+Kalbos, kuriomis galima pateikti pasiūlymus arba dalyvavimo prašymus: lietuvių kalba
+Sutarties sąlygos:
+Sutartis turi būti vykdoma pagal globojamų darbo grupių užimtumo programas: Ne
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybės įmonė Valstybinių miškų urėdija (PV)
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Registracijos numeris: 132340880
+Pašto adresas: Pramonės pr. 11 A-9 
+Miestas: Kaunas
+Pašto kodas: 51327
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Ryšių centras: Jolanta Tamkunė
+E. paštas: jolanta.tamkune@vmu.lt
+Telefono numeris: +370 616 88092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 4fe04dbe-d3cf-4190-98b4-d9758ea715ec - 01
+Formos tipas: Planuojamas pirkimas
+Skelbimo rūšis: Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant 
+sutrumpinti pasiūlymų priėmimo terminą
+Skelbimo išsiuntimo data: 14/10/2025 21:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+Numatoma skelbimo apie viešąjį pirkimą pagal šią procedūrą paskelbimo data: 01/12/2025

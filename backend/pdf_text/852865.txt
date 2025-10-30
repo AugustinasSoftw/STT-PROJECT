@@ -1,0 +1,155 @@
+Lietuva: Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+744320 - TRACEGET MIKROSKOPIJOS IR VAIZDINIMO KLASTERIO ĮRANGOS PIRKIMAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 744320 - TRACEGET MIKROSKOPIJOS IR VAIZDINIMO KLASTERIO ĮRANGOS PIRKIMAS
+Aprašymas: Automatizuotas invertuotas mikroskopas 1 vnt.
+Procedūros identifikatorius: 0881fa2b-b4e6-4708-8879-dfc88a7dd1d0
+Ankstesnis skelbimas: 656146-2024
+Vidaus identifikatorius: 744320
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Automatizuotas invertuotas mikroskopas
+Aprašymas: Automatizuotas invertuotas mikroskopas - 1 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Tiekėjo pasiūlyta kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 54
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Techniniai pranašumai: jei objektas turi nurodytą pranašumą gauna maksimalų balų skaičių pagal 
+lyginamąjį svorį: T2 = L2 = 0.25, T3 = L3 = 0.25, T4 = L4 = 0.25. Jei siūlomas objektas neturi nurodyto pranašumo 
+gauna 0 balų: T2 = L2 = 0, T3 = L3 = 0, T4 = L4 = 0.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 40
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: TnGL - Tiekėjo n siūlomas Sistemos garantinis laikotarpis (metais). Minimalus garantinis laikorpis yra 
+2 m., tačiau kiekvienas Tiekėjas gali duoti papildomą 1 (vienų) metų garantiją už kurią gaus ekonominį pranašumą, 
+t.y. už kiekvienus 1 (vienus) papildomus metus Tiekėjui bus minusuojami 6% nuo pasiūlymo kainos.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 6
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 359 600 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Vildoma"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: (1.78 Mr) SU-3869
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-002-P--0001
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Vildoma"
+Registracijos numeris: 110736215
+Miestas: Vilnius
+Pašto kodas: 02241
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vildoma.lt
+Telefono numeris: +370 5 236 3656
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: e2beaa49-740e-41c8-b916-41d95da51e27 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/01/2025 18:03 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

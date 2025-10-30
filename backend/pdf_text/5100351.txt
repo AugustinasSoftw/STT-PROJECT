@@ -1,0 +1,159 @@
+Lietuva: Buitinių atliekų rinkimo paslaugos
+TEKSTILĖS ATLIEKŲ SURINKIMO ROKIŠKIO RAJONO SAVIVALDYBĖS TERITORIJOJE IR JŲ 
+SUTVARKYMO PASLAUGOS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Panevėžio regiono atliekų tvarkymo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: TEKSTILĖS ATLIEKŲ SURINKIMO ROKIŠKIO RAJONO SAVIVALDYBĖS TERITORIJOJE IR JŲ 
+SUTVARKYMO PASLAUGOS
+Aprašymas: TEKSTILĖS ATLIEKŲ SURINKIMO ROKIŠKIO RAJONO SAVIVALDYBĖS TERITORIJOJE IR JŲ 
+SUTVARKYMO PASLAUGOS
+Procedūros identifikatorius: 11ff9834-4a49-4055-ab80-625326944a23
+Ankstesnis skelbimas: 54b32b9b-a8d0-412d-a85d-6b523cff556c-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90511200 Buitinių atliekų rinkimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 145 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: TEKSTILĖS ATLIEKŲ SURINKIMO ROKIŠKIO RAJONO SAVIVALDYBĖS TERITORIJOJE IR JŲ 
+SUTVARKYMO PASLAUGOS
+Aprašymas: TEKSTILĖS ATLIEKŲ SURINKIMO ROKIŠKIO RAJONO SAVIVALDYBĖS TERITORIJOJE IR JŲ 
+SUTVARKYMO PASLAUGOS
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90511200 Buitinių atliekų rinkimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: Rokiškio rajonas
+5.1.5 Vertė
+Numatoma vertė be PVM: 145 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Visų paslaugai teikti naudojamų atliekų surinkimo ir vežimo transporto priemonių ekologiškumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Informacija apie peržiūros terminus: peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Panevėžio regiono atliekų tvarkymo centras 
+(PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 145 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Rokiškio komunalininkas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000095316
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 122 732,2 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34241
+Data, kurią buvo pasirinktas laimėtojas: 10/10/2025
+Sutarties sudarymo data: 22/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Panevėžio regiono atliekų tvarkymo centras (PV)
+Registracijos numeris: 300127004
+Pašto adresas: Beržų g. 3 
+Miestas: Panevėžys
+Pašto kodas: 36237
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: asta.strelciuniene@pratc.lt
+Telefono numeris: 064709311
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Rokiškio komunalininkas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 173000664
+Pašto adresas: Nepriklausomybės a. 12 
+Miestas: Rokiškis
+Pašto kodas: 42115
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: info@rokom.lt
+Telefono numeris: +370645871083
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468756
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f14758c5-dc9d-47f4-897f-da70efeabc75 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/10/2025 10:25 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

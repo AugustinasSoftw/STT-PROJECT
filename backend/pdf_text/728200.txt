@@ -1,0 +1,141 @@
+Lietuva: Karinės elektroninės sistemos
+Manevrinių padalinių kolektyvinio rengimo simuliacinė sistema
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Manevrinių padalinių kolektyvinio rengimo simuliacinė sistema
+Aprašymas: Manevrinių padalinių kolektyvinio rengimo simuliacinė sistema
+Procedūros identifikatorius: b2477a13-b337-46af-9c82-6d12bbab7a08
+Vidaus identifikatorius: P1
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35700000 Karinės elektroninės sistemos
+2.1.3 Vertė
+Numatoma vertė be PVM: 2 937 600 Euro
+Preliminariosios sutarties didžiausioji vertė: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2009/81/EB
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Manevrinių padalinių kolektyvinio rengimo simuliacinė sistema
+Aprašymas: Manevrinių padalinių kolektyvinio rengimo simuliacinė sistema
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35700000 Karinės elektroninės sistemos
+Kiekis: 8 
+5.1.5 Vertė
+Numatoma vertė be PVM: 2 937 600 Euro
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Fiksuota vertė (iš viso): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 2 937 600 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Gynybos srities ir saugumo srities išimtys
+Kitas pagrindimas: VPAGSSĮ 19 str. 4 d. 5 p.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ST ENGINEERING ANTYCIP SAS
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: P1
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: ST ENGINEERING ANTYCIP SAS
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: P1
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1.4 Statistinė informacija
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 2 937 600 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 304740061
+Pašto adresas: Giedraičių g. 41 
+Miestas: Vilnius
+Pašto kodas: 09303
+Šalis: Lietuva
+E. paštas: vygantas.martisiunas@kam.lt
+Telefono numeris: +370 680 65 613
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: ST ENGINEERING ANTYCIP SAS
+Registracijos numeris: 502 753 197
+Pašto adresas: 6 Avenue du Marais, Immeuble Atrium, CS 20253, 95105 
+Miestas: Argenteuil
+Pašto kodas: 95105
+Šalis: Prancūzija
+E. paštas: info.it@steantycip.com
+Telefono numeris: +39 02 49509600
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8e8084e6-a5f2-430a-9567-fbe273590e13 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/01/2025 09:17 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

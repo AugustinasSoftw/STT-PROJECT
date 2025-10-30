@@ -1,0 +1,301 @@
+Lietuva: Telekomunikacijų paslaugos
+(Seno CVPIS N. 738801) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo 
+radijo ryšio tinklo įrangos talpinimo paslaugos (PPR-688) 1-3 POD (naujojo CVPIS ID 561586)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (Seno CVPIS N. 738801) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo 
+ryšio tinklo įrangos talpinimo paslaugos (PPR-688) 1-3 POD (naujojo CVPIS ID 561586)
+Aprašymas: Ežeraičiai , Vilniaus raj. apylinkėse nuo koordinačių taško 54.827916, 25.130897 WGS - I pirkimo 
+objekto dalis; Švenčionių mst. apylinkėse nuo koordinačių taško 55.131928, 26.155001 WGS -II pirkimo objekto dalis; 
+Kruonio, HAE apylinkėse nuo koordinačių taško 54.781268, 24.265516 WGS - III pirkimo objekto dalis.
+Procedūros identifikatorius: 2eae826d-78b1-4f31-bf7b-0f466e12986c
+Ankstesnis skelbimas: 563764-2024
+Vidaus identifikatorius: (Seno CVPIS N. 738801) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo 
+radijo ryšio tinklo įrangos talpinimo paslaugos (PPR-688)
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-688)
+Aprašymas: Ežeraičiai , Vilniaus raj. apylinkėse nuo koordinačių taško 54.827916, 25.130897 WGS
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-688)
+Aprašymas: Švenčionių mst. apylinkėse nuo koordinačių taško 55.131928, 26.155001 WGS
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 3 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-688)
+Aprašymas: Kruonio, HAE apylinkėse nuo koordinačių taško 54.781268, 24.265516 WGS
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 35 748 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Lietuvos radijo ir televizijos centras
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pas1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 17 028 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-49
+Sutarties sudarymo data: 31/01/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Telia Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pas2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 18 720 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-43
+Sutarties sudarymo data: 31/01/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188729923
+Pašto adresas: Šventaragio g. 2, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: evaldas.stadalius@vrm.lt
+Telefono numeris: +370 52717230
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188774822
+Miestas: Šventaragio g. 2
+Pašto kodas: LT-01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ird@vrm.lt
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+8.1 ORG-0005
+Oficialus pavadinimas: AB Lietuvos radijo ir televizijos centras
+Registracijos numeris: 120505210
+Pašto adresas: Sausio 13-osios g. 10, Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-04347
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0006
+Oficialus pavadinimas: AB Telia Lietuva
+Registracijos numeris: 121215434
+Pašto adresas: Saltoniškių g. 7A 
+Miestas: Vilnius
+Pašto kodas: LT-03501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 7fd278a7-37a2-4c0e-b578-01ef177b3e18 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/03/2025 13:25 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

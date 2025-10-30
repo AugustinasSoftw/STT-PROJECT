@@ -1,0 +1,169 @@
+Lietuva: Videokameros
+Nuotoliniam skrydžių valdymo centrui Vilniaus, Kauno ir Palangos aerodromų vizualinio 
+sprendinio techninė ir programinė įranga / Hardware and software for a visual solution for 
+remote air traffic control center at Vilnius, Kaunas and Palanga aerodromes
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Oro uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Nuotoliniam skrydžių valdymo centrui Vilniaus, Kauno ir Palangos aerodromų vizualinio sprendinio 
+techninė ir programinė įranga / Hardware and software for a visual solution for remote air traffic control center at 
+Vilnius, Kaunas and Palanga aerodromes
+Aprašymas: Nuotoliniam skrydžių valdymo centrui Vilniaus, Kauno ir Palangos aerodromų vizualinio sprendinio 
+techninė ir programinė įranga / Hardware and software for a visual solution for remote air traffic control center at 
+Vilnius, Kaunas and Palanga aerodromes
+Procedūros identifikatorius: 9d37d632-f9c0-4ad7-a556-56b8d5ecdf50
+Ankstesnis skelbimas: 273269-2024
+Vidaus identifikatorius: 719466
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Kiti sutarties objektai: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 32333200 Videokameros
+Kiti klasifikacijos kodai (cpv): 32323500 Stebėjimo videosistema
+Kiti klasifikacijos kodai (cpv): 71323200 Įrangos inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 51314000 Vaizdo įrangos montavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72318000 Duomenų perdavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 50340000 Garso, vaizdo ir optikos įrangos remonto ir priežiūros paslaugos
+Kiti klasifikacijos kodai (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+Kiti klasifikacijos kodai (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Nuotoliniam skrydžių valdymo centrui Vilniaus, Kauno ir Palangos aerodromų vizualinio sprendinio 
+techninė ir programinė įranga / Hardware and software for a visual solution for remote air traffic control center at 
+Vilnius, Kaunas and Palanga aerodromes
+Aprašymas: Nuotoliniam skrydžių valdymo centrui Vilniaus, Kauno ir Palangos aerodromų vizualinio sprendinio 
+techninė ir programinė įranga / Hardware and software for a visual solution for remote air traffic control center at 
+Vilnius, Kaunas and Palanga aerodromes
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Kiti sutarties objektai: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 32333200 Videokameros
+Kiti klasifikacijos kodai (cpv): 32323500 Stebėjimo videosistema
+Kiti klasifikacijos kodai (cpv): 71323200 Įrangos inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 51314000 Vaizdo įrangos montavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72318000 Duomenų perdavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 50340000 Garso, vaizdo ir optikos įrangos remonto ir priežiūros paslaugos
+Kiti klasifikacijos kodai (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+Kiti klasifikacijos kodai (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+Kiekis: 3 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 943 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Perkamos inovatyvi įranga, kuri leis teikti skrydžių valdymo paslaugas iš nutolusių darbo vietų
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra novatoriški arba labai patobulinti, palyginti su kitais 
+darbais, prekėmis ar paslaugomis, kurie jau yra rinkoje.
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Komunalinio sektoriaus pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Komunalinio sektoriaus pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 6 943 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Saab AB (publ)
+Pasiūlymas:
+Pasiūlymo identifikatorius: SAAB
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 334 892 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-67
+Sutarties sudarymo data: 01/04/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Registracijos numeris: 210060460
+Pašto adresas: 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ans.lt
+Telefono numeris: +37070694502
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Saab AB (publ)
+Registracijos numeris: 556036-0793
+Miestas: Linköping
+Pašto kodas: SE-581
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Švedija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 9ddbf84a-bb6c-4747-8456-40fd4c3b46c9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/04/2025 13:56 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,154 @@
+Lietuva: Inžinerijos paslaugos
+ŠIAULIŲ RAJONO KAIRIŲ MIESTELIO (DALIES TERITORIJOS) VANDENTIEKIO, BUITINIŲ 
+NUOTEKŲ TINKLŲ STATYBOS IR REKONSTRUKCIJOS PROJEKTO PARENGIMO PASLAUGOS 
+(Atviras tarptautinis konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ŠIAULIŲ RAJONO KAIRIŲ MIESTELIO (DALIES TERITORIJOS) VANDENTIEKIO, BUITINIŲ 
+NUOTEKŲ TINKLŲ STATYBOS IR REKONSTRUKCIJOS PROJEKTO PARENGIMO PASLAUGOS (Atviras 
+tarptautinis konkursas)
+Aprašymas: ŠIAULIŲ RAJONO KAIRIŲ MIESTELIO (DALIES TERITORIJOS) VANDENTIEKIO, BUITINIŲ NUOTEKŲ 
+TINKLŲ STATYBOS IR REKONSTRUKCIJOS PROJEKTO PARENGIMO PASLAUGOS
+Procedūros identifikatorius: ade2b180-94da-4faf-b94c-252e204266a3
+Ankstesnis skelbimas: 9306249f-d352-4747-a474-c08d00284331-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71300000 Inžinerijos paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: ŠIAULIŲ RAJONO KAIRIŲ MIESTELIO (DALIES TERITORIJOS) VANDENTIEKIO, BUITINIŲ 
+NUOTEKŲ TINKLŲ STATYBOS IR REKONSTRUKCIJOS PROJEKTO PARENGIMO PASLAUGOS (Atviras 
+tarptautinis konkursas)
+Aprašymas: ŠIAULIŲ RAJONO KAIRIŲ MIESTELIO (DALIES TERITORIJOS) VANDENTIEKIO, BUITINIŲ NUOTEKŲ 
+TINKLŲ STATYBOS IR REKONSTRUKCIJOS PROJEKTO PARENGIMO PASLAUGOS
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71300000 Inžinerijos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 43 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+Informacija apie peržiūros terminus: LR Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šiaulių rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 47 795 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Patvanka"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069319
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 47 795 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 26622
+Data, kurią buvo pasirinktas laimėtojas: 25/06/2025
+Sutarties sudarymo data: 10/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Registracijos numeris: 188726051
+Pašto adresas: Vilniaus g. 263 
+Miestas: Šiauliai
+Pašto kodas: 76337
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: viktor.bakanov@siauliuraj.lt
+Telefono numeris: +37041596662
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Patvanka"
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 133364425
+Pašto adresas: Savanorių pr. 194 
+Miestas: Kaunas
+Pašto kodas: LT-44151
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: arnas@patvanka.lt
+Telefono numeris: +37061484809
+Fakso numeris: +370 37 327452
+Interneto adresas: www.patvanka.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: dcccad06-9940-4cdf-8e15-bdb8798625b0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/08/2025 09:38 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

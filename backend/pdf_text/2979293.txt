@@ -1,0 +1,480 @@
+Graikija: Su atliekomis susijusios paslaugos
+Atliekų tvarkymo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: European Dynamics S.A.
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Procedūros identifikatorius: a0410d53-1848-4bd9-8428-3a6214eb34ce
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 3 940 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: European Dynamics S.A. -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: European Dynamics S.A. -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: European Dynamics S.A. -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: European Dynamics S.A. -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: European Dynamics S.A. -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: European Dynamics S.A. -
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Atliekų tvarkymo paslaugos
+Aprašymas: Atliekų tvarkymo paslaugos
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90500000 Su atliekomis susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: European Dynamics S.A. -
+Informacija apie peržiūros terminus: Nurodyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 3 940 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Ypatinga skuba dėl įvykių, kurių pirkėjas negalėjo numatyti
+Kitas pagrindimas: 2025-04-27 UAB „VAATC“ priklausančiose mechaninio biologinio apdorojimo įrenginiuose 
+kilo gaisras, dėl kurio šių įrenginių eksploatacija tapo neįmanoma, kilo grėsmė aplinkai, o taip pat - ir atliekų 
+tvarkymo nepertraukiamumui. Dėl šių priežasčių Vilniaus mieste, Vilniaus rajone, Širvintų rajone, Ukmergės rajone, 
+Elektrėnų rajone paskelbta ekstremali situacija. UAB „VAATC“ pavesta teikti atliekų rūšiavimo ir dalies išrūšiuotų 
+atliekų vežimo deginimui paslaugas Vilniaus apskrityje, tokios paslaugos turi būti teikiamos nepertraukiamai, 
+taip užtikrinant gyventojų sveikatą bei aplinkos apsaugą (Lietuvos Respublikos atliekų tvarkymo įstatymo 1 str. 1 
+d.). Šių paslaugų teikimą operavimo sutarties pagrindu vykdo UAB „Energesman. Atlikti pirkimą skubos atvejais 
+neskelbiamų derybų būdu neprašant Viešųjų pirkimų tarnybos sutikimo ir nesikreipiant į institucijas numato Viešųjų 
+pirkimų įstatymo 71 straipsnio 1 dalies 3 punkto, 72 straipsnio 1 dalies ir 3 dalies nuostatos.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 435S/PS_101/2025 Vilniaus kogeneracinė jėgainė UAB
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 000 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 435S/PS/101/2025VilniauskogeneracinėjėgainėUAB
+Data, kurią buvo pasirinktas laimėtojas: 29/04/2025
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 436S/PS_102/2025 Vilniaus kogeneracinė jėgainė UAB
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 1 000 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 436S/PS/102/2025VilniauskogeneracinėjėgainėUAB
+Data, kurią buvo pasirinktas laimėtojas: 29/04/2025
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: PS_110/2025 Vilniaus kogeneracinė jėgainė UAB
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 1 000 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PS/110/2025VilniauskogeneracinėjėgainėUAB
+Data, kurią buvo pasirinktas laimėtojas: 30/04/2025
+Sutarties sudarymo data: 30/04/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 439S/PS_105/2025 UAB Alytaus regiono atliekų tvarkymo centras
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 250 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 439S/PS/105/2025UABAlytausregionoatliekųtvarkymocentras
+Data, kurią buvo pasirinktas laimėtojas: 30/04/2025
+Sutarties sudarymo data: 30/04/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 441S/PS_107/2025 UAB Panevėžio regiono atliekų tvarkymo centras
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 300 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 441S/PS/107/2025UABPanevėžioregionoatliekųtvarkymocentras
+Data, kurią buvo pasirinktas laimėtojas: 02/05/2025
+Sutarties sudarymo data: 02/05/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvavimo prašymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 438S/PS_104/2025 Utenos regiono atliekų tvarkymo centras UAB
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 230 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 438S/PS/104/2025UABUtenosregionoatliekųtvarkymocentras
+Data, kurią buvo pasirinktas laimėtojas: 30/04/2025
+Sutarties sudarymo data: 30/04/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvavimo prašymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 437S/PS_103/2025 Ekobazė UAB
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 160 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 437S/PS/103/2025EkobazėUAB
+Data, kurią buvo pasirinktas laimėtojas: 30/04/2025
+Sutarties sudarymo data: 30/04/2025
+Organizacija, pasirašanti sutartį: European Dynamics S.A.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvavimo prašymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "VAATC" (PV)
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 181705485
+Pašto adresas: Lvivo g. 89-75 
+Miestas: Vilnius
+Pašto kodas: 08104
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: virginijab@vaatc.lt
+Telefono numeris: +37061698067
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003, LOT-0004, LOT-0005, LOT-0006, LOT-0007
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Pirkėjo profilis: www.vaatc.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+TED eSender
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 2c682222-e274-4bb0-98eb-aa8fa3f5f9d0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 05/06/2025 13:50 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,166 @@
+Lietuva: Vaizdo projektoriai
+Vilniaus metodinio STEAM centro žvaigždžių salės projekcijų erdvės sistema (skelbiamos 
+derybos).
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vilniaus metodinio STEAM centro žvaigždžių salės projekcijų erdvės sistema (skelbiamos derybos).
+Aprašymas: Vilniaus metodinio STEAM centro žvaigždžių salės projekcijų erdvės sistema (skelbiamos derybos).
+Procedūros identifikatorius: ff0b1156-f2d4-45ed-9b73-4b3d430a3577
+Ankstesnis skelbimas: 18a3cd4d-b7c0-4984-b31d-b45071998822-01
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38652120 Vaizdo projektoriai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vilniaus metodinio STEAM centro žvaigždžių salės projekcijų erdvės sistema (skelbiamos derybos).
+Aprašymas: Vilniaus metodinio STEAM centro žvaigždžių salės projekcijų erdvės sistema (skelbiamos derybos).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38652120 Vaizdo projektoriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 70
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: 25,5
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus universitetas (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus universitetas (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 700 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Audiotonas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033795
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 700 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 11664
+Data, kurią buvo pasirinktas laimėtojas: 17/03/2025
+Sutarties sudarymo data: 20/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Taip
+Išsamesnė informacija apie ES fondus: Finansuojama Ekonomikos gaivinimo ir atsparumo didinimo 
+priemonė (EGADP) ir Lietuvos Respublikos valstybės biudžeto lėšomis
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Audiotonas
+Registracijos numeris: 110603713
+Pašto adresas: Neries krantinė 14 
+Miestas: KAUNAS
+Pašto kodas: LT-48397
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@audiotonas.lt
+Interneto adresas: www.audiotonas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 2a02b59d-9d6d-4f91-b39d-f796483ad132 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 26/03/2025 15:05 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

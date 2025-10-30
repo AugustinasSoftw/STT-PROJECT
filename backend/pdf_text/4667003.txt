@@ -1,0 +1,159 @@
+Lietuva: Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Laboratorinis šaldytuvas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Laboratorinis šaldytuvas
+Aprašymas: Laboratorinis šaldytuvas, kiekis - 2 vnt.
+Procedūros identifikatorius: 7dbf2fcd-ffc1-45ee-a0fa-3f6973e0ec48
+Ankstesnis skelbimas: 66ffd90b-8ef4-4873-b58d-810636845323-02
+Vidaus identifikatorius: 604801
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos, adresas Eivenių g. 2, 50161, 
+Kaunas
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Laboratorinis šaldytuvas
+Aprašymas: Laboratorinis šaldytuvas, kiekis - 2 vnt.
+Vidaus identifikatorius: 604801
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos, adresas Eivenių g. 2, 50161, 
+Kaunas
+5.1.3 Numatomas galiojimas
+Galiojimas: 12 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai vertinami pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 3 800 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Asanmeda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000024014
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 800 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30872
+Data, kurią buvo pasirinktas laimėtojas: 31/07/2025
+Sutarties sudarymo data: 26/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 11
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Registracijos numeris: 135163499
+Pašto adresas: Eivenių g. 2 
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.zvirblyte@kaunoklinikos.lt
+Telefono numeris: +370 37703268
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Asanmeda
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 221906050
+Pašto adresas: V. A. Graičiūno g. 4 
+Miestas: Vilnius
+Pašto kodas: 02241
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilnius@limeta.lt
+Telefono numeris: +37061579335
+Interneto adresas: www.limeta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 169db58e-f2e7-4b69-91b1-78561c4e707c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/09/2025 20:01 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

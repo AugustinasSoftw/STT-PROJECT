@@ -1,0 +1,133 @@
+Lietuva: Licencijų valdymo programinės įrangos paketai
+Energijos apskaitos ir monitoringo sistemos EMCOS licencijų praplėtimas (neskelbiamos 
+derybos)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LITGRID AB
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Energijos apskaitos ir monitoringo sistemos EMCOS licencijų praplėtimas (neskelbiamos derybos)
+Aprašymas: Energijos apskaitos ir monitoringo sistemos EMCOS licencijų praplėtimas
+Procedūros identifikatorius: 01597f4f-71a4-4ddd-9089-cdd6a93d55fd
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48218000 Licencijų valdymo programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Energijos apskaitos ir monitoringo sistemos EMCOS licencijų praplėtimas (neskelbiamos derybos)
+Aprašymas: Energijos apskaitos ir monitoringo sistemos EMCOS licencijų praplėtimas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48218000 Licencijų valdymo programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LITGRID AB
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 30 250 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių teisių, įskaitant 
+intelektinės nuosavybės teises
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "SIGMA TELAS"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000014182
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2185
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LITGRID AB
+Registracijos numeris: 302564383
+Pašto adresas: Karlo Gustavo Emilio Manerheimo g. 8 
+Miestas: Vilnius
+Pašto kodas: 05131
+Šalis: Lietuva
+E. paštas: arunas.jurgelaitis@litgrid.eu
+Telefono numeris: +37065611391
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "SIGMA TELAS"
+Registracijos numeris: 110390133
+Pašto adresas: Kalvarijų 125 
+Miestas: Vilnius
+Pašto kodas: LT-08221
+Šalis: Lietuva
+E. paštas: p.tarasevicius@sigmatelas.lt
+Telefono numeris: +37068627677
+Interneto adresas: www.sigmatelas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 95c0011d-03d7-4c3a-ac29-0a685aa788d5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/01/2025 08:20 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

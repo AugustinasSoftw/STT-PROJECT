@@ -1,0 +1,136 @@
+Lietuva: Geležinkelių tiesimo darbai
+31353 Pervažos Kaišiadorys - Kybartai 24+754 km rangos darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 31353 Pervažos Kaišiadorys - Kybartai 24+754 km rangos darbai
+Aprašymas: 31353 Pervažos Kaišiadorys - Kybartai 24+754 km rangos darbai
+Procedūros identifikatorius: 42442d06-457f-4d02-8aa3-8a97de6f78aa
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45234100 Geležinkelių tiesimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žiūrėti pirkimo dokumentuose
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 31353 Pervažos Kaišiadorys - Kybartai 24+754 km rangos darbai
+Aprašymas: 31353 Pervažos Kaišiadorys - Kybartai 24+754 km rangos darbai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45234100 Geležinkelių tiesimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žiūrėti pirkimo dokumentuose
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Žiūrėti pirkimo dokumentuose
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: European Dynamics S.A. -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LTG Kompetencijų centras UAB (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 460 652,32 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Leonhard Weiss Lietuva"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000059572
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 460 652,32 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 20789
+Data, kurią buvo pasirinktas laimėtojas: 30/05/2025
+Sutarties sudarymo data: 05/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Registracijos numeris: 307037118
+Pašto adresas: Pelesos g. 10-102 
+Miestas: Vilnius
+Pašto kodas: LT-02111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Pirkėjo profilis: www.ltginfra.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Leonhard Weiss Lietuva"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111694915
+Pašto adresas: Raudondvario pl. 131B-1 
+Miestas: Kaunas
+Pašto kodas: LT-47191
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lithuania@leonhard-weiss.com
+Telefono numeris: +37065810082
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: .
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7427145e-5229-43a2-9569-c2d27fc34cc2 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 05/06/2025 10:16 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

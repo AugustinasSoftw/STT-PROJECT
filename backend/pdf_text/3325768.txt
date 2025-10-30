@@ -1,0 +1,148 @@
+Lietuva: Mobilieji telefonai
+Išmaniųjų telefonų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Išmaniųjų telefonų pirkimas
+Aprašymas: Išmaniųjų telefonų pirkimas
+Procedūros identifikatorius: 246f5388-06aa-42f6-9844-14396995b978
+Ankstesnis skelbimas: d09a8587-0c8e-4ab3-8d0e-eba4ae85eb2b-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32250000 Mobilieji telefonai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Išmaniųjų telefonų pirkimas
+Aprašymas: Išmaniųjų telefonų pirkimas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32250000 Mobilieji telefonai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: netaikoma
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Vykdoma pagal Viešųjų pirkimų įstatymo 7 skyrių.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinio socialinio draudimo fondo valdyba prie 
+Socialinės apsaugos ir darbo ministerijos -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 648 759 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Bitė Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018306
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 648 759 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22434
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 12/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos
+Registracijos numeris: 191630223
+Pašto adresas: Konstitucijos pr. 12-101 
+Miestas: Vilnius
+Pašto kodas: 09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: agniete.laukaviciene@sodra.lt
+Telefono numeris: +37064510445
+Pirkėjo profilis: www.sodra.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Bitė Lietuva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110688998
+Pašto adresas: Žemaitės g. 15 
+Miestas: Vilnius
+Pašto kodas: LT-03118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: grigalius.kalvaitis@bite.lt
+Telefono numeris: +370 699 23071
+Interneto adresas: www.bite.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c0476307-d90b-45eb-b1c9-ab5f548c974d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/06/2025 11:04 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

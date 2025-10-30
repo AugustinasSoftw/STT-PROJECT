@@ -1,0 +1,140 @@
+Lietuva: Matavimo įrenginių montavimo paslaugos
+DPS 1 "Šalto vandens skaitiklių, kurių metrologinė patikra baigėsi 2025-05-01 iki 2025-09-30, 
+keitimo paslaugos"
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Kauno vandenys (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: DPS 1 "Šalto vandens skaitiklių, kurių metrologinė patikra baigėsi 2025-05-01 iki 2025-09-30, keitimo 
+paslaugos"
+Aprašymas: DPS 1 "Šalto vandens skaitiklių, kurių metrologinė patikra baigėsi 2025-05-01 iki 2025-09-30, keitimo 
+paslaugos"
+Procedūros identifikatorius: 570fa36b-8397-48bc-afaf-27f93e0510e5
+Ankstesnis skelbimas: e4c2698c-ae0e-477e-b5f0-ae21d4baa10e-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51210000 Matavimo įrenginių montavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: DPS 1 "Šalto vandens skaitiklių, kurių metrologinė patikra baigėsi 2025-05-01 iki 2025-09-30, keitimo 
+paslaugos"
+Aprašymas: DPS 1 "Šalto vandens skaitiklių, kurių metrologinė patikra baigėsi 2025-05-01 iki 2025-09-30, keitimo 
+paslaugos"
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51210000 Matavimo įrenginių montavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Kauno vandenys (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Kauno vandenys (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UAB Kauno vandenys (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 291 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: GO Energy LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090820
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 291 000 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 33065
+Sutarties sudarymo data: 15/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Kauno vandenys (PV)
+Registracijos numeris: 132751369
+Pašto adresas: Aukštaičių g. 43, Kaunas 
+Miestas: Kaunas
+Pašto kodas: LT-44158
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: audrone.butvidaite@kaunovandenys.lt
+Telefono numeris: +37037301737
+Interneto adresas: www.kaunovandenys.lt
+Pirkėjo profilis: www.kaunovandenys.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: GO Energy LT
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 303042623
+Pašto adresas: Raudondvario pl. 84 
+Miestas: Kaunas
+Pašto kodas: LT-47179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@goenergy.lt
+Telefono numeris: +370 656 08183
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c3089a2c-1564-4a66-a978-ec522c0cdb79 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/10/2025 15:40 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,115 @@
+Lietuva: Profesiniai drabužiai, specialūs darbo drabužiai ir jų priedai
+Asmeninių apsaugos priemonių kūno apsaugai pirkimas
+Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant sutrumpinti pasiūlymų 
+priėmimo terminą
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Asmeninių apsaugos priemonių kūno apsaugai pirkimas
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis (toliau - p.o.d.): 1 p.o.d. Darbo drabužiai 
+kūno apsaugai; 2 p.o.d. Gerai matomi darbo drabužiai; 3 p.o.d. Asmeninės apsaugos priemonės kūno apsaugai 4 
+p.o.d. Asmeninės apsaugos priemonės nuo lietaus. CVPIS yra paskelbta rinkos konsultacija 
+epps/pmc/viewPmc.do?resourceId=795402, kurioje yra pridėta techninė specifikacija.
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 18100000 Profesiniai drabužiai, specialūs darbo drabužiai ir jų priedai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Asmeninės apsaugos priemonės kūno apsaugai
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis (toliau - p.o.d.): 1 p.o.d. Darbo drabužiai 
+kūno apsaugai; 2 p.o.d. Gerai matomi darbo drabužiai; 3 p.o.d. Asmeninės apsaugos priemonės kūno apsaugai 4 
+p.o.d. Asmeninės apsaugos priemonės nuo lietaus.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 18100000 Profesiniai drabužiai, specialūs darbo drabužiai ir jų priedai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Kitas galiojimas: Nežinomas
+5.1.6 Bendra informacija
+Rezervuota dalyvavimo teisė: Dalyvavimas nerezervuotas.
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.9 Atrankos kriterijai
+Kriterijus:
+Rūšis: Kita
+Pavadinimas: Dar nežinoma
+5.1.12 Pirkimo sąlygos
+Pateikimo sąlygos:
+Kalbos, kuriomis galima pateikti pasiūlymus arba dalyvavimo prašymus: lietuvių kalba
+Pasiūlymų priėmimo terminas: 28/02/2025 09:00 +02:00
+Sutarties sąlygos:
+Sutartis turi būti vykdoma pagal globojamų darbo grupių užimtumo programas: Ne
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Valstybės įmonė Valstybinių miškų urėdija (PV)
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Registracijos numeris: 132340880
+Pašto adresas: Pramonės pr. 11 A-9 51327 
+Miestas: Kaunas
+Pašto kodas: 51327
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@vmu.lt
+Telefono numeris: +370 5 273 4021
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 4cd45073-d975-4bff-a390-d55c6ce6ff3e - 01
+Formos tipas: Planuojamas pirkimas
+Skelbimo rūšis: Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant 
+sutrumpinti pasiūlymų priėmimo terminą
+Skelbimo išsiuntimo data: 23/01/2025 14:00 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija
+Numatoma skelbimo apie viešąjį pirkimą pagal šią procedūrą paskelbimo data: 27/02/2025

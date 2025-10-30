@@ -1,0 +1,129 @@
+Lietuva: Medicinos įranga, farmacijos ir asmens higienos produktai
+Kompiuterinis tomografas
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: viešoji įstaiga Joniškio ligoninė
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kompiuterinis tomografas
+Aprašymas: Kompiuterinis tomografas
+Procedūros identifikatorius: 5fefea4a-426f-4c07-b60b-ed63da1311f7
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33000000 Medicinos įranga, farmacijos ir asmens higienos produktai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Joniškis
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Kvietimas dalyvauti konkurse baigia galioti
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kompiuterinis tomografas
+Aprašymas: Kompiuterinis tomografas
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33000000 Medicinos įranga, farmacijos ir asmens higienos produktai
+Kiekis: 1 valanda
+5.1.2 Sutarties vykdymo vieta
+Miestas: Joniškis
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 375 800,85 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: ŽALI KRITERIJAI
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: šiaulių apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 375 800,85 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB MedusMedical
+Pasiūlymas:
+Pasiūlymo identifikatorius: UAB Medus Medical
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 375 800,85 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Šis pasiūlymas yra alternatyvus: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VP-283/MR24-165
+Data, kurią buvo pasirinktas laimėtojas: 19/11/2024
+Sutarties sudarymo data: 06/12/2024
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: viešoji įstaiga Joniškio ligoninė
+Registracijos numeris: 157659081
+Pašto adresas: Pašvitinio g. 21 
+Miestas: Joniškis
+Pašto kodas: 84152
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: ligonine@joniskioligonine.lt
+Telefono numeris: +370 646 62 129
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: šiaulių apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Šiauliai
+Pašto kodas: LT-76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB MedusMedical
+Registracijos numeris: 306252616
+Miestas: Kaunas
+Pašto kodas: LT-84152
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 55f796eb-4bc9-4696-a374-a12217764100 - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 06/02/2025 13:01 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,165 @@
+Lietuva: Sistemų palaikymo paslaugos
+Nacionalinės paramos administravimo informacinės sistemos (NPAIS) palaikymo ir vystymo 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Nacionalinės paramos administravimo informacinės sistemos (NPAIS) palaikymo ir vystymo paslaugos
+Aprašymas: Perkančioji organizacija ketina įsigyti Nacionalinės paramos administravimo informacinės sistemos (toliau 
+- NPAIS) palaikymo ir vystymo paslaugas (toliau - paslaugos). Paslaugų orientacinė apimtis - 145 darbo dienos - 
+nurodyta Pirkimo sąlygų 2 priedo 2 priede (techninėje specifikacijoje). Nurodyta paslaugų apimtis yra orientacinė, 
+perkančioji organizacija neįsipareigoja nupirkti visos nurodytos paslaugų apimties. Paslaugų apimtis Sutarties 
+vykdymo metu gali didėti ne daugiau nei 10 proc. nuo orientacinės paslaugų apimties. Paslaugų teikimo terminai: 
+sutartis įsigalioja nuo 2025 m. spalio 25 d. ir galioja 36 (trisdešimt šešis) mėnesius. Pirkimo objektas neskaidomas į 
+dalis. Tiekėjai privalo siūlyti visą paslaugų apimtį.
+Procedūros identifikatorius: 8367ec8d-58b7-4ef4-9a48-2a0145b93ec9
+Ankstesnis skelbimas: 98b45ead-5b1b-40ae-8498-3ce60c75d931-04
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72253200 Sistemų palaikymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Nacionalinės paramos administravimo informacinės sistemos (NPAIS) palaikymo ir vystymo paslaugos
+Aprašymas: Perkančioji organizacija ketina įsigyti Nacionalinės paramos administravimo informacinės sistemos (toliau 
+- NPAIS) palaikymo ir vystymo paslaugas (toliau - paslaugos). Paslaugų orientacinė apimtis - 145 darbo dienos - 
+nurodyta Pirkimo sąlygų 2 priedo 2 priede (techninėje specifikacijoje). Nurodyta paslaugų apimtis yra orientacinė, 
+perkančioji organizacija neįsipareigoja nupirkti visos nurodytos paslaugų apimties. Paslaugų apimtis Sutarties 
+vykdymo metu gali didėti ne daugiau nei 10 proc. nuo orientacinės paslaugų apimties. Paslaugų teikimo terminai: 
+sutartis įsigalioja nuo 2025 m. spalio 25 d. ir galioja 36 (trisdešimt šešis) mėnesius. Pirkimo objektas neskaidomas į 
+dalis. Tiekėjai privalo siūlyti visą paslaugų apimtį.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72253200 Sistemų palaikymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Specialistų patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyrius
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė mokėjimo agentūra prie Žemės ūkio 
+ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 100 357,4 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB CGI Lithuania
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077715
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 100 357,4 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28756
+Data, kurią buvo pasirinktas laimėtojas: 01/08/2025
+Sutarties sudarymo data: 29/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos
+Registracijos numeris: 288739270
+Pašto adresas: Blindžių g. 17 
+Miestas: Vilnius
+Pašto kodas: 08111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@nma.lt
+Telefono numeris: +370 (5) 252 6999
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB CGI Lithuania
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 210316340
+Pašto adresas: Ukmergės g. 126 
+Miestas: Vilnius
+Pašto kodas: LT-08100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: iveta.jankute@cgi.com
+Telefono numeris: +37067444935
+Interneto adresas: www.cgi.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: bf3122c6-c8ec-4018-a837-c9a2d8906186 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/09/2025 13:53 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

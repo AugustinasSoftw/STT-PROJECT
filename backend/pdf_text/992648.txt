@@ -1,0 +1,117 @@
+Lietuva: Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Laboratorinė įranga ir priemonės
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė "Šilutės vandenys"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Laboratorinė įranga ir priemonės
+Aprašymas: Perkama laboratoriniai įrankiai ir priemonės - 606 vnt.
+Procedūros identifikatorius: b042d6dd-6d7e-45f7-bb6b-e61c010b77b8
+Vidaus identifikatorius: 948055
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: UAB „Šilutės vandenys“ nuotekų valykla, Pievų g. 1, Šyšgirių k., Kintų sen., 
+Miestas: Šilutė
+Pašto kodas: 99187
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Laboratorinė įranga ir priemonės
+Aprašymas: 606 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Kiekis: 606 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pakuočių, popieriaus naudojimas
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Netaikoma
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: Netaikoma
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Uždaroji akcinė bendrovė "Šilutės vandenys" -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Laimėtojas dar nepasirinktas, tačiau konkursas tebevyksta.
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė "Šilutės vandenys"
+Registracijos numeris: 177059215
+Pašto adresas: Ramučių g. 31 99149 
+Miestas: Šilutė
+Pašto kodas: 99149
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: vidmantasutaras@gmail.com
+Telefono numeris: +37044145998
+Interneto adresas: www.silutes-vandenys.lt
+Pirkėjo profilis: www.silutes-vandenys.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: e66bb24d-bcab-45cb-bbee-2ed9ea60ef24 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 31/01/2025 11:34 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

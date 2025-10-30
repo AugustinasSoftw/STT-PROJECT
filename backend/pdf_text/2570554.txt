@@ -1,0 +1,1458 @@
+Lietuva: Medicinos įranga
+ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Radviliškio ligoninė
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Procedūros identifikatorius: 4309e529-26af-4fa1-9c44-675397507ca4
+Ankstesnis skelbimas: 67b0b4db-67f8-46d2-beba-bfba359a0a17-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1. Vienkartinės adatos švirkštams
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2. Adata punkcinei biopsijai
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 24 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: .
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminaas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 3. Intraveniniai kateteriai
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: 4. Adatos
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: 5. Vienkartinės skysčių perpylimo sistemos
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: 6. Šlapimo kateteriai
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: 7. Vienkartinės slaugos priemonės
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: 8. Operaciniai apklotai
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: 9. Chirurginiai chalatai
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: 10. Paviršių, įrangos, slaugos priemonių valymo ir dezinfekcijos priemonės
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: 11. Alkoholinė dezinfekcinė priemonė rankų
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: 12. Operacinio lauko apruošimo priemonės
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0013
+Pavadinimas: 13.Oksiliuojantys peiliukai jėgos instrumentams
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 13
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0014
+Pavadinimas: 14. Anestezijos priemonės
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 14
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0015
+Pavadinimas: 15. Chirurginės siuvimo medžiagos adatos naudojamos žaizdoms siūti
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 15
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0016
+Pavadinimas: 16. Videolaparaskopinis tinklelis išvaržoms
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 16
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0017
+Pavadinimas: 17. Vakuuminės kraujo paėmimo sistemos, kraujo paėmimo sistemos
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 17
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0018
+Pavadinimas: 18. Medicininė tvarsliava
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 18
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0019
+Pavadinimas: 19. Implantai ilgųjų kaulų osteosintezei (Perkančioji organizacija, sutarties vykdymo metu, pasilieka 
+teisę vienus dydžius keisti į kitus dydžius mainų keliu)
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 19
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+5.1 Techninės ID dalies: LOT-0020
+Pavadinimas: 20. Aukšto lygio dezinfekcinė priemonė skirta rankiniam medicinos prietaisų apruošimui
+Aprašymas: ĮVAIRIOS MEDICININĖS PRIEMONĖS (1-20 dalys)
+Vidaus identifikatorius: 20
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Radviliškio ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Radviliškio ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 381 864,12 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 5 542 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17926
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 4 780,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17927
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: B.Braun Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027966
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 29 402 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17928
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 6 225 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17929
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 2 872,6 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17930
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Barameda"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 6 502,6 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17931
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Barameda"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 133 888 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17932
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Barameda"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 21 170 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17933
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB OneMed
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000026351
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 9 641,18 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17916
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 566,08 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17917
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0013
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: B.Braun Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027966
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0013
+Pasiūlymo vertė: 21 470 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17918
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0014
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0014
+Pasiūlymo vertė: 18 300 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17919
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0015
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028217
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0015
+Pasiūlymo vertė: 40 020 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17920
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0016
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Renalfarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028178
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0016
+Pasiūlymo vertė: 8 900 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17921
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0017
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028750
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0017
+Pasiūlymo vertė: 4 608,8 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17922
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0018
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: A.Tamošiūno įmonė
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028546
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0018
+Pasiūlymo vertė: 2 727,36 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17923
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0019
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB OSTECA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027195
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0019
+Pasiūlymo vertė: 64 120 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17924
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0020
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Vitrolab
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028216
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0020
+Pasiūlymo vertė: 1 128 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17925
+Sutarties sudarymo data: 20/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Radviliškio ligoninė
+Registracijos numeris: 171448341
+Pašto adresas: Gedimino g. 9 
+Miestas: Radviliškis
+Pašto kodas: 82174
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: dn.radviliskis@gmail.com
+Telefono numeris: +37042252435
+Interneto adresas: www.radviliskioligonine.lt
+Pirkėjo profilis: www.radviliskioligonine.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB OneMed
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111822140
+Pašto adresas: Perkūnkiemio g. 4A-505b 
+Miestas: Vilnius
+Pašto kodas: 12128
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: violeta.budriene@onemed.com
+Telefono numeris: 861953493
+Interneto adresas: www.onemed.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0010
+8.1 ORG-0003
+Oficialus pavadinimas: B.Braun Medical
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111551739
+Pašto adresas: Viršuliškių skg. 34-1 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: kestutis.liauba@bbraun.com
+Telefono numeris: +37052374333
+Fakso numeris: +37052374344
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004, LOT-0013
+8.1 ORG-0004
+Oficialus pavadinimas: A.Tamošiūno įmonė
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Organizacija yra fizinis asmuo
+Registracijos numeris: 147316390
+Pašto adresas: Marijonų g. 45 
+Miestas: Panevėžys
+Pašto kodas: 35125
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: info@atamosiunas.lt
+Telefono numeris: +37045581193
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0018
+8.1 ORG-0005
+Oficialus pavadinimas: Skirgesa
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 234449420
+Pašto adresas: Energetiku g. 8 
+Miestas: Kaunas
+Pašto kodas: 52369
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: skirmantas@skirgesa.lt
+Telefono numeris: +37069839755
+Fakso numeris: +37037458161
+Interneto adresas: www.skirgesa.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003, LOT-0005, LOT-0006, LOT-0012, LOT-0014, LOT-0015
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Renalfarma
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 301485538
+Pašto adresas: Žirmūnų 139A 
+Miestas: Vilnius
+Pašto kodas: 09120
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@renalfarma.lt
+Telefono numeris: +37052051452
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0016
+8.1 ORG-0007
+Oficialus pavadinimas: UAB OSTECA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300871049
+Pašto adresas: Danės g, 47 
+Miestas: Klaipėda
+Pašto kodas: LT-92108
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info@osteca.lt
+Telefono numeris: 8 46 400002
+Fakso numeris: 8 46 314094
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0019
+8.1 ORG-0008
+Oficialus pavadinimas: UAB Mediq Lietuva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302513086
+Pašto adresas: Kolektyvo g. 15-20, 08314 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 08314
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: inga.rinkeviciene@mediq.com
+Telefono numeris: 065288446
+Fakso numeris: 052688470
+Interneto adresas: www.mediq.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0017
+8.1 ORG-0009
+Oficialus pavadinimas: UAB Vitrolab
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 235279070
+Pašto adresas: Baltų pr. 36-11 
+Miestas: Kaunas
+Pašto kodas: LT-48196
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: konkursai@vitrolab.lt
+Telefono numeris: 037333317
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0020
+8.1 ORG-0010
+Oficialus pavadinimas: UAB "Barameda"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 303304004
+Pašto adresas: Perkunkiemio g. 3 
+Miestas: VILNIUS
+Pašto kodas: 12127
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: rb@barameda.com
+Telefono numeris: 865096966
+Interneto adresas: www.barameda.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0007, LOT-0008, LOT-0009
+8.1 ORG-0011
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro 83 
+Miestas: Šiauliai
+Pašto kodas: 82168
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0012
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: fb4108c7-22a3-4e7e-8a8b-e47c02cf27cf - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/06/2025 22:08 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,146 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+VMU Kontrahentų informacinės sistemos programavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VMU Kontrahentų informacinės sistemos programavimo paslaugos
+Aprašymas: VMU kontrahentų informacinės sistemos programavimo / testavimo / diegimo / vystymo / priežiūros ir 
+konsultavimo paslaugos, sukuriančios vieningą VMU kontrahentų informacinę sistemą.
+Procedūros identifikatorius: 4e484945-38a6-47c8-829c-6b5b9f267508
+Ankstesnis skelbimas: f467eca9-1050-4566-94b8-b14c804f0eb5-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: II kategorija - IS vystymo ir priežiūros paslaugos
+Aprašymas: VMU kontrahentų informacinės sistemos programavimo / testavimo / diegimo / vystymo / priežiūros ir 
+konsultavimo paslaugos, sukuriančios vieningą VMU kontrahentų informacinę sistemą.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 30 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Organizacija, atliekanti mokėjimus: Valstybės įmonė Valstybinių miškų urėdija (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 30 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Fintegry
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000076730
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 30 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34255
+Sutarties sudarymo data: 30/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Registracijos numeris: 132340880
+Pašto adresas: Pramonės pr. 11 A-9 
+Miestas: Kaunas
+Pašto kodas: 51327
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Ryšių centras: Inga Žilinskaitė
+E. paštas: inga.zilinskaite@vmu.lt
+Telefono numeris: +370 605 94227
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Fintegry
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302305605
+Pašto adresas: Vito Gerulaičio g. 10, Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marius.poskus@fintegry.com
+Telefono numeris: +37063186032
+Interneto adresas: www.fintegry.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c81dada6-bf13-4303-8847-9e31a2773999 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/10/2025 17:11 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

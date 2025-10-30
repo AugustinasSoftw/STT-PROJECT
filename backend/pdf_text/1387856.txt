@@ -1,0 +1,158 @@
+Lietuva: Transporto priemonių ir su jomis susijusių įrenginių remonto, priežiūros ir kitos 
+paslaugos
+Antstatų remontas ir atsarginės dalys
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Kauno švara"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Antstatų remontas ir atsarginės dalys
+Aprašymas: NTM atliekų surinkimo antstatų ant transporto priemonių įrangos remonto, techninės priežiūros paslaugų 
+ir atsarginių dalių pirkimas.
+Procedūros identifikatorius: 4bdf7ada-fd6b-445f-8d01-39e36b26f2d1
+Ankstesnis skelbimas: 4358d082-4ebf-46f5-a0d3-09059d092634-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 150 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Antstatų remontas ir atsarginės dalys
+Aprašymas: NTM atliekų surinkimo antstatų ant transporto priemonių įrangos remonto, techninės priežiūros paslaugų 
+ir atsarginių dalių pirkimas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 150 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB "Kauno švara" -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas -
+Organizacija, pasirašanti sutartį: UAB "Kauno švara"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 181 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Hidraulinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019212
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 80 851,97 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 5185
+Data, kurią buvo pasirinktas laimėtojas: 05/02/2025
+Sutarties sudarymo data: 13/02/2025
+Organizacija, pasirašanti sutartį: UAB "Kauno švara"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "Kauno švara"
+Registracijos numeris: 132616649
+Pašto adresas: Statybininkų g. 3 
+Miestas: Kaunas
+Pašto kodas: LT-50124
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: jurate.platakiene@svara.lt
+Telefono numeris: +37068794773
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Hidraulinės sistemos
+Registracijos numeris: 135197697
+Pašto adresas: Vandžiogalos pl. 106P, 
+Miestas: Domeikavos k., Kauno r.
+Pašto kodas: LT-54358
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: saulius@hs.lt
+Telefono numeris: +37061184767
+Interneto adresas: www.hs.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 132616649
+Pašto adresas: A. Mickevičiaus 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 68794773
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 122fb6f7-7e2f-4738-bcfd-3042c1fb2236 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 26/02/2025 11:32 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

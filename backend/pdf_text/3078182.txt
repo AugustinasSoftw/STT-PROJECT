@@ -1,0 +1,184 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Licencijavimo paslaugų sukūrimo sprendimo kokybės kontrolės ir testavimo paslaugų 
+pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Licencijavimo paslaugų sukūrimo sprendimo kokybės kontrolės ir testavimo paslaugų pirkimas
+Aprašymas: Pirkimo objektas - VIISP paslaugų dalies sprendimo kokybės kontrolės ir testavimo paslaugos.
+Procedūros identifikatorius: 609f4792-eb0c-4541-92eb-08b2a7a23e8f
+Ankstesnis skelbimas: 9ba64661-483f-4a89-a3c6-702c2fc01ecd-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 119 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Licencijavimo paslaugų sukūrimo sprendimo kokybės kontrolės ir testavimo paslaugų pirkimas
+Aprašymas: Pirkimo objektas - VIISP paslaugų dalies sprendimo kokybės kontrolės ir testavimo paslaugos.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Pasirinkimo galimybės:
+Galimybių aprašymas: Nurodyta Sutarties specialiosiose sąlygose.
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 05/06/2025
+Trukmės pabaigos data: 26/07/2026
+5.1.5 Vertė
+Numatoma vertė be PVM: 119 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nurodyta pirkimo dokumentuose.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT -
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 143 990 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "IO projects"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000051714
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 88 209 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Taip
+Subrangos vertė žinoma: taip
+Subrangos vertė: 23 474 Euro
+Subrangos procentinė dalis žinoma: ne
+Aprašymas: UAB "Netcode" ir UAB "Dizi"
+Informacija apie sutartį:
+Sutarties identifikatorius: 6F-123(2025)
+Data, kurią buvo pasirinktas laimėtojas: 27/05/2025
+Sutarties sudarymo data: 05/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-087-P-0003
+Išsamesnė informacija apie ES fondus: 2021-2030 metų Lietuvos Respublikos ekonomikos ir inovacijų 
+ministerijos valstybės skaitmeninimo plėtros programos pažangos priemonės Nr. 05-002-01-07-08 „Kurti 
+technologinius sprendimus ir įrankius, leidžiančius saugiai ir patogiai naudotis paslaugomis“ Projektas Nr. 
+02-087-P-0003 „Licencijavimo proceso modernizavimas ir standartizavimas“.
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: svetlana.starinskaja@cpo.lt
+Telefono numeris: +370 666 29087
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "IO projects"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302444537
+Pašto adresas: V. Gerulaičio g. 10 
+Miestas: Vilnius
+Pašto kodas: 08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.rackauskaite@ioprojects.lt
+Telefono numeris: +370 611 40150
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01505
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Valstybės skaitmeninių sprendimų agentūra
+Registracijos numeris: 188772433
+Pašto adresas: Konstitucijos pr. 15-89 
+Miestas: Vilnius
+Pašto kodas: 09319
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: dd64aa9a-83ed-4b9f-aad9-abd9dac2cdec - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 05/06/2025 16:51 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

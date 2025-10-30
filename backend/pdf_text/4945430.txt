@@ -1,0 +1,342 @@
+Lietuva: Radioterapijos, mechanoterapijos, elektraterapijos ir fizioterapijos prietaisai
+Fizioterapijos įranga (elektroterapijos aparatas su ultragarsu, magnetinės stimuliacijos 
+aparatas, lazeris, limfodrenažo aparatas) (Atviras konkursas, ID 2639682)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Fizioterapijos įranga (elektroterapijos aparatas su ultragarsu, magnetinės stimuliacijos aparatas, lazeris, 
+limfodrenažo aparatas) (Atviras konkursas, ID 2639682)
+Aprašymas: Fizioterapijos įranga (elektroterapijos aparatas su ultragarsu, magnetinės stimuliacijos aparatas, lazeris, 
+limfodrenažo aparatas) (Atviras konkursas, ID 2639682)
+Procedūros identifikatorius: bffe699a-6109-4ab1-9f5e-bb3f4559dc11
+Ankstesnis skelbimas: aed767d2-1ab0-4fe8-b6da-ba41447b5b6e-01
+Vidaus identifikatorius: 2639682
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33150000 Radioterapijos, mechanoterapijos, elektraterapijos ir fizioterapijos 
+prietaisai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninės Kauno klinikų filialas Druskininkų reabilitacijos 
+centras „Dainava“, Maironio g. 22, LT66116, Druskininkai.
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Elektroterapijos aparatas su ultragarsu
+Aprašymas: Elektroterapijos aparatas su ultragarsu 1 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33150000 Radioterapijos, mechanoterapijos, elektraterapijos ir fizioterapijos 
+prietaisai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninės Kauno klinikų filialas Druskininkų reabilitacijos 
+centras „Dainava“, Maironio g. 22, LT66116, Druskininkai.
+5.1.3 Numatomas galiojimas
+Galiojimas: 4 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai vertinami pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Magnetinės stimuliacijos aparatas
+Aprašymas: Magnetinės stimuliacijos aparatas 1 vnt.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33150000 Radioterapijos, mechanoterapijos, elektraterapijos ir fizioterapijos 
+prietaisai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninės Kauno klinikų filialas Druskininkų reabilitacijos 
+centras „Dainava“, Maironio g. 22, LT66116, Druskininkai.
+5.1.3 Numatomas galiojimas
+Galiojimas: 4 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai vertinami pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Lazeris
+Aprašymas: Lazeris 1 vnt.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33150000 Radioterapijos, mechanoterapijos, elektraterapijos ir fizioterapijos 
+prietaisai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninės Kauno klinikų filialas Druskininkų reabilitacijos 
+centras „Dainava“, Maironio g. 22, LT66116, Druskininkai.
+5.1.3 Numatomas galiojimas
+Galiojimas: 4 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai vertinami pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Limfodrenažo aparatas
+Aprašymas: Limfodrenažo aparatas 1 vnt.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33150000 Radioterapijos, mechanoterapijos, elektraterapijos ir fizioterapijos 
+prietaisai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninės Kauno klinikų filialas Druskininkų reabilitacijos 
+centras „Dainava“, Maironio g. 22, LT66116, Druskininkai.
+5.1.3 Numatomas galiojimas
+Galiojimas: 4 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai vertinami pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 15 110 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Meda LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000068733
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 110 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33067
+Data, kurią buvo pasirinktas laimėtojas: 25/07/2025
+Sutarties sudarymo data: 12/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Salmeda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000068913
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 12 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33068
+Data, kurią buvo pasirinktas laimėtojas: 19/09/2025
+Sutarties sudarymo data: 08/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Registracijos numeris: 135163499
+Pašto adresas: Eivenių g. 2 
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: lina.glebe@kaunoklinikos.lt
+Telefono numeris: +370 37326787
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Salmeda
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123500866
+Pašto adresas: Vakarinė g. 105 
+Miestas: Vilnius
+Pašto kodas: 06298
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: med@salmeda.lt
+Telefono numeris: +37060047050
+Interneto adresas: www.salmeda.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Meda LT
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 303245883
+Pašto adresas: Šaltalankių g.1, Klevinė 
+Miestas: Vilnius
+Pašto kodas: 14180
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@meda.lt
+Telefono numeris: +37061626655
+Interneto adresas: www.meda.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +37037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 11640108-4d43-44c3-856e-3930ce6ba5a5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/10/2025 15:31 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

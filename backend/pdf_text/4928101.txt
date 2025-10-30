@@ -1,0 +1,217 @@
+Lietuva: Įvairūs baldai
+Įvairūs baldai (Domeikavos m-la)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Įvairūs baldai (Domeikavos m-la)
+Aprašymas: Perkami įvairūs baldai ( pastatomų baldų komplektai ir gaminiai bei gaminami baldai) Domeikavos 
+pradinei mokyklai
+Procedūros identifikatorius: 034c1fec-fded-4451-8949-1d730108a730
+Ankstesnis skelbimas: 6f286352-14c1-4ee1-acf6-d72bd792cdd7-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39151000 Įvairūs baldai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pastatomų baldų komplektai ir gaminiai
+Aprašymas: Perkami įvairūs baldai ( pastatomų baldų komplektai ir gaminiai bei gaminami baldai) Domeikavos 
+pradinei mokyklai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39151000 Įvairūs baldai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 3 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pagal mažiausios kainos kriterijų
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Vertinama pagal mažiausios 
+kainos kriterijų
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kauno rajono Domeikavos gimnazija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Gaminami baldai
+Aprašymas: Perkami įvairūs baldai ( pastatomų baldų komplektai ir gaminiai bei gaminami baldai) Domeikavos 
+pradinei mokyklai
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39151000 Įvairūs baldai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kauno rajono Domeikavos gimnazija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 119 124,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Town projects
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000076943
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 51 546 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SR2-96
+Data, kurią buvo pasirinktas laimėtojas: 26/09/2025
+Sutarties sudarymo data: 10/10/2025
+Organizacija, pasirašanti sutartį: Kauno rajono Domeikavos gimnazija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Town projects
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000076943
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 67 578,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SR2-95
+Data, kurią buvo pasirinktas laimėtojas: 26/09/2025
+Sutarties sudarymo data: 10/10/2025
+Organizacija, pasirašanti sutartį: Kauno rajono Domeikavos gimnazija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Registracijos numeris: 188756386
+Pašto adresas: Savanorių pr. 371 
+Miestas: Kaunas
+Pašto kodas: LT-49386
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: rita.misiuniene@krs.lt
+Telefono numeris: +370 37303114
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Town projects
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 306100583
+Pašto adresas: Algimanto Mackaus g. 6 
+Miestas: Vilnius
+Pašto kodas: 08442
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilma.bruziene@townprojects.lt
+Telefono numeris: +37061227012
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372423
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Kauno rajono Domeikavos gimnazija
+Registracijos numeris: 191090122
+Miestas: Domeikava , Kauno r.
+Pašto kodas: 54349
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1745a5b5-0969-461a-96c4-6dafa7347a82 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/10/2025 13:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

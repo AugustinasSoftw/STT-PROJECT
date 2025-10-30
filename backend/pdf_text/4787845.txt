@@ -1,0 +1,135 @@
+Lietuva: Reklamos ir rinkodaros paslaugos
+Skaitmeninės rinkodaros paslaugos (atviras projekto konkursas)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Skaitmeninės rinkodaros paslaugos (atviras projekto konkursas)
+Aprašymas: Konkurso tikslas: įsigyti skaitmeninės rinkodaros paslaugas (toliau - pirkimo objektas, paslaugos). 
+Pirkimo sutarties pasirašymą organizuos ir pirkimo sutartį pasirašys - VŠĮ Go Vilnius. Šio konkurso I-os vietos 
+laimėtojas sudarys pirkimo sutartį su perkančiąja organizacija dėl savo pasiūlyto projekto idėjos įgyvendinimo.
+Procedūros identifikatorius: a91c76c9-d19d-458d-8113-6a7004647302
+Ankstesnis skelbimas: b769ff8c-2979-4ffd-a8d7-941570dd5f21-01
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79340000 Reklamos ir rinkodaros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Skaitmeninės rinkodaros paslaugos (atviras projekto konkursas)
+Aprašymas: Konkurso tikslas: įsigyti skaitmeninės rinkodaros paslaugas (toliau - pirkimo objektas, paslaugos). 
+Pirkimo sutarties pasirašymą organizuos ir pirkimo sutartį pasirašys - VŠĮ Go Vilnius. Šio konkurso I-os vietos 
+laimėtojas sudarys pirkimo sutartį su perkančiąja organizacija dėl savo pasiūlyto projekto idėjos įgyvendinimo.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79340000 Reklamos ir rinkodaros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, pasirašanti sutartį: Viešoji įstaiga „Go Vilnius“
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: SuperYou
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069565
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Data, kurią buvo pasirinktas laimėtojas: 05/08/2025
+Organizacija, pasirašanti sutartį: Viešoji įstaiga „Go Vilnius“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Registracijos numeris: 188710061
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: VILNIUS
+Pašto kodas: LT-09601
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.vaitiekunaite@vilnius.lt
+Telefono numeris: +37052112693
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: SuperYou
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302705193
+Pašto adresas: Švitrigailos 11b 
+Miestas: Vilnius
+Pašto kodas: 03228
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: mindaugas@superyou.lt
+Telefono numeris: +37068646164
+Interneto adresas: www.superyou.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Viešoji įstaiga „Go Vilnius“
+Registracijos numeris: 123641468
+Miestas: Vilnius
+Pašto kodas: LT-01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f80b9825-2879-45b9-b700-6d1292d5cbf6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 02/10/2025 13:30 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

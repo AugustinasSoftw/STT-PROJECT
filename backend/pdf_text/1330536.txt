@@ -1,0 +1,130 @@
+Lietuva: Statybos darbai
+745176 Kultūros paskirties pastato Arsenalo g. 1, Vilniuje, rekonstravimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos nacionalinis muziejus
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 745176 Kultūros paskirties pastato Arsenalo g. 1, Vilniuje, rekonstravimas
+Aprašymas: Perkami kultūros paskirties pastato Arsenalo g. 1, Vilniuje, rekonstravimo darbai ir darbo projekto bei 
+tvarkybos brėžinių parengimo paslaugos pagal Arkikatedros bazilikos, žemutinės ir aukštutinės pilių pastatų, jų liekanų 
+ir kitų statinių komplekso (u. k. 642) Naujojo Arsenalo (u. k. 24704), Arsenalo g. 1, Vilniuje, tvarkybos darbų projektą ir 
+rekonstravimo projektą.
+Procedūros identifikatorius: a574d354-a750-4112-9b39-b80a6e050381
+Ankstesnis skelbimas: 676428-2024
+Vidaus identifikatorius: 745176
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kultūros paskirties pastato Arsenalo g. 1, Vilniuje, rekonstravimas
+Aprašymas: Perkami kultūros paskirties pastato Arsenalo g. 1, Vilniuje, rekonstravimo darbai ir darbo projekto bei 
+tvarkybos brėžinių parengimo paslaugos pagal Arkikatedros bazilikos, žemutinės ir aukštutinės pilių pastatų, jų liekanų 
+ir kitų statinių komplekso (u. k. 642) Naujojo Arsenalo (u. k. 24704), Arsenalo g. 1, Vilniuje, tvarkybos darbų projektą ir 
+rekonstravimo projektą.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: K= Tiekėjo pasiūlyme nurodyta bendra pasiūlymo kaina su PVM (Eur)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 99,97
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Alkoholio kontrolės darbe sistema Jei vertinamo pasiūlymo reikšmė "Taip" , T = 5000,00; Jei vertinamo 
+pasiūlymo reikšmė "Ne", T = 0
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 0,03
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas ne dėl to, kad gautas dalyvio prašymas 
+peržiūrėti sprendimą dėl sutarties skyrimo, o dėl techninių ar procedūrinių klaidų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvių, įregistruotų ne Europos ekonominės erdvės šalyse, pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos nacionalinis muziejus
+Registracijos numeris: 190756849
+Pašto adresas: Arsenalo g. 1 
+Miestas: Vilnius
+Pašto kodas: LT-01143
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: mindaugas.kaikaris@lnm.lt
+Telefono numeris: +37060013389
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: a64ded6b-f828-4d8c-a21c-dfd3ecc937e4 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/02/2025 16:38 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

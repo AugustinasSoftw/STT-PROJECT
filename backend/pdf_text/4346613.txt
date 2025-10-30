@@ -1,0 +1,141 @@
+Lietuva: Atnaujinimo darbai
+Vilniaus Taikos progimnazijos, Taikos g. 157, paprastojo remonto darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vilniaus Taikos progimnazijos, Taikos g. 157, paprastojo remonto darbai
+Aprašymas: Vilniaus Taikos progimnazijos, Taikos g. 157, paprastojo remonto darbai
+Procedūros identifikatorius: 7cae5156-e20c-41f6-80c1-f56ba7f59322
+Ankstesnis skelbimas: 368a2275-60b1-42cb-9f77-d31c5df85cb2-01
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453100 Atnaujinimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: II kategorija: Ypatingi negyvenamieji pastatai (mokslo paskirties)
+Aprašymas: Vilniaus Taikos progimnazijos, Taikos g. 157, paprastojo remonto darbai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453100 Atnaujinimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Eilės tvarka pagal svarbą
+Skyrimo kriterijus: skaičius: 1
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Nėra
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Uždaroji akcinė bendrovė „Vilniaus vystymo 
+kompanija“
+Organizacija, atliekanti mokėjimus: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 114 226,19 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ederas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000086093
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 114 226,19 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27067
+Sutarties sudarymo data: 21/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Registracijos numeris: 120750163
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: Vilnius
+Pašto kodas: LT-09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: viktorija.soldatenko@vilniausvystymas.lt
+Telefono numeris: +370 685 43512
+Pirkėjo profilis: www.vilniausvystymas.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Ederas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304896594
+Pašto adresas: Giesmių g. 1-2 
+Miestas: Vilnius
+Pašto kodas: LT-14167
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ederas.lt
+Telefono numeris: 865163884
+Interneto adresas: www.ederas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: e97813f8-0c41-4f1f-b02d-892c164d5787 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/09/2025 07:24 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

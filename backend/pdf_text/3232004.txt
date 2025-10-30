@@ -1,0 +1,1424 @@
+Lietuva: Medicinos reikmenys
+Intervencinės priemonės
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Intervencinės priemonės
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Procedūros identifikatorius: 32148e13-dc85-4097-901a-f7a65ffd644b
+Ankstesnis skelbimas: 63997b49-34a0-491f-81d8-0fe4fc2e0c7b-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Žnyplės miokardo biopsijai
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: “Male-male” jungtis:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Aukšto slėgimo švirkštas automatiniam injektoriui:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Intraaortinės kontrapulsacijos balionai, tinkami Datascope aparatams:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Helio balionas 2 ltr., tinkantis Datascope aparatams
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Intraaortinės kontrapulsacijos balionai, tinkami Arrows aparatams:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Helio balionas 2 ltr., tinkantis Arrows aparatams
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Manifoldas (kolektorius):
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: PTKA rinkinys su aukšto slėgio manometru
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Manometras PTKA ir PTA
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: RINKINYS ANGIOPLASTIKAI:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: Koronarinių arterijų dengtas stentas (stentgraftas):
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0013
+Pavadinimas: Radialinio indrodiuserio ir a. radialis užspaudėjo rinkinys kompleksiniam PKI
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 13
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0014
+Pavadinimas: „Pigtail“ tipo graduotas diagnostinis kateteris 5F diametro:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 14
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0015
+Pavadinimas: Intravaskulinio ultragarso (IVUS) kateteriai vainikinėms arterijoms ir aortai:
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 15
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0016
+Pavadinimas: Vielos frakcijinio tėkmės rezervo (FFR - fractional flow reserve) matavimui
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 16
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0017
+Pavadinimas: Kontrasto-skysčių dozavimo sistema
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 17
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0018
+Pavadinimas: Rinkinys, skirtas šlaunikaulio kompresijai po širdies kateterizacijos procedūrų ar kitų intervencinių 
+procedūrų
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 18
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0019
+Pavadinimas: Ilgi hidrofiliniai įvedėjai periferinėms procedūroms
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 19
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+5.1 Techninės ID dalies: LOT-0020
+Pavadinimas: Kraujagyslių uždarymo sistema didelio diametro arterijoms
+Aprašymas: Intervencinės priemonės reikalingos kardiologinių ir angiologinių pacientų gydymui.
+Vidaus identifikatorius: 20
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ 4.4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+Organizacija, atliekanti mokėjimus: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 099 728 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022130
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 354 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21978
+Sutarties sudarymo data: 28/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022130
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 4 275 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21979
+Sutarties sudarymo data: 19/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ilsanta
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 5 970 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21980
+Sutarties sudarymo data: 17/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ilsanta
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 2 370 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21981
+Sutarties sudarymo data: 17/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Baltics Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000014914
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 9 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21982
+Sutarties sudarymo data: 31/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022130
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 2 268 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21983
+Sutarties sudarymo data: 28/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medex Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018911
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 4 860 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21984
+Sutarties sudarymo data: 31/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medex Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018911
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 3 411 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21969
+Sutarties sudarymo data: 31/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Formedics"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018947
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 8 520 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21970
+Sutarties sudarymo data: 19/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0013
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AmberCell Solutions UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018989
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0013
+Pasiūlymo vertė: 261 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21971
+Sutarties sudarymo data: 18/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0014
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Baltics Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000014914
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0014
+Pasiūlymo vertė: 3 480 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21972
+Sutarties sudarymo data: 31/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0015
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Formedics"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018947
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0015
+Pasiūlymo vertė: 169 470 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21973
+Sutarties sudarymo data: 25/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0016
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Formedics"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018947
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0016
+Pasiūlymo vertė: 432 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21974
+Sutarties sudarymo data: 25/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0017
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0018
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Bonameda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019023
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0018
+Pasiūlymo vertė: 71 400 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21975
+Sutarties sudarymo data: 26/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0019
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Bonameda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019023
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0019
+Pasiūlymo vertė: 26 850 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21976
+Sutarties sudarymo data: 26/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0020
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Bonameda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019023
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0020
+Pasiūlymo vertė: 94 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21977
+Sutarties sudarymo data: 26/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+Registracijos numeris: 306207585
+Pašto adresas: Liepojos g. 41 
+Miestas: Klaipėda
+Pašto kodas: 92288
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: kul@kul.lt
+Telefono numeris: +37046396600
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Skirgesa
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 234449420
+Pašto adresas: Energetiku g. 8 
+Miestas: Kaunas
+Pašto kodas: 52369
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: skirmantas@skirgesa.lt
+Telefono numeris: +37069839755
+Fakso numeris: +37037458161
+Interneto adresas: www.skirgesa.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003, LOT-0008
+8.1 ORG-0003
+Oficialus pavadinimas: AmberCell Solutions UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302591590
+Pašto adresas: Sendvario g. 12, Sudmantai 
+Miestas: Klaipėdos raj.
+Pašto kodas: 96327
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: lina.rusteikiene@ambercell.eu
+Telefono numeris: +370 640 52910
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0013
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Baltics Medical
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302723907
+Pašto adresas: Subačiaus g. 83-14, LT-11342 Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-11342
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: home@balticsmedical.com
+Telefono numeris: +37065097779
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0006, LOT-0014
+8.1 ORG-0005
+Oficialus pavadinimas: Bonameda
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 140927183
+Pašto adresas: Draugystės g. 17-1 
+Miestas: Kaunas
+Pašto kodas: LT-51229
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@bonameda.com
+Telefono numeris: +370 37 280710
+Fakso numeris: +370 37 280700
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0018, LOT-0019, LOT-0020
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Ilsanta
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110498671
+Pašto adresas: Saltoniškių g. 29 
+Miestas: Vilnius
+Pašto kodas: 08105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ilsanta.lt
+Telefono numeris: 0 5 269 1610
+Interneto adresas: www.ilsanta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004, LOT-0005
+8.1 ORG-0007
+Oficialus pavadinimas: UAB Medex Baltic
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300637605
+Pašto adresas: Rokelių g.10 
+Miestas: Kaunas
+Pašto kodas: 46148
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@medex.lt
+Telefono numeris: +37067765241
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0009, LOT-0010
+8.1 ORG-0008
+Oficialus pavadinimas: UAB "Formedics"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124980311
+Pašto adresas: Senosios Pilaitės kl. 1 
+Miestas: Vilnius
+Pašto kodas: 06229
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@formedics.lt
+Telefono numeris: +37052623070
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0011, LOT-0015, LOT-0016
+8.1 ORG-0009
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390690
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0010
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 792ff6e3-833f-4cac-9c95-f7eca78d837d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/06/2025 16:37 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

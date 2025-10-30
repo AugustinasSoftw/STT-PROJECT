@@ -1,0 +1,285 @@
+Lietuva: Drabužiai, apsaugantys nuo biologinio ir cheminio poveikio
+BRANDUOLINĖS, BIOLOGINĖS, CHEMINĖS IR RADIOLOGINĖS APSAUGOS PRIEMONĖS, 
+ĮRANGA IR MĖGINIŲ PAĖMIMO KOMPLEKTAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Pirkėjas yra perkantysis subjektas
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: BRANDUOLINĖS, BIOLOGINĖS, CHEMINĖS IR RADIOLOGINĖS APSAUGOS PRIEMONĖS, 
+ĮRANGA IR MĖGINIŲ PAĖMIMO KOMPLEKTAS
+Aprašymas: BRANDUOLINĖS, BIOLOGINĖS, CHEMINĖS IR RADIOLOGINĖS APSAUGOS PRIEMONĖS, ĮRANGA 
+IR MĖGINIŲ PAĖMIMO KOMPLEKTAS
+Procedūros identifikatorius: 1d26783f-83b9-4740-aeec-36cc3585aaed
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35113410 Drabužiai, apsaugantys nuo biologinio ir cheminio poveikio
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2009/81/EB
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: CBRN apsauginės pirštinės
+Aprašymas: CBRN apsauginės pirštinės
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35113410 Drabužiai, apsaugantys nuo biologinio ir cheminio poveikio
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 186 485 Euro
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nustatyta pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nustatyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: CBRN apsauginė avalynė
+Aprašymas: CBRN apsauginė avalynė
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35113410 Drabužiai, apsaugantys nuo biologinio ir cheminio poveikio
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 284 388 Euro
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Kaip numatyta pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Kaip numatyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Apsauginis CBRN apsiaustas
+Aprašymas: Apsauginis CBRN apsiaustas
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35113410 Drabužiai, apsaugantys nuo biologinio ir cheminio poveikio
+Kiekis: 21 300 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Kaip nustatyta pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Kaip nustatyta pirkimo dokumentuose
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: CBRN mėginių paėmimo komplektas
+Aprašymas: CBRN mėginių paėmimo komplektas
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35113410 Drabužiai, apsaugantys nuo biologinio ir cheminio poveikio
+Kiti klasifikacijos kodai (cpv): 35113200 Branduolinės, biologinės, cheminės ir radiologinės apsaugos įrenginiai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 306 060 Euro
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Kaip numatyta pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Kaip numatyta pirkimo dokumentuose
+Organizacija, pasirašanti sutartį: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 875 816 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB ProGear LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 225 646 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1
+Sutarties sudarymo data: 26/02/2025
+Organizacija, pasirašanti sutartį: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB ProGear LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 344 109 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2
+Sutarties sudarymo data: 01/03/2025
+Organizacija, pasirašanti sutartį: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Saab Dynamics
+Pasiūlymas:
+Pasiūlymo identifikatorius: 3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 306 060 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 3
+Sutarties sudarymo data: 23/12/2024
+Organizacija, pasirašanti sutartį: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Registracijos numeris: 304740061
+Pašto adresas: Giedraičių g. 41 
+Miestas: Vilnius
+Pašto kodas: 09303
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vygantas.martisiunas@kam.lt
+Telefono numeris: +370 680 65 613
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB ProGear LT
+Miestas: Vilnius
+Pašto kodas: 03151
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0005
+Oficialus pavadinimas: AB Saab Dynamics
+Pašto adresas: Boforsvägen 1 
+Miestas: Karlskoga
+Pašto kodas: SE-69180
+Šalies administracinis vienetas (NUTS): Nord (FRE11)
+Šalis: Švedija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 66bc8ef7-58a4-4784-a3f0-3e28d5f161ad - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/04/2025 10:50 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

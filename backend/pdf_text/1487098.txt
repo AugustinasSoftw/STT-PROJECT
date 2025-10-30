@@ -1,0 +1,116 @@
+Lietuva: Katilinių statybos darbai
+Elektrostatinio filtro Palangos katilinėje techninis darbo projektas ir rangos darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Palangos šilumos tinklai (PV)
+Pirkėjo teisinė forma: Organizacija, skirianti sutartį, subsidijuojamą vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Elektrostatinio filtro Palangos katilinėje techninis darbo projektas ir rangos darbai
+Aprašymas: Elektrostatinio filtro Palangos katilinėje techninis darbo projektas ir rangos darbai
+Procedūros identifikatorius: 26705aad-3801-4b9a-94bb-200ed60f0a0b
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45251200 Katilinių statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Elektrostatinio filtro Palangos katilinėje techninis darbo projektas ir rangos darbai
+Aprašymas: Elektrostatinio filtro Palangos katilinėje techninis darbo projektas ir rangos darbai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45251200 Katilinių statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nurodyta pirkimo sąlygose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyta pirkimo sąlygose
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Palangos šilumos tinklai (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Palangos šilumos tinklai (PV) -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Peržiūros institucijos arba kitos teisminės institucijos sprendimas
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvavimo prašymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Palangos šilumos tinklai (PV)
+Registracijos numeris: 152697886
+Pašto adresas: Klaipėdos pl.63 
+Miestas: Palanga
+Pašto kodas: LT-00148
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: monika.vidzge@palangosst.lt
+Telefono numeris: 068392126
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26, LT-92131 Klaipėda 
+Miestas: Vilnius
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c5dbddfc-6b0c-42f2-ba4c-243a9143e73f - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/03/2025 15:11 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

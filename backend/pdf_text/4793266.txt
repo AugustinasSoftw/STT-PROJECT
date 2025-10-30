@@ -1,0 +1,390 @@
+Lietuva: Ekspertų paslaugos
+Techninių, techninių darbo, darbo projektų ekspertizės paslauga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Techninių, techninių darbo, darbo projektų ekspertizės paslauga
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis: I pirkimo objekto dalis - Magistralinio, 
+krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto ekspertizė. II 
+pirkimo objekto dalis - Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė. III pirkimo objekto dalis - Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė. IV - Specialioji 
+projekto ekspertizė.
+Procedūros identifikatorius: c92113d4-e343-4236-b99b-c7135f39638c
+Ankstesnis skelbimas: 73cc12df-6084-4a9c-a25c-308979379912-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Magistralinio, krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. Eur 
+su PVM projekto ekspertizė
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis: I pirkimo objekto dalis - Magistralinio, 
+krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto ekspertizė. II 
+pirkimo objekto dalis - Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė. III pirkimo objekto dalis - Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė. IV - Specialioji 
+projekto ekspertizė.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė.
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis: I pirkimo objekto dalis - Magistralinio, 
+krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto ekspertizė. II 
+pirkimo objekto dalis - Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė. III pirkimo objekto dalis - Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė. IV - Specialioji 
+projekto ekspertizė.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis: I pirkimo objekto dalis - Magistralinio, 
+krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto ekspertizė. II 
+pirkimo objekto dalis - Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė. III pirkimo objekto dalis - Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė. IV - Specialioji 
+projekto ekspertizė.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Specialioji projekto ekspertizė
+Aprašymas: Pirkimo objektas skaidomas į 4 (keturias) pirkimo objekto dalis: I pirkimo objekto dalis - Magistralinio, 
+krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto ekspertizė. II 
+pirkimo objekto dalis - Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė. III pirkimo objekto dalis - Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė. IV - Specialioji 
+projekto ekspertizė.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 450 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB DARBASTA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000088164
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 37 105,75 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31916
+Pavadinimas: Specialioji projekto ekspertizė
+Data, kurią buvo pasirinktas laimėtojas: 19/08/2025
+Sutarties sudarymo data: 02/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Statybos projektų ekspertizės centras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000086410
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 70 838,25 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 10
+Aprašymas: V. Žulio firma "KUMPONAS"
+Informacija apie sutartį:
+Sutarties identifikatorius: 31917
+Pavadinimas: Statinio statybos (tiltų, viadukų, estakadų ir kt.) projekto ekspertizė
+Data, kurią buvo pasirinktas laimėtojas: 19/09/2025
+Sutarties sudarymo data: 02/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Statybos ekspertų biuras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087733
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 134 472,62 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31918
+Pavadinimas: Magistralinio kelio kapitalinio remonto SMD nuo 1000 tūkst. iki 3000 tūkst. Eur su PVM projekto 
+ekspertizė
+Data, kurią buvo pasirinktas laimėtojas: 18/09/2025
+Sutarties sudarymo data: 02/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ekspertika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087681
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 76 741,44 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31919
+Pavadinimas: Magistralinio, krašto, rajoninio kelio rekonstravimo ir statybos SMD nuo 1000 tūkst. iki 3000 tūkst. 
+Eur su PVM projekto ekspertizė
+Data, kurią buvo pasirinktas laimėtojas: 18/09/2025
+Sutarties sudarymo data: 02/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: kristina.salomskiene@vialietuva.lt
+Telefono numeris: +370 62071785
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Statybos projektų ekspertizės centras"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124850887
+Pašto adresas: Kęstučio g. 59 
+Miestas: Vilnius
+Pašto kodas: LT-08124
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ekspertize.com
+Telefono numeris: 852312912
+Interneto adresas: www.ekspertize.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: UAB DARBASTA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123436424
+Pašto adresas: Švarioji g. 34-3 
+Miestas: Vilnius
+Pašto kodas: 09235
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: valdas.pletas@darbasta.lt
+Telefono numeris: +37068726659
+Interneto adresas: www.darbasta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Ekspertika
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135840360
+Pašto adresas: A.Baranausko g. 19 
+Miestas: Kaunas
+Pašto kodas: 50329
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@ekspertika.lt
+Telefono numeris: +37065028262
+Interneto adresas: www.ekspertika.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004
+8.1 ORG-0005
+Oficialus pavadinimas: UAB "Statybos ekspertų biuras"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124694192
+Pašto adresas: Kalvarijų g.300-105 
+Miestas: Vilnius
+Pašto kodas: 08318
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: mantas@sebekspertize.lt
+Telefono numeris: +37052725231
+Interneto adresas: www.sebekspertize.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0006
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0007
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 8575720b-d4b6-4346-9a77-2f44d43170da - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/10/2025 16:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,147 @@
+Lietuva: Statybos darbų priežiūra
+„Valstybinės reikšmės magistralinio kelio A16 Vilnius - Prienai - Marijampolė 25,312 km 
+viaduko rekonstravimo“ techninės priežiūros paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: „Valstybinės reikšmės magistralinio kelio A16 Vilnius - Prienai - Marijampolė 25,312 km viaduko 
+rekonstravimo“ techninės priežiūros paslaugos
+Aprašymas: Pirkimo objektas į dalis neskaidomas, Tiekėjas turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Procedūros identifikatorius: 30bf4ba3-2163-461b-9c94-2de0d779f63b
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71247000 Statybos darbų priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: X kategorija.Techninės priežiūros paslaugos kelių ir kitų transporto statinių naujos statybos, 
+rekonstravimo ir remonto darbų objektams, kurių SMD virš 1.000.000 Eur be PVM
+Aprašymas: Pirkimo objektas į dalis neskaidomas, Tiekėjas turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71247000 Statybos darbų priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: papildoma patirtis (50 proc.) +socialinis kriterijus (20 proc.)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 37 182,6 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB "VIAMATIKA"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000103914
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 30 729,42 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34661
+Data, kurią buvo pasirinktas laimėtojas: 15/10/2025
+Sutarties sudarymo data: 17/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: kristina.salomskiene@vialietuva.lt
+Telefono numeris: +370 62071785
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: AB "VIAMATIKA"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 120721845
+Pašto adresas: Granito g. 3-101 
+Miestas: Vilnius
+Pašto kodas: 02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: pirkimai@viamatika.lt
+Telefono numeris: +37067889384
+Interneto adresas: www.viamatika.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 52d0bce4-7981-48c7-81bc-d163a962a116 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/10/2025 13:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

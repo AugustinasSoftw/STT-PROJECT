@@ -1,0 +1,230 @@
+Lietuva: Medicinos įranga
+Ultragarso aparatai Rokiškio rajono ligoninei
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Rokiškio rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Ultragarso aparatai Rokiškio rajono ligoninei
+Aprašymas: Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede.
+Procedūros identifikatorius: 5cdf5ecb-d153-4b39-be54-674312f2c959
+Ankstesnis skelbimas: 17864338-168f-4b5a-bc4f-6e8a1e0a4069-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 170 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Ultragarsiniams tyrimams atlikti reikalinga medicinos priemonė
+Aprašymas: Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 170 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Rokiškio rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Rokiškio rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Rokiškio rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Mobilus ultragarso aparatas (su kraujagysliniu davikliu)
+Aprašymas: Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 170 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 22
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Rokiškio rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Rokiškio rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Rokiškio rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 137 032,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Tradintek“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000057277
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 82 098,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22170
+Sutarties sudarymo data: 04/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: Projekto Nr. 09-029-P-0003
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Tradintek“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000057277
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 54 934 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22171
+Sutarties sudarymo data: 11/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: Projekto Nr. 09-029-P-0003
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Rokiškio rajono savivaldybės administracija
+Registracijos numeris: 188772248
+Pašto adresas: Sąjūdžio a. 1 
+Miestas: Rokiškis
+Pašto kodas: 42136
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: j.balaisiene@rokiskis.lt
+Telefono numeris: +37061006262
+Pirkėjo profilis: www.rokiskis.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Tradintek“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124942182
+Pašto adresas: J.Jasinskio g. 9 
+Miestas: Vilnius
+Pašto kodas: 01112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tomas.mickunaitis@tradintek.com
+Telefono numeris: +37052685427
+Fakso numeris: +37052496084
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 07af5fe5-0197-4234-9b40-d0b96fe89022 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/06/2025 09:43 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

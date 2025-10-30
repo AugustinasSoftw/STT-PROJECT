@@ -1,0 +1,129 @@
+Lietuva: Geležinkelių tiesimo darbai
+740346 AB KVJUD nuosavybės teise valdomų geležinkelio kelių ir jų statinių eksploataciniai 
+remonto darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 740346 AB KVJUD nuosavybės teise valdomų geležinkelio kelių ir jų statinių eksploataciniai remonto 
+darbai
+Aprašymas: AB KVJUD nuosavybės teise valdomų geležinkelio kelių ir jų statinių eksploataciniai remonto darbai
+Procedūros identifikatorius: 538c1bc4-5fd1-4b07-b046-e5860fb2935e
+Ankstesnis skelbimas: 589326-2024
+Vidaus identifikatorius: 740346
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45234100 Geležinkelių tiesimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: AB KVJUD nuosavybės teise valdomų geležinkelio kelių ir jų statinių eksploataciniai remonto darbai
+Aprašymas: AB KVJUD nuosavybės teise valdomų geležinkelio kelių ir jų statinių eksploataciniai remonto darbai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45234100 Geležinkelių tiesimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 200 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto 
+direkcija (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 200 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Gelranga"
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pas1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 868 611,81 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34-2024-318
+Data, kurią buvo pasirinktas laimėtojas: 27/11/2024
+Sutarties sudarymo data: 20/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+Registracijos numeris: 240329870
+Pašto adresas: J. Janonio g. 24-1, 
+Miestas: Klaipėda
+Pašto kodas: 92251
+Šalis: Lietuva
+E. paštas: s.staponkus@port.lt
+Telefono numeris: 846499734
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 39 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Gelranga"
+Registracijos numeris: 305204052
+Miestas: Upės g. 2, Kauksnujų k., LT-83280 Pakruojo r.
+Šalis: Lietuva
+E. paštas: v.simkunas@gelranga.lt
+Telefono numeris: 061645308
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 9451ca3e-8003-44b5-92bc-973045e79f01 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/01/2025 15:52 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

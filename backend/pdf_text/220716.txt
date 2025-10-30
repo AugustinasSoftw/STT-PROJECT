@@ -1,0 +1,114 @@
+Lietuva: Programinės įrangos palaikymo paslaugos
+Dokumentų valdymo sistemos Doclogix vystymo, priežiūros ir aptarnavimo paslaugos
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kauno energija“
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Dokumentų valdymo sistemos Doclogix vystymo, priežiūros ir aptarnavimo paslaugos
+Aprašymas: Dokumentų valdymo sistemos Doclogix vystymo, priežiūros ir aptarnavimo paslaugos, pirkimo procedūros 
+atliktos senoje CVP IS sistemoje.
+Procedūros identifikatorius: 930d1096-7239-4787-9bf2-400e726b5344
+Vidaus identifikatorius: Neskelbiamos derybos (Senojo CVP IS Nr. 746825 - Dokumentų valdymo sistemos Doclogix 
+vystymo, priežiūros ir aptarnavimo paslaugos)
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+Kiti klasifikacijos kodai (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Dokumentų valdymo sistemos Doclogix vystymo, priežiūros ir aptarnavimo paslaugos
+Aprašymas: Dokumentų valdymo sistemos Doclogix vystymo, priežiūros ir aptarnavimo paslaugos, pirkimas į atskiras 
+dalis neskaidytas.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 97 100 Euro
+Preliminariųjų sutarčių apytikslė vertė: 97 100 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: UAB „DocLogix“ yra vienintelis „DocLogix“ sistemos savininkas, kuriam priklauso visos turtinės 
+teisės į originalią jo sukurtą „DocLogix“ sistemą, todėl niekas kitas tarptautinėje rinkoje negali, nesinaudojant jo 
+sistema, licencijų atnaujinimo platforma, be jo leidimo vystyti „DocLogix“ sistemos, įskaitant ir jo partnerius.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Preliminarioji sutartis:
+Preliminariosios sutarties didžiausia vertė: 97 100 Euro
+Preliminariosios sutarties iš naujo įvertinta vertė: 97 100 Euro
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kauno energija“
+Registracijos numeris: 235014830
+Pašto adresas: Raudondvario pl. 84, LT-47179 Kaunas 
+Miestas: Kaunas
+Pašto kodas: 47179
+Šalis: Lietuva
+E. paštas: info@kaunoenergija.lt
+Telefono numeris: +37080011011
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 193312970
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kaunas.apygardos@teismas.lt
+Telefono numeris: +370 670 80921
+Šios organizacijos vaidmenys:
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „DocLogix“
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Pašto adresas: Lvivo g. 105A, LT-08104 
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@doclogix.com
+Telefono numeris: +37052745859
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: ff62cf7b-9063-42ef-8131-0ec0db7a4d10 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 04/12/2024 16:02 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,148 @@
+Lietuva: Su programine įranga susijusios paslaugos
+742406 Elektroninių dokumentų archyvo sistemos Saperion priežiūros ir vystymo paslaugos 
+(Atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 742406 Elektroninių dokumentų archyvo sistemos Saperion priežiūros ir vystymo paslaugos (Atviras 
+konkursas)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje paskelbto pirkimo Nr. 742406 procedūros. Atviro konkurso 
+pirkimo aplinka ir pasiūlymų pateikimo terminas sukurtas tik pirkimo procedūrų tęsimo tikslais, prašome neteikti 
+pasiūlymų per naują sistemą. Pirkimo vykdytojas vertins Jūsų pasiūlymą, pateiktą senoje CVP IS.
+Procedūros identifikatorius: 7845ddfe-43ad-4be1-adef-902512fbe7ed
+Ankstesnis skelbimas: d8e28e07-303d-4604-8415-0941bba384ba-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 742406 Elektroninių dokumentų archyvo sistemos Saperion priežiūros ir vystymo paslaugos (Atviras 
+konkursas)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje paskelbto pirkimo Nr. 742406 procedūros. Atviro konkurso 
+pirkimo aplinka ir pasiūlymų pateikimo terminas sukurtas tik pirkimo procedūrų tęsimo tikslais, prašome neteikti 
+pasiūlymų per naują sistemą. Pirkimo vykdytojas vertins Jūsų pasiūlymą, pateiktą senoje CVP IS.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 164 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinama pasiūlymo kaina eurais, įskaitant visus mokesčius (taip pat ir PVM, jei taikoma) ir visas 
+tiekėjo išlaidas, susijusias su sutarties vykdymu.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 80
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Už pasiūlytą papildomą specialistą, turintį patirties, atitinkantį visus konkurso sąlygų 3 priede 
+nustatytus kvalifikacijos reikalavimus.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 194 205 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB CGI Lithuania
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000001646
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1744
+Data, kurią buvo pasirinktas laimėtojas: 13/12/2024
+Sutarties sudarymo data: 23/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: 124110246
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalis: Lietuva
+E. paštas: Valda.Darguziene@registrucentras.lt
+Telefono numeris: +370 669 90409
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB CGI Lithuania
+Registracijos numeris: 210316340
+Pašto adresas: Ukmergės g. 126 
+Miestas: Vilnius
+Pašto kodas: LT-08100
+Šalis: Lietuva
+E. paštas: iveta.jankute@cgi.com
+Telefono numeris: +37067444935
+Interneto adresas: www.cgi.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 039bd0d8-4973-43c5-90b3-a104922f3337 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/01/2025 09:37 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

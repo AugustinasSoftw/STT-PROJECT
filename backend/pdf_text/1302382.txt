@@ -1,0 +1,297 @@
+Lietuva: Transporto priemonių ir su jomis susijusių įrenginių remonto, priežiūros ir kitos 
+paslaugos
+Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga
+Aprašymas: Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga (atviras konkursas)
+Procedūros identifikatorius: f5c88892-1eed-4791-90bc-2e90b98a591f
+Ankstesnis skelbimas: 62f92367-701e-4bb1-a122-597565bddc11-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 206 611,57 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kėlimo įrenginių „IVECO“ remonto paslaugos
+Aprašymas: Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga (atviras konkursas)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 107 438,02 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: kaina
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Kėlimo įrenginių „VEMA“ remonto paslaugos
+Aprašymas: Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga (atviras konkursas)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 16 528,93 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Kėlimo įrenginių „BRONTO SKYLIFT“ remonto paslaugos
+Aprašymas: Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga (atviras konkursas)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 57 851,24 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Kėlimo įrenginių remonto paslaugos
+Aprašymas: Potencialiai pavojingų įrenginių (mobilių darbinių kėlimo platformų) remonto paslauga (atviras konkursas)
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 24 793,39 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 107 438,02 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Iksados" gamybinis ir techninis centras
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019519
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 34 511,15 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4846
+Data, kurią buvo pasirinktas laimėtojas: 06/02/2025
+Sutarties sudarymo data: 19/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos
+Registracijos numeris: 188601311
+Pašto adresas: Švitrigailos g. 18 
+Miestas: Vilnius
+Pašto kodas: 03223
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: pagd@vpgt.lt
+Telefono numeris: 070756866
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Iksados" gamybinis ir techninis centras
+Registracijos numeris: 126319814
+Pašto adresas: Savanorių pr. 219 
+Miestas: Vilnius
+Pašto kodas: 02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zana@iksadosgtc.lt
+Telefono numeris: +37062036124
+Interneto adresas: www.iksadosgtc.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: a230c1f5-be46-4ec2-93a4-c27058b19011 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/02/2025 14:36 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

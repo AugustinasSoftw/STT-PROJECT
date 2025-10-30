@@ -1,0 +1,827 @@
+Lietuva: Enterinis maistas
+Enteriniai mišiniai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Enteriniai mišiniai
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Procedūros identifikatorius: 932a4a82-c05e-4264-b612-35f2aa204a7e
+Ankstesnis skelbimas: 37061123-364d-4d99-9d4c-6f51e92a1fee-04
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Polimerinis standartinis enterinis mišinys 1kcal/ml
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Skystas enterinis mišinys su padidintu baltymų kiekiu, argininu ir cinku
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 riebiosiomis rūgštimis
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu sergantiems 
+pacientams
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Specialios medicininės paskirties dietinis maistas (baltymų milteliai)
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Visavertis subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti 
+vaikams
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Geriamasis enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: Geriamasis enterinis maitinimo mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Geriamasis enterinis maitinimo mišinys su padidintu baltymų, cinko ir arginino kiekiu
+Aprašymas: Pirkimas yra skaidomas į pirkimo dalis. 1. Polimerinis standartinis enterinis mišinys 1kcal/ml, 2. 
+Polimerinis padidintos energinės vertės (1,5 kcal/ml) ir baltymų enterinis mišinys, 3. Skystas enterinis mišinys su 
+padidintu baltymų kiekiu, argininu ir cinku, 4. Enterinio maitinimo mišinys su padidintu baltymų kiekiu, omega 3 
+riebiosiomis rūgštimis, 5. Skystas enterinis mišinys su padidintu energijos, baltymų ir skaidulų kiekiu skirtas diabetu 
+sergantiems pacientams, 6. Specialios medicininės paskirties dietinis maistas (baltymų milteliai), 7. Visavertis 
+subalansuotas skystas enterinis mišinys su skaidulinėmis medžiagomis, paruoštas vartoti vaikams , 8. Geriamasis 
+enterinis maitinimo mišinys su padidintu energijos ir baltymų kiekiu, be skaidulų., 9. Geriamasis enterinis maitinimo 
+mišinys su padidintu baltymų ir omega-3 riebiųjų rūgščių kiekiu., 10. Geriamasis enterinis maitinimo mišinys su 
+padidintu baltymų, cinko ir arginino kiekiu.
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33692300 Enterinis maistas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Lietuvos sveikatos mokslų 
+universiteto Kauno ligoninė -
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 91 961,6 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000034809
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 27 900 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18913
+Sutarties sudarymo data: 05/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: B.Braun Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000034146
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 10 032 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18914
+Sutarties sudarymo data: 05/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Limedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033117
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 7 860 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18915
+Sutarties sudarymo data: 08/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000034809
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 2 784 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18916
+Sutarties sudarymo data: 05/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Limedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033117
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 17 190 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18917
+Sutarties sudarymo data: 08/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000034620
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 8 360 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18918
+Sutarties sudarymo data: 05/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Limedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033117
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 42,6 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18919
+Sutarties sudarymo data: 08/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000034246
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 12 393 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18920
+Sutarties sudarymo data: 05/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Limedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033117
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 5 400 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18912
+Sutarties sudarymo data: 08/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Registracijos numeris: 302583800
+Pašto adresas: Josvainių g. 2, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 47144
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@kaunoligonine.lt
+Telefono numeris: +37037426077
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: B.Braun Medical
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111551739
+Pašto adresas: Viršuliškių skg. 34-1 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: office.lt@bbraun.com
+Telefono numeris: +37052374333
+Fakso numeris: +37052374344
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Limedika
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 134056779
+Pašto adresas: Erdvės g. 2 
+Miestas: Ramučiai, Kauno rajonas
+Pašto kodas: LT-52114
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: limedika@limedika.lt
+Telefono numeris: +370 37 321093
+Interneto adresas: www.limedika.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003, LOT-0005, LOT-0007, LOT-0010
+8.1 ORG-0004
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302992398
+Pašto adresas: J. Basanavičiaus 26 
+Miestas: Vilnius
+Pašto kodas: 03224
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info.baltics@fresenius-kabi.com
+Telefono numeris: 85 2505681
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0004
+8.1 ORG-0005
+Oficialus pavadinimas: Entafarma
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 174443844
+Pašto adresas: Klonėnų vs. 1 
+Miestas: Širvintų rajonas
+Pašto kodas: 19156
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: aurimas.kirkliauskas@entafarma.lt
+Telefono numeris: +37061882684
+Fakso numeris: +37038233009
+Interneto adresas: www.entafarma.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0006
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Mediq Lietuva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302513086
+Pašto adresas: Kolektyvo g. 15-20, 08314 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 08314
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: inga.rinkeviciene@mediq.com
+Telefono numeris: 065288446
+Fakso numeris: 052688470
+Interneto adresas: www.mediq.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0008
+8.1 ORG-0007
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0008
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ce356721-89d1-46ac-b85d-17b05a7cb116 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/05/2025 19:49 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

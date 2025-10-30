@@ -1,0 +1,155 @@
+Lietuva: Laboratoriniai reagentai
+Diagnostiniai reagentai ir eksploatacinės medžiagos kraujo dujų, pH, metabolitų tyrimų 
+atlikimui kartu su įrangos panauda.Atviras (tarptautinis) konkursas.
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Diagnostiniai reagentai ir eksploatacinės medžiagos kraujo dujų, pH, metabolitų tyrimų atlikimui kartu su 
+įrangos panauda.Atviras (tarptautinis) konkursas.
+Aprašymas: Diagnostiniai reagentai ir eksploatacinės medžiagos kraujo dujų, pH, metabolitų tyrimų atlikimui kartu su 
+įrangos panauda. 
+Procedūros identifikatorius: f30e5a5a-30b2-4159-a31f-b0d6e0ed4985
+Ankstesnis skelbimas: 290978-2025
+Vidaus identifikatorius: 2512086
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Diagnostiniai reagentai ir eksploatacinės medžiagos kraujo dujų, pH, metabolitų tyrimų atlikimui kartu su 
+įrangos panauda.Atviras (tarptautinis) konkursas.
+Aprašymas: Diagnostiniai reagentai ir eksploatacinės medžiagos kraujo dujų, pH, metabolitų tyrimų atlikimui kartu su 
+įrangos panauda. 
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos aygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Klaipėdos universiteto ligoninė (Perkančioji 
+organizacija)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 25 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Semetron
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000066832
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 25 500 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24595
+Sutarties sudarymo data: 09/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Klaipėdos universiteto ligoninė (Perkančioji organizacija)
+Registracijos numeris: 306207585
+Pašto adresas: Liepojos g. 41 
+Miestas: Klaipėda
+Pašto kodas: 92288
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: kul@kul.lt
+Telefono numeris: +37046396600
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Semetron
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304036356
+Pašto adresas: J. Jasinskio g. 16A 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@semetron.lt
+Telefono numeris: +370 618 13567
+Interneto adresas: www.semetron.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos aygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Vilnius
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a7e3a2da-2512-483c-a3d4-0012d1b23b09 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/07/2025 11:52 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

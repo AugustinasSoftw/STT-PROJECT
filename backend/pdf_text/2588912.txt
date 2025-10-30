@@ -1,0 +1,146 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Konkretus IS kūrimo komandų paslaugų (projektų vadovo) pirkimas (KP1-KP15)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos bankas
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Konkretus IS kūrimo komandų paslaugų (projektų vadovo) pirkimas (KP1-KP15)
+Aprašymas: Perkamos IS kūrimo komandų paslaugos. Preliminarus perkamų paslaugų kiekis - 1300 projektų vadovo 
+dabo val.
+Procedūros identifikatorius: c1ce68bb-3d1f-4836-9546-919e045dd7d2
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Konkretus IS kūrimo komandų paslaugų (projektų vadovo) pirkimas (KP1-KP15)
+Aprašymas: Perkamos IS kūrimo komandų paslaugos. Preliminarus perkamų paslaugų kiekis - 1300 projektų vadovo 
+dabo val.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 80 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Priimtina kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 0
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 0
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos bankas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 80 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Tieto Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000031473
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 61 711 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6604
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 19/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos bankas
+Registracijos numeris: 188607684
+Pašto adresas: Gedimino pr. 6, Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-01103
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: gruseckas@lb.lt
+Telefono numeris: +37065563931
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Tieto Lietuva
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 111674122
+Pašto adresas: Lvovo g 105A 
+Miestas: Vilnius
+Pašto kodas: 08104
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: jokubas.savickas@tietoevry.com
+Telefono numeris: 861211608
+Interneto adresas: www.tietoevry.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d9d42c88-8043-47e2-bdd5-217b25e1d4b4 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/05/2025 15:42 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

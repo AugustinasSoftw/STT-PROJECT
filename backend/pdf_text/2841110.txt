@@ -1,0 +1,213 @@
+Lietuva: Laboratorijų, higienos ar farmaciniai reikmenys iš stiklo
+Darbo laboratorijai skirti indai, reikmenys ir priemonės
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno technologijos universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Darbo laboratorijai skirti indai, reikmenys ir priemonės
+Aprašymas: Perkančioji organizacija numato įsigyti darbui laboratorijose reikalingus indus, reikmenis ir priemones.
+Procedūros identifikatorius: 9de7bfa2-a275-40ff-8cdb-415ef69f6bcc
+Ankstesnis skelbimas: 0ded8300-83e5-415a-a37d-a966dba97e93-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33790000 Laboratorijų, higienos ar farmaciniai reikmenys iš stiklo
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 38437000 Laboratorinės pipetės ir priedai
+Kiti klasifikacijos kodai (cpv): 35113400 Apsauginiai drabužiai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 220 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Darbui laboratorijoje skirtos priemonės
+Aprašymas: Perkančioji organizacija numato įsigyti darbui laboratorijose reikalingus indus, reikmenis ir priemones.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33790000 Laboratorijų, higienos ar farmaciniai reikmenys iš stiklo
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 38437000 Laboratorinės pipetės ir priedai
+Kiti klasifikacijos kodai (cpv): 35113400 Apsauginiai drabužiai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 220 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno technologijos universitetas (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno technologijos universitetas (PV) -
+Organizacija, atliekanti mokėjimus: Kauno technologijos universitetas (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Priemonės chromatografijai ir turimai chromatografinei įrangai
+Aprašymas: Perkančioji organizacija numato įsigyti darbui laboratorijose reikalingus indus, reikmenis ir priemones.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33790000 Laboratorijų, higienos ar farmaciniai reikmenys iš stiklo
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 38437000 Laboratorinės pipetės ir priedai
+Kiti klasifikacijos kodai (cpv): 35113400 Apsauginiai drabužiai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 220 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno technologijos universitetas (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno technologijos universitetas (PV) -
+Organizacija, atliekanti mokėjimus: Kauno technologijos universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 220 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Arm Gate
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000044884
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 110 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 19435
+Data, kurią buvo pasirinktas laimėtojas: 22/04/2025
+Sutarties sudarymo data: 19/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Arm Gate
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000044884
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 110 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 19436
+Data, kurią buvo pasirinktas laimėtojas: 22/04/2025
+Sutarties sudarymo data: 15/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno technologijos universitetas (PV)
+Registracijos numeris: 111950581
+Pašto adresas: K. Donelaičio g. 73 
+Miestas: Kaunas
+Pašto kodas: LT-44249
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: ktu@ktu.lt
+Telefono numeris: +370 (37) 300 000
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Arm Gate
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135218757
+Pašto adresas: J.Kubiliaus g., 6-21 
+Miestas: Vilnius
+Pašto kodas: 08234
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@armgate.lt
+Telefono numeris: +37052789573
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 51230315-0219-445c-b95a-b101e3c71626 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 22/05/2025 15:09 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

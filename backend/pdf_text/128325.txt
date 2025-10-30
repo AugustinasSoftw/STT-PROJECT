@@ -1,0 +1,209 @@
+Lietuva: Analitinių, mokslinių, matematinių arba prognozavimo programų paketai
+Programinės įrangos pirkimas atviro konkurso būdu
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos Respublikos specialiųjų tyrimų tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Programinės įrangos pirkimas atviro konkurso būdu
+Aprašymas: I pirkimo dalis: Atvirų informacijos šaltinių žvalgybos (OSINT) programinė įranga (platforma) 5 
+vartotojams, pagal Pirkimo sąlygų 2 priede pateiktą techninę specifikaciją. II pirkimo dalis: Mobiliojo ryšio telefonų ir 
+kitų išmaniųjų mobilių įrenginių informacinių technologijų tyrimų programinės įrangos Cellebrite Pathfinder licencijos 
+pratęsimas 12 mėn. laikotarpiui.
+Procedūros identifikatorius: a403dc79-8212-4fcd-8c2c-a4272e72eaf8
+Ankstesnis skelbimas: 666121-2024
+Vidaus identifikatorius: 740890
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48460000 Analitinių, mokslinių, matematinių arba prognozavimo programų 
+paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: A. Jakšto g.6 
+Miestas: Vilnius
+Pašto kodas: 01105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 185 900 Euro
+2.1.4 Bendra informacija
+Kvietimas dalyvauti konkurse baigia galioti
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Atvirų informacijos šaltinių žvalgybos (OSINT) programinė įranga (platforma)
+Aprašymas: Atvirų informacijos šaltinių žvalgybos (OSINT) programinė įranga (platforma) 5 vartotojams, pagal Pirkimo 
+sąlygų 2 priede pateiktą techninę specifikaciją.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48460000 Analitinių, mokslinių, matematinių arba prognozavimo programų 
+paketai
+Kiekis: 5 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 144 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkamos Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl 
+Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.3 punkte 
+nurodyta prekės.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Mobiliojo ryšio telefonų ir kitų išmaniųjų mobilių įrenginių informacinių technologijų tyrimų programinės 
+įrangos Cellebrite Pathfinder licencijos pratęsimas 12 mėn. laikotarpiui.
+Aprašymas: Mobiliojo ryšio telefonų ir kitų išmaniųjų mobilių įrenginių informacinių technologijų tyrimų programinės 
+įrangos Cellebrite Pathfinder licencijos pratęsimas 12 mėn. laikotarpiui.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48461000 Analitinės arba mokslinės programinės įrangos paketai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: A. Jakšto g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-01105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 900 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 185 900 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB NRD CS
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 8-389
+Sutarties sudarymo data: 02/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB NRD CS
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 8-359
+Sutarties sudarymo data: 12/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos Respublikos specialiųjų tyrimų tarnyba
+Registracijos numeris: 188659948
+Pašto adresas: A. Jakšto g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-01105
+Šalis: Lietuva
+E. paštas: asta.kaupaite@stt.lt
+Telefono numeris: +370 652 05880
+Interneto adresas: www.stt.lt
+Pirkėjo profilis: www.stt.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB NRD CS
+Registracijos numeris: 303115085
+Pašto adresas: Gynėjų g. 14 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@nrdcs.lt
+Telefono numeris: +370 5 219 1919
+Šios organizacijos vaidmenys:
+Dalyvis
+Tikrasis savininkas
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: e609944e-f1a0-4546-9a14-2a88a8413898 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 12/12/2024 15:08 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

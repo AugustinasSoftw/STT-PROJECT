@@ -1,0 +1,158 @@
+Lietuva: Valdymo holdingų paslaugos
+30811 Strateginio valdymo mokestis
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 30811 Strateginio valdymo mokestis
+Aprašymas: Strateginio valdymo mokestis (toliau tekste - Paslaugos). Pirkimo objektas į dalis neskaidomas, tiekėjas, 
+kuris bus pakviestas pateikti pasiūlymą, turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Procedūros identifikatorius: e3a972c2-0834-4429-9553-706653c4053e
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79910000 Valdymo holdingų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 7 500 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 30811 Strateginio valdymo mokestis
+Aprašymas: Strateginio valdymo mokestis (toliau tekste - Paslaugos). Pirkimo objektas į dalis neskaidomas, tiekėjas, 
+kuris bus pakviestas pateikti pasiūlymą, turės siūlyti visą Pirkimo objekto kiekį/apimtį.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79910000 Valdymo holdingų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Nurodyta sutartyje ir jos prieduose
+5.1.5 Vertė
+Numatoma vertė be PVM: 7 500 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas, plačiau žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonomiškiausią pasiūlymą pateikęs tiekėjas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LTG Kompetencijų centras UAB (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: LTG Kompetencijų centras UAB (PV)
+Organizacija, pasirašanti sutartį: LTG Kompetencijų centras UAB (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 7 500 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Vadovaujantis VPĮ 71 str. 1 d. 2 p. b) papunkčiu ir VPĮ 71 str. 2 d., paslaugos neskelbiamų 
+derybų būdu gali būti perkamos, kai yra visos šios sąlygos: 1) jeigu prekes patiekti, paslaugas teikti ar darbus atlikti 
+gali tik konkretus tiekėjas dėl to, kad konkurencijos nėra dėl techninių priežasčių; 2) nėra pagrįstos alternatyvos ar 
+pakaitalo; 3) konkurencijos nebuvimas nėra sukurtas Bendrovės, jai dirbtinai sugriežtinus pirkimo reikalavimus.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB "Lietuvos geležinkeliai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000030115
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 7 500 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 19292
+Data, kurią buvo pasirinktas laimėtojas: 28/02/2025
+Sutarties sudarymo data: 28/02/2025
+Organizacija, pasirašanti sutartį: LTG Kompetencijų centras UAB (PV)
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Registracijos numeris: 307037118
+Pašto adresas: Pelesos g. 10-102 
+Miestas: Vilnius
+Pašto kodas: LT-02111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: AB "Lietuvos geležinkeliai"
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 110053842
+Pašto adresas: Geležinkelio g. 16 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +37052692038
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c857d5cc-0332-46c5-80e2-674ea6c0861c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/09/2025 11:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

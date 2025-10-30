@@ -1,0 +1,236 @@
+Lietuva: Matuokliai
+Matavimo įranga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno technologijos universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Matavimo įranga
+Aprašymas: Perkančioji organizacija numato įsigyti adatinį profilometrą, daleliųdydžio ir Zeta potencialo analizatorių 
+bei skaitmeninį oscilografą. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede „Techninė 
+specifikacija“
+Procedūros identifikatorius: c4328513-a466-4b40-ab3e-e964e250dedf
+Ankstesnis skelbimas: d650f64f-ad4c-4084-affa-de543294b9ec-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38300000 Matuokliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Kauno technologijos universiteto patalpose, Tunelio g. 60, Kaune arba kitame atsakingo už 
+sutarties vykdymą KTU darbuotojų nurodytame KTU padalinyje Kaune.
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Adatinis profilometras
+Aprašymas: Perkančioji organizacija numato įsigyti adatinį profilometrą, daleliųdydžio ir Zeta potencialo analizatorių 
+bei skaitmeninį oscilografą. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede „Techninė 
+specifikacija“
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38300000 Matuokliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno technologijos universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno technologijos universitetas (PV)
+Organizacija, atliekanti mokėjimus: Kauno technologijos universitetas (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Dalelių dydžio ir Zeta potencialo analizatorius
+Aprašymas: Perkančioji organizacija numato įsigyti adatinį profilometrą, daleliųdydžio ir Zeta potencialo analizatorių 
+bei skaitmeninį oscilografą. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede „Techninė 
+specifikacija“
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38300000 Matuokliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno technologijos universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno technologijos universitetas (PV)
+Organizacija, atliekanti mokėjimus: Kauno technologijos universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 144 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Inospectra
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000038506
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 69 700 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26334
+Pavadinimas: Adatinis profilometras
+Sutarties sudarymo data: 02/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-002-P-0001
+Išsamesnė informacija apie ES fondus: Misijomis grįstų mokslo ir inovacijų programų įgyvendinimas
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Vildoma“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000035693
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 74 800 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26335
+Pavadinimas: Dalelių dydžio ir Zeta potencialo analizatorius
+Sutarties sudarymo data: 29/04/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-002-P-0001
+Išsamesnė informacija apie ES fondus: Misijomis grįstų mokslo ir inovacijų programų įgyvendinimas
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno technologijos universitetas (PV)
+Registracijos numeris: 111950581
+Pašto adresas: K. Donelaičio g. 73 
+Miestas: Kaunas
+Pašto kodas: LT-44249
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: ktu@ktu.lt
+Telefono numeris: +370 (37) 300 000
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Inospectra
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302817477
+Pašto adresas: Draugystės g. 17-1 
+Miestas: Kaunas
+Pašto kodas: LT-51229
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@inospectra.com
+Telefono numeris: +370 37 280702
+Fakso numeris: +370 37 280700
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: UAB „Vildoma“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110736215
+Pašto adresas: Granito g. 3-202 
+Miestas: Vilnius
+Pašto kodas: LT-02241
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lina@vildoma.lt
+Telefono numeris: +370 5 236 3656
+Interneto adresas: www.vildoma.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0004
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: Mickevičiaus g. 18 
+Miestas: Vilnius
+Pašto kodas: LT-44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f0db5f6a-9148-43f7-8c27-c27cb1f20f3a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/08/2025 16:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

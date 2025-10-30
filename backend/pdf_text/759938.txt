@@ -1,0 +1,147 @@
+Lietuva: Elektromobiliai
+742729 - Naujas lengvasis M1 klasės automobilis, varomas elektra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Zarasų rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 742729 - Naujas lengvasis M1 klasės automobilis, varomas elektra
+Aprašymas: Perkančioji organizacija numato įsigyti naują lengvąjį M1 klasės automobilį, varomą elektra. Reikalavimai 
+pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede (techninėje specifikacijoje)
+Procedūros identifikatorius: 637a0e35-ab48-4880-a91d-47389fdb0f67
+Ankstesnis skelbimas: 632625-2024
+Vidaus identifikatorius: 742729
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 742729 - Naujas lengvasis M1 klasės automobilis, varomas elektra
+Aprašymas: Naujas lengvasis M1 klasės automobilis, varomas elektra. Reikalavimai pirkimo objektui nustatyti 
+specialiųjų pirkimo sąlygų 2 priede (techninėje specifikacijoje).
+Vidaus identifikatorius: 742729
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 37 371,9 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Mototoja"
+Pasiūlymas:
+Pasiūlymo identifikatorius: UAB "Mototoja"
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SR-1164
+Sutarties sudarymo data: 23/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Sąjungos veiksmai sveikatos srityje (Sveikatos 
+programa) (2014/2020)
+ES fondų identifikatorius: 09-010-P-0051 „AMBULATORINES SLAUGOS PASLAUGAS NAMUOSE 
+TEIKIANČIOS MOBILIOS KOMANDOS APRŪPINIMAS ĮRANGA IR TRANSPORTO PRIEMONE ZARASŲ 
+RAJONO SAVIVALDYBĖJE”
+Išsamesnė informacija apie ES fondus: 09-010-P-0051 „AMBULATORINES SLAUGOS PASLAUGAS 
+NAMUOSE TEIKIANČIOS MOBILIOS KOMANDOS APRŪPINIMAS ĮRANGA IR TRANSPORTO 
+PRIEMONE ZARASŲ RAJONO SAVIVALDYBĖJE”
+6.1.4 Statistinė informacija
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: M1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Zarasų rajono savivaldybės administracija
+Registracijos numeris: 188753461
+Pašto adresas: Sėlių a. 22 
+Miestas: Zarasai
+Pašto kodas: LT-32110
+Šalis: Lietuva
+E. paštas: info@zarasai.lt
+Telefono numeris: +370 385 37173
+Pirkėjo profilis: www.zarasai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Mototoja"
+Registracijos numeris: 110900052
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: toyota@mototoja.lt
+Telefono numeris: +370 52356440
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 199def35-51de-4510-b46c-2ad82c31e9bb - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/01/2025 11:09 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

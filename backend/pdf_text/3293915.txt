@@ -1,0 +1,164 @@
+Lietuva: Architektūros ir susijusios paslaugos
+J. Basanavičiaus g. 7, Kuršėnuose esančio pastato remonto techninio projekto parengimo 
+paslaugos (Atviras tarptautinis konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: J. Basanavičiaus g. 7, Kuršėnuose esančio pastato remonto techninio projekto parengimo paslaugos 
+(Atviras tarptautinis konkursas)
+Aprašymas: Į pirkimo objekto sudėtį įeina pastato remonto ir priedangos įrengimo techninio projekto parengimas, 
+būtini atlikti tyrimai (techninėje specifikacijos nurodyti ir nenurodyti tyrimai, privalomi pagal teisės aktų reikalavimus), 
+projektinių pasiūlymų rengimas, techninės užduoties ir/ar paraiškų prisijungimo sąlygoms ir specialiems reikalavimas 
+gauti reikalingų dokumentų rengimas, statybą leidžiančio dokumento gavimas ir statinio projekto vykdymo priežiūra.
+Procedūros identifikatorius: fd37c7fa-8c57-4210-ac4d-92e456930e88
+Ankstesnis skelbimas: c755ec82-2386-4dc6-a60f-d7901e996852-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71200000 Architektūros ir susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: J. Basanavičiaus g. 7, Kuršėnuose esančio pastato remonto techninio projekto parengimo paslaugos 
+(Atviras tarptautinis konkursas)
+Aprašymas: Į pirkimo objekto sudėtį įeina pastato remonto ir priedangos įrengimo techninio projekto parengimas, 
+būtini atlikti tyrimai (techninėje specifikacijos nurodyti ir nenurodyti tyrimai, privalomi pagal teisės aktų reikalavimus), 
+projektinių pasiūlymų rengimas, techninės užduoties ir/ar paraiškų prisijungimo sąlygoms ir specialiems reikalavimas 
+gauti reikalingų dokumentų rengimas, statybą leidžiančio dokumento gavimas ir statinio projekto vykdymo priežiūra.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71200000 Architektūros ir susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: .
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kaina, Eur (be PVM).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialisto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šiaulių rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šiaulių rajono savivaldybės administracija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 59 450 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: IĮ Sauliaus Remeikos diziano studija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000057578
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 59 450 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 20
+Informacija apie sutartį:
+Sutarties identifikatorius: 22305
+Sutarties sudarymo data: 13/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Registracijos numeris: 188726051
+Pašto adresas: Vilniaus g. 263 
+Miestas: Šiauliai
+Pašto kodas: 76337
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: erika.simaitiene@gmail.com
+Telefono numeris: +37041596662
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: IĮ Sauliaus Remeikos diziano studija
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 300004197
+Pašto adresas: Kaivarijų 1- 401, 
+Miestas: Vilnius
+Pašto kodas: 08446
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: saulius.remeika@gmail.com
+Telefono numeris: 061012269
+Interneto adresas: www.remeika.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 40 
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliai.apygardos@teismas.lt
+Telefono numeris: +370
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 79d57e2d-b5ed-4a64-9405-eed2a0b5ef85 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/06/2025 09:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

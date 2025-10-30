@@ -1,0 +1,188 @@
+Lietuva: Teisinės paslaugos
+722902 (2024-GSC-265) Teisinės paslaugos (skebiamos derybos)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 722902 (2024-GSC-265) Teisinės paslaugos (skebiamos derybos)
+Aprašymas: Perkamos teisinės paslaugos
+Procedūros identifikatorius: 4b26cd2f-bc85-4112-b9f8-5e2db181ce52
+Vidaus identifikatorius: 722902
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79100000 Teisinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 722902 (2024-GSC-265) Teisinės paslaugos (skebiamos derybos)
+Aprašymas: Perkamos teisinės paslaugos
+Vidaus identifikatorius: 729074
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79100000 Teisinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Paslaugų teikėjo siūlomų specialistų patirtis:
+Aprašymas: Paslaugų teikėjo siūlomų specialistų patirtis: Eksperto Nr. 1 ir (arba) Eksperto Nr. 2 patirtis per 
+paskutinius 2 metus suteikus teisinio konsultavimo paslaugas (parengus teisines išvadas, memorandumus ir 
+pan.) didelei įmonei*, vykdant finansinius sandorius bent vienoje iš sričių - projektinio finansavimo, kreditavimo 
+ir paskolų, obligacijų ir/ar kitų vertybinių popierių emisijos, išvestinių finansinių priemonių, užtikrinimo priemonių 
+srityse. (P)
+Lyginamasis svoris (balai, tikslus skaičius): 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: mažiausia kaina
+Aprašymas: mažiausia kaina
+Lyginamasis svoris (balai, tikslus skaičius): 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 400 000 Euro
+Preliminariųjų sutarčių apytikslė vertė: 400 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Advokatų kontora TGS Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 722902
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-349-24
+Sutarties sudarymo data: 06/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: Advokatų kontora TGS Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 722902
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-349-24
+Sutarties sudarymo data: 06/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: Advokatų kontora TGS Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 722902
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-349-24
+Sutarties sudarymo data: 06/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: Advokatų kontora TGS Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 722902
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-349-24
+Sutarties sudarymo data: 06/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: Advokatų kontora TGS Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 722902
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-349-24
+Sutarties sudarymo data: 06/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Registracijos numeris: 303200016
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalis: Lietuva
+E. paštas: zivile.kasparaviciene@ignitis.lt
+Telefono numeris: +37069836092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Advokatų kontora TGS Baltic
+Registracijos numeris: 300099149
+Pašto adresas: Lvivo g. 7-9, 09313 Vilnius 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: la@advokatura.lt
+Telefono numeris: +3705262 4546
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8b81facd-457f-4ce8-b872-530d9b2cdb65 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 17/12/2024 09:55 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,151 @@
+Lietuva: Buitiniai elektros prietaisai
+Buitinių elektros prietaisų (oro ventiliatorių) pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos kalėjimų tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Buitinių elektros prietaisų (oro ventiliatorių) pirkimas
+Aprašymas: Planuojama įsigyti 815 vnt. stalinių oro ventiliatorių.
+Procedūros identifikatorius: 0d340b83-fc97-4ccd-a556-2e3ab7c96b67
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39710000 Buitiniai elektros prietaisai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Buitiniai elektros prietaisai
+Aprašymas: Planuojama įsigyti 815 vnt. stalinių oro ventiliatorių.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39710000 Buitiniai elektros prietaisai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Vilnius
+5.1.5 Vertė
+Numatoma vertė be PVM: 25 400 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo, 
+patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Aplinkos 
+apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ (toliau - Tvarkos aprašas), 
+4.1 papunkčiu, perkamoms prekėms, kurios įtrauktos į Tvarkos aprašo 1 priedo „Produktų, kurių viešiesiems 
+pirkimams ir pirkimams taikytini minimalūs aplinkos apsaugos kriterijai, sąrašas“ III skyrių „Biuro įranga ir buitinė 
+technika“, taikomi Tvarkos aprašo 2 priede joms nustatyti minimalūs aplinkos apsaugos kriterijai. Vadovaujantis 
+Tvarkos aprašo 6 punktu, jeigu įsigyjama produktų sąraše esanti prekė yra tiekiama ar perduodama antrinėje 
+pakuotėje, antrinė pakuotė turi atitikti pakuotėms nustatytus minimalius aplinkos apsaugos kriterijus (Tvarkos 
+aprašo 2 priedo II skyrius „Pakuotės“), nebent tai prieštarauja higienos normoms.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kalėjimų tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kalėjimų tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kalėjimų tarnyba
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 8 802 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB KESKO SENUKAI LITHUANIA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000098976
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 8 802 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34663
+Data, kurią buvo pasirinktas laimėtojas: 07/10/2025
+Sutarties sudarymo data: 17/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos kalėjimų tarnyba
+Registracijos numeris: 288697120
+Pašto adresas: L. Sapiegos g. 1 
+Miestas: Vilnius
+Pašto kodas: 10312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@kalejimai.lt
+Telefono numeris: +370 602 15704
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB KESKO SENUKAI LITHUANIA
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 234376520
+Pašto adresas: Islandijos pl. 32B 
+Miestas: Kaunas
+Pašto kodas: 47446
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: viesiejipirkimai@keskosenukai.lt
+Telefono numeris: +37037304689
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5d6d79fd-98bf-4a31-8a03-a8735522f133 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/10/2025 14:36 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

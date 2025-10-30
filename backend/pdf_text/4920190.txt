@@ -1,0 +1,223 @@
+Lietuva: Bandymų stendai
+Vidaus degimo variklių bandymo stendas (TIF misijos)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus Gedimino technikos universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vidaus degimo variklių bandymo stendas (TIF misijos)
+Aprašymas: Vidaus degimo variklių bandymo stendas su kibirkštinio uždegimo viencilindriu varikliu bei skleidžiamų 
+teršalų analizavimo įranga su montavimo paslaugomis.
+Procedūros identifikatorius: 9ae3a737-f58d-4f04-a2e1-72adca27d162
+Ankstesnis skelbimas: eff6a000-e8fd-486b-818f-da80be128eef-01
+Vidaus identifikatorius: 3922445
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34328100 Bandymų stendai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vidaus degimo variklių bandymo stendas
+Aprašymas: Vidaus degimo variklių bandymo stendas su kibirkštinio uždegimo viencilindriu varikliu bei skleidžiamų 
+teršalų analizavimo įranga su montavimo paslaugomis.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34328100 Bandymų stendai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus Gedimino technikos universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, atliekanti mokėjimus: Vilniaus Gedimino technikos universitetas (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Vidaus degimo variklių teršalų analizavimo įranga
+Aprašymas: Vidaus degimo variklių bandymo stendas su kibirkštinio uždegimo viencilindriu varikliu bei skleidžiamų 
+teršalų analizavimo įranga su montavimo paslaugomis.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34328100 Bandymų stendai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus Gedimino technikos universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, atliekanti mokėjimus: Vilniaus Gedimino technikos universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 986 760 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ODIUT AUTOMEX SP. Z O.O
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000091383
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 497 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32958
+Sutarties sudarymo data: 30/09/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: 02-002--P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Axioma MS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000091489
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 489 760 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32959
+Sutarties sudarymo data: 29/09/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: 02-002--P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus Gedimino technikos universitetas (PV)
+Registracijos numeris: 111950243
+Pašto adresas: Saulėtekio al. 11, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 10223
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniustech@vilniustech.lt
+Telefono numeris: (05) 274 5030
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Axioma MS
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135896117
+Pašto adresas: Jovaru g. 2 
+Miestas: Kaunas
+Pašto kodas: 47193
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vytautas.narbutas@axiomams.eu
+Telefono numeris: +37068724663
+Interneto adresas: www.axiomams.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: ODIUT AUTOMEX SP. Z O.O
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 80-557
+Pašto adresas: MARYNARKI POLSKIEJ 55D 
+Miestas: GDAŃSK
+Pašto kodas: 80-557
+Šalies administracinis vienetas (NUTS): Gdański (PL634)
+Šalis: Lenkija
+E. paštas: justyna.rokicka@automex.eu
+Telefono numeris: +48585220620
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c56c4aca-753a-40ed-90e5-9e3d78e60732 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/10/2025 13:15 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

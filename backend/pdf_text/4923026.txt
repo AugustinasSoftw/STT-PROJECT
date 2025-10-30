@@ -1,0 +1,141 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+DPS 3_Nuotekų tinklo diukerio per Nerį (nuo Jonavos g. iki Brastos g.) ir nuotekų siurblinės 
+projekto rengimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Kauno vandenys (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: DPS 3_Nuotekų tinklo diukerio per Nerį (nuo Jonavos g. iki Brastos g.) ir nuotekų siurblinės projekto 
+rengimo paslaugos
+Aprašymas: DPS 3_Nuotekų tinklo diukerio per Nerį (nuo Jonavos g. iki Brastos g.) ir nuotekų siurblinės projekto 
+rengimo paslaugos
+Procedūros identifikatorius: 2a97d7f6-afbd-436f-b37f-81a2c4145ae7
+Ankstesnis skelbimas: babf3dbc-1e1b-42d6-9f2f-6e39da961332-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: DPS 3_Nuotekų tinklo diukerio per Nerį (nuo Jonavos g. iki Brastos g.) ir nuotekų siurblinės projekto 
+rengimo paslaugos
+Aprašymas: DPS 3_Nuotekų tinklo diukerio per Nerį (nuo Jonavos g. iki Brastos g.) ir nuotekų siurblinės projekto 
+rengimo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Kauno vandenys (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Kauno vandenys (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UAB Kauno vandenys (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 32 450 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Statybų inžinerinės paslaugos“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000071388
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 32 450 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32926
+Sutarties sudarymo data: 29/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Kauno vandenys (PV)
+Registracijos numeris: 132751369
+Pašto adresas: Aukštaičių g. 43, Kaunas 
+Miestas: Kaunas
+Pašto kodas: LT-44158
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: audrone.butvidaite@kaunovandenys.lt
+Telefono numeris: +37037301737
+Interneto adresas: www.kaunovandenys.lt
+Pirkėjo profilis: www.kaunovandenys.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Statybų inžinerinės paslaugos“
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 111678149
+Pašto adresas: Pamėnkalnio g. 5-3 
+Miestas: Vilnius
+Pašto kodas: 01116
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@sipaslaugos.lt
+Telefono numeris: +370 660 599 73
+Interneto adresas: www.sipaslaugos.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: LT44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 903e788e-1248-446b-885c-e81662834a0a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/10/2025 08:47 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,173 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+735055 Virtualios kultūros paveldo informacinės sistemos (VEPIS) eKO skaitmeninės 
+medžiagos tvarkymo komponento sukūrimas ir duomenų sukėlimo modulio tobulinimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 735055 Virtualios kultūros paveldo informacinės sistemos (VEPIS) eKO skaitmeninės medžiagos 
+tvarkymo komponento sukūrimas ir duomenų sukėlimo modulio tobulinimas
+Aprašymas: Perkamos Virtualios kultūros paveldo informacinės sistemos (VEPIS) eKO skaitmeninės medžiagos 
+tvarkymo komponento sukūrimo ir duomenų sukėlimo modulio tobulinimo paslaugos
+Procedūros identifikatorius: b5a7dc70-a8f9-4f3e-87b8-999dd5a91708
+Ankstesnis skelbimas: 503295-2024
+Vidaus identifikatorius: 735055
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Virtualios kultūros paveldo informacinės sistemos (VEPIS) eKO skaitmeninės medžiagos tvarkymo 
+komponento sukūrimas ir duomenų sukėlimo modulio tobulinimas
+Aprašymas: Perkamos Virtualios kultūros paveldo informacinės sistemos (VEPIS) eKO skaitmeninės medžiagos 
+tvarkymo komponento sukūrimo ir duomenų sukėlimo modulio tobulinimo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama nematerialaus pobūdžio paslauga, kurios teikimo metu nesukuriamas materialus taršos 
+šaltinis ir negeneruojamos atliekos
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinama pasiūlymo kaina eurais, įskaitant visus mokesčius (taip pat ir PVM, jei taikoma) ir visas 
+tiekėjo išlaidas, susijusias su sutarties vykdymu
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Ekspertų (specialistų) patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Tiekėjas, nesutikęs su Perkančiosios organizacijos sprendimu, arba jei 
+Perkančioji organizacija per nustatytą terminą neišnagrinėjo jo pretenzijos, gali pateikti prašymą ar pareikšti ieškinį 
+teismui LR VPĮ VII skyriuje nustatyta tvarka.
+Organizacija, pasirašanti sutartį: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 120 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Asseco Lietuva"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 120 000 Euro
+Subranga: Taip
+Subrangos vertė žinoma: taip
+Subrangos vertė: 12 000 Euro
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 10
+Informacija apie sutartį:
+Sutarties identifikatorius: TR-24-215
+Sutarties sudarymo data: 05/11/2024
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 06-003-P-0001
+Išsamesnė informacija apie ES fondus: Pirkimas vykdomas įgyvendinant Europos Sąjungos struktūrinių 
+fondų lėšų finansuojamą projektą Nr. 06-003-P-0001 „eKultūros platforma (vieningas suskaitmeninto ir 
+skaitmeninio kultūros ir audiovizualinio turinio, elektroninių paslaugų ir sklaidos portalas)“
+Organizacija, pasirašanti sutartį: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Registracijos numeris: 290757560
+Pašto adresas: Gedimino pr. 51 
+Miestas: Vilnius
+Pašto kodas: 01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Rima.Rackauskiene@lnb.lt
+Telefono numeris: +37062078581
+Interneto adresas: www.lnb.lt
+Pirkėjo profilis: www.lnb.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01400
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Asseco Lietuva"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302631095
+Pašto adresas: V. Gerulaičio g. 10 
+Miestas: Vilnius
+Pašto kodas: 08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@asseco.lt
+Telefono numeris: +37052102400
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 3b6313b0-e1a0-460a-b065-530e337a860e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/05/2025 15:38 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

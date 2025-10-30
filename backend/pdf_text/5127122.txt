@@ -1,0 +1,395 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Kauno rajono savivaldybės gatvių projektavimo ir projektų vykdymo priežiūros paslaugų 
+viešasis pirkimas (atviras konkursas) - I PIRKIMO DALIS NUTRAUKTA
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kauno rajono savivaldybės gatvių projektavimo ir projektų vykdymo priežiūros paslaugų viešasis 
+pirkimas (atviras konkursas) - I PIRKIMO DALIS NUTRAUKTA
+Aprašymas: Pirkimo objektas - Kauno r. sav. gatvių projektavimo ir projektų vykdymo priežiūros paslaugos (toliau - 
+Paslaugos). Reikalavimai Paslaugoms (detalus pirkimo objekto aprašymas, apimtis ir kiti reikalavimai) nurodyti pirkimo 
+sąlygų 2 priede „Techninė specifikacija“ ir 3 priede „Sutarties projektas“. Pirkimo objektas skaidomas į 4 (keturias) 
+pirkimo dalis. 2025-07-16 I pirkimo dalis NUTRAUKTA.
+Procedūros identifikatorius: f6f2d841-efd9-493b-bf8e-6824f2497f9c
+Ankstesnis skelbimas: 7defb53a-5b30-401d-b42a-17c9068e1b99-03
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo dalis - Kauno raj. sav. Samylų sen. Šlienavos k. Kampiškių g. rekonstravimo, ir Kauno raj. 
+Samylų sen. Šlienavos k. Dvareliškių g. rekonstravimo techninių darbo projektų parengimo ir projektų vykdymo 
+priežiūros paslaugos
+Aprašymas: Pirkimo objektas - Kauno r. sav. gatvių projektavimo ir projektų vykdymo priežiūros paslaugos (toliau - 
+Paslaugos). Reikalavimai Paslaugoms (detalus pirkimo objekto aprašymas, apimtis ir kiti reikalavimai) nurodyti pirkimo 
+sąlygų 2 priede „Techninė specifikacija“ ir 3 priede „Sutarties projektas“. Pirkimo objektas skaidomas į 4 (keturias) 
+pirkimo dalis. 2025-07-16 I pirkimo dalis NUTRAUKTA.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas laikomas žaliuoju pirkimu, nes pirkime taikomi minimalūs aplinkos apsaugos kriterijai (pagal 
+Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1508 patvirtinto Aplinkos apsaugos 
+kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo (aktuali redakcija) (toliau - Aprašas) 4.1 punktą), 
+t. y. projektavimo paslaugoms taikomi ne mažiau kaip du Aprašo 2 priedo 26.2 p. nurodyti minimalus aplinkos 
+apsaugos kriterijai, bei atsižvelgiant į projektą turi būti numatyti minimalūs aplinkos apsaugos kriterijai kelio 
+elementams, išvardytiems Aprašo 2 priedo 27-29 punktuose „Kelio ženklai, ženklinimas ir triukšmo užtvaros“, 
+„Gatvių apšvietimo įranga“, „Kelių eismo signalai“).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: K - tiekėjo pasiūlymo kaina.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T1 - Statinio projekto vadovo patirtis.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T2 - Statinio projekto dalies vadovo (susisiekimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T3 - Statinio projekto dalies vadovo (elektrotechnikos) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T4 - Statinio projekto dalies vadovo (vandentiekio ir nuotekų šalinimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T5 - Statinio projekto dalies vadovo (architektūros) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T6 - Statinio projekto dalies vadovo (statybos skaičiuojamosios kainos nustatymo) patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Plačiau žiūrėti pirkimo 
+dokumentuose.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo dalis - Kauno raj. sav. Vilkijos sen. Sodų g. rekonstravimo, ir Kauno raj. sav. Raudondvario 
+sen. Raudondvario k. Kondroto g. rekonstravimo techninių darbo projektų parengimo ir projektų vykdymo priežiūros 
+paslaugos
+Aprašymas: Pirkimo objektas - Kauno r. sav. gatvių projektavimo ir projektų vykdymo priežiūros paslaugos (toliau - 
+Paslaugos). Reikalavimai Paslaugoms (detalus pirkimo objekto aprašymas, apimtis ir kiti reikalavimai) nurodyti pirkimo 
+sąlygų 2 priede „Techninė specifikacija“ ir 3 priede „Sutarties projektas“. Pirkimo objektas skaidomas į 4 (keturias) 
+pirkimo dalis. 2025-07-16 I pirkimo dalis NUTRAUKTA.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas laikomas žaliuoju pirkimu, nes pirkime taikomi minimalūs aplinkos apsaugos kriterijai (pagal 
+Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos 
+kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo (aktuali redakcija) (toliau - Aprašas) 4.1 punktą), 
+t. y. projektavimo paslaugoms taikomi ne mažiau kaip du Aprašo 2 priedo 26.2 p. nurodyti minimalus aplinkos 
+apsaugos kriterijai, bei atsižvelgiant į projektą turi būti numatyti minimalūs aplinkos apsaugos kriterijai kelio 
+elementams, išvardytiems Aprašo 2 priedo 27-29 punktuose „Kelio ženklai, ženklinimas ir triukšmo užtvaros“, 
+„Gatvių apšvietimo įranga“, „Kelių eismo signalai“).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: K - tiekėjo pasiūlymo kaina.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T1 - Statinio projekto vadovo patirtis.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T2 - Statinio projekto dalies vadovo (susisiekimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T3 - Statinio projekto dalies vadovo (elektrotechnikos) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T4 - Statinio projekto dalies vadovo (vandentiekio ir nuotekų šalinimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T5 - Statinio projekto dalies vadovo (architektūros) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T6 - Statinio projekto dalies vadovo (statybos skaičiuojamosios kainos nustatymo) patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Plačiau žr. pirkimo 
+dokumentuose.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III pirkimo dalis - Kauno raj. sav. Garliavos sen. Garliavos m. Vakarinės g. rekonstravimo, ir Kauno 
+raj. sav. Alšėnų sen. Mastaičių k. Mokslo g. rekonstravimo techninių darbo projektų parengimo ir projektų vykdymo 
+priežiūros paslaugos
+Aprašymas: Pirkimo objektas - Kauno r. sav. gatvių projektavimo ir projektų vykdymo priežiūros paslaugos (toliau - 
+Paslaugos). Reikalavimai Paslaugoms (detalus pirkimo objekto aprašymas, apimtis ir kiti reikalavimai) nurodyti pirkimo 
+sąlygų 2 priede „Techninė specifikacija“ ir 3 priede „Sutarties projektas“. Pirkimo objektas skaidomas į 4 (keturias) 
+pirkimo dalis. 2025-07-16 I pirkimo dalis NUTRAUKTA.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas laikomas žaliuoju pirkimu, nes pirkime taikomi minimalūs aplinkos apsaugos kriterijai (pagal 
+Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos 
+kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo (aktuali redakcija) (toliau - Aprašas) 4.1 punktą), 
+t. y. projektavimo paslaugoms taikomi ne mažiau kaip du Aprašo 2 priedo 26.2 p. nurodyti minimalus aplinkos 
+apsaugos kriterijai, bei atsižvelgiant į projektą turi būti numatyti minimalūs aplinkos apsaugos kriterijai kelio 
+elementams, išvardytiems Aprašo 2 priedo 27-29 punktuose „Kelio ženklai, ženklinimas ir triukšmo užtvaros“, 
+„Gatvių apšvietimo įranga“, „Kelių eismo signalai“).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: K - tiekėjo pasiūlymo kaina.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T1 - Statinio projekto vadovo patirtis.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T2 - Statinio projekto dalies vadovo (susisiekimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T3 - Statinio projekto dalies vadovo (elektrotechnikos) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T4 - Statinio projekto dalies vadovo (vandentiekio ir nuotekų šalinimo) patirtis
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: T5 - Statinio projekto dalies vadovo (architektūros) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T6 - Statinio projekto dalies vadovo (statybos skaičiuojamosios kainos nustatymo) patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Plačiau žr. pirkimo 
+dokumentuose.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: IV pirkimo dalis - Kauno raj. sav. sen. Karmėlavos sen, Ramučių k. Vijoklių g. nuo Kauno g. iki Bielinio 
+g. rekonstravimo, ir Kauno raj. sav. Zapyškio sen. Dievogalos k. Varyklos g. rekonstravimo techninių darbo projektų 
+parengimo ir projektų vykdymo priežiūros paslaugos
+Aprašymas: Pirkimo objektas - Kauno r. sav. gatvių projektavimo ir projektų vykdymo priežiūros paslaugos (toliau - 
+Paslaugos). Reikalavimai Paslaugoms (detalus pirkimo objekto aprašymas, apimtis ir kiti reikalavimai) nurodyti pirkimo 
+sąlygų 2 priede „Techninė specifikacija“ ir 3 priede „Sutarties projektas“. Pirkimo objektas skaidomas į 4 (keturias) 
+pirkimo dalis. 2025-07-16 I pirkimo dalis NUTRAUKTA.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas laikomas žaliuoju pirkimu, nes pirkime taikomi minimalūs aplinkos apsaugos kriterijai (pagal 
+Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos 
+kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo (aktuali redakcija) (toliau - Aprašas) 4.1 punktą), 
+t. y. projektavimo paslaugoms taikomi ne mažiau kaip du Aprašo 2 priedo 26.2 p. nurodyti minimalus aplinkos 
+apsaugos kriterijai, bei atsižvelgiant į projektą turi būti numatyti minimalūs aplinkos apsaugos kriterijai kelio 
+elementams, išvardytiems Aprašo 2 priedo 27-29 punktuose „Kelio ženklai, ženklinimas ir triukšmo užtvaros“, 
+„Gatvių apšvietimo įranga“, „Kelių eismo signalai“).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: K - tiekėjo pasiūlymo kaina.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T1 - Statinio projekto vadovo patirtis.
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T2 - Statinio projekto dalies vadovo (susisiekimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T3 - Statinio projekto dalies vadovo (elektrotechnikos) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T4 - Statinio projekto dalies vadovo (vandentiekio ir nuotekų šalinimo) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T5 - Statinio projekto dalies vadovo (architektūros) patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: T6 - Statinio projekto dalies vadovo (statybos skaičiuojamosios kainos nustatymo) patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Plačiau žr. pirkimo 
+dokumentuose.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 82 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB Gatvių inžinerija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000079391
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 82 000 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 10
+Informacija apie sutartį:
+Sutarties identifikatorius: S-1812
+Data, kurią buvo pasirinktas laimėtojas: 01/10/2025
+Sutarties sudarymo data: 14/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Registracijos numeris: 188756386
+Pašto adresas: Savanorių pr. 371 
+Miestas: Kaunas
+Pašto kodas: LT-49386
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: neringa.kolaitiene@krs.lt
+Telefono numeris: +370 37 303 116
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: MB Gatvių inžinerija
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 303066948
+Pašto adresas: Margių Sodų 2-oji g. 57 
+Miestas: Šiauliai
+Pašto kodas: 77101
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: egle.andruliene@gmail.com
+Telefono numeris: +37060329003
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37 490 941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ef0a7887-6b18-466b-96c8-c72305442469 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/10/2025 16:03 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,117 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Mokslo paskirties pastato, Dariaus ir Girėno g. 4, Telšiai (unik. Nr. 7897-5003-1015) paprastojo 
+remonto projekto parengimas ir projekto vykdymo priežiūra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Telšių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mokslo paskirties pastato, Dariaus ir Girėno g. 4, Telšiai (unik. Nr. 7897-5003-1015) paprastojo remonto 
+projekto parengimas ir projekto vykdymo priežiūra
+Aprašymas: Pagal projektavimo užduotį
+Procedūros identifikatorius: accad23f-e300-4804-ba0b-86d5a4505f33
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mokslo paskirties pastato, Dariaus ir Girėno g. 4, Telšiai (unik. Nr. 7897-5003-1015) paprastojo remonto 
+projekto parengimas ir projekto vykdymo priežiūra
+Aprašymas: Pagal projektavimo užduotį
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Eilės tvarka pagal svarbą: 1
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Telšių rajono savivaldybės administracija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Telšių rajono savivaldybės administracija
+Registracijos numeris: 180878299
+Pašto adresas: Žemaitės g. 14 
+Miestas: Telšiai
+Pašto kodas: LT-87133
+Šalis: Lietuva
+E. paštas: albina.rociuviene@telsiai.lt
+Telefono numeris: +370 686 85707
+Fakso numeris: +370 444 52229
+Interneto adresas: www.telsiai.lt
+Pirkėjo profilis: www.telsiai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 41c15bb7-850d-4a74-8b4a-4e5994a0381c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/12/2024 11:34 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

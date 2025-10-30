@@ -1,0 +1,106 @@
+Lietuva: Programinės įrangos palaikymo paslaugos
+Dokumentų valdymo sistemos KONTORA priežiūros ir programavimo paslaugų pirkimas
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Dokumentų valdymo sistemos KONTORA priežiūros ir programavimo paslaugų pirkimas
+Aprašymas: Dokumentų valdymo sistemos KONTORA priežiūros ir programavimo paslaugų pirkimas, 24 mėn.
+Procedūros identifikatorius: e58db1cf-0348-4f3b-ba89-d9da37e9aa38
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Dokumentų valdymo sistemos KONTORA priežiūros ir programavimo paslaugų pirkimas
+Aprašymas: Dokumentų valdymo sistemos KONTORA priežiūros ir programavimo paslaugų pirkimas, 24 mėn.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 49 440 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: UAB „NEVDA“ nuo 2013 m. spalio 14 d. turi visas elektroninio administravimo ir dokumentų 
+valdymo sistemos „KONTORA“ autoriaus turtines ir kitas intelektinės nuosavybės teises, įskaitant teises į visus 
+sistemos modulius, papildinius, dokumentaciją ir išeities kodus. UAB „NEVDA“ yra vienintelė sistemos „KONTORA“ 
+autoriaus turtinių ir kitų intelektinės nuosavybės teisių turėtoja visam jų galiojimo laikotarpiui neribotoje teritorijoje ir 
+šios teisės daugiau niekam nėra perleistos ar suteiktos.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Pašto adresas: Pramonės pr. 31 
+Miestas: Kaunas
+Pašto kodas: 51270
+Šalis: Lietuva
+E. paštas: info@kaunopoliklinika.lt
+Telefono numeris: +37037403900
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: NEVDA
+Registracijos numeris: 121931451
+Pašto adresas: Savanorių pr. 178F 
+Miestas: Vilnius
+Pašto kodas: 03154
+Šalis: Lietuva
+E. paštas: paulius@nevda.lt
+Telefono numeris: +37068515007
+Šios organizacijos vaidmenys:
+Dalyvis
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 0c5ef233-b25b-48c6-8261-da0c8423c723 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 10/01/2025 13:46 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

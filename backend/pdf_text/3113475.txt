@@ -1,0 +1,417 @@
+Lietuva: Reagentai ir kontrastiniai preparatai
+579673_Reagentų pirkimas 2_II ketv.
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 579673_Reagentų pirkimas 2_II ketv.
+Aprašymas: Reagentų ir kontrastinių preparatų pirkimas, 3 pirkimo dalys
+Procedūros identifikatorius: e3f5f4a3-ff58-4d8d-af4d-b3638da144ba
+Ankstesnis skelbimas: 183920-2022
+Vidaus identifikatorius: 579673
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696000 Reagentai ir kontrastiniai preparatai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 2022-P-00166 Biometrija
+Aprašymas: Reagentų ir kontrastinių preparatų pirkimas
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696000 Reagentai ir kontrastiniai preparatai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2022-P-00243 Genomika
+Aprašymas: Reagentų ir kontrastinių preparatų pirkimas
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696000 Reagentai ir kontrastiniai preparatai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 2022-P-00226 Laborama
+Aprašymas: Reagentų ir kontrastinių preparatų pirkimas
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696000 Reagentai ir kontrastiniai preparatai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 26 144,64 Euro
+Preliminariųjų sutarčių apytikslė vertė: 26 144,64 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties iš naujo įvertinta vertė: 2 323,2 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Biometrija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 247
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 223 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00352 (247)
+Sutarties sudarymo data: 24/04/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Biometrija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 226
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 348,2 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00307 (226)
+Sutarties sudarymo data: 07/04/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Biometrija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 276
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 958 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00396 (276)
+Sutarties sudarymo data: 07/05/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Biometrija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 328
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 102 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00502 (328)
+Sutarties sudarymo data: 03/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Biometrija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 368
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 692 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00571 (368)
+Sutarties sudarymo data: 16/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties iš naujo įvertinta vertė: 8 131 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Genomika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 299
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 8 131 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00488 (299)
+Sutarties sudarymo data: 30/05/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties iš naujo įvertinta vertė: 15 690,44 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 222
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 2 568,6 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00310 (222)
+Sutarties sudarymo data: 07/04/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 241
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 720 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00333 (241)
+Sutarties sudarymo data: 15/04/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 273
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 586 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00399 (273)
+Sutarties sudarymo data: 05/05/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 302
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 98,64 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00449 (302)
+Sutarties sudarymo data: 23/05/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 305
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 604,8 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00463 (305)
+Sutarties sudarymo data: 26/05/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 359
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 4 777,2 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00542 (359)
+Sutarties sudarymo data: 11/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 373
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 2 346 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00570 (373)
+Sutarties sudarymo data: 16/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 417
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 488 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00599 (417)
+Sutarties sudarymo data: 25/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 384
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 439,2 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00573 (384)
+Sutarties sudarymo data: 17/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+Laimėtojas:
+Oficialus pavadinimas: UAB Laborama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 364
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 3 062 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2025-P-00555 (364)
+Sutarties sudarymo data: 11/06/2025
+Sutartis skiriama pagal preliminariąją sutartį: taip
+Pranešimas, kūręs pagrindinę sutartį: 183920-2022
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 10
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universitetas (PV)
+Registracijos numeris: 302536989
+Pašto adresas: A. Mickevičiaus g. 9 
+Miestas: Kaunas
+Pašto kodas: LT-44307
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: rektoratas@lsmu.lt
+Telefono numeris: 037327201
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Biometrija
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 123221635
+Miestas: Vilnius
+Pašto kodas: 05245
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Genomika
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 305251479
+Miestas: Kaunas
+Pašto kodas: 44156
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Laborama
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 302818839
+Miestas: Vilnius
+Pašto kodas: 08431
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 32951197-1754-4369-baa4-bc5df33ff042 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/07/2025 14:45 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

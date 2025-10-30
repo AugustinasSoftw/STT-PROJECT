@@ -1,0 +1,149 @@
+Lietuva: Kapitalinio remonto ir atnaujinimo darbai
+VP-3145 Paprastojo remonto darbai adresais Taikos g. 18, Pasvalys, Savanorių a. 13, 
+Panevėžys, Veterinarijos g. 2, Pažagienių k., Panevėžio raj., 2 kategorija
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Turto bankas
+Pirkėjo teisinė forma: ES institucija, įstaiga ar agentūra
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VP-3145 Paprastojo remonto darbai adresais Taikos g. 18, Pasvalys, Savanorių a. 13, Panevėžys, 
+Veterinarijos g. 2, Pažagienių k., Panevėžio raj., 2 kategorija
+Aprašymas: Paprastojo remonto darbai adresais Taikos g. 18, Pasvalys, Savanorių a. 13, Panevėžys, Veterinarijos g. 
+2, Pažagienių k., Panevėžio raj.
+Procedūros identifikatorius: bca5fcbe-d781-42f3-afa8-e9523833564d
+Ankstesnis skelbimas: c1a0699c-3968-4f63-89e8-81378d93d79f-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453000 Kapitalinio remonto ir atnaujinimo darbai
+Kiti klasifikacijos kodai (cpv): 45236110 Sporto aikštelių paviršių lyginimo darbai
+Kiti klasifikacijos kodai (cpv): 45262640 Aplinkos gerinimo darbai
+Kiti klasifikacijos kodai (cpv): 45421143 Žaliuzių montavimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Negyvenamieji pastatai, nesantys kultūros paveldo objekto teritorijoje, jo apsaugos zonoje ir vietovėje 
+(ypatingi statiniai)
+Aprašymas: Paprastojo remonto darbai adresais Taikos g. 18, Pasvalys, Savanorių a. 13, Panevėžys, Veterinarijos g. 
+2, Pažagienių k., Panevėžio raj.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453000 Kapitalinio remonto ir atnaujinimo darbai
+Kiti klasifikacijos kodai (cpv): 45236110 Sporto aikštelių paviršių lyginimo darbai
+Kiti klasifikacijos kodai (cpv): 45262640 Aplinkos gerinimo darbai
+Kiti klasifikacijos kodai (cpv): 45421143 Žaliuzių montavimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Fiksuota kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės įmonė Turto bankas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybės įmonė Turto bankas
+Organizacija, atliekanti mokėjimus: Valstybės įmonė Turto bankas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 13 013,55 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Avestris"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000082964
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 10 755 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27828
+Sutarties sudarymo data: 22/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Turto bankas
+Registracijos numeris: 112021042
+Pašto adresas: Kęstučio g. 45 
+Miestas: Vilnius
+Pašto kodas: 08124
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: liubov.lavrinovic@turtas.lt
+Telefono numeris: +37064943960
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Avestris"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302329684
+Pašto adresas: Ąžuolų g. 32 
+Miestas: Panevėžys
+Pašto kodas: 35117
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: dainius@avestris.lt
+Telefono numeris: +37065641621
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01400
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: efca9a24-9691-4092-9e96-4b0eec28314a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 22/08/2025 10:04 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

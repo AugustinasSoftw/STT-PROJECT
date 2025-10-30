@@ -1,0 +1,140 @@
+Lietuva: Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+(2025-GSC-323) AV - Kompiuterių tinklų maršrutizatoriai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pirkėjo teisinė forma: Organizacija, skirianti sutartį, subsidijuojamą perkančiosios organizacijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (2025-GSC-323) AV - Kompiuterių tinklų maršrutizatoriai
+Aprašymas: Atnaujinto varžymosi procedūra buvo vykdoma pagal 2022 m. vasario mėn. 15 d., preliminarią sutartį Nr. 
+SUT-130-22
+Procedūros identifikatorius: a1d244a0-4034-422c-96a6-d535e6d07684
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32000000 Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (2025-GSC-323) AV- Kompiuterių tinklų maršrutizatoriai
+Aprašymas: Atnaujinto varžymosi procedūra vykdoma pagal 2022 m. vasario mėn. 15 d., preliminarią sutartį Nr. 
+SUT-130-22
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32000000 Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: VPĮ nurodyti terminai
+Organizacija, pasirašanti sutartį: UAB Ignitis grupės paslaugų centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 8 780 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Santa Monica Networks“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 8 780 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-174-25
+Data, kurią buvo pasirinktas laimėtojas: 04/06/2025
+Sutarties sudarymo data: 10/06/2025
+Organizacija, pasirašanti sutartį: UAB Ignitis grupės paslaugų centras (PV)
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Registracijos numeris: 303200016
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zivile.kasparaviciene@ignitis.lt
+Telefono numeris: +37069836092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 014000
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Santa Monica Networks“
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 134162647
+Miestas: Vilnius
+Pašto kodas: 09313
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 20a737fc-8454-46e0-9d8f-91805773af9d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/07/2025 16:39 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

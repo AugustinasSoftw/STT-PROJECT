@@ -1,0 +1,168 @@
+Lietuva: IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo 
+paslaugos
+Vieningos gaminių, pakuočių ir atliekų apskaitos informacinės sistemos (GPAIS) projektų 
+vadovo ir produkto savininkopaslaugos GPAIS palaikymui ir vystymui
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos Respublikos aplinkos ministerija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vieningos gaminių, pakuočių ir atliekų apskaitos informacinės sistemos (GPAIS) projektų vadovo ir 
+produkto savininkopaslaugos GPAIS palaikymui ir vystymui
+Aprašymas: GPAIS palaikymo ir vystymo projektų vadovas ir produkto savininkas turi kompetencijas reikalingas 
+projektųvadovo funkcijoms atlikti: GPAIS projekto vadovo turi užtikrinti GPAIS tobulinimo ir optimizavimo sėkmingą 
+įgyvendinimą,vadovauti GPAIS veiklos ir IT tiekėjo komandoms pagal suplanuotą biudžetą ir grafiką, pateikiant 
+projekto ataskaitassuinteresuotoms šalimis, užtikrinti Agile technikų taikymą veiklos ir IT tiekėjo komandų 
+efektyvesniam darbui beiproduktyvesniam GPAIS projekto tikslų įgyvendinimui; GPAIS produkto savininkas turi 
+užtikrinti sistemos nepertraukiamąveikimą, tobulinimo darbų prioritetizavimą ir įgyvendinimą pagal vidinių ir verslo 
+vartotojų poreikių svarbumą.
+Procedūros identifikatorius: 1013a078-1f27-424a-8321-f10a0fd459e5
+Ankstesnis skelbimas: 215450-2025
+Vidaus identifikatorius: 1941899
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72000000 IT paslaugos: konsultavimas, programinės įrangos kūrimas, 
+internetas ir aptarnavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vieningos gaminių, pakuočių ir atliekų apskaitos informacinės sistemos (GPAIS) projektų vadovo 
+irprodukto savininko paslaugos GPAIS palaikymui ir vystymui
+Aprašymas: GPAIS palaikymo ir vystymo projektų vadovas ir produkto savininkas turi kompetencijas reikalingas 
+projektųvadovo funkcijoms atlikti: GPAIS projekto vadovo turi užtikrinti GPAIS tobulinimo ir optimizavimo sėkmingą 
+įgyvendinimą,vadovauti GPAIS veiklos ir IT tiekėjo komandoms pagal suplanuotą biudžetą ir grafiką, pateikiant 
+projekto ataskaitassuinteresuotoms šalimis, užtikrinti Agile technikų taikymą veiklos ir IT tiekėjo komandų 
+efektyvesniam darbui beiproduktyvesniam GPAIS projekto tikslų įgyvendinimui; GPAIS produkto savininkas turi 
+užtikrinti sistemos nepertraukiamąveikimą, tobulinimo darbų prioritetizavimą ir įgyvendinimą pagal vidinių ir verslo 
+vartotojų poreikių svarbumą.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72000000 IT paslaugos: konsultavimas, programinės įrangos kūrimas, 
+internetas ir aptarnavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 173 553,72 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Tiekėjo siūlomo specialisto papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Numatyti LR viešųjų pirkimų įstatymo 7sk.
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos Respublikos aplinkos ministerija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 173 553,72 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB "Drūtas kodas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 46 200 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-30
+Data, kurią buvo pasirinktas laimėtojas: 15/05/2025
+Sutarties sudarymo data: 29/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos Respublikos aplinkos ministerija
+Registracijos numeris: 188602370
+Pašto adresas: A. Jakšto g. 4 
+Miestas: Vilnius
+Pašto kodas: 01105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: raminta.vielaviciene@am.lt
+Telefono numeris: +37064558336
+Fakso numeris: +37064558336
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: MB "Drūtas kodas"
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 305643302
+Miestas: Alytaus r. sav., Alytaus sen., Praniūnų k., Nemuno g. 34
+Pašto kodas: 62187
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 12690bdc-e994-44f1-98e5-d7ffdc261313 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/06/2025 18:23 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

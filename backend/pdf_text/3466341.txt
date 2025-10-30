@@ -1,0 +1,136 @@
+Lietuva: Inžinerinių statinių, išskyrus tunelius, šachtas, požemines perėjas ir metro, statybos 
+darbai
+110 kV OL Alytus-Putinai I, II rangos darbų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LITGRID AB
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 110 kV OL Alytus-Putinai I, II rangos darbų pirkimas
+Aprašymas: 110 kV OL Alytus-Putinai I, II rangos darbai (konkretus pirkimas per DPS)
+Procedūros identifikatorius: 9a9cda8e-2916-4a7f-a8c6-78bbb24001bd
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45222000 Inžinerinių statinių, išskyrus tunelius, šachtas, požemines perėjas ir 
+metro, statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 110 kV OL Alytus-Putinai I, II rangos darbų pirkimas
+Aprašymas: 110 kV OL Alytus-Putinai I, II rangos darbai (konkretus pirkimas per DPS)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45222000 Inžinerinių statinių, išskyrus tunelius, šachtas, požemines perėjas ir 
+metro, statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. pirkimo dokumentuose
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: LITGRID AB
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LITGRID AB
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 2 111 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Kauno tiltai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000058467
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 111 500 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23311
+Data, kurią buvo pasirinktas laimėtojas: 29/05/2025
+Sutarties sudarymo data: 20/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LITGRID AB
+Registracijos numeris: 302564383
+Pašto adresas: Karlo Gustavo Emilio Manerheimo g. 8 
+Miestas: Vilnius
+Pašto kodas: 05131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: arunas.jurgelaitis@litgrid.eu
+Telefono numeris: +37065611391
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: AB Kauno tiltai
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 133729589
+Pašto adresas: Ateities pl. 46 
+Miestas: Kaunas
+Pašto kodas: 52502
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: rimantas.giedraitis@kaunotiltai.lt
+Telefono numeris: +37061529874
+Interneto adresas: www.kaunotiltai.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f079b50c-3cfe-4fbb-a59c-b365e83d7c20 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 01/07/2025 16:23 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

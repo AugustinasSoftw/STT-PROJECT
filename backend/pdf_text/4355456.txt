@@ -1,0 +1,163 @@
+Lietuva: Medžių genėjimas ir gyvatvorių karpymas
+Šiaulių miesto želdinių priežiūros ir tvarkymo paslaugos (Atviras konkursas (tarptautinis)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šiaulių apskaitos centras
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šiaulių miesto želdinių priežiūros ir tvarkymo paslaugos (Atviras konkursas (tarptautinis)
+Aprašymas: Šiaulių miesto želdinių priežiūros ir tvarkymo paslaugos (Atviras konkursas (tarptautinis)
+Procedūros identifikatorius: 7a234737-5e57-4bb3-9cbd-0180469e3b60
+Ankstesnis skelbimas: e1873dcf-1e73-4a5e-9af1-d3ea0122ca83-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 77340000 Medžių genėjimas ir gyvatvorių karpymas
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 578 512,4 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šiaulių miesto želdinių priežiūros ir tvarkymo paslaugos (Atviras konkursas (tarptautinis)
+Aprašymas: Šiaulių miesto želdinių priežiūros ir tvarkymo paslaugos (Atviras konkursas (tarptautinis)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 77340000 Medžių genėjimas ir gyvatvorių karpymas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 578 512,4 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 97
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: ŠIAULIŲ APYGARDOS TEISMAS
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šiaulių apskaitos centras
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šiaulių apskaitos centras
+Organizacija, pasirašanti sutartį: Šiaulių miesto savivaldybės administracija,
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 578 512,4 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Šiaulių apželdinimas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077191
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 578 512,4 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27135
+Sutarties sudarymo data: 13/08/2025
+Organizacija, pasirašanti sutartį: Šiaulių miesto savivaldybės administracija,
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šiaulių apskaitos centras
+Registracijos numeris: 305888561
+Pašto adresas: Pakalnės g. 6A 
+Miestas: Šiauliai
+Pašto kodas: 76285
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: viktorija.rzavskaja@sac.lt
+Telefono numeris: +37061133079
+Pirkėjo profilis: www.sac.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Šiaulių apželdinimas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 144127089
+Pašto adresas: Išradėjų 3A 
+Miestas: Šiauliai
+Pašto kodas: 81347
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: info@sapzeldinimas.lt
+Telefono numeris: +370 41 552 664
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: ŠIAULIŲ APYGARDOS TEISMAS
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 83 
+Miestas: Šiauliai
+Pašto kodas: LT-76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: 065216037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Šiaulių miesto savivaldybės administracija,
+Registracijos numeris: 188771865
+Miestas: Šiauliai
+Pašto kodas: LT-76295
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 54eb36e3-67e7-4dce-ac2e-22dd9ac75511 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/09/2025 13:39 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,127 @@
+Lietuva: Centralizuotas šilumos tiekimas
+Šilumos energija (Neskelbiamos derybos)
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Priėmimo ir integracijos agentūra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šilumos energija (Neskelbiamos derybos)
+Aprašymas: Perkama šiluminė energija neskelbiamų derybų būdu
+Procedūros identifikatorius: 19c7cd3f-0f42-437b-827f-27b64f2ee959
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šilumos energija (Neskelbiamos derybos)
+Aprašymas: Perkama šiluminė energija neskelbiamų derybų būdu
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 60 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priėmimo ir integracijos agentūra
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Perkama šilumos energija Priėmimo ir integracijos agentūros Girionių padaliniui, Kauno rajone. 
+Šiame rajone šilumos energija tiekia vienintelis tiekėjas, t.y. UAB "Kauno energija", todėl sutartį gali vykdyti tik 
+vienintelis tiekėjas ir rinkoje daugiau konkurentų nėra.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Kauno energija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000101904
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 32418
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Priėmimo ir integracijos agentūra
+Registracijos numeris: 188720365
+Pašto adresas: A. Jaroševičiaus g. 10B, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 02112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@piia.lt
+Telefono numeris: +37060249364
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: AB Kauno energija
+Registracijos numeris: 235014830
+Pašto adresas: Raudondvario pl. 84 
+Miestas: Kaunas
+Pašto kodas: LT-47179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: a.sisiene@kaunoenergija.lt
+Telefono numeris: 068750437
+Interneto adresas: www.kaunoenergija.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f2752dd2-7ba0-4f15-a9be-d19cfa5545cb - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 08/10/2025 10:53 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

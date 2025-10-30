@@ -1,0 +1,283 @@
+Lietuva: Mokymo priemonės
+Gamtos mokslų kabineto įranga ir priemonės (TŪM)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Panevėžio miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Gamtos mokslų kabineto įranga ir priemonės (TŪM)
+Aprašymas: Pirkimas skirstomas į 3 atskiras dalis: I pirkimo dalis - mokomosios priemonės fizikos pamokoms 
+gimnazijose; II pirkimo dalis - mokomosios priemonės biologijos pamokoms gimnazijose; III pirkimo dalis -
+mokomosios priemonės chemijos pamokoms gimnazijose.
+Procedūros identifikatorius: 6f4fd93f-844f-4abe-bac5-99bcbeb5f3ee
+Ankstesnis skelbimas: bf9db890-d475-4af2-985d-60adffae6ae1-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39162100 Mokymo priemonės
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mokomosios priemonės fizikos pamokoms gimnazijose
+Aprašymas: Pirkimas skirstomas į 3 atskiras dalis: I pirkimo dalis - mokomosios priemonės fizikos pamokoms 
+gimnazijose; II pirkimo dalis - mokomosios priemonės biologijos pamokoms gimnazijose; III pirkimo dalis -
+mokomosios priemonės chemijos pamokoms gimnazijose.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39162100 Mokymo priemonės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 1 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdytas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Panevėžio miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Panevėžio miesto savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Mokomosios priemonės biologijos pamokoms gimnazijose
+Aprašymas: Pirkimas skirstomas į 3 atskiras dalis: I pirkimo dalis - mokomosios priemonės fizikos pamokoms 
+gimnazijose; II pirkimo dalis - mokomosios priemonės biologijos pamokoms gimnazijose; III pirkimo dalis -
+mokomosios priemonės chemijos pamokoms gimnazijose.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39162100 Mokymo priemonės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 1 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdytas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Panevėžio miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Panevėžio miesto savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Mokomosios priemonės chemijos pamokoms gimnazijose
+Aprašymas: Pirkimas skirstomas į 3 atskiras dalis: I pirkimo dalis - mokomosios priemonės fizikos pamokoms 
+gimnazijose; II pirkimo dalis - mokomosios priemonės biologijos pamokoms gimnazijose; III pirkimo dalis -
+mokomosios priemonės chemijos pamokoms gimnazijose.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39162100 Mokymo priemonės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 1 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdytas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Panevėžio miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Panevėžio miesto savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 217 044 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Mokslo technologijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000054909
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 68 760 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23082
+Sutarties sudarymo data: 09/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2014/2020)
+ES fondų identifikatorius: Nr.12-003-03-01-01
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Mokslo technologijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000054909
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 74 364 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23083
+Sutarties sudarymo data: 26/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2014/2020)
+ES fondų identifikatorius: Nr.12-003-03-01-01
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Mokslo technologijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000054909
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 73 920 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23084
+Sutarties sudarymo data: 09/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2014/2020)
+ES fondų identifikatorius: Nr.12-003-03-01-01
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Panevėžio miesto savivaldybės administracija
+Registracijos numeris: 288724610
+Pašto adresas: Laisvės a. 20 
+Miestas: Panevėžys
+Pašto kodas: LT-35200
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: jolanta.valuziene@panevezys.lt
+Telefono numeris: +370 45 501 292
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Mokslo technologijos
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302499665
+Pašto adresas: Perkūnkiemio g. 3 
+Miestas: Vilnius
+Pašto kodas: 12127
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: raimundas@mokslotechnologijos.lt
+Telefono numeris: +37068420267
+Interneto adresas: www.mokslotechnologijos.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d6432cec-1d6c-4de7-888c-a92e5b0c7a7c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/06/2025 13:42 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

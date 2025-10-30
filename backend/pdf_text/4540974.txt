@@ -1,0 +1,148 @@
+Lietuva: Kapitalinio remonto ir atnaujinimo darbai
+VP-3182 Administracinių patalpų, esančių L. Sapiegos g. 12, Kaune, kanalizacijos atšakos 
+keitimo darbų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Turto bankas
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VP-3182 Administracinių patalpų, esančių L. Sapiegos g. 12, Kaune, kanalizacijos atšakos keitimo 
+darbų pirkimas
+Aprašymas: Perkami administracinių patalpų, esančių L. Sapiegos g. 12, Kaune, kanalizacijos atšakos keitimo darbai
+Procedūros identifikatorius: df247a4c-fbf3-4100-8186-4ed546cf6f74
+Ankstesnis skelbimas: c1a0699c-3968-4f63-89e8-81378d93d79f-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453000 Kapitalinio remonto ir atnaujinimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Negyvenamieji pastatai, nesantys kultūros paveldo objekto teritorijoje, jo apsaugos zonoje ir vietovėje 
+(ypatingi statiniai)
+Aprašymas: Perkami administracinių patalpų, esančių L. Sapiegos g. 12, Kaune, kanalizacijos atšakos keitimo darbai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453000 Kapitalinio remonto ir atnaujinimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: žr. pirkimo dokumentuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės įmonė Turto bankas
+Organizacija, atliekanti mokėjimus: Valstybės įmonė Turto bankas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 5 860 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: SVK Grupė
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090882
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 5 860 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30063
+Pavadinimas: VP-3182 Administracinių patalpų, esančių L. Sapiegos g. 12, Kaune, kanalizacijos atšakos 
+keitimo darbų pirkimas
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Turto bankas
+Registracijos numeris: 112021042
+Pašto adresas: Kęstučio g. 45 
+Miestas: Vilnius
+Pašto kodas: 08124
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: giedre.kutniauskiene@turtas.lt
+Telefono numeris: +37065916259
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: SVK Grupė
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302937028
+Pašto adresas: Viršuliškų g. 34 
+Miestas: Vilnius
+Pašto kodas: 05110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@svkgrupe.lt
+Telefono numeris: +37069802013
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Laimėtojo vertybiniais popieriais prekiaujama reguliuojamoje rinkoje
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b53bebd7-90bf-40c5-aa9c-4da25035be61 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 17/09/2025 08:46 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

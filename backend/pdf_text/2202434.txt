@@ -1,0 +1,260 @@
+Lietuva: Apsaugos paslaugos
+Saugomų objektų fizinės apsaugos, vaizdo stebėjimo ir reagavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Saugomų objektų fizinės apsaugos, vaizdo stebėjimo ir reagavimo paslaugos
+Aprašymas: Perkamos saugomų objektų fizinės apsaugos ir vaizdo stebėjimo ir reagavimo paslaugos pagal Užsakovo 
+poreikį (tarptautinis pirkimas).
+Procedūros identifikatorius: e947f0e3-11dd-4cca-a332-d0a1509309b2
+Ankstesnis skelbimas: 28cf1434-23c2-4d37-bf8f-9ba07e3be99d-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79710000 Apsaugos paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Papildoma informacija: Sutartį pasirašė jungtinės veiklos partneriai UAB "Ekskomisarų biuras" ir UAB "Baltijos saugos 
+grupė".
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Saugomų objektų fizinės apsaugos ir vaizdo stebėjimo ir reagavimo paslaugos švietimo įstaigose 
+Vilniaus miesto centrinėje teritorijoje (Žirmūnų, Naujamiesčio, Žvėryno, Šnipiškių, Senamiesčio seniūnijų teritorijose)
+Aprašymas: Perkamos saugomų objektų fizinės apsaugos ir vaizdo stebėjimo ir reagavimo paslaugos pagal Užsakovo 
+poreikį (tarptautinis pirkimas).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79710000 Apsaugos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Paslaugų teikėjas perkamoms paslaugoms turi taikyti aplinkos apsaugos vadybos sistemos 
+reikalavimus pagal standartą LST EN ISO 14001 „Aplinkos vadybos sistemos. Reikalavimai ir naudojimo gairės“ 
+arba Europos Sąjungos aplinkosaugos vadybos ir audito sistemą ar kitus aplinkos apsaugos vadybos standartus, 
+pagrįstus atitinkamais Europos arba tarptautinių standartizacijos organizacijų priimtais standartais, ar kitais tiekėjo 
+pateiktais lygiaverčiais įrodymais
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 72
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Paslaugas teikiančių darbuotojų valandinis darbo užmokestis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vaizdo stebėjimo ir apsaugos sistemų montavimo darbų trukmė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Uždaroji akcinė bendrovė „Vilniaus vystymo 
+kompanija“ -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Uždaroji akcinė bendrovė „Vilniaus vystymo 
+kompanija“ -
+Organizacija, atliekanti mokėjimus: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Saugomų objektų fizinės apsaugos ir vaizdo stebėjimo ir reagavimo paslaugos švietimo įstaigose 
+Vilniaus miesto Pilaitės, Šeškinės ir Verkių seniūnijose
+Aprašymas: Perkamos saugomų objektų fizinės apsaugos ir vaizdo stebėjimo ir reagavimo paslaugos pagal Užsakovo 
+poreikį (tarptautinis pirkimas).
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79710000 Apsaugos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Paslaugų teikėjas perkamoms paslaugoms turi taikyti aplinkos apsaugos vadybos sistemos 
+reikalavimus pagal standartą LST EN ISO 14001 „Aplinkos vadybos sistemos. Reikalavimai ir naudojimo gairės“ 
+arba Europos Sąjungos aplinkosaugos vadybos ir audito sistemą ar kitus aplinkos apsaugos vadybos standartus, 
+pagrįstus atitinkamais Europos arba tarptautinių standartizacijos organizacijų priimtais standartais, ar kitais tiekėjo 
+pateiktais lygiaverčiais įrodymais
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 72
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Paslaugas teikiančių darbuotojų valandinis darbo užmokestis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vaizdo stebėjimo ir apsaugos sistemų montavimo darbų trukmė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Uždaroji akcinė bendrovė „Vilniaus vystymo 
+kompanija“ -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Uždaroji akcinė bendrovė „Vilniaus vystymo 
+kompanija“ -
+Organizacija, atliekanti mokėjimus: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 2 371 831,2 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Ekskomisarų biuras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019661
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 378 818 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15386
+Sutarties sudarymo data: 25/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Ekskomisarų biuras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000019661
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 993 013,2 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15387
+Sutarties sudarymo data: 25/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Registracijos numeris: 120750163
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: Vilnius
+Pašto kodas: LT-09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vilniausvystymas.lt
+Telefono numeris: +37068766000
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Ekskomisarų biuras"
+Registracijos numeris: 122755433
+Pašto adresas: Laisvės pr. 10, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: mantas.kumpys@ekskomisarai.lt
+Telefono numeris: 861247884
+Interneto adresas: www.ekskomisarai.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 7ff922b6-3510-4449-8c70-25d8fa735208 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/04/2025 16:09 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

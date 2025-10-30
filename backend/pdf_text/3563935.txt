@@ -1,0 +1,161 @@
+Lietuva: Atsakymo į telefonų skambučius paslaugos
+Skambučių centro paslauga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė maisto ir veterinarijos tarnyba
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Skambučių centro paslauga
+Aprašymas: Pirkimas skirtas užtikrinti konsultavimo paslaugų telefonu teikimą Valstybinėje maisto ir veterinarijos 
+tarnyboje (toliau-VMVT), pritaikant inovatyvias technologines priemones, leidžiančias fiksuoti klientų užklausas ir 
+pranešimus, pateiktus VMVT telefono numeriu +370 5 242 0108 (trumpasis numeris 1879) ir +370 5 240 4361 į juos 
+atsakyti, analizuoti ir vertinti. Informacinių technologijų priemonėmis siekiama užtikrinti tinkamą ir kokybišką klientų 
+konsultavimą bei efektyvų turimų resursų valdymą, aptarnaujant VMVT klientus.
+Procedūros identifikatorius: 6bf37419-ce74-4c2f-8889-4fe6122f5350
+Ankstesnis skelbimas: 337898b3-6bd9-4489-84b4-7bb4182c0596-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79510000 Atsakymo į telefonų skambučius paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Skambučių centro paslauga
+Aprašymas: Pirkimas skirtas užtikrinti konsultavimo paslaugų telefonu teikimą Valstybinėje maisto ir veterinarijos 
+tarnyboje (toliau-VMVT), pritaikant inovatyvias technologines priemones, leidžiančias fiksuoti klientų užklausas ir 
+pranešimus, pateiktus VMVT telefono numeriu +370 5 242 0108 (trumpasis numeris 1879) ir +370 5 240 4361 į juos 
+atsakyti, analizuoti ir vertinti. Informacinių technologijų priemonėmis siekiama užtikrinti tinkamą ir kokybišką klientų 
+konsultavimą bei efektyvų turimų resursų valdymą, aptarnaujant VMVT klientus.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79510000 Atsakymo į telefonų skambučius paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Aplinkos apsaugos kriterijai, nustatyti pagal Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius 
+pirkimus, tvarkos aprašą, patvirtintą Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. 
+D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“, 
+„Aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdamos 
+prekes, paslaugas ar darbus, taikymo tvarkos aprašas“ 4.3. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė maisto ir veterinarijos tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 23 964 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Baltnetos komunikacijos“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000057052
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 23 964 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23951
+Data, kurią buvo pasirinktas laimėtojas: 17/06/2025
+Sutarties sudarymo data: 02/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė maisto ir veterinarijos tarnyba
+Registracijos numeris: 188601279
+Pašto adresas: Siesikų g. 19 
+Miestas: Vilnius
+Pašto kodas: LT-07170
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: agne.kavoliene@vmvt.lt
+Telefono numeris: +37065024212
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Baltnetos komunikacijos“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 125145862
+Pašto adresas: Rutkausko g. 6 
+Miestas: Vilnius
+Pašto kodas: 05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: rita.valaitiene@balt.net
+Telefono numeris: +37068613642
+Interneto adresas: www.baltneta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c1a9e06f-9bad-4555-8f84-8b58986ac3e0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/07/2025 11:18 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

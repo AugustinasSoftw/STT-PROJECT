@@ -1,0 +1,115 @@
+Lietuva: Krantinių statybos darbai
+Kopgalio krantinių rekonstravimo darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Organizacija, skirianti sutartį, subsidijuojamą centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kopgalio krantinių rekonstravimo darbai
+Aprašymas: Kopgalio krantinių Smiltynės g. 2A ir 2B, Klaipėdoje, griovimo ir naujos statybos darbai
+Procedūros identifikatorius: db2316d7-3197-49f3-9006-e7db107da584
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45241100 Krantinių statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kopgalio krantinių rekonstravimo darbai
+Aprašymas: Kopgalio krantinių Smiltynės g. 2A ir 2B, Klaipėdoje, griovimo ir naujos statybos darbai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45241100 Krantinių statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: maksimalus balas 94
+Aprašymas: Už mažesnę kainą suteikiama daugiau balų
+Lyginamasis svoris (balai, tikslus skaičius): 94
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Tiekėjo siūlomo ypatingojo statinio statybos vadovo (statinių grupė: susisiekimo komunikacijos - 
+pogrupis: vandens uostų statiniai) patirtis (P).
+Lyginamasis svoris (balai, tikslus skaičius): 6
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės sienos apsaugos tarnyba prie Lietuvos 
+Respublikos vidaus reikalų ministerijos
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas ne dėl to, kad gautas dalyvio prašymas 
+peržiūrėti sprendimą dėl sutarties skyrimo, o dėl techninių ar procedūrinių klaidų
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188608252
+Pašto adresas: Savanorių pr. 2 
+Miestas: Vilnius
+Pašto kodas: 03116
+Šalis: Lietuva
+E. paštas: lina.vaisnore@vsat.vrm.lt
+Telefono numeris: +37064500615
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c2c57cbb-b0e8-4cbf-a0ed-08b417006b02 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/01/2025 12:57 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

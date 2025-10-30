@@ -1,0 +1,138 @@
+Lietuva: Vamzdynų, ryšių ir elektros energijos tiekimo linijų tiesimo darbai
+Pietų regiono 110-400 kV oro linijų eksploatavimo darbai (atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LITGRID AB
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pietų regiono 110-400 kV oro linijų eksploatavimo darbai (atviras konkursas)
+Aprašymas: Pietų regiono 110-400 kV oro linijų eksploatavimo darbų pirkimas (atviras konkursas).
+Procedūros identifikatorius: 8e572106-9036-4089-b8e0-183359679235
+Ankstesnis skelbimas: 17d569c7-6792-4c11-b215-1d39f4b66ce5-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45231000 Vamzdynų, ryšių ir elektros energijos tiekimo linijų tiesimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 6 000 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pietų regiono 110-400 kV oro linijų eksploatavimo darbai (atviras konkursas)
+Aprašymas: Pietų regiono 110-400 kV oro linijų eksploatavimo darbų pirkimas (atviras konkursas).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45231000 Vamzdynų, ryšių ir elektros energijos tiekimo linijų tiesimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. pirkimo dokumentuose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: LITGRID AB
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LITGRID AB
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 7 260 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Eltirema
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000040614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 6 956 826,43 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 23499
+Data, kurią buvo pasirinktas laimėtojas: 04/06/2025
+Sutarties sudarymo data: 03/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LITGRID AB
+Registracijos numeris: 302564383
+Pašto adresas: Karlo Gustavo Emilio Manerheimo g. 8 
+Miestas: Vilnius
+Pašto kodas: 05131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: arunas.jurgelaitis@litgrid.eu
+Telefono numeris: +37065611391
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Eltirema
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 122790181
+Pašto adresas: S. Žukausko g. 39 
+Miestas: Vilnius
+Pašto kodas: 09130
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: darius@eltirema.com
+Telefono numeris: +37065225567
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a484caea-9e71-4ace-a80e-798b482cff02 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/07/2025 10:29 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

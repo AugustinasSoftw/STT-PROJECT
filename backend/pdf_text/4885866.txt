@@ -1,0 +1,153 @@
+Lietuva: Architektūros ir susijusios paslaugos
+ŠIAULIŲ RAJONO, KURŠĖNŲ MIESTO, ARCHITEKTŪRINIŲ MIESTO RIBOŽENKLIŲ 
+ATNAUJINIMO PROJEKTO PARENGIMO PASLAUGOS (atviras tarptautinis konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ŠIAULIŲ RAJONO, KURŠĖNŲ MIESTO, ARCHITEKTŪRINIŲ MIESTO RIBOŽENKLIŲ ATNAUJINIMO 
+PROJEKTO PARENGIMO PASLAUGOS (atviras tarptautinis konkursas)
+Aprašymas: ŠIAULIŲ RAJONO, KURŠĖNŲ MIESTO, ARCHITEKTŪRINIŲ MIESTO RIBOŽENKLIŲ PROJEKTO 
+PARENGIMO PASLAUGOS
+Procedūros identifikatorius: d06cbe60-ac0e-4bc8-8ddd-c7446f96789a
+Ankstesnis skelbimas: cf36cdae-10ea-4302-9a99-665af3569c44-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71200000 Architektūros ir susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 23 700 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: ŠIAULIŲ RAJONO, KURŠĖNŲ MIESTO, ARCHITEKTŪRINIŲ MIESTO RIBOŽENKLIŲ ATNAUJINIMO 
+PROJEKTO PARENGIMO PASLAUGOS (atviras tarptautinis konkursas)
+Aprašymas: ŠIAULIŲ RAJONO, KURŠĖNŲ MIESTO, ARCHITEKTŪRINIŲ MIESTO RIBOŽENKLIŲ PROJEKTO 
+PARENGIMO PASLAUGOS
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71200000 Architektūros ir susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 31 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 23 700 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Specialisto patirtis.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šiaulių rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 28 435 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Atamis
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000084442
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 28 435 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 32644
+Sutarties sudarymo data: 25/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Registracijos numeris: 188726051
+Pašto adresas: Vilniaus g. 263 
+Miestas: Šiauliai
+Pašto kodas: 76337
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: viktor.bakanov@siauliuraj.lt
+Telefono numeris: +37041596662
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Atamis
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 300564438
+Pašto adresas: Žirmūnų g. 139 
+Miestas: Vilnius
+Pašto kodas: LT-09120
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@atamis.lt
+Telefono numeris: +37052728334
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Miestas: Vilnius
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: edd364cc-5dff-4006-a265-0bf242399937 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/10/2025 09:56 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

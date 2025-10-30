@@ -1,0 +1,494 @@
+Lietuva: Vertinimo konsultacinės paslaugos
+EPALE ekspertų paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Švietimo mainų paramos fondas
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: EPALE ekspertų paslaugos
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Procedūros identifikatorius: d6321aa4-6202-4706-b9f7-aa417b118a6d
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 1
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vertinama kokybė (patirtis) Assessed quality (experience)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 2
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimas nutrauktas dėl techninės klaidos (naujoje CVP IS priskirtas tarptautiniams pirkimams, kai 
+pirkimas supaprastinas)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 3
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimas nutrauktas dėl techninės klaidos (naujoje CVP IS priskirtas tarptautiniams pirkimams, kai 
+pirkimas supaprastinas)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 4
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimas nutrauktas dėl techninės klaidos (naujoje CVP IS priskirtas tarptautiniams pirkimams, kai 
+pirkimas supaprastinas)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 5
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimas nutrauktas dėl techninės klaidos (naujoje CVP IS priskirtas tarptautiniams pirkimams, kai 
+pirkimas supaprastinas)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 6
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimas nutrauktas dėl techninės klaidos (naujoje CVP IS priskirtas tarptautiniams pirkimams, kai 
+pirkimas supaprastinas)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Epale ekspertų paslaugos pirkimo dalis Nr. 7
+Aprašymas: Švietimo darbuotojų, dirbančių suaugusiųjų švietimo srityje, prisijungimo prie tarptautinės „Epale“ 
+bendruomenės skatinimas ir kvietimas dalintis savo profesine patirtimi. 1. Gerosios „Epale“ platformos patirties 
+įvairiais būdais ir priemonėmis skleidimas suaugusiųjų švietimo srities specialistams, politikos formuotojams; 2. 
+Prisidėjimas rengiant ir plėtojant kokybišką platformos turinį daugiakalbėje aplinkoje ir atspindėjimas pagrindinių 
+„Epale“ temų, kurios tikslinamos kasmet. 2.1. „Epale“ platformos turinio, susijusio su suaugusiųjų švietimu, plėtojimo 
+veikla: identifikuotas, aprašytas renginys; straipsnis apie intelektinius išteklius; straipsnis tinklaraščiui; naujiena; 
+ištekliaus pranešimo parengimas; straipsnių, naujienų, pateiktų žinučių tinklaraštyje komentavimas, diskusijos 
+moderavimas ir palaikymas; analitinio straipsnio parengimas. 2.2. Visuomenės informavimo veiklos: informacinio/
+teminio seminaro (fizinio arba internetinio renginio): organizavimas, vedimas; pranešimų apie „Epale“ platformą 
+rengimas ir skaitymas viešuose renginiuose, susitikimuose; informacinio straipsnio (taip pat: rekomendacijų, 
+apibendrinimų, tyrimų, analizių, gerosios praktikos pavyzdžių ir pan.) apie „Epale“ platformą parengimas ir 
+publikavimas nacionalinėje, regioninėje ar vietos spaudoje ir viešinimas tinklalapiuose, socialiniuose tinkluose; 
+vietos ir regioninės valdžios institucijų informavimas apie organizuojamus sklaidos renginius, siekiant paskleisti 
+informaciją apie „Epale“ platformą kuo platesnei suaugusiųjų švietimo bendruomenei. 2.3. Kita veikla: suaugusiųjų 
+švietėjų konsultavimas „Epale“ platformos naudojimo, straipsnių rengimo, talpinimo klausimais (virtualioje arba 
+fizinėje erdvėje); naujienlaiškio parengimas; vidiniai mokymai „Epale“ ekspertams, dalyvavimas „Epale“ ekspertų 
+susitikimuose; kita veikla, susijusi su suaugusiųjų švietimu ir/ar „Epale“ platforma veikla, suderinta su Fondu iš anksto. 
+Pirkimas skirstomas į 7 dalis, kurios nurodytos techninėje specifikacijoje.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79419000 Vertinimo konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 302,8 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimas nutrauktas dėl techninės klaidos (naujoje CVP IS priskirtas tarptautiniams pirkimams, kai 
+pirkimas supaprastinas)
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Švietimo mainų paramos fondas
+Organizacija, atliekanti mokėjimus: Švietimo mainų paramos fondas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Švietimo mainų paramos fondas
+Registracijos numeris: 300629875
+Pašto adresas: Vilnius, Rožių al. 2, LT-03106 
+Miestas: Vilnius
+Pašto kodas: 03106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: valerijus.kirilovas@smpf.lt
+Telefono numeris: +37066759897
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: baef0c60-9438-4a56-a14e-480912855a9d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/01/2025 11:51 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

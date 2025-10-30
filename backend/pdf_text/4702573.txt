@@ -1,0 +1,188 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+VATIS modernizavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VATIS modernizavimo paslaugos
+Aprašymas: Pirkimo objektas - VATIS modernizavimo paslaugos, įgyvendinant projektą „Valstybinės augalininkystės 
+tarnybos prie Žemės ūkio ministerijos informacinės sistemos VATIS prieinamumo didinimas ūkio subjektams ir 
+VATŽŪM darbuotojams“, Nr. 02-085-P-0009.
+Procedūros identifikatorius: cc41a9a8-71b9-432b-b953-cd67929b0edd
+Ankstesnis skelbimas: 3fd10a39-8b5a-428e-9137-474a5fd2da90-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 784 253 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: VATIS modernizavimo paslaugos
+Aprašymas: Pirkimo objektas - VATIS modernizavimo paslaugos, įgyvendinant projektą „Valstybinės augalininkystės 
+tarnybos prie Žemės ūkio ministerijos informacinės sistemos VATIS prieinamumo didinimas ūkio subjektams ir 
+VATŽŪM darbuotojams“, Nr. 02-085-P-0009.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 784 253 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: 3. Pasiūlymo ekonominis naudingumas (EkonNaud) apskaičiuojamas sudedant tiekėjo pasiūlymo 
+kainos 1. Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos ir kokybės santykį. 
+Ekonomiškai naudingiausiu pasiūlymu laikomas pasiūlymas, kurio ekonominis naudingumas yra didžiausias 
+(KAINA) ir kriterijaus „Papildomų specialistų į tas pačias pozicijas skaičius (KvPSP)“ . Kaina sudaro 70 proc. balų 
+vertės. Antrojo kriterijaus vertė 30 proc.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: 3. Pasiūlymo ekonominis naudingumas (EkonNaud) apskaičiuojamas sudedant tiekėjo pasiūlymo 
+kainos 1. Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos ir kokybės santykį. 
+Ekonomiškai naudingiausiu pasiūlymu laikomas pasiūlymas, kurio ekonominis naudingumas yra didžiausias 
+(KAINA) ir kriterijaus „Papildomų specialistų į tas pačias pozicijas skaičius (KvPSP)“ . Kaina sudaro 70 proc. balų 
+vertės. Antrojo kriterijaus vertė 30 proc.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: VPT 102 straipsnis. Pretenzijos pateikimo perkančiajai organizacijai, prašymo 
+pateikimo ar ieškinio pareiškimo teismui terminai 1. Tiekėjas turi teisę pateikti pretenziją perkančiajai organizacijai, 
+pateikti prašymą ar pareikšti ieškinį teismui (išskyrus šio straipsnio 3 ir 4 dalyse nurodytus atvejus): Straipsnio dalies 
+pakeitimai: Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411 1) per 10 dienų (supaprastintų 
+pirkimų atveju - per 5 darbo dienas) nuo perkančiosios organizacijos pranešimo raštu apie jos priimtą sprendimą 
+išsiuntimo tiekėjams dienos, o jeigu šis pranešimas nebuvo siunčiamas elektroninėmis priemonėmis, - per 15 dienų 
+nuo pranešimo išsiuntimo tiekėjams dienos; 2) per 10 dienų (supaprastintų pirkimų atveju - per 5 darbo dienas) 
+nuo paskelbimo apie perkančiosios organizacijos priimtą sprendimą dienos, jeigu šiame įstatyme nėra reikalavimo 
+raštu informuoti tiekėjus apie perkančiosios organizacijos priimtus sprendimus. 2. Jeigu perkančioji organizacija 
+per nustatytą terminą neišnagrinėja jai pateiktos pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį 
+teismui per 15 dienų nuo dienos, kurią perkančioji organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją 
+pateikusiam tiekėjui, suinteresuotiems kandidatams ir suinteresuotiems dalyviams. 3. Tiekėjas turi teisę pareikšti 
+ieškinį dėl pirkimo sutarties ar preliminariosios sutarties pripažinimo negaliojančia per 6 mėnesius nuo pirkimo 
+sutarties sudarymo dienos. 4. Tiekėjas, manydamas, kad perkančioji organizacija nepagrįstai nutraukė pirkimo sutartį 
+dėl esminio pirkimo sutarties pažeidimo ar nepagrįstai priėmė sprendimą, kad tiekėjas pirkimo sutartyje nustatytą 
+esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkančioji organizacija pritaikė 
+sutartyje nustatytą sankciją, turi teisę pareikšti ieškinį teismui per 30 dienų nuo pirkimo sutarties nutraukimo ar 
+perkančiosios organizacijos sprendimo išsiuntimo tiekėjui dienos.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė augalininkystės tarnyba prie Žemės 
+ūkio ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 700 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Asserte
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069709
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 700 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30882
+Sutarties sudarymo data: 22/09/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-085-P-0009
+Išsamesnė informacija apie ES fondus: Paslaugos perkamos įgyvendinant projektą „Valstybinės 
+augalininkystės tarnybos prie Žemės ūkio ministerijos informacinės sistemos VATIS prieinamumo didinimas 
+ūkio subjektams ir VATŽŪM darbuotojams“, Nr. 02-085-P-0009 (toliau - Projektas). Projektu prisidedama 
+prie 2021-2030 m. Lietuvos Respublikos ekonomikos ir inovacijų ministerijos valstybės skaitmeninimo 
+plėtros programos pažangos priemonės Nr. 05-002-01-07-08 „Kurti technologinius sprendimus ir įrankius, 
+leidžiančius saugiai ir patogiai naudotis paslaugomis“ aprašo patvirtinimo“ įgyvendinamo Nacionalinio 
+pažangos plano uždavinio Nr. 1.7. „Skatinti valstybės skaitmeninimą“. Projektas finansuojamas Ekonomikos 
+gaivinimo ir atsparumo didinimo priemonės bei Lietuvos Respublikos biudžeto lėšomis.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos
+Registracijos numeris: 302526112
+Pašto adresas: Ozo g. 4A 
+Miestas: Vilnius
+Pašto kodas: 08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vatzum.lt
+Telefono numeris: +37052375631
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Asserte
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302838172
+Pašto adresas: Juozo Rutkausko g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@asserte.lt
+Telefono numeris: +37061290596
+Interneto adresas: www.asserte.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 9303a8b2-24ac-4f2f-991f-748584a50b02 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/09/2025 07:13 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

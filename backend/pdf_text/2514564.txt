@@ -1,0 +1,131 @@
+Lietuva: Programinės įrangos priežiūros ir tvarkymo paslaugos
+Radiologinės sistemos Meddream Pacs ir Meddream Viewer priežiūros paslaugos
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Radiologinės sistemos Meddream Pacs ir Meddream Viewer priežiūros paslaugos
+Aprašymas: Perkančioji organizacija Viešoji įstaiga Kauno miesto poliklinika vykdo Radiologinės sistemos Meddream 
+PACS ir Meddream Viewer priežiūros paslaugas. Numatoma pirkimo vertė grafoje nurodyta „0“ reikšmė reiškia, kad 
+numatoma pirkimo vertė nėra viešinama
+Procedūros identifikatorius: 901669a1-ca82-4f12-9c6c-4c5869c9c447
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 51270
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Radiologinės sistemos Meddream Pacs ir Meddream Viewer priežiūros paslaugos
+Aprašymas: Perkančioji organizacija Viešoji įstaiga Kauno miesto poliklinika vykdo Radiologinės sistemos Meddream 
+PACS ir Meddream Viewer priežiūros paslaugas. Numatoma pirkimo vertė grafoje nurodyta „0“ reikšmė reiškia, kad 
+numatoma pirkimo vertė nėra viešinama
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: 51270
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV) -
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Vadovaujantis VPĮ 72 str. 1 d.2 p.," tarptautinis pirkimas neskelbiamų derybų būdu gali būti 
+pradedamas tik gavus Viešųjų pirkimų tarnybos sutikimą dėl tokio pirkimo būdo pasirinkimo. Viešųjų pirkimų 
+tarnybos sutikimas nereikalingas, jeigu perkančioji organizacija numato paskelbti savanoriško ex ante skaidrumo 
+skelbimą ir informaciją apie tai nurodo pirkimo dokumentuose (...)".
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „MedDream“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000051641
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 17601
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Pašto adresas: Pramonės pr. 31 
+Miestas: Kaunas
+Pašto kodas: 51270
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@kaunopoliklinika.lt
+Telefono numeris: +370 37 403961
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „MedDream“
+Pašto adresas: K. Baršausko g. 59 
+Miestas: Kaunas
+Pašto kodas: 51423
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: asta.pranckeviciute@meddream.com
+Telefono numeris: +370 698 39257
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1128dbbf-cff4-42e1-9db6-92ce7d6eb9eb - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 05/05/2025 13:22 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

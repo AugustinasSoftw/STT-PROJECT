@@ -1,0 +1,94 @@
+Lietuva: Laivai ir panašios vandens transporto priemonės žmonėms arba kroviniams vežti
+Elektrinis stūmikas
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Vidaus vandens kelių direkcija
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Elektrinis stūmikas
+Aprašymas: Elektrinis laivas - stūmikas - 1 vnt.
+Procedūros identifikatorius: 93a1c759-59e5-493a-99d8-9e9f103250ef
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34512000 Laivai ir panašios vandens transporto priemonės žmonėms arba 
+kroviniams vežti
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Elektrinis stūmikas
+Aprašymas: Elektrinis laivas - stūmikas - 1 vnt.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34512000 Laivai ir panašios vandens transporto priemonės žmonėms arba 
+kroviniams vežti
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Vidaus vandens kelių direkcija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas ne dėl to, kad gautas dalyvio prašymas 
+peržiūrėti sprendimą dėl sutarties skyrimo, o dėl techninių ar procedūrinių klaidų
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Vidaus vandens kelių direkcija
+Registracijos numeris: 132090925
+Pašto adresas: Raudondvario pl.113 
+Miestas: Kaunas
+Pašto kodas: 47186
+Šalis: Lietuva
+E. paštas: rita.kavaliauskiene@vvkd.lt
+Telefono numeris: +370 67936446
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 626aa5e5-0693-40f3-b2c4-ff775685bfe8 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 08/01/2025 11:19 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

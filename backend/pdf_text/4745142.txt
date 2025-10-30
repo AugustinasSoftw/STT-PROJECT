@@ -1,0 +1,147 @@
+Lietuva: Metalo gręžimo staklės
+(VPP-168) Gręžimo po slėgiu įrangos pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB "Amber Grid"
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (VPP-168) Gręžimo po slėgiu įrangos pirkimas
+Aprašymas: Gręžimo įrenginys (skirtas skylių gręžimui veikiančiuose aukšto slėgio dujotiekio (5,4 MPa) DN80-DN400 
+vamzdynuose ir veikiančio vamzdyno užkišimui) ir jo atsarginės dalys.
+Procedūros identifikatorius: 51049888-771d-493f-9443-7b084ab7bf96
+Ankstesnis skelbimas: e38e9930-a070-4bb5-9b4e-9f66e443128d-01
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42637100 Metalo gręžimo staklės
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: žr. sutartyje
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (VPP-168) Gręžimo po slėgiu įrangos pirkimas
+Aprašymas: Gręžimo įrenginys (skirtas skylių gręžimui veikiančiuose aukšto slėgio dujotiekio (5,4 MPa) DN80-DN400 
+vamzdynuose ir veikiančio vamzdyno užkišimui) ir jo atsarginės dalys.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42637100 Metalo gręžimo staklės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: žr. sutarties dokumentuose
+5.1.3 Numatomas galiojimas
+Galiojimas: 10 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB "Amber Grid"
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB "Amber Grid"
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 723 465,34 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: PROPIPE
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000071156
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 723 465,34 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31550
+Sutarties sudarymo data: 30/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB "Amber Grid"
+Registracijos numeris: 303090867
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ambergrid.lt
+Telefono numeris: 052360855
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: PROPIPE
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: B83382523
+Pašto adresas: Hermanos Gascon 14 
+Miestas: Madrid
+Pašto kodas: 28050
+Šalies administracinis vienetas (NUTS): Madrid (ES300)
+Šalis: Ispanija
+E. paštas: martin.varga@integ.sk
+Telefono numeris: +421904204434
+Interneto adresas: www.propipe.es
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f6e4712c-5561-4443-8fe0-9cfa3c8e5ba2 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/09/2025 13:18 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

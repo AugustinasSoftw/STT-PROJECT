@@ -1,0 +1,994 @@
+Lietuva: Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+Kompiuterinė, organizacinė, tinklo ir programinė įranga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Informacinių technologijų tarnyba prie Krašto apsaugos ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kompiuterinė, organizacinė, tinklo ir programinė įranga
+Aprašymas: Kompiuterinė, organizacinė, tinklo ir programinė įranga
+Procedūros identifikatorius: 417cbc26-6185-4e33-9666-6583ff08b15e
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32000000 Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Nešiojamas radijo ryšio terminalas
+Aprašymas: Nešiojamas radijo ryšio terminalas. Numatomas min. kiekis - 20 vnt. max. kiekis - 40 vnt.
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32344230 Radijo stotys
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: Komutatorius Nr.1
+Aprašymas: Komutatorius Nr.1. Numatomas min. kiekis - 4 vnt. max. kiekis - 50 vnt.
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32400000 Tinklai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: Komutatorius Nr.2
+Aprašymas: Komutatorius Nr.2. Numatomas min. kiekis - 14 vnt., max. keikis - 50 vnt.
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32400000 Tinklai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Žaliojo viešojo pirkimo kriterijų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0013
+Pavadinimas: Komutatorius Nr.3
+Aprašymas: Komutatorius Nr.3. Numatomas min. kiekis - 126 vnt. max. kiekis - 500 vnt.
+Vidaus identifikatorius: 13
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32400000 Tinklai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Žaliojo viešojo pirkimo kriterijų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0014
+Pavadinimas: Maršrutizatorius su ugniasienės funkcija Nr.1
+Aprašymas: Maršrutizatorius su ugniasienės funkcija Nr.1. Numatomas min. kiekis - 2 vnt., max. kiekis - 15 vnt.
+Vidaus identifikatorius: 14
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32400000 Tinklai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0015
+Pavadinimas: 4G maršrutizatorius su ugniasienės funkcija Nr.2
+Aprašymas: 4G maršrutizatorius su ugniasienės funkcija Nr.2. Numatomas min. kiekis - 2 vnt. , max. kiekis - 15 vnt.
+Vidaus identifikatorius: 15
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32400000 Tinklai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0016
+Pavadinimas: Tinklo kelvedis 5G
+Aprašymas: Tinklo kelvedis 5G. Numatomas min. kiekis - 19 vnt., max. kiekis -150 vnt.
+Vidaus identifikatorius: 16
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32400000 Tinklai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0017
+Pavadinimas: Nepertraukiamo maitinimo šaltinis Nr.4
+Aprašymas: Nepertraukiamo maitinimo šaltinis Nr.4. Numatomas min. kiekis - 3 vnt., max. kiekis - 50 vnt.
+Vidaus identifikatorius: 17
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31154000 Nenutrūkstamojo maitinimo šaltiniai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilniaus
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0018
+Pavadinimas: Programinės įrangos "WinZip" licencija
+Aprašymas: Programinės įrangos "WinZip" licencija. Numatomas min. kiekis - 20 vnt., max. kiekis - 150 vnt.
+Vidaus identifikatorius: 18
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0019
+Pavadinimas: IT infrastruktūros paslaugų kokybės valdymo modulio licencija
+Aprašymas: IT infrastruktūros paslaugų kokybės valdymo modulio licencija. Numatomas kiekis - 1 vnt.
+Vidaus identifikatorius: 19
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Tarnybinė stotis Nr.ST1
+Aprašymas: Tarnybinė stotis Nr.ST1. Numatomas min. kiekis - 10 vnt, max. kiekis - 30 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48800000 Informacinės sistemos ir serveriai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vinius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0020
+Pavadinimas: Telepresence Room licencijos prenumerata.
+Aprašymas: Telepresence Room licencijos prenumerata. Numatomas min. kiekis - 15 vnt., max. kiekis - 20 vnt.
+Vidaus identifikatorius: 20
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48500000 Komunikacijų ir multimedijos programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Grafinė darbo stotis
+Aprašymas: Grafinė darbo stotis. Numatomas min. kiekis - 16 vnt. max. kiekis - 60 vnt.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Nešiojama grafinė darbo stotis
+Aprašymas: Nešiojama grafinė darbo stotis. Numatomas min. kiekis- 4 vnt. max. kiekis - 30 vnt.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Specialiosios paskirties nešiojamasis kompiuteris TEMPEST A
+Aprašymas: Specialiosios paskirties nešiojamasis kompiuteris TEMPEST A. Numatomas min. kiekis - 1 vnt. max. 
+kiekis - 10 vnt.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Daugiafunkcinis spausdinimo įrenginys
+Aprašymas: Daugiafunkcinis spausdinimo įrenginys. Numatomas min. kiekis - 77 vnt., max. kiekis - 500 vnt.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30232100 Spausdintuvai ir braižytuvai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Nespalvinis daugiafunkcinis įrenginys
+Aprašymas: Nespalvinis daugiafunkcinis įrenginys. Numatomas min. kiekis - 53 vnt., max. kiekis - 500 vnt.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30232100 Spausdintuvai ir braižytuvai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Duomenų laikmenų naikinimo įrenginys
+Aprašymas: Duomenų laikmenų naikinimo įrenginys. Numatomas kiekis - 1 vnt.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30191000 Biuro įranga, išskyrus baldus
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Dokumentų ir optinių laikmenų naikinimo įrenginys
+Aprašymas: Dokumentų ir optinių laikmenų naikinimo įrenginys. Numatomas min. kiekis - 1 vnt. max. kiekis - 4 vnt.
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30191400 Dokumentų naikinimo įrenginiai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: Vaizdo projektorius
+Aprašymas: Vaizdo projektorius
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38652120 Vaizdo projektoriai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos pasiūlymas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 927 584 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Santa Monica Networks"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS8
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-85
+Sutarties sudarymo data: 08/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0013
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0014
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1 Rezultatai: pirkimo dalies ID: LOT-0015
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1 Rezultatai: pirkimo dalies ID: LOT-0016
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Santa Monica Networks"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS9
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0016
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-84
+Sutarties sudarymo data: 14/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0017
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Energotecha"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS10
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0017
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-102
+Sutarties sudarymo data: 18/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0018
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1 Rezultatai: pirkimo dalies ID: LOT-0019
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "EIT Sprendimai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS11
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0019
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-90
+Sutarties sudarymo data: 04/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "EIT Sprendimai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-93
+Sutarties sudarymo data: 05/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0020
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Santa Monica Networks"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS12
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0020
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-77
+Sutarties sudarymo data: 02/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "EIT Sprendimai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-91
+Sutarties sudarymo data: 04/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "ATEA"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-99
+Sutarties sudarymo data: 12/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Office Equipment Solutions Baltia"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-106
+Sutarties sudarymo data: 29/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Office Equipment Solutions Baltia"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS5
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-105
+Sutarties sudarymo data: 29/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Dvi kryptys Plius"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS6
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-100
+Sutarties sudarymo data: 12/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "EIT Sprendimai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS7
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-96
+Sutarties sudarymo data: 06/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Informacinių technologijų tarnyba prie Krašto apsaugos ministerijos
+Registracijos numeris: 191823126
+Pašto adresas: Šilo g. 5A 
+Miestas: Vilnius
+Pašto kodas: LT-10322
+Šalis: Lietuva
+E. paštas: ruta.kuchalskiene@kam.lt
+Telefono numeris: +3705273 5759
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "ATEA"
+Registracijos numeris: 122588443
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@atea.lt
+Telefono numeris: +37052397830
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004
+8.1 ORG-0005
+Oficialus pavadinimas: UAB "Dvi kryptys Plius"
+Registracijos numeris: 302506825
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: justinas@2kryptys.eu
+Telefono numeris: +37065592845
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0008
+8.1 ORG-0006
+Oficialus pavadinimas: UAB "EIT Sprendimai"
+Registracijos numeris: 226107940
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@eit.lt
+Telefono numeris: +37052688188
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0019, LOT-0001, LOT-0003, LOT-0009
+8.1 ORG-0007
+Oficialus pavadinimas: UAB "Energotecha"
+Registracijos numeris: 300033779
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@energotecha.lt
+Telefono numeris: +37052105291
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0017
+8.1 ORG-0008
+Oficialus pavadinimas: UAB "Office Equipment Solutions Baltia"
+Registracijos numeris: 302689885
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@triumphadler.lt
+Telefono numeris: +37060010788
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0005, LOT-0006
+8.1 ORG-0009
+Oficialus pavadinimas: UAB "Santa Monica Networks"
+Registracijos numeris: 13416247
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@smn.lt
+Telefono numeris: +37052638700
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0020, LOT-0012, LOT-0016
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: cac6423e-c29a-473b-946c-802defbf2858 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 17/12/2024 09:42 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,103 @@
+Lietuva: Architektūrinės lauko teritorijų paslaugos
+Kultūros paskirties pastato Maironio g. 2, Tytuvėnai, Kelmės r., griovimo projekto koregavimas 
+(skelbiama apklausa)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kelmės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kultūros paskirties pastato Maironio g. 2, Tytuvėnai, Kelmės r., griovimo projekto koregavimas 
+(skelbiama apklausa)
+Aprašymas: Pirkimo objektas - „Kultūros paskirties pastato Maironio g. 2, Tytuvėnai, Kelmės r., griovimo projekto 
+koregavimas“. Perkamų paslaugų apimtys ir detalus aprašymas pateikiamas „Statinio projektavimo darbų 
+užduotis“ (Konkurso sąlygų 2 priede). Pirkimo objektas į dalis neskaidomas. Tiekėjai privalo siūlyti visą paslaugų 
+apimtį, nurodytą „Statinio projektavimo darbų užduotis“ (priedas Nr. 2).
+Procedūros identifikatorius: 1870c587-0e4a-4598-b334-f0e9e981d8d3
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71222000 Architektūrinės lauko teritorijų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kultūros paskirties pastato Maironio g. 2, Tytuvėnai, Kelmės r., griovimo projekto koregavimas 
+(skelbiama apklausa)
+Aprašymas: Pirkimo objektas - „Kultūros paskirties pastato Maironio g. 2, Tytuvėnai, Kelmės r., griovimo projekto 
+koregavimas“. Perkamų paslaugų apimtys ir detalus aprašymas pateikiamas „Statinio projektavimo darbų 
+užduotis“ (Konkurso sąlygų 2 priede). Pirkimo objektas į dalis neskaidomas. Tiekėjai privalo siūlyti visą paslaugų 
+apimtį, nurodytą „Statinio projektavimo darbų užduotis“ (priedas Nr. 2).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71222000 Architektūrinės lauko teritorijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kelmės rajono savivaldybės administracija
+Registracijos numeris: 188768730
+Pašto adresas: Vytauto Didžiojo g. 58, Kelmė 
+Miestas: Kelmė
+Pašto kodas: 86143
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: laura.kutkute@gmail.com
+Telefono numeris: +37062828655
+Interneto adresas: www.kelme.lt
+Pirkėjo profilis: www.kelme.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 83 
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 652 16037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 13f8cc65-7d7a-4bdd-a4df-1a08c6bb8d0e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 30/01/2025 09:22 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,174 @@
+Lietuva: Remonto ir priežiūros paslaugos
+(senojo pirkimo CVPIS Nr. 746811) MRS technologinių komunalinių ir maisto atliekų linijų ir 
+kitų įrenginių remontas/priežiūra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Klaipėdos regiono atliekų tvarkymo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (senojo pirkimo CVPIS Nr. 746811) MRS technologinių komunalinių ir maisto atliekų linijų ir kitų įrenginių 
+remontas/priežiūra
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-13 paskelbto pirkimo Nr. 746811 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje sistemoje bus skelbiami tik po 2024-12-01 atlikti 
+pirkimo dokumentų patikslinimai. Pirkimo dokumentuose niekas nekeista ir nekoreguota (taikoma reikalavimams), 
+išskyrus patikslintas internetines nuorodas dėl pasiūlymų pateikimo bei registracijos naujoje CVPIS, kuriomis tiekėjai 
+privalo vadovautis teikiant pasiūlymus. Atkreiptinas dėmesys ir į tai, jog naujoje CVP IS nėra galimybės pasiūlymo 
+pasirašyti kvalifikuotu el.parašu pačioje sistemoje, todėl tiekėjas tai turi atlikti už naujos CVPIS sistemos ribų t.y. į 
+naują CVPIS įkelti kvalifikuotu el. parašu pasirašytą visą pasiūlymą, kaip to reiklaujama pirkimo dokumentuose.
+Procedūros identifikatorius: 6b4863d3-80d5-4f5a-a8b7-a2399e30d466
+Ankstesnis skelbimas: e8474592-1986-488d-8999-857fb1caeafe-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 255 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (senojo pirkimo CVPIS Nr. 746811) MRS technologinių komunalinių ir maisto atliekų linijų ir kitų įrenginių 
+remontas/priežiūra
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-13 paskelbto pirkimo Nr. 746811 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje sistemoje bus skelbiami tik po 2024-12-01 atlikti 
+pirkimo dokumentų patikslinimai. Pirkimo dokumentuose niekas nekeista ir nekoreguota (taikoma reikalavimams), 
+išskyrus patikslintas internetines nuorodas dėl pasiūlymų pateikimo bei registracijos naujoje CVPIS, kuriomis tiekėjai 
+privalo vadovautis teikiant pasiūlymus. Atkreiptinas dėmesys ir į tai, jog naujoje CVP IS nėra galimybės pasiūlymo 
+pasirašyti kvalifikuotu el.parašu pačioje sistemoje, todėl tiekėjas tai turi atlikti už naujos CVPIS sistemos ribų t.y. į 
+naują CVPIS įkelti kvalifikuotu el. parašu pasirašytą visą pasiūlymą, kaip to reiklaujama pirkimo dokumentuose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 255 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Nurodyta pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 30
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Klaipėdos regiono atliekų tvarkymo centras 
+(PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 255 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Axioma servisas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000010590
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 255 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 3015
+Data, kurią buvo pasirinktas laimėtojas: 07/01/2025
+Sutarties sudarymo data: 20/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Klaipėdos regiono atliekų tvarkymo centras (PV)
+Registracijos numeris: 163743744
+Pašto adresas: Liepų g. 15 
+Miestas: Klaipėda
+Pašto kodas: 92138
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: sonata.rudiene@kratc.lt
+Telefono numeris: +370 640 75487
+Interneto adresas: www.kratc.lt
+Pirkėjo profilis: www.kratc.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Axioma servisas
+Registracijos numeris: 304602530
+Pašto adresas: Ozo g. 12A-1 
+Miestas: VILNIUS
+Pašto kodas: LT-08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: jolanta.bikneviciene@axs.eu
+Telefono numeris: +37065095765
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 3fe3cad7-15f5-45a0-ae8b-554349b5921e - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/01/2025 09:56 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

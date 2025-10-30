@@ -1,0 +1,296 @@
+Lietuva: Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+739316 - TRACEGET tėkmės citometrijos klasterio įrangos pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 739316 - TRACEGET tėkmės citometrijos klasterio įrangos pirkimas
+Aprašymas: 1 dalis: Ląstelių rūšiavimo sistema tinkanti eukariotinių ląstelių rūšiavimui 2 dalis: Mikroskysčių lašelių 
+citometrijos ir manipuliavimo sistema 3 dalis: Mikroskysčių tyrimų sistema 4 dalis: Prokariotinių ląstelių rūšiavimo 
+sistema
+Procedūros identifikatorius: 9701ebf0-11b0-470b-a23a-91b68aa7961f
+Ankstesnis skelbimas: 570487-2024
+Vidaus identifikatorius: 739316
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 dalis: Ląstelių rūšiavimo sistema tinkanti eukariotinių ląstelių rūšiavimui
+Aprašymas: Ląstelių rūšiavimo sistema tinkanti eukariotinių ląstelių rūšiavimui - 1 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo ekonominis naudingumas (E) apskaičiuojamas sudedant tiekėjo pasiūlymo kainos (K) ir 
+techninių pranašumų (T) balus.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 47
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Techniniai pranašumai (T): T1 Prietaisas vienu metu analizuoja spalvų kiekį, vnt. T2 Mėginio analizės 
+greitis, įvykių per sekundę T3 Rūšiavimas į ≥ 15 mL mėgintuvėlius ≥ 6 krypčių ir į ≥ 1,5 mL mėgintuvėlius ≥ 6 
+krypčių T4 Indeksuotas rūšiavimas į šulinėlius plokštelėse T5 Rūšiavimas į ploštelę su ≥ 1536 šulinėliais T6 ≥ 4 
+krypčių rūšiavimas į ploštelę
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 45
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonominis pranašumas už 1 (vienus) papildomus garantijos metus (EpPG). TnGL - Tiekėjo n 
+siūlomas Sistemos garantinis laikotarpis (metais). Minimalus garantinis laikorpis yra 2 m., tačiau kiekvienas 
+Tiekėjas gali duoti papildomą 1 (vienų) metų garantiją už kurią gaus ekonominį pranašumą, t.y. už kiekvienus 1 
+(vienus) papildomus metus Tiekėjui bus minusuojami 8% nuo pasiūlymo kainos.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 8
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 dalis: Mikroskysčių lašelių citometrijos ir manipuliavimo sistema
+Aprašymas: Mikroskysčių lašelių citometrijos ir manipuliavimo sistema - 1 vnt.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal pagal tiekėjo pasiūlyme 
+nurodytą kainą, kuri turi būti apskaičiuota ir nurodyta taip, kaip reikalaujama specialiųjų pirkimo sąlygų priede.
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 3 dalis: Mikroskysčių tyrimų sistema
+Aprašymas: Mikroskysčių tyrimų sistema -1 vnt.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal pagal tiekėjo pasiūlyme 
+nurodytą kainą, kuri turi būti apskaičiuota ir nurodyta taip, kaip reikalaujama specialiųjų pirkimo sąlygų priede.
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: 4 dalis: Prokariotinių ląstelių rūšiavimo sistema
+Aprašymas: Prokariotinių ląstelių rūšiavimo sistema - 1 vnt.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo ekonominis naudingumas (E) apskaičiuojamas sudedant tiekėjo pasiūlymo kainos (K) ir 
+techninių pranašumų (T) balus.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 47
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Techniniai pranašumai (T): T1 Prietaisas vienu metu analizuoja spalvų kiekį, vnt. T2 Mėginio analizės 
+greitis, įvykių per sekundę T3 Rūšiavimas į ≥ 15 mL mėgintuvėlius ≥ 6 krypčių ir į ≥ 1,5 mL mėgintuvėlius ≥ 6 
+krypčių T4 Indeksuotas rūšiavimas į šulinėlius plokštelėse T5 Rūšiavimas į ploštelę su ≥ 1536 šulinėliais T6 ≥ 4 
+krypčių rūšiavimas į ploštelę
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 45
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonominis pranašumas už 1 (vienus) papildomus garantijos metus (EpPG). TnGL - Tiekėjo n 
+siūlomas Sistemos garantinis laikotarpis (metais). Minimalus garantinis laikorpis yra 2 m., tačiau kiekvienas 
+Tiekėjas gali duoti papildomą 1 (vienų) metų garantiją už kurią gaus ekonominį pranašumą, t.y. už kiekvienus 1 
+(vienus) papildomus metus Tiekėjui bus minusuojami 8% nuo pasiūlymo kainos.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 8
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 323 400 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas ne dėl to, kad gautas dalyvio prašymas 
+peržiūrėti sprendimą dėl sutarties skyrimo, o dėl techninių ar procedūrinių klaidų
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Inospectra
+Pasiūlymas:
+Pasiūlymo identifikatorius: P2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: (1.78 Mr) SU-3628
+Sutarties sudarymo data: 14/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-002-P-0001
+Išsamesnė informacija apie ES fondus: Pirkimas įgyvendindamas vykdant projekto „Misijomis grįstų 
+mokslo ir inovacijų programų įgyvendinimas“ Nr. 02-002-P-0001 paprojektį „Inovacijos sveikatai“ - „Genų 
+technologijų centro (kompetencijų centro) steigimas (TRACEGET).
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Inospectra
+Pasiūlymas:
+Pasiūlymo identifikatorius: P3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: (1.78 Mr) SU-3628/1
+Sutarties sudarymo data: 14/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-002-P-0001
+Išsamesnė informacija apie ES fondus: Pirkimas įgyvendindamas vykdant projekto „Misijomis grįstų 
+mokslo ir inovacijų programų įgyvendinimas“ Nr. 02-002-P-0001 paprojektį „Inovacijos sveikatai“ - „Genų 
+technologijų centro (kompetencijų centro) steigimas (TRACEGET).
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas ne dėl to, kad gautas dalyvio prašymas 
+peržiūrėti sprendimą dėl sutarties skyrimo, o dėl techninių ar procedūrinių klaidų
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Inospectra
+Registracijos numeris: 302817477
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: info@inospectra.com
+Telefono numeris: +37037280702
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 1db36382-85c2-482b-a7d6-cb962247cb46 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/12/2024 21:14 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

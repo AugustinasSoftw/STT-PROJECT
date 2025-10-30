@@ -1,0 +1,183 @@
+Lietuva: Programavimo paslaugos
+programavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvių kalbos institutas
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: programavimo paslaugos
+Aprašymas: Lietuvių kalbos paveldo išteklių duomenų modelių sukūrimo, metaduomenų įvedimo įrankių sukūrimo, 
+išteklių valdymo priemonių konstravimo, vietovės komponentę turinčių išteklių tarpusavio integravimo, lietuvių 
+kalbos erdvinių išteklių skaitmeninimo įrankių sukūrimo, kalbinių ypatybių, sociolingvistinių ir mentalinių duomenų 
+kūrimo, skaitmeninių žemėlapių parengimo, erdvinių išteklių duomenyno funkcionavimą užtikrinančios geoerdvinės 
+informacijos infrastruktūros sukūrimo ir kalbos erdvinių duomenų viešinimo atvirų duomenų portale paslaugos
+Procedūros identifikatorius: 82f0d39d-bea9-4999-8f45-f27386de2011
+Ankstesnis skelbimas: 7896b8f9-18e3-409a-b532-026ea4052564-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: programavimo paslaugos
+Aprašymas: Lietuvių kalbos paveldo išteklių duomenų modelių sukūrimo, metaduomenų įvedimo įrankių sukūrimo, 
+išteklių valdymo priemonių konstravimo, vietovės komponentę turinčių išteklių tarpusavio integravimo, lietuvių 
+kalbos erdvinių išteklių skaitmeninimo įrankių sukūrimo, kalbinių ypatybių, sociolingvistinių ir mentalinių duomenų 
+kūrimo, skaitmeninių žemėlapių parengimo, erdvinių išteklių duomenyno funkcionavimą užtikrinančios geoerdvinės 
+informacijos infrastruktūros sukūrimo ir kalbos erdvinių duomenų viešinimo atvirų duomenų portale paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: didinti lietuviš kalbos išteklių prieinamumą elektroninėje erdvėje
+Poveikio aplinkai mažinimo metodas: Kita
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su mokslinių tyrimų ir plėtros veikla.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 100
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 100
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 100
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: pastoviai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: pastoviai
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvių kalbos institutas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 198 800 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: USA LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028206
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 450 548 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: taip
+Subrangos vertė: 717 288 Euro
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6440
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 14/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos viešojo administravimo institucijų sąveikos 
+sprendimai (ISA) (2010/2015)
+ES fondų identifikatorius: isa
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvių kalbos institutas
+Registracijos numeris: 111955023
+Pašto adresas: P. Vileišio 5 
+Miestas: Vilnius
+Pašto kodas: LT-09228
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ruta.dailydaite@lki.lt
+Telefono numeris: +37069810057
+Interneto adresas: WWW.LKI.LT
+Pirkėjo profilis: www.lki.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: USA LT
+Registracijos numeris: 303049411
+Registracijos numeris: 303049411
+Registracijos numeris: 30304941
+Registracijos numeris: 30304941
+Registracijos numeris: 303049411
+Pašto adresas: Žirmūnų g. 61-29 
+Miestas: Vilnius
+Pašto kodas: 09111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: bi.nerijus@gmail.com
+Telefono numeris: +37061210919
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 59fd7dd5-aeb9-4750-bc8b-ce56c509b4ee - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/03/2025 10:48 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

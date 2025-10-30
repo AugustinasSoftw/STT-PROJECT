@@ -1,0 +1,159 @@
+Lietuva: Programinės įrangos diegimo paslaugos
+Vilkaviškio rajono savivaldybės informacinės sistemos nuomos, unikalios skaitmeninės 
+kapinių duomenų bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų 
+bei duomenų administravimo
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilkaviškio rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vilkaviškio rajono savivaldybės informacinės sistemos nuomos, unikalios skaitmeninės kapinių 
+duomenų bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų bei duomenų administravimo
+Aprašymas: Vilkaviškio rajono savivaldybės informacinės sistemos nuomos, unikalios skaitmeninės kapinių duomenų 
+bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų bei duomenų administravimo
+Procedūros identifikatorius: b4e13a2e-a069-4838-a63b-57412addd9ee
+Ankstesnis skelbimas: 7ed3c187-0b2f-4e2f-aa32-4b1f079a61e3-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72263000 Programinės įrangos diegimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vilkaviškio rajono savivaldybės informacinės sistemos nuomos, unikalios skaitmeninės kapinių 
+duomenų bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų bei duomenų administravimo
+Aprašymas: Vilkaviškio rajono savivaldybės informacinės sistemos nuomos, unikalios skaitmeninės kapinių duomenų 
+bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų bei duomenų administravimo
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72263000 Programinės įrangos diegimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Žr. pirkimo dokumentuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilkaviškio rajono savivaldybės administracija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 231 050,51 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Kapinių valdymo sprendimai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000056989
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 231 050,51 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 19661
+Sutarties sudarymo data: 26/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Nr. 02-111-P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilkaviškio rajono savivaldybės administracija
+Registracijos numeris: 188774441
+Pašto adresas: S. Nėries g. 1 
+Miestas: Vilkaviškis
+Pašto kodas: LT-70147
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: valdimaras.bakutis@vilkaviskis.lt
+Telefono numeris: +370 615 35895
+Interneto adresas: www.vilkaviskis.lt
+Pirkėjo profilis: www.vilkaviskis.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Kapinių valdymo sprendimai
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304241197
+Pašto adresas: Eigulių g. 8 
+Miestas: Kaunas
+Pašto kodas: LT-44136
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: andrius@cemety.lt
+Telefono numeris: +37060226962
+Interneto adresas: www.cemety.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Miestas: Kaunas
+Pašto kodas: LT-44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5c9a6ea6-e0ae-49e1-81a5-2fb8c5ba1fe8 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/05/2025 17:31 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

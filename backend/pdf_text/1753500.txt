@@ -1,0 +1,121 @@
+Lietuva: Remonto ir priežiūros paslaugos
+Hidraulinių cilindrų, hidraulinių stotelių remonto paslaugų ir atsarginių detalių pirkimas 
+(skelbiama apklausa) NUTRAUKTAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Visagino energija“
+Pirkėjo teisinė forma: Subjektai, turintys specialiųjų ar išskirtinių teisių
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Hidraulinių cilindrų, hidraulinių stotelių remonto paslaugų ir atsarginių detalių pirkimas (skelbiama 
+apklausa) NUTRAUKTAS
+Aprašymas: Hidraulinių cilindrų, hidraulinių stotelių remonto paslaugų ir atsarginių detalių pirkimas. Perkamų paslaugų 
+ir atsarginių dalių preliminarios apimtys nurodytos 1 priede. Paslaugų teikimo laikotarpis - 24 mėnesiai.
+Procedūros identifikatorius: f8352fb6-3e8e-4abc-a08a-93694bf18dfe
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Hidraulinių cilindrų, hidraulinių stotelių remonto paslaugų ir atsarginių detalių pirkimas (skelbiama 
+apklausa) NUTRAUKTAS
+Aprašymas: Hidraulinių cilindrų, hidraulinių stotelių remonto paslaugų ir atsarginių detalių pirkimas. Perkamų paslaugų 
+ir atsarginių dalių preliminarios apimtys nurodytos 1 priede. Paslaugų teikimo laikotarpis - 24 mėnesiai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Numatyti pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Uždaroji akcinė bendrovė „Visagino energija“ -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Uždaroji akcinė bendrovė „Visagino energija“ -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Uždaroji akcinė bendrovė „Visagino energija“ -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Visagino energija“
+Registracijos numeris: 110087517
+Pašto adresas: Taikos pr. 26A, a. d. Nr. 3 
+Miestas: Visaginas
+Pašto kodas: 31002
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: m_tauteriene@visaginoenergija.lt
+Telefono numeris: +37065509705
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Gedimino pr. 40 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 112919e2-92db-493d-8d39-d89808c87e43 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/03/2025 15:30 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

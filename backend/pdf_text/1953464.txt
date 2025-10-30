@@ -1,0 +1,160 @@
+Lietuva: Statybos darbai
+Trijų šviesoforinių sankryžų modernizavimo darbų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Palangos miesto savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Trijų šviesoforinių sankryžų modernizavimo darbų pirkimas
+Aprašymas: Darbai atliekami pagal projektuotojo UAB „SRP Projektas“ parengtą „Šviesoforų, Kretingos g. - Plytų g. 
+- Ganyklų g. sankryžoje, Klaipėdos pl. - Malūno g. - Sodų g. sankryžoje bei Klaipėdos pl. - Bangų g. sankryžoje, 
+Palangoje, atnaujinimo paprastojo remonto aprašą“. Teikiant pasiūlymą vadovautis pridedamu Aprašu ir pridedamu 
+darbų kiekių žiniaraščiu.
+Procedūros identifikatorius: 778e0ae0-0b8f-4923-87f3-ff1314d555e1
+Ankstesnis skelbimas: eec1ca47-6763-4ca8-b901-1165720f254f-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 330 578 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Trijų šviesoforinių sankryžų modernizavimo darbų pirkimas
+Aprašymas: Darbai atliekami pagal projektuotojo UAB „SRP Projektas“ parengtą „Šviesoforų, Kretingos g. - Plytų g. 
+- Ganyklų g. sankryžoje, Klaipėdos pl. - Malūno g. - Sodų g. sankryžoje bei Klaipėdos pl. - Bangų g. sankryžoje, 
+Palangoje, atnaujinimo paprastojo remonto aprašą“. Teikiant pasiūlymą vadovautis pridedamu Aprašu ir pridedamu 
+darbų kiekių žiniaraščiu.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 330 578 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Poveikio aplinkai mažinimas
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Eilės tvarka pagal svarbą
+Skyrimo kriterijus: skaičius: 1
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Palangos miesto savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 253 603,9 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Maniga"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000017886
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 253 603,9 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 14893
+Sutarties sudarymo data: 17/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Palangos miesto savivaldybės administracija
+Registracijos numeris: 125196077
+Pašto adresas: Vytauto g. 112 
+Miestas: Palanga
+Pašto kodas: LT-00153
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: administracija@palanga.lt
+Telefono numeris: 046048705
+Fakso numeris: 046040216
+Interneto adresas: www.palanga.lt
+Pirkėjo profilis: www.palanga.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Maniga"
+Registracijos numeris: 183837560
+Pašto adresas: Savanoriu pr.219 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@maniga.lt
+Telefono numeris: +37052731726
+Interneto adresas: www.maniga.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 84adbab8-479c-4d92-9335-0995625fbf76 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 01/04/2025 09:13 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,157 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+LK Lietuvos didžiojo kunigaikščio Gedimino štabo bataliono perimetro tvoros, Kairiūkščio g. 
+14, Vilnius, statybos projektavimo paslauga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Infrastruktūros valdymo agentūra
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: LK Lietuvos didžiojo kunigaikščio Gedimino štabo bataliono perimetro tvoros, Kairiūkščio g. 14, Vilnius, 
+statybos projektavimo paslauga
+Aprašymas: Lietuvos kariuomenės Lietuvos didžiojo kunigaikščio Gedimino štabo bataliono teritorijos perimetro 
+tvoros, Kairiūkščio g. 14, Vilnius, projektinių pasiūlymų parengimo paslauga bei techninės užduoties techniniams 
+darbo projektui parengti parengimo paslauga
+Procedūros identifikatorius: 9b4a3264-a332-4b84-bf61-03494131aae2
+Ankstesnis skelbimas: 79c75d36-ac3a-4781-b209-958cafe24816-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: LK Lietuvos didžiojo kunigaikščio Gedimino štabo bataliono perimetro tvoros, Kairiūkščio g. 14, Vilnius, 
+statybos projektavimo paslauga
+Aprašymas: Lietuvos kariuomenės Lietuvos didžiojo kunigaikščio Gedimino štabo bataliono teritorijos perimetro 
+tvoros, Kairiūkščio g. 14, Vilnius, projektinių pasiūlymų parengimo paslauga bei techninės užduoties techniniams 
+darbo projektui parengti parengimo paslauga
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: žr. pirkimo dokumentuose
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: ENtiekėjo = Kainatiekėjo - StPrp, 
+kur StPrp - ATESTUOTO NEYPATINGOJO STATINIO PROJEKTO VADOVO PATIRTIS TINKAMAI PARENGIANT 
+PROJEKTĄ (-US). Projektų sk.=STPRp 0=0,00; 1=2000; 2=6000; 3=10000; 4=14000; ≥5=18000.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Infrastruktūros valdymo agentūra -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Infrastruktūros valdymo agentūra -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 54 450 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Denzay Lithuania"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000030475
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 54 450 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18226
+Sutarties sudarymo data: 02/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Infrastruktūros valdymo agentūra
+Registracijos numeris: 188743887
+Pašto adresas: Giedraičių g. 41-101 
+Miestas: Vilnius
+Pašto kodas: LT-09303
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: jekaterina.kozika@kam.lt
+Telefono numeris: +370 706 84 428
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Denzay Lithuania"
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 305784107
+Pašto adresas: Žirmūnų g. 139A-101 
+Miestas: Vilnius
+Pašto kodas: LT-09120
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ajuodkunas@denzay.com
+Telefono numeris: +37064029081
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: e07b5097-b77b-4ee0-88de-93d6ed74b231 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/05/2025 14:44 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,149 @@
+Lietuva: Kadastrinio tyrinėjimo paslaugos
+Kelio (statinio) ir kelio žemės sklypų kadastrinių matavimų ir teisinės registracijos paslaugos 
+(14 dalis)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kelio (statinio) ir kelio žemės sklypų kadastrinių matavimų ir teisinės registracijos paslaugos (14 dalis)
+Aprašymas: Kelio (statinio) ir kelio žemės sklypų kadastrinių matavimų ir teisinės registracijos paslaugos (14 dalis)
+Procedūros identifikatorius: da87cd42-f2bf-4bdc-8a1a-df1af445bf37
+Ankstesnis skelbimas: 062517-2023
+Vidaus identifikatorius: 671300
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kelio (statinio) ir kelio žemės sklypų kadastrinių matavimų ir teisinės registracijos paslaugos (14 dalis)
+Aprašymas: Kelio (statinio) ir kelio žemės sklypų kadastrinių matavimų ir teisinės registracijos paslaugos (14 dalis)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+6 Rezultatai
+Didžiausioji šios skelbimo preliminariųjų sutarčių vertė: 75 999,97 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties didžiausia vertė: 408 000 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Valstybės įmonė Žemės ūkio duomenų centras
+Pasiūlymas:
+Pasiūlymo identifikatorius: pas1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 75 999,97 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S/2024-1425
+Data, kurią buvo pasirinktas laimėtojas: 24/01/2025
+Sutarties sudarymo data: 29/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lijana.palsiene@vialietuva.lt
+Telefono numeris: 862024412
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Valstybės įmonė Žemės ūkio duomenų centras
+Registracijos numeris: 306205513
+Miestas: Vilnius
+Pašto kodas: 03105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 3b8f822b-759a-4bb6-a8c9-7a53556b9d97 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/02/2025 12:32 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

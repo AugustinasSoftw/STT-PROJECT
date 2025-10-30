@@ -1,0 +1,148 @@
+Lietuva: Statybos darbai
+J.Basanavičiaus 21G, Kalvarija., mažosios renovacijos darbus su įrengimu (atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Kalvarijos komunalininkas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Kalvarijos komunalininkas (PV)
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: J.Basanavičiaus 21G, Kalvarija., mažosios renovacijos darbus su įrengimu (atviras konkursas)
+Aprašymas: J.Basanavičiaus 21G, Kalvarija., mažosios renovacijos darbus su įrengimu (atviras konkursas)
+Procedūros identifikatorius: a5a3626b-9f6a-4585-8579-cc973c240098
+Ankstesnis skelbimas: 5bc77ab9-c647-42f2-9a48-d8e522bd25e7-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: J.Basanavičiaus 21G, Kalvarija., mažosios renovacijos darbus su įrengimu (atviras konkursas)
+Aprašymas: J.Basanavičiaus 21G, Kalvarija., mažosios renovacijos darbus su įrengimu (atviras konkursas)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 0001
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: UAB Kalvarijos komunalininkas (PV) -
+Informacija apie peržiūros terminus: 0001
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Kalvarijos komunalininkas (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Kalvarijos komunalininkas (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 71 118 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Rndv statyba
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000060696
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 71 118 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22265
+Data, kurią buvo pasirinktas laimėtojas: 23/05/2025
+Sutarties sudarymo data: 30/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Kalvarijos komunalininkas (PV)
+Registracijos numeris: 165717011
+Pašto adresas: Šakių g. 11 Kalvarija 
+Miestas: Kalvarija
+Pašto kodas: LT69210
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: kalv.kom@gmail.com
+Telefono numeris: +37034324139
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Rndv statyba
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 304414350
+Pašto adresas: Baltijos pr. Klaipėda, 8b 
+Miestas: Klaipėda
+Pašto kodas: 94108
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: gytis.radavicius@rndv.eu
+Telefono numeris: +37061766200
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Kalvarijos komunalininkas (PV)
+Registracijos numeris: 165717011
+Pašto adresas: Šakių g. 11 
+Miestas: Kalvarija
+Pašto kodas: LT69210
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: kalv.kom@gmail.com
+Telefono numeris: +37034324139
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 54bbc44b-7585-4d4c-8a04-7812f995d42f - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/06/2025 14:22 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

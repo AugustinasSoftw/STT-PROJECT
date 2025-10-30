@@ -1,0 +1,155 @@
+Lietuva: Farmacijos produktai
+Vaistinio preparato Lumasiranas injekcijoms pirkimas (11088)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Vilniaus universiteto ligoninė Santaros klinikos (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vaistinio preparato Lumasiranas injekcijoms pirkimas (11088)
+Aprašymas: Numatoma pirkimo vertė grafoje nurodyta "0" reikšmė reiškia, kad numatoma pirkimo vertė nėra 
+viešinama
+Procedūros identifikatorius: ba222d5d-78ad-4b4f-8f4e-401b463e0a73
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vaistinio preparato Lumasiranas injekcijoms pirkimas (11088)
+Aprašymas: Numatoma pirkimo vertė grafoje nurodyta "0" reikšmė reiškia, kad numatoma pirkimo vertė nėra 
+viešinama
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 9 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Vilniaus universiteto ligoninė Santaros klinikos 
+(PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Vilniaus universiteto ligoninė Santaros 
+klinikos (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 192 311,8 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Ypatinga skuba dėl įvykių, kurių pirkėjas negalėjo numatyti
+Kitas pagrindimas: Tarptautinis pirkimas vykdomas neskelbiamų derybų būdu skubos tvarka, vadovaujantis Viešųjų 
+pirkimų įstatymo 71 str. 1 d. 3 p. bei 72 str. 1 d. ir 2 d. nuostatomis, gavus Valstybinės ligonių kasos raštą „Dėl labai 
+retos būklės gydymo išlaidų kompensavimo tęsimo“ konkrečiam pacientui gydyti.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000074968
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 182 060,56 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24555
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Vilniaus universiteto ligoninė Santaros klinikos (PV)
+Registracijos numeris: 124364561
+Pašto adresas: Santariškių g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-08406
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@santa.lt
+Telefono numeris: +370 5 236 5000
+Fakso numeris: +370 5 236 5111
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Entafarma
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 174443844
+Pašto adresas: Klonėnų vs. 1 
+Miestas: Širvintų rajonas
+Pašto kodas: 19156
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: aurimas.kirkliauskas@entafarma.lt
+Telefono numeris: +37061882684
+Fakso numeris: +37038233009
+Interneto adresas: www.entafarma.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 132e3ef3-3cbe-4e65-bbd1-f4edab061905 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/07/2025 17:05 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

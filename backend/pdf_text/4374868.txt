@@ -1,0 +1,152 @@
+Lietuva: Kelių įrenginiai
+Metalinių, gelžbetoninių atramų, metalinių gembių, stulpų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Kauno gatvių apšvietimas"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Metalinių, gelžbetoninių atramų, metalinių gembių, stulpų pirkimas
+Aprašymas: Pirkimo objektas - metalinės atramos su pamatais, gelžbetoninės atramos, metalinės gembes, šviesoforų 
+stulpai.
+Procedūros identifikatorius: 568d9eff-8630-4155-af3a-a4d686b09275
+Ankstesnis skelbimas: 4bf5b4a9-67b7-4353-850b-dae2db37c075-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34920000 Kelių įrenginiai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 447 400 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Metalinių, gelžbetoninių atramų, metalinių gembių, stulpų pirkimas
+Aprašymas: Pirkimo objektas - metalinės atramos su pamatais, gelžbetoninės atramos, metalinės gembes, šviesoforų 
+stulpai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34920000 Kelių įrenginiai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 447 400 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žiūrėti pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pirmasis kriterijus - Kaina (C). Kriterijaus lyginamasis svoris ekonominio naudingumo įvertinime (X) 
+yra 95.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Antrasis kriterijus - prekių pristatymo terminas (nurodoma tik tokiu atveju, jeigu siūlomos spartesnis 
+pristatymo terminai nei nurodyta techninėje specifikacijoje (ne vėliau kaip 5 dienos)) (T2). Kriterijaus lyginamasis 
+svoris ekonominio naudingumo įvertinime (Y2) yra 5.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB "Kauno gatvių apšvietimas"
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UAB "Kauno gatvių apšvietimas"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 331 200 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Elstila
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000056773
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 331 200 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29041
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "Kauno gatvių apšvietimas"
+Registracijos numeris: 132684155
+Pašto adresas: Ringuvos g. 59 
+Miestas: Kaunas
+Pašto kodas: 45243
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: aurimas@kaunosviesa.lt
+Telefono numeris: 062052774
+Interneto adresas: www.kaunosviesa.lt
+Pirkėjo profilis: www.kaunosviesa.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Elstila
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 134311048
+Miestas: Kaunas
+Pašto kodas: 44192
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Telefono numeris: +37062068609
+Interneto adresas: www.elstila.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 193312970
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +37037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 97f9343e-0f21-4958-8b33-ecb952524ea3 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/09/2025 17:02 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

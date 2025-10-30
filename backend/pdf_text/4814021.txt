@@ -1,0 +1,155 @@
+Lietuva: Galimybių studijos, konsultavimo paslaugos, analizė
+Klaipėdos miesto kvartalų energetinio efektyvumo didinimo galimybių studijos parengimo 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Klaipėdos miesto kvartalų energetinio efektyvumo didinimo galimybių studijos parengimo paslaugos
+Aprašymas: Klaipėdos miesto kvartalų energetinio efektyvumo didinimo galimybių studijos parengimo paslaugos. 
+Tiekėjų pasiūlymų kainos negali viršyti 90 000,00 Eur su PVM (arba 74 380,17 Eur be PVM, jei tiekėjas yra ne PVM 
+mokėtojas ar paslaugos neapmokestinamos PVM, ar dėl kitų priežasčių Perkančiosios organizacijos galutinė tiekėjui 
+mokėtina suma bus be PVM).
+Procedūros identifikatorius: aa93f306-1a80-419a-a4da-8d8f6aededa5
+Ankstesnis skelbimas: 7e5038f3-298e-4f7b-9226-c77f50593b86-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71241000 Galimybių studijos, konsultavimo paslaugos, analizė
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 74 380,17 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Klaipėdos miesto kvartalų energetinio efektyvumo didinimo galimybių studijos parengimo paslaugos
+Aprašymas: Klaipėdos miesto kvartalų energetinio efektyvumo didinimo galimybių studijos parengimo paslaugos. 
+Tiekėjų pasiūlymų kainos negali viršyti 90 000,00 Eur su PVM (arba 74 380,17 Eur be PVM, jei tiekėjas yra ne PVM 
+mokėtojas ar paslaugos neapmokestinamos PVM, ar dėl kitų priežasčių Perkančiosios organizacijos galutinė tiekėjui 
+mokėtina suma bus be PVM).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71241000 Galimybių studijos, konsultavimo paslaugos, analizė
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 11 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 74 380,17 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 47 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Smart Continent Management Institute UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087283
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 47 000 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31413
+Sutarties sudarymo data: 23/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Registracijos numeris: 188710823
+Pašto adresas: Liepų g. 11, Klaipėda 
+Miestas: Klaipėda
+Pašto kodas: 92138
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: gitana.marciene@klaipeda.lt
+Telefono numeris: +370 46 39 61 18
+Pirkėjo profilis: www.klaipeda.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Smart Continent Management Institute UAB
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 300144142
+Pašto adresas: Šeimyniškių 19 
+Miestas: Vilnius
+Pašto kodas: 09236
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: andrius.jarzemskis@smartcontinent.com
+Telefono numeris: +37068754413
+Interneto adresas: www.smartcontinent.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 39 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 44351f6e-f344-4fb9-90d3-758d13626f8d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/10/2025 14:42 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

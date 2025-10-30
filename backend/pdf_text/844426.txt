@@ -1,0 +1,173 @@
+Lietuva: Mokymo paslaugos
+745869 Įtraukiojo ugdymo mokymų koučingo pagrindais mokyklų mokytojams ir švietimo 
+pagalbos specialistams paslaugų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 745869 Įtraukiojo ugdymo mokymų koučingo pagrindais mokyklų mokytojams ir švietimo pagalbos 
+specialistams paslaugų pirkimas
+Aprašymas: Perkamos „Tūkstantmečio mokyklos II“ programoje dalyvaujančių Kauno miesto savivaldybės 11-
+os mokyklų mokytojų ir švietimo pagalbos specialistų mokymų koučingo pagrindais, įtraukiant tinklaveikos būdu 
+dalyvaujančius mokyklų mokytojus ir švietimo pagalbos specialistus, įtraukties kompetencijų stiprinimo paslaugos. 
+Perkamų paslaugų apimtys ir reikalavimai nurodyti Sutarties projekte, įskaitant jos priedus, tarp kurių ir techninė 
+specifikacija.
+Procedūros identifikatorius: 8c608ded-4dba-4bb0-b53d-07d064b3a412
+Ankstesnis skelbimas: 68027-2024
+Vidaus identifikatorius: 745869
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 107 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 745869 Įtraukiojo ugdymo mokymų koučingo pagrindais mokyklų mokytojams ir švietimo pagalbos 
+specialistams paslaugų pirkimas
+Aprašymas: Perkamos „Tūkstantmečio mokyklos II“ programoje dalyvaujančių Kauno miesto savivaldybės 11-
+os mokyklų mokytojų ir švietimo pagalbos specialistų mokymų koučingo pagrindais, įtraukiant tinklaveikos būdu 
+dalyvaujančius mokyklų mokytojus ir švietimo pagalbos specialistus, įtraukties kompetencijų stiprinimo paslaugos. 
+Perkamų paslaugų apimtys ir reikalavimai nurodyti Sutarties projekte, įskaitant jos priedus, tarp kurių ir techninė 
+specifikacija.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 107 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Šis pirkimas laikomas žaliuoju pirkimu, nes perkamos mokyklų mokytojų ir švietimo pagalbos 
+specialistų mokymų koučingo pagrindais paslaugos, kurios aprašytos paslaugų teikimo sutartyje ir jos priede 
+(techninėje specifikacijoje) ir kurios nesusijusios su materialaus objekto sukūrimu ir jų teikimo metu nėra 
+numatomas reikšmingas neigiamas poveikis aplinkai, nesukuriamas taršos šaltinis ir negeneruojamos atliekos, 
+kaip numatyta Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo, patvirtinto Lietuvos 
+Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, 
+vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“, 4.4.3 papunktyje (sutarties 27 p.).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 107 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Eurointegracijos projektai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: SR-15
+Sutarties sudarymo data: 15/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 10-012-P-0001
+Išsamesnė informacija apie ES fondus: Paslaugos perkamos įgyvendinant projektą „Tūkstantmečio 
+mokyklos II“, projekto Nr. 10-012-P-0001. Projektas finansuojamas Ekonomikos gaivinimo ir atsparumo 
+didinimo priemonės (EGADP) ir Lietuvos Respublikos valstybės biudžeto lėšomis.
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44321
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Eurointegracijos projektai"
+Registracijos numeris: 142122047
+Miestas: Vilnius
+Pašto kodas: 01102
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: administracija@eip.lt
+Telefono numeris: +37052430177
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c6241f7d-79ca-4663-9121-019710b78a7c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 21/01/2025 15:04 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

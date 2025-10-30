@@ -1,0 +1,147 @@
+Lietuva: Programinės įrangos tikrinimas
+DARBO UŽMOKESČIO APSKAITOS BENDROSIOS INFORMACINĖS SISTEMOS LICENCIJŲ 
+IR MODULIŲ ĮSIGIJIMO BEI DIEGIMO, PALAIKYMO, MOKYMŲ IR UŽSAKOMŲ PAPILDOMŲ 
+PASLAUGOS
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: DARBO UŽMOKESČIO APSKAITOS BENDROSIOS INFORMACINĖS SISTEMOS LICENCIJŲ IR 
+MODULIŲ ĮSIGIJIMO BEI DIEGIMO, PALAIKYMO, MOKYMŲ IR UŽSAKOMŲ PAPILDOMŲ PASLAUGOS
+Aprašymas: Darbo užmokesčio apskaitos bendrosios informacinės sistemos (toliau - DUABIS), kuri realizuota 
+apskaitos programos Stekas-Alga pagrindu, licencijų ir modulių įsigijimo bei diegimo, palaikymo ir papildomai 
+užsakomos paslaugos. Paslaugoms keliami reikalavimai nurodyti Techninės specifikacijos 3 skyriuje.
+Procedūros identifikatorius: eb868fb0-b8cf-482c-a36f-eeaedf5ff259
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72254000 Programinės įrangos tikrinimas
+Kiti klasifikacijos kodai (cpv): 48218000 Licencijų valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 80511000 Darbuotojų mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: DARBO UŽMOKESČIO APSKAITOS BENDROSIOS INFORMACINĖS SISTEMOS LICENCIJŲ IR 
+MODULIŲ ĮSIGIJIMO BEI DIEGIMO, PALAIKYMO, MOKYMŲ IR UŽSAKOMŲ PAPILDOMŲ PASLAUGOS
+Aprašymas: Darbo užmokesčio apskaitos bendrosios informacinės sistemos (toliau - DUABIS), kuri realizuota 
+apskaitos programos Stekas-Alga pagrindu, licencijų ir modulių įsigijimo bei diegimo, palaikymo ir papildomai 
+užsakomos paslaugos. Paslaugoms keliami reikalavimai nurodyti Techninės specifikacijos 3 skyriuje.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72254000 Programinės įrangos tikrinimas
+Kiti klasifikacijos kodai (cpv): 48218000 Licencijų valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 80511000 Darbuotojų mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinis bendrųjų funkcijų centras -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 147 288,46 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "STEKAS"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000039020
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 147 288,46 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 15056
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Registracijos numeris: 304768872
+Pašto adresas: Geležinio Vilko 12, Vilnius 03163 03163
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: edita.filipaviciute@nbfc.lt
+Telefono numeris: +370 675 93 949
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "STEKAS"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 120625932
+Pašto adresas: Staviškių g. 26 
+Miestas: Vilnius
+Pašto kodas: 10259
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: kestas@stekas.lt
+Telefono numeris: +37069814790
+Interneto adresas: www.stekas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 29ec61d0-da4d-4782-8afe-7217a69e5bc1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 02/05/2025 22:44 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

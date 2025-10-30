@@ -1,0 +1,241 @@
+Lietuva: Policijos automobiliai
+Automobilių nuoma
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Automobilių nuoma
+Aprašymas: Pirkimo objektas - automobilių nuoma. Pirkimo objektas skaidomas į 2 dalis: I pirkimo dalis - Reagavimo 
+automobilių nuoma. II pirkimo dalis - Sustiprinto reagavimo automobilio nuoma. Perkančioji organizacija sudarys 
+preliminariąją sutartį su vienu tiekėju, kiekvienos atitinkamos pirkimo dalies tiekėju, kurio pasiūlymas bus pripažintas 
+laimėjęs. Policijos įstaigos preliminariosios sutarties pagrindu sudarys pagrindines automobilių nuomos sutartis.
+Procedūros identifikatorius: 511ce93d-78c5-4022-bfe3-13d606e0cf41
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34114200 Policijos automobiliai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Konkretūs policijos įstaigų (vyriausiųjų policijos komisariatų) adresai (Lietuvos Respublika) bus 
+nurodyti sudarant pagrindines automobilių nuomos sutartis.
+2.1.3 Vertė
+Numatoma vertė be PVM: 12 195 867,77 Euro
+Preliminariosios sutarties didžiausioji vertė: 12 195 867,77 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Reagavimo automobilių nuoma
+Aprašymas: Reagavimo automobilių nuoma
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34114200 Policijos automobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Konkretūs policijos įstaigų (vyriausiųjų policijos komisariatų) adresai (Lietuvos Respublika) bus 
+nurodyti sudarant pagrindines automobilių nuomos sutartis.
+5.1.5 Vertė
+Numatoma vertė be PVM: 12 118 181,82 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Euro 6 standartas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Kaina
+Aprašymas: Kaina. Lyginamasis svoris 89.
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Variklio galia
+Aprašymas: Variklio galia. Lyginamasis svoris 10.
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Papildoma aliuminė, ne mažesnio kaip 4 mm storio variklio karterio ir pavarų dėžės apsauga, 
+(metalinė, minimali 3 mm).
+Aprašymas: Papildoma aliuminė, ne mažesnio kaip 4 mm storio variklio karterio ir pavarų dėžės apsauga, 
+(metalinė, minimali 3 mm). Lyginamasis svoris 1.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: -
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos -
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Susitiprinto reagavimo automobilio nuoma
+Aprašymas: Susitiprinto reagavimo automobilio nuoma
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34114200 Policijos automobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Konkretūs policijos įstaigų (vyriausiųjų policijos komisariatų) adresai (Lietuvos Respublika) bus 
+nurodyti sudarant pagrindines automobilių nuomos sutartis.
+5.1.5 Vertė
+Numatoma vertė be PVM: 77 685,95 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Euro 6 standartas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: kaina
+Aprašymas: Kaina. Lyginamasis svoris 89.
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Variklio galia
+Aprašymas: Variklio galia. Lyginamasis svoris 10.
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Papildoma aliuminė, ne mažesnio kaip 4 mm storio variklio karterio ir pavarų dėžės apsauga, 
+(metalinė, minimali 3 mm).
+Aprašymas: Papildoma aliuminė, ne mažesnio kaip 4 mm storio variklio karterio ir pavarų dėžės apsauga, 
+(metalinė, minimali 3 mm). Lyginamasis svoris 1.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: -
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos -
+6 Rezultatai
+Didžiausioji šios skelbimo preliminariųjų sutarčių vertė: 12 118 181,82 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties didžiausia vertė: 12 118 181,82 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymo teikėjo pavadinimas: 1PasiulymasSwed
+Pirkimų procedūros dalyvio vadovas: Swedbank lizingas, UAB, JVG pagrindinis pertneris
+Oficialus pavadinimas: UAB ,,Autojuta" JVG antras partneris
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1PasiulymasSwed
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 12 118 181,82 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 36
+Informacija apie sutartį:
+Sutarties identifikatorius: 1SutartisSwed
+Sutarties sudarymo data: 30/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: M1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188785847
+Pašto adresas: Saltoniškių g. 19 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zydre.slazinskiene@policija.lt
+Telefono numeris: +370 700 62 297
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Swedbank lizingas, UAB, JVG pagrindinis pertneris
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 111568069
+Miestas: Vilnius
+Pašto kodas: 09321
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB ,,Autojuta" JVG antras partneris
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135168464
+Miestas: Kaunas
+Pašto kodas: 51344
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: e5e1ea71-1218-417b-b972-2132e3286485 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/06/2025 09:43 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

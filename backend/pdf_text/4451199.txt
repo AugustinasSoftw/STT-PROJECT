@@ -1,0 +1,147 @@
+Lietuva: Programavimo paslaugos
+Lietuvos mokslo tarybos projektų administravimo informacinės sistemos (LMTPAIS) 
+modifikavimo paslaugos (Tarptautinis atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos mokslo taryba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Lietuvos mokslo tarybos projektų administravimo informacinės sistemos (LMTPAIS) modifikavimo 
+paslaugos (Tarptautinis atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti Lietuvos mokslo tarybos projektų administravimo informacinės 
+sistemos (LMTPAIS) modifikavimo paslaugas.
+Procedūros identifikatorius: cf4b822a-d729-40af-92be-ec2e035f4d58
+Ankstesnis skelbimas: 0ce60673-440e-4f06-b28a-945e5eb84b00-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 50 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Lietuvos mokslo tarybos projektų administravimo informacinės sistemos (LMTPAIS) modifikavimo 
+paslaugos (Tarptautinis atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti Lietuvos mokslo tarybos projektų administravimo informacinės 
+sistemos (LMTPAIS) modifikavimo paslaugas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 50 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainos kriterijų.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos mokslo taryba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos mokslo taryba
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 59 539,26 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Novian PRO“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090033
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 59 539,26 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29497
+Sutarties sudarymo data: 10/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos mokslo taryba
+Registracijos numeris: 188716281
+Pašto adresas: Gedimino pr. 3 
+Miestas: Vilnius
+Pašto kodas: 01103
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: jolanta.kaire@lmt.lt
+Telefono numeris: +370 670 32 595
+Interneto adresas: www.lmt.lt
+Pirkėjo profilis: www.lmt.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Novian PRO“
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 300064148
+Pašto adresas: Gynėjų g. 14, LT-01109 Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: m.zilinskas@novian.lt
+Telefono numeris: +3706120826
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01400
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 95d420df-5eab-43a6-911c-2579fc153b6d - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/09/2025 11:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,147 @@
+Lietuva: Motorinės transporto priemonės
+Specializuotų ir papildomų transporto priemonių nuomos pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LITGRID AB
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Specializuotų ir papildomų transporto priemonių nuomos pirkimas
+Aprašymas: Vykdomas Specializuotų ir papildomų transporto priemonių nuomos pirkimas. Daugiau informacijos 
+galima rasti pirkimo dokumentuose.
+Procedūros identifikatorius: e4ff2f4d-d9eb-40bb-838c-ee24dfb30eb5
+Ankstesnis skelbimas: d7d50190-65ed-433c-943b-27df709fc2bf-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34100000 Motorinės transporto priemonės
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Specializuotų ir papildomų transporto priemonių nuomos pirkimas
+Aprašymas: Vykdomas Specializuotų ir papildomų transporto priemonių nuomos pirkimas. Daugiau informacijos 
+galima rasti pirkimo dokumentuose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34100000 Motorinės transporto priemonės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Visi peržiūros terminai nurodyti sutartyje
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: LITGRID AB -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LITGRID AB -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 171 517 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Mobility Lietuva UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000056564
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 171 517 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22362
+Data, kurią buvo pasirinktas laimėtojas: 26/05/2025
+Sutarties sudarymo data: 11/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LITGRID AB
+Registracijos numeris: 302564383
+Pašto adresas: Karlo Gustavo Emilio Manerheimo g. 8 
+Miestas: Vilnius
+Pašto kodas: 05131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: arunas.jurgelaitis@litgrid.eu
+Telefono numeris: +37065611391
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Mobility Lietuva UAB
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 303167185
+Pašto adresas: Naugarduko g. 98 
+Miestas: Vilnius
+Pašto kodas: 03160
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: fsl@europcar.lt
+Telefono numeris: +37052503420
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01103
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ca7b106d-84ec-4b12-be80-8fde79d9397b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/06/2025 16:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

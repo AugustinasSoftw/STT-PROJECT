@@ -1,0 +1,147 @@
+Lietuva: Baziniai neorganiniai ir organiniai chemikalai
+Flokulianto pirkimas (Skelbiama apklausa)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Pakruojo vandentiekis (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Flokulianto pirkimas (Skelbiama apklausa)
+Aprašymas: Pirkimo objektas - flokulianto pirkimas (toliau - Prekė). Paskirtis - flokuliantas skirtas tankinti, sausinti 
+nuotekų dumblą. Pirkimas į dalis neskaidomas. Tiekėjas turi teikti pasiūlymą visai nurodytai Pirkimo apimčiai. 
+Preliminarus planuojamo pirkti flokulianto kiekis per 36 (trisdešimt šešis) mėnesius - 2100 kg. Perkantysis subjektas 
+prekę pirks dalimis, pateikdamas užsakymus. Perkantysis subjektas neįsipareigoja nupirkti viso nurodyto prekės 
+kiekio. Perkamos prekės kiekis priklausys nuo sutarties vykdymo metu iškylančio poreikio.
+Procedūros identifikatorius: 7987e82a-1d02-41c8-a0d0-d6a1b6639c33
+Ankstesnis skelbimas: 0e01ad11-7a50-4999-88e3-6dac52f84cdf-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 24300000 Baziniai neorganiniai ir organiniai chemikalai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 25 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Flokulianto pirkimas (Skelbiama apklausa)
+Aprašymas: Pirkimo objektas - flokulianto pirkimas (toliau - Prekė). Paskirtis - flokuliantas skirtas tankinti, sausinti 
+nuotekų dumblą. Pirkimas į dalis neskaidomas. Tiekėjas turi teikti pasiūlymą visai nurodytai Pirkimo apimčiai. 
+Preliminarus planuojamo pirkti flokulianto kiekis per 36 (trisdešimt šešis) mėnesius - 2100 kg. Perkantysis subjektas 
+prekę pirks dalimis, pateikdamas užsakymus. Perkantysis subjektas neįsipareigoja nupirkti viso nurodyto prekės 
+kiekio. Perkamos prekės kiekis priklausys nuo sutarties vykdymo metu iškylančio poreikio.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 24300000 Baziniai neorganiniai ir organiniai chemikalai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 25 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal pirkimo dokumentus ir LR įstatymus
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Pakruojo vandentiekis (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Pakruojo vandentiekis (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 18 165 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Ekotakas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000074296
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 18 165 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28372
+Sutarties sudarymo data: 09/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Pakruojo vandentiekis (PV)
+Registracijos numeris: 167922698
+Pašto adresas: Pramonės 1 
+Miestas: Pakruojis
+Pašto kodas: LT-83163
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: laima.bernotiene@vandentiekis.com
+Telefono numeris: 065266918
+Interneto adresas: www.vandentiekis.com
+Pirkėjo profilis: www.vandentiekis.com
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Ekotakas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135450524
+Pašto adresas: Savanorių pr. 435 
+Miestas: Kaunas
+Pašto kodas: 49280
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: zivile.jab@gmail.com
+Telefono numeris: +37065527726
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 011110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1b44e82e-1a83-4525-bcd1-5099ea27e3cf - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/08/2025 08:18 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

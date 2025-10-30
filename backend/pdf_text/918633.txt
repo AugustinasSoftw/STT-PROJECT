@@ -1,0 +1,159 @@
+Lietuva: Informacijos sistemų arba technologijos strateginės peržiūros ir planavimo 
+paslaugos
+Vaistinių preparatų informacinės sistemos ir Vaistinių preparatų registro modernizavimo 
+techninė priežiūra (senojo CVPIS pirkimo Nr. 742882)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos
+Pirkėjo teisinė forma: ES institucija, įstaiga ar agentūra
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vaistinių preparatų informacinės sistemos ir Vaistinių preparatų registro modernizavimo techninė 
+priežiūra (senojo CVPIS pirkimo Nr. 742882)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-23 paskelbto pirkimo Nr. 742882 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Procedūros identifikatorius: 755f1a8e-a2fa-443f-b278-9339a1334abc
+Ankstesnis skelbimas: b130eeb5-6422-4e88-a0e5-23049239078c-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72222000 Informacijos sistemų arba technologijos strateginės peržiūros ir 
+planavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 151 032,2 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vaistinių preparatų informacinės sistemos ir Vaistinių preparatų registro modernizavimo techninė 
+priežiūra (senojo CVPIS pirkimo Nr. 742882)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-23 paskelbto pirkimo Nr. 742882 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72222000 Informacijos sistemų arba technologijos strateginės peržiūros ir 
+planavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 151 032,2 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė vaistų kontrolės tarnyba prie Lietuvos 
+Respublikos sveikatos apsaugos ministerijos
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 126 370 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB IT innovations
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000003199
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 3075
+Sutarties sudarymo data: 22/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 09-004-P-0001
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos
+Registracijos numeris: 191351864
+Pašto adresas: Studentų g. 45a 
+Miestas: Vilnius
+Pašto kodas: 08107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vvkt@vvkt.lt
+Telefono numeris: 0 5 263 9264
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: MB IT innovations
+Registracijos numeris: 304975020
+Pašto adresas: Birutės g. 36-29 
+Miestas: Tauragė
+Pašto kodas: LT-72234
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: zydrunas@itinnovations.lt
+Telefono numeris: +37068255043
+Interneto adresas: www.itinnovations.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: adcdc305-ac32-43cb-94bc-6cb9fb003c11 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/01/2025 10:51 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,159 @@
+Lietuva: Gamyklų, kasybos, apdirbamosios gamybos ir dujų bei naftos pramonės statinių 
+statybos darbai
+Sukamosios krosnies darbinių plytų, betoninio žiedo keitimas ir antrinės degimo kameros 
+remontas (Atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė "TOKSIKA" (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Sukamosios krosnies darbinių plytų, betoninio žiedo keitimas ir antrinės degimo kameros remontas 
+(Atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti sukamosios krosnies darbinių plytų, betoninio žiedo keitimo ir 
+antrinės degimo kameros remonto darbus.
+Procedūros identifikatorius: 61014bac-d1b4-4034-b729-fa1e2f650530
+Ankstesnis skelbimas: caade89f-1ca7-432f-b4a4-c7fdc4124cc3-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45250000 Gamyklų, kasybos, apdirbamosios gamybos ir dujų bei naftos 
+pramonės statinių statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Sukamosios krosnies darbinių plytų, betoninio žiedo keitimas ir antrinės degimo kameros remontas 
+(Atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti sukamosios krosnies darbinių plytų, betoninio žiedo keitimo ir 
+antrinės degimo kameros remonto darbus.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45250000 Gamyklų, kasybos, apdirbamosios gamybos ir dujų bei naftos 
+pramonės statinių statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 88
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Darbų atlikimo terminas.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo suteikiama garantija atliktiems Darbams.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 7
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Uždaroji akcinė bendrovė "TOKSIKA" (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Uždaroji akcinė bendrovė "TOKSIKA" (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 270 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ThorLinings Sp. z o.o. Sp. k.
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000080222
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 270 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28230
+Sutarties sudarymo data: 05/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė "TOKSIKA" (PV)
+Registracijos numeris: 244670310
+Pašto adresas: Kuro g. 15 
+Miestas: Vilnius
+Pašto kodas: LT-02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: pirkimai@toksika.lt
+Telefono numeris: +370 686 89049
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: ThorLinings Sp. z o.o. Sp. k.
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 6452535754
+Pašto adresas: Ul. Graniczna 54 B 
+Miestas: Przyszowice
+Pašto kodas: 44-178
+Šalies administracinis vienetas (NUTS): Gliwicki (PL229)
+Šalis: Lenkija
+E. paštas: andrzej.ziajka@thorlinings.com
+Telefono numeris: +48 600 912 200
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a6e1de0d-130c-47d7-8738-8553d73a6c00 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 26/08/2025 16:14 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

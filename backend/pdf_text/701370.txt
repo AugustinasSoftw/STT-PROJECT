@@ -1,0 +1,417 @@
+Lietuva: Vaisiai, daržovės ir panašūs produktai
+732581 Maisto produktų (šviežios daržovės, įvairios daržovės, vaisiai, apdorotos daržovės, 
+šaldytos daržovės ir vaisiai, perdirbti įvairūs vaisiai ir daržovės) Kauno rajono ugdymo 
+įstaigoms pirkimas.
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 732581 Maisto produktų (šviežios daržovės, įvairios daržovės, vaisiai, apdorotos daržovės, šaldytos 
+daržovės ir vaisiai, perdirbti įvairūs vaisiai ir daržovės) Kauno rajono ugdymo įstaigoms pirkimas.
+Aprašymas: Pirkimo objektas - maisto produktai (šviežios daržovės, įvairios daržovės, vaisiai, apdorotos daržovės, 
+šaldytos daržovės ir vaisiai, perdirbti įvairūs vaisiai ir daržovės) Kauno rajono ugdymo įstaigoms. Pirkimo objektas 
+skaidomas į 6 pirkimo dalis: I pirkimo dalis - šviežios daržovės, II pirkimo dalis - įvairios daržovės, III pirkimo dalis - 
+apdorotos daržovės, IV pirkimo dalis - šaldytos daržovės ir vaisiai, V pirkimo dalis - vaisiai, VI pirkimo dalis - perdirbti 
+įvairūs vaisiai ir daržovės.
+Procedūros identifikatorius: ddbc9aff-054a-4b57-9ab2-ec5e7983ad72
+Ankstesnis skelbimas: 487007-2024
+Vidaus identifikatorius: 732581
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo dalis - šviežios daržovės
+Aprašymas: I pirkimo dalimi perkamos šviežios daržovės, kurių techninė specifikacija pateikta pirkimo sąlygų 1 priede 
+„I pirkimo daliai pasiūlymo forma ir Techninė specifikacija“ (toliau - Prekės). Preliminarus Prekių kiekis per 12 mėn. 
+apie 180 000 kilogramų. Prekės bus perkamos pagal perkančiosios organizacijos poreikį pagal tiekėjo įkainį, nurodytą 
+tiekėjo pasiūlyme.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+Kiti klasifikacijos kodai (cpv): 03221000 Daržovės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1 508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo dalis - įvairios daržovės.
+Aprašymas: II pirkimo dalimi perkamos įvairios daržovės, kurių techninė specifikacija pateikta pirkimo sąlygų 1 priede 
+"II pirkimo daliai pasiūlymo forma ir Techninė specifikacija" (toliau - Prekės). Preliminarus Prekių kiekis per 12 mėn. 
+apie 150 000 kilogramų kilogramų. Prekės bus perkamos pagal perkančiosios organizacijos poreikį pagal tiekėjo 
+įkainį, nurodytą tiekėjo pasiūlyme.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1 508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III pirkimo dalis - apdorotos daržovės.
+Aprašymas: III pirkimo dalimi perkamos apdorotos daržovės, kurių techninė specifikacija pateikta pirkimo sąlygų 1 
+priede "III pirkimo daliai pasiūlymo forma ir techninė specifikacija" (toliau - Prekės). Preliminarus Prekių kiekis per 
+12 mėn. apie 39 800 kilogramų. Prekės bus perkamos pagal perkančiosios organizacijos poreikį pagal tiekėjo įkainį, 
+nurodytą tiekėjo pasiūlyme.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+Kiti klasifikacijos kodai (cpv): 15331000 Perdirbtos daržovės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1 508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: IV pirkimo dalis - šaldytos daržovės ir vaisiai.
+Aprašymas: IV pirkimo dalimi perkamos šaldytos daržovės ir vaisiai, kurių techninė specifikacija pateikta pirkimo 
+sąlygų 1 priede "IV pirkimo daliai pasiūlymo forma ir techninė specifikacija" (toliau - Prekės). Preliminarus Prekių kiekis 
+per 12 mėn. apie 6 250 kilogramų kilogramų. Prekės bus perkamos pagal perkančiosios organizacijos poreikį pagal 
+tiekėjo įkainį,nurodytą tiekėjo pasiūlyme.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+Kiti klasifikacijos kodai (cpv): 15331170 Sušaldytos daržovės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1 508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: V pirkimo dalis - vaisiai.
+Aprašymas: V pirkimo dalimi perkami vaisiai, kurių techninė specifikacija pateikta pirkimo sąlygų 1 priede "V pirkimo 
+daliai pasiūlymo forma ir techninė specifikacija" (toliau - Prekės). Preliminarus Prekių kiekis per 12 mėn. apie 165 000 
+kilogramų kilogramų. Prekės bus perkamos pagal perkančiosios organizacijos poreikį pagal tiekėjo įkainį, nurodytą 
+tiekėjo pasiūlyme.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+Kiti klasifikacijos kodai (cpv): 03222000 Vaisiai ir riešutai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1 508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: VI pirkimo dalis - perdirbti įvairūs vaisiai ir daržovės.
+Aprašymas: VI pirkimo dalimi perkami perdirbti įvairūs vaisiai ir daržovės, kurių techninė specifikacija pateikta pirkimo 
+sąlygų 1 priede "VI pirkimo daliai pasiūlymo forma ir techninė specifikacija" (toliau - Prekės). Preliminarus Prekių kiekis 
+per 12 mėn. apie 72 000 kilogramų kilogramų. Prekės bus perkamos pagal perkančiosios organizacijos poreikį pagal 
+tiekėjo įkainį, nurodytą tiekėjo pasiūlyme.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 15300000 Vaisiai, daržovės ir panašūs produktai
+Kiti klasifikacijos kodai (cpv): 15330000 Perdirbti vaisiai ir daržovės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1 508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 2 715 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Laimėtojas 1 UAB Viržis
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-1741
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Laimėtojas 1 UAB Viržis
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-1742
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Laimėtojas 1 UAB Viržis
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-1743
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Laimėtojas 2 - UAB "Officeday"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2
+Sutarties sudarymo data: 02/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Laimėtojas 1 UAB Viržis
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS5
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-1744
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Laimėtojas 1 UAB Viržis
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS6
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-1745
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Registracijos numeris: 188756386
+Pašto adresas: Savanorių pr. 371 
+Miestas: Kaunas
+Pašto kodas: LT-49500
+Šalis: Lietuva
+E. paštas: neringa.kolaitiene@krs.lt
+Telefono numeris: +370 670 107 18
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: (037) 490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Laimėtojas 1 UAB Viržis
+Registracijos numeris: 159750366
+Miestas: Kauno r.
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: virzis5@gmail.com
+Telefono numeris: +370 698 31 883
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003, LOT-0005, LOT-0006
+8.1 ORG-0005
+Oficialus pavadinimas: Laimėtojas 2 - UAB "Officeday"
+Registracijos numeris: 124931353
+Miestas: Kauno r.
+Šalis: Lietuva
+E. paštas: konkursai@officeday.lt
+Telefono numeris: (037) 401111
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: fc09f68d-afd9-4e98-9010-76e1677870cf - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/01/2025 11:28 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

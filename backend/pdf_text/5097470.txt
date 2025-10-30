@@ -1,0 +1,258 @@
+Lietuva: Reagentai ir kontrastiniai preparatai
+Reagentų rankinių laboratorinių tyrimų atlikimui pirkimas (konkretus pirkimas DPS pagrindu)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Reagentų rankinių laboratorinių tyrimų atlikimui pirkimas (konkretus pirkimas DPS pagrindu)
+Aprašymas: Perkami reagentai rankinių laboratorinių tyrimų atlikimui. Pirkimas skaidomas į 29 pirkimo objekto dalis. 
+Detalus pirkimo objekto apibūdinimas pateiktas pirkimo dokumentuose.
+Procedūros identifikatorius: a2690927-74e1-49ee-bd13-65d4cc978d74
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696000 Reagentai ir kontrastiniai preparatai
+Kiti klasifikacijos kodai (cpv): 33696500 Laboratoriniai reagentai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Reagentų rankinių laboratorinių tyrimų atlikimui pirkimas (konkretus pirkimas DPS pagrindu)
+Aprašymas: Perkami reagentai rankinių laboratorinių tyrimų atlikimui. Pirkimas skaidomas į 29 pirkimo objekto dalis. 
+Detalus pirkimo objekto apibūdinimas pateiktas pirkimo dokumentuose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696000 Reagentai ir kontrastiniai preparatai
+Kiti klasifikacijos kodai (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 13 292,83 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Labochema LT UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000056574
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 4 031,83 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31018
+Sutarties sudarymo data: 24/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB „Laborama”
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000056445
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 165 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31020
+Sutarties sudarymo data: 08/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: Labema
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000056465
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 7 231,48 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31019
+Sutarties sudarymo data: 04/08/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: Biomika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000054887
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 476 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31022
+Sutarties sudarymo data: 01/08/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB DIAMEDICA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000055373
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 620 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31021
+Sutarties sudarymo data: 11/09/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 11
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.valakeviciute@cpo.lt
+Telefono numeris: 066721158
+Pirkėjo profilis: www.cpo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Labochema LT UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300670772
+Pašto adresas: Vilkpėdės g. 22 
+Miestas: Vilnius
+Pašto kodas: LT-03151
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@labochema.lt
+Telefono numeris: +37052740194
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: UAB „Laborama”
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302818839
+Pašto adresas: V. Kuzmos g. 26 
+Miestas: Vilnius
+Pašto kodas: LT-08431
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@laborama.lt
+Telefono numeris: +37052657222
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Labema
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304686877
+Pašto adresas: Kareiviu g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-09109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: sandra.satkune@labema.lt
+Telefono numeris: +37062801515
+Interneto adresas: www.labema.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Biomika
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304910229
+Pašto adresas: Lauko g. 2, Dainavos k., LT-17226 Šalčininkų r. 
+Miestas: Dainavos k.
+Pašto kodas: LT-17226
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@biomika.lt
+Telefono numeris: +370 611 74996
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: UAB DIAMEDICA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111768155
+Pašto adresas: Vanaginės g. 37A 
+Miestas: Didžioji Riešė
+Pašto kodas: LT-14261
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: konkursai@diamedica.lt
+Telefono numeris: 037067950237
+Interneto adresas: www.diamedica.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0007
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0008
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0009
+Oficialus pavadinimas: VšĮ Respublikinė Šiaulių ligoninė
+Registracijos numeris: 245386220
+Miestas: Šiauliai
+Pašto kodas: 76231
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d45892d6-fed9-452a-8650-33a48a08f0f0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/10/2025 14:23 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,265 @@
+Lietuva: Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Eksperimentinė įranga fizikos, chemijos ir biologijos klasėms
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šilutės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Eksperimentinė įranga fizikos, chemijos ir biologijos klasėms
+Aprašymas: Pirkimo vykdytojas numato įsigyti ekspermentinę įrangą fizikos, chemijos ir biologijos klasėms 
+esančioms M. Jankaus mokykloje (toliau - Prekės). Pirkimo objektas skaidomas į tris pirkimo dalis: I pirkimo dalis 
+- Eksperimentinė įranga biologijai, fizikai ir chemijai; II pirkimo dalis - Eksperimentiniai rinkiniai; III pirkimo dalis - 
+Laboratorijų priemonės. Tiekėjai pasiūlymą gali teikti vienai, kelioms ar visoms pirkimo dalims.
+Procedūros identifikatorius: 0bf3471a-0d2d-4cd3-a31d-9aabc314f554
+Ankstesnis skelbimas: ff343d51-767b-4a8b-afb6-cc68ae180f6f-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+2.1.2 Sutarties vykdymo vieta
+Miestas: Šilutės M. Jankaus pagrindinė mokykla esanti Sodų g. 7
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Eksperimentinė įranga biologijai, fizikai ir chemijai;
+Aprašymas: Pirkimo vykdytojas numato įsigyti ekspermentinę įrangą fizikos, chemijos ir biologijos klasėms 
+esančioms M. Jankaus mokykloje (toliau - Prekės). Pirkimo objektas skaidomas į tris pirkimo dalis: I pirkimo dalis 
+- Eksperimentinė įranga biologijai, fizikai ir chemijai; II pirkimo dalis - Eksperimentiniai rinkiniai; III pirkimo dalis - 
+Laboratorijų priemonės. Tiekėjai pasiūlymą gali teikti vienai, kelioms ar visoms pirkimo dalims.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinamas mažiausios kainos kriterijus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šilutės rajono savivaldybės administracija
+Informacija apie peržiūros terminus: x
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilutės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Šilutės rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Eksperimentiniai rinkiniai;
+Aprašymas: Pirkimo vykdytojas numato įsigyti ekspermentinę įrangą fizikos, chemijos ir biologijos klasėms 
+esančioms M. Jankaus mokykloje (toliau - Prekės). Pirkimo objektas skaidomas į tris pirkimo dalis: I pirkimo dalis 
+- Eksperimentinė įranga biologijai, fizikai ir chemijai; II pirkimo dalis - Eksperimentiniai rinkiniai; III pirkimo dalis - 
+Laboratorijų priemonės. Tiekėjai pasiūlymą gali teikti vienai, kelioms ar visoms pirkimo dalims.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinamas mažiausios kainos kriterijus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Informacija apie peržiūros terminus: x
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilutės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Šilutės rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Laboratorijų priemonės.
+Aprašymas: Pirkimo vykdytojas numato įsigyti ekspermentinę įrangą fizikos, chemijos ir biologijos klasėms 
+esančioms M. Jankaus mokykloje (toliau - Prekės). Pirkimo objektas skaidomas į tris pirkimo dalis: I pirkimo dalis 
+- Eksperimentinė įranga biologijai, fizikai ir chemijai; II pirkimo dalis - Eksperimentiniai rinkiniai; III pirkimo dalis - 
+Laboratorijų priemonės. Tiekėjai pasiūlymą gali teikti vienai, kelioms ar visoms pirkimo dalims.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinamas mažiausios kainos kriterijus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Informacija apie peržiūros terminus: x
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilutės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Šilutės rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 61 917,08 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Biznio mašinų kompanija UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000079502
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 51 652,61 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26774
+Data, kurią buvo pasirinktas laimėtojas: 05/08/2025
+Sutarties sudarymo data: 07/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Ekonomikos gaivinimo ir atsparumo didinimo priemonės lėšomis (EGADP) ir 
+Lietuvos Respublikos valstybės biudžeto lėšomis finansuojamas projektas Nr. 10-012-P-0001, pavadinimas 
+„Tūkstantmečio mokyklos II“.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Biznio mašinų kompanija UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000079502
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 10 264,46 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26775
+Data, kurią buvo pasirinktas laimėtojas: 05/08/2025
+Sutarties sudarymo data: 07/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Ekonomikos gaivinimo ir atsparumo didinimo priemonės lėšomis (EGADP) ir 
+Lietuvos Respublikos valstybės biudžeto lėšomis finansuojamas projektas Nr. 10-012-P-0001, pavadinimas 
+„Tūkstantmečio mokyklos II“.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šilutės rajono savivaldybės administracija
+Registracijos numeris: 188723322
+Pašto adresas: Dariaus ir Girėno g. 1 
+Miestas: Šilutė
+Pašto kodas: 99133
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: egle.limbiene@silute.lt
+Telefono numeris: +37065635198
+Interneto adresas: www.silute.lt
+Pirkėjo profilis: www.silute.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Peržiūros organizacija
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Biznio mašinų kompanija UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 122266912
+Pašto adresas: J. Rutkausko g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@bmk.lt
+Telefono numeris: +37052125559
+Interneto adresas: www.bmk.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: LT-92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b5a37e4a-cec0-4d5e-9205-99aa016eb439 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/08/2025 14:30 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

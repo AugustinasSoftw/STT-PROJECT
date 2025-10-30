@@ -1,0 +1,1509 @@
+Lietuva: Telekomunikacijų paslaugos
+(ID-279789) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio 
+tinklo įrangos talpinimo paslaugos (PPR-902) 2-21 POD
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (ID-279789) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo 
+įrangos talpinimo paslaugos (PPR-902) 2-21 POD
+Aprašymas: 2-21 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Procedūros identifikatorius: d03bb323-68a7-4684-bafa-efab80bdc0b1
+Ankstesnis skelbimas: 711896-2024
+Vidaus identifikatorius: 746672
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: 11 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 11 POD Viršuliškių g., 43, Vilniaus m., Vilniaus m. sav., koordinatės 54.708889, 25.219722
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: 12 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 12 POD Keramikų g., 6, Vilniaus m., Vilniaus m. sav., koordinatės 54.728056, 25.373889
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: 13 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslauga (PPR-902)
+Aprašymas: 13 POD Dzūkų g., 67, Vilniaus m., Vilniaus m. sav., koordinatės 54.664222, 25.290681
+Vidaus identifikatorius: 13
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0013
+Pavadinimas: 14 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslauga (PPr-902)
+Aprašymas: 14 POD Šviesos g., 3, Grigiškių m., Vilniaus m. sav., koordinatės 54.668889, 25.096111
+Vidaus identifikatorius: 14
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0014
+Pavadinimas: 15 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslauga (PPR-902)
+Aprašymas: 15 POD Subačiaus g., 112, Vilniaus m., Vilniaus m. sav., koordinatės 54.674822, 25.319957
+Vidaus identifikatorius: 15
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0015
+Pavadinimas: 16 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslauga (PPR-902)
+Aprašymas: 16 POD Kirtimų g., 47, Vilniaus m., Vilniaus m. sav., koordinatės 54.625983, 25.148389
+Vidaus identifikatorius: 16
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr, pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0016
+Pavadinimas: 17 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslaugos (PPR-902)
+Aprašymas: 17 POD Gedimino pr., 16, Vilniaus m., Vilniaus m. sav., koordinatės 54.686822, 25.279703
+Vidaus identifikatorius: 17
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros enegijos patikimumas (T), žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0017
+Pavadinimas: 18 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslaugos (PPR-902)
+Aprašymas: 18 POD Raudondvario pl., 164, Kauno m., Kauno m. sav., koordinatės 54.913819, 23.842097
+Vidaus identifikatorius: 18
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0018
+Pavadinimas: 19 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslaugos (PPR-902)
+Aprašymas: 19 POD Pramonės pr., 22, Kauno m., Kauno m. sav., koordinatės 54.921944, 23.9825
+Vidaus identifikatorius: 19
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0019
+Pavadinimas: 20 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslaugos (PPR-902)
+Aprašymas: 20 POD Sausalaukės k., Svėdasų sen., koordinatės 55.675128, 25.359097
+Vidaus identifikatorius: 20
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 2 POD - Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 2 POD Šviesos g. 18, Kluoniškių k., Zapyškio sen., Kauno r. sav., koordinatės 54.925642, 23.651844
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0020
+Pavadinimas: 21 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+paslaugos (PPR-902)
+Aprašymas: 21 POD Dejūnų k., Kurklių sen., koordinatės 55.361267, 25.011525
+Vidaus identifikatorius: 21
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 3 POD - Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 3 POD - Žaliųjų Ežerų g., Vilniaus m., Vilniaus m. sav., koordinatės 54.780278, 25.332778
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 4 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 4 - a POD Fabijoniškių g., 3, Vilniaus m., Vilniaus m. sav, koordinatės 54.720556, 25.251667
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: 5 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 5 POD Vydūno g., 27, Vilniaus m., Vilniaus m. sav., koordinatės 54.706936, 25.176461
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): ne
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkio dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: 6 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: Žirmūnų g., 139, Vilniaus m., Vilniaus m. sav., koordinatės 54.725556, 25.297511
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: 7 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: Varduvos g., 4, Kauno m., Kauno m. sav., koordinatės 54.923889, 23.936667
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: 8 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: Jotvingių g., 7, Kauno m., Kauno m. sav, koordinatės 54.932689, 23.897922
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (С), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: 9 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 9 POD Žukų k., Vilkyškių sen., koordinatės 55.115611, 22.257136
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: 10 POD Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902)
+Aprašymas: 10 POD Architektų g., 67, Vilniaus m., Vilniaus m. sav., koordinatės 54.680033, 25.208889
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 64200000 Telekomunikacijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina (C), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Elektros energijos patikimumas (T), žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 361 080 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0013
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0013
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0014
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0014
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0015
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0015
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0016
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0016
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0017
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0017
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0018
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0018
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0019
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0019
+Pasiūlymo vertė: 21 600 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 14 580 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0020
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0020
+Pasiūlymo vertė: 25 200 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 21 600 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 20 160 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 14 580 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 14 580 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 16 200 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 14 580 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Teletower"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011530
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 18 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-110
+Pavadinimas: Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklo įrangos 
+talpinimo paslaugos (PPR-902) 2-21 pirkimo obj. dalys
+Data, kurią buvo pasirinktas laimėtojas: 12/02/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Integruoto sienų valdymo fondas (ISVF) - Sienų 
+valdymo ir vizų priemonė (2021/2027)
+ES fondų identifikatorius: SVVP/2023/3510
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pgl. 07-016-12-01-05 (TP) ir dalinai 
+finansuojamas iš VSF (STS) lėšų, skirtų projektui Nr. SVVP/2023/3510 "Papildomos IRD veiklos sąnaudos 
+2024-2027 m.”
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188729923
+Pašto adresas: Šventaragio g. 2, Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Jurgita.Zilko@vrm.lt
+Telefono numeris: +370 52718221
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Teletower"
+Registracijos numeris: 302453251
+Pašto adresas: Žemaitės g.15 
+Miestas: Vilnius
+Pašto kodas: LT-03118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0010, LOT-0011, LOT-0012, LOT-0013, LOT-0014, LOT-0015, LOT-0016, 
+LOT-0017, LOT-0018, LOT-0019, LOT-0001, LOT-0020, LOT-0002, LOT-0003, LOT-0004, LOT-0005, LOT-0006, 
+LOT-0007, LOT-0008, LOT-0009
+8.1 ORG-0005
+Oficialus pavadinimas: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188774822
+Pašto adresas: Šventaragio g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: df79255c-9c37-4cb6-a5bf-5233e76984b2 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/03/2025 10:24 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

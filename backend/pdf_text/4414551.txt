@@ -1,0 +1,426 @@
+Lietuva: Serveriai
+Techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Oro uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir kibernetinio 
+saugumo užtikrinimui
+Aprašymas: Perkama techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui.
+Procedūros identifikatorius: b90c8637-a5a2-43b8-80a1-ba9ec69c1e4e
+Ankstesnis skelbimas: f56834f9-b063-4d1d-b411-d4b08bd3d862-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 434 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Tarnybinės stotys
+Aprašymas: Perkama techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 434 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė „Oro navigacija“ (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Duomenų saugykla
+Aprašymas: Perkama techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 434 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė „Oro navigacija“ (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Virtualizavimo programinės įrangos prenumerata
+Aprašymas: Perkama techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 434 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė „Oro navigacija“ (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Kibernetinio saugumo programinės įrangos prenumerata
+Aprašymas: Perkama techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 434 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė „Oro navigacija“ (PV)
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Duomenų mainų integracinės platformos programinės įrangos prenumerata
+Aprašymas: Perkama techninė ir programinė įranga, skirta duomenų mainų integracinės platformos vystymui ir 
+kibernetinio saugumo užtikrinimui.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 434 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Komunalinio sektoriaus pirkimų įstatymo VII 
+skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė „Oro navigacija“ (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 328 881,1 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Santa Monica Networks
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077625
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 42 300 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29229
+Pavadinimas: Tarnybinės stotys
+Data, kurią buvo pasirinktas laimėtojas: 14/08/2025
+Sutarties sudarymo data: 29/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Aplinkos ir klimato politikos programa (LIFE) 
+(2021/2027)
+ES fondų identifikatorius: CLEAN ATM 2
+Išsamesnė informacija apie ES fondus: Pirmojo bendro projekto (CP1) įgyvendinimas - Sinchronizuotas Oro 
+eismo vadybos tinklo modernizavimas (angl. „CP1 Deployment - Synchronised Modernisation of ATM (Part 
+2)“) Nr. 101175469. Dotacijos susitarimas Nr. 101175469 - 23EUTGCLEAN ATM 2
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 0 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 70 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Santa Monica Networks
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077625
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 99 990 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29227, 29230
+Pavadinimas: Duomenų saugykla
+Data, kurią buvo pasirinktas laimėtojas: 14/08/2025, 14/08/2025
+Sutarties sudarymo data: 29/08/2025, 29/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Aplinkos ir klimato politikos programa (LIFE) 
+(2021/2027)
+ES fondų identifikatorius: CLEAN ATM2, CLEAN ATM2
+Išsamesnė informacija apie ES fondus: Pirmojo bendro projekto (CP1) įgyvendinimas - Sinchronizuotas Oro 
+eismo vadybos tinklo modernizavimas (angl. „CP1 Deployment - Synchronised Modernisation of ATM (Part 
+2)“) Nr. 101175469. Dotacijos susitarimas Nr. 101175469 - 23EUTGCLEAN ATM 2
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 0 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 100 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: WhiteBit
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000078381
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 0 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29228
+Pavadinimas: Virtualizavimo programinės įrangos prenumerata
+Data, kurią buvo pasirinktas laimėtojas: 14/08/2025
+Sutarties sudarymo data: 01/09/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Aplinkos ir klimato politikos programa (LIFE) 
+(2021/2027)
+ES fondų identifikatorius: CLEAN ATM2
+Išsamesnė informacija apie ES fondus: Pirmojo bendro projekto (CP1) įgyvendinimas - Sinchronizuotas Oro 
+eismo vadybos tinklo modernizavimas (angl. „CP1 Deployment - Synchronised Modernisation of ATM (Part 
+2)“) Nr. 101175469. Dotacijos susitarimas Nr. 101175469 - 23EUTGCLEAN ATM 2
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 0 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 70 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: WhiteBit
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000078381
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 55 111,1 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29231
+Pavadinimas: Kibernetinio saugumo programinės įrangos prenumerata
+Data, kurią buvo pasirinktas laimėtojas: 14/08/2025
+Sutarties sudarymo data: 01/09/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Aplinkos ir klimato politikos programa (LIFE) 
+(2021/2027)
+ES fondų identifikatorius: CLEAN ATM2
+Išsamesnė informacija apie ES fondus: Pirmojo bendro projekto (CP1) įgyvendinimas - Sinchronizuotas Oro 
+eismo vadybos tinklo modernizavimas (angl. „CP1 Deployment - Synchronised Modernisation of ATM (Part 
+2)“) Nr. 101175469. Dotacijos susitarimas Nr. 101175469 - 23EUTGCLEAN ATM 2
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 0 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 60 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+6.1.3 Nelaimėję dalyviai:
+Dalyvis:
+Oficialus pavadinimas: UAB Santa Monica Networks
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 0 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 134 000 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Registracijos numeris: 210060460
+Pašto adresas: 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: stepuro.d@ans.lt
+Telefono numeris: +370 70694548
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Santa Monica Networks
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 134162647
+Pašto adresas: Lvivo g. 21A 
+Miestas: Vilnius
+Pašto kodas: 09313
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: gediminas.brazys@smn.lt
+Telefono numeris: +37052638700
+Fakso numeris: +37052638710
+Interneto adresas: www.smn.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: WhiteBit
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 304522397
+Pašto adresas: Šeimyniškių g. 19 
+Miestas: Vilnius
+Pašto kodas: 09236
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@whitebit.lt
+Telefono numeris: +370 5 250 1177
+Interneto adresas: www.whitebit.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003, LOT-0004
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ef746b6d-4ff2-429b-ad64-a25eb68e1e06 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/09/2025 16:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

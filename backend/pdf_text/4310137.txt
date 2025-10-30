@@ -1,0 +1,247 @@
+Lietuva: Mokomųjų programų paslaugos
+Vilniaus rajono savivaldybės Mokyklų vadovų ir pedagoginių darbuotojų kompetencijų 
+stiprinimo, ugdymo veiklų ir užsiėmimų organizavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vilniaus rajono savivaldybės Mokyklų vadovų ir pedagoginių darbuotojų kompetencijų stiprinimo, 
+ugdymo veiklų ir užsiėmimų organizavimo paslaugos
+Aprašymas: Perkančioji organizacija numato pirkti mokyklų vadovų ir pedagoginių darbuotojų kompetencijų stiprinimo, 
+ugdymo veiklų ir užsiėmimų organizavimo paslaugas.
+Procedūros identifikatorius: 40f7d3a9-ad02-467b-a41b-bded3d3e731f
+Ankstesnis skelbimas: ab8ac324-a75d-4d06-8b1e-f54eb92398e8-04
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80521000 Mokomųjų programų paslaugos
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 79952000 Su renginiais susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 1 158 704 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vilniaus rajono savivaldybės mokyklų vadovų ir pedagoginių darbuotojų kompetencijų stiprinimo 
+organizavimo paslaugų pirkimas
+Aprašymas: Perkančioji organizacija numato pirkti mokyklų vadovų ir pedagoginių darbuotojų kompetencijų stiprinimo, 
+ugdymo veiklų ir užsiėmimų organizavimo paslaugas.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80521000 Mokomųjų programų paslaugos
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 79952000 Su renginiais susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 330 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Vilniaus rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Ugdymo veiklų organizavimo paslaugų pirkimas
+Aprašymas: Perkančioji organizacija numato pirkti mokyklų vadovų ir pedagoginių darbuotojų kompetencijų stiprinimo, 
+ugdymo veiklų ir užsiėmimų organizavimo paslaugas.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80521000 Mokomųjų programų paslaugos
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 79952000 Su renginiais susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 828 704 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Vilniaus rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 132 383,7 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: UAB "Eurointegracijos projektai"
+Oficialus pavadinimas: Biržų švietimo pagalbos tarnyba
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000058436
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 323 080,4 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28567
+Data, kurią buvo pasirinktas laimėtojas: 08/08/2025
+Sutarties sudarymo data: 18/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Projektas ,,Tūkstantmečio mokyklos II" Nr. 10012P0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: UAB "Eurointegracijos projektai"
+Oficialus pavadinimas: Biržų švietimo pagalbos tarnyba
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000058436
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 8 093 003,3 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28568
+Data, kurią buvo pasirinktas laimėtojas: 08/08/2025
+Sutarties sudarymo data: 18/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Projektas ,,Tūkstantmečio mokyklos II" Nr. 10012P0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus rajono savivaldybės administracija
+Registracijos numeris: 188708224
+Pašto adresas: Rinktinės 50, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 09318
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: pirkimai@vrsa.lt
+Telefono numeris: +370 5 240 1713
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Eurointegracijos projektai"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 142122047
+Pašto adresas: Vilniaus g. 4 
+Miestas: Vilnius
+Pašto kodas: LT-01102
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: l.bendike@eip.lt
+Telefono numeris: 063391488
+Interneto adresas: www.eip.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Biržų švietimo pagalbos tarnyba
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300072593
+Miestas: Biržai
+Pašto kodas: 41140
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 94e0e517-7217-4088-9b50-cdd013d30848 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/09/2025 16:23 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

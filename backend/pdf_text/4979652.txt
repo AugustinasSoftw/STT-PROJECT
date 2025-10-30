@@ -1,0 +1,143 @@
+Lietuva: Baziniai neorganiniai ir organiniai chemikalai
+Pirminio ir perteklinio dumblo Klaipėdos nuotekų valykloje mažinimo priemonė
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Klaipėdos vanduo (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama vietos valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pirminio ir perteklinio dumblo Klaipėdos nuotekų valykloje mažinimo priemonė
+Aprašymas: Pirminio ir perteklinio dumblo Klaipėdos nuotekų valykloje mažinimo priemonė. Preliminarus kiekis apie 
+4600 kg.
+Procedūros identifikatorius: 87588723-5408-42a7-8e3d-b0221aaaff0e
+Ankstesnis skelbimas: 7ed58dc0-6ecc-46fe-af36-27b99bbd4598-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 24300000 Baziniai neorganiniai ir organiniai chemikalai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pirminio ir perteklinio dumblo Klaipėdos nuotekų valykloje mažinimo priemonė
+Aprašymas: Pirminio ir perteklinio dumblo Klaipėdos nuotekų valykloje mažinimo priemonė. Preliminarus kiekis apie 
+4600 kg.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 24300000 Baziniai neorganiniai ir organiniai chemikalai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Klaipėdos vanduo (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: AB Klaipėdos vanduo (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 820 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Biotik
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090591
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 820 000 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33311
+Data, kurią buvo pasirinktas laimėtojas: 09/10/2025
+Sutarties sudarymo data: 14/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Klaipėdos vanduo (PV)
+Registracijos numeris: 140089260
+Pašto adresas: Ryšininkų g.11 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info@vanduo.lt
+Telefono numeris: 046220220
+Pirkėjo profilis: www.vanduo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Biotik
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306208139
+Pašto adresas: Panerių g. 38A 
+Miestas: Vilnius
+Pašto kodas: LT-03202
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@biotik.lt
+Telefono numeris: +37061113133
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7824347b-790d-420f-a5bc-b73359ffd15c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 17/10/2025 11:26 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

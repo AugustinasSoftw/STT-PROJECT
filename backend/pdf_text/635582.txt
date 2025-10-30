@@ -1,0 +1,143 @@
+Lietuva: Programinės įrangos priežiūros ir tvarkymo paslaugos
+Pagalbos tarnybos taikomosios programinės įrangos priežiūros ir palaikymo paslaugų 
+viešasis (seno CVP IS Nr. 745003)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pagalbos tarnybos taikomosios programinės įrangos priežiūros ir palaikymo paslaugų viešasis (seno 
+CVP IS Nr. 745003)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-30 paskelbto pirkimo Nr. 745003 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti 
+senoje CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Procedūros identifikatorius: 34c740d1-3e17-4c34-b85c-2d41e6dd2a73
+Ankstesnis skelbimas: 13854f44-fbe5-4564-9170-e4f2915bb456-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 198 347 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pagalbos tarnybos taikomosios programinės įrangos priežiūros ir palaikymo paslaugų viešasis (seno 
+CVP IS Nr. 745003)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-30 paskelbto pirkimo Nr. 745003 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti 
+senoje CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+5.1.5 Vertė
+Numatoma vertė be PVM: 198 347 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė mokesčių inspekcija prie Lietuvos 
+Respublikos finansų ministerijos
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 240 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Synergy Consulting
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000004496
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 1770
+Data, kurią buvo pasirinktas laimėtojas: 12/12/2024
+Sutarties sudarymo data: 17/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+Registracijos numeris: 188659752
+Pašto adresas: Vasario 16-osios g. 14 
+Miestas: Vilnius
+Pašto kodas: 01107
+Šalis: Lietuva
+E. paštas: Gintaras.Rusevicius@vmi.lt
+Telefono numeris: +37052687902
+Interneto adresas: www.vmi.lt
+Pirkėjo profilis: www.vmi.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Synergy Consulting
+Registracijos numeris: 300129699
+Pašto adresas: Laisvės pr. 78B - 221 
+Miestas: Vilnius
+Pašto kodas: 05263
+Šalis: Lietuva
+E. paštas: tyrunasj@synergy.eu
+Telefono numeris: +37065298200
+Interneto adresas: www.synergy.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: bfba9101-1e88-49ce-9db2-1d126b2e9cd7 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/12/2024 15:27 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

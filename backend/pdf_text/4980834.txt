@@ -1,0 +1,235 @@
+Lietuva: Serveriai
+Kompiuterinės infrastruktūros viešasis pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kompiuterinės infrastruktūros viešasis pirkimas
+Aprašymas: Kompiuterinės infrastruktūros - Objektinio tipo duomenų saugyklų ir joms skirtų dedikuotų tarnybinio 
+tinklo komutatorių bei vSphere Tarnybinių stočių telkinio skaičiavimo resursų plėtimui ir aukšto patikimumo 
+(replikuojamų ir atstatomų virtualių mašinų) telkinio suformavimui reikalingos įrangos pirkimas.
+Procedūros identifikatorius: ec6575d9-bb45-488f-9925-20a4925b97e2
+Ankstesnis skelbimas: 44e05b72-b80a-4cea-a118-dec87595d5cc-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 32580000 Duomenų įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Objektinio tipo duomenų saugyklos ir joms skirti dedikuoti tarnybinio tinklo komutatoriai
+Aprašymas: Kompiuterinės infrastruktūros - Objektinio tipo duomenų saugyklų ir joms skirtų dedikuotų tarnybinio 
+tinklo komutatorių bei vSphere Tarnybinių stočių telkinio skaičiavimo resursų plėtimui ir aukšto patikimumo 
+(replikuojamų ir atstatomų virtualių mašinų) telkinio suformavimui reikalingos įrangos pirkimas.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 32580000 Duomenų įranga
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė mokesčių inspekcija prie Lietuvos 
+Respublikos finansų ministerijos
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybinė mokesčių inspekcija prie Lietuvos 
+Respublikos finansų ministerijos
+Organizacija, atliekanti mokėjimus: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: vSphere Tarnybinių stočių telkinio skaičiavimo resursų plėtimas ir aukšto patikimumo (replikuojamų ir 
+atstatomų virtualių mašinų) telkinio suformavimui reikalinga įranga
+Aprašymas: Kompiuterinės infrastruktūros - Objektinio tipo duomenų saugyklų ir joms skirtų dedikuotų tarnybinio 
+tinklo komutatorių bei vSphere Tarnybinių stočių telkinio skaičiavimo resursų plėtimui ir aukšto patikimumo 
+(replikuojamų ir atstatomų virtualių mašinų) telkinio suformavimui reikalingos įrangos pirkimas.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 32580000 Duomenų įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė mokesčių inspekcija prie Lietuvos 
+Respublikos finansų ministerijos
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybinė mokesčių inspekcija prie Lietuvos 
+Respublikos finansų ministerijos
+Organizacija, atliekanti mokėjimus: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 645 780 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB EIT Sprendimai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090523
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 069 780 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33315
+Sutarties sudarymo data: 06/10/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-088-P-0004
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: NBCS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090258
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 576 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33316
+Sutarties sudarymo data: 03/10/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-088-P-0004
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+Registracijos numeris: 188659752
+Pašto adresas: Vasario 16-osios g. 14 
+Miestas: Vilnius
+Pašto kodas: 01107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Gintaras.Rusevicius@vmi.lt
+Telefono numeris: +37052687902
+Interneto adresas: www.vmi.lt
+Pirkėjo profilis: www.vmi.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB EIT Sprendimai
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 226107940
+Pašto adresas: J. Rutkausko g. 6 
+Miestas: Vilnius
+Pašto kodas: LT- 05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@eit.lt
+Telefono numeris: +37052688111
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: NBCS
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 301817848
+Pašto adresas: Šeškinės Sodų g. 12-54 
+Miestas: Vilnius
+Pašto kodas: 08343
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@nbcs.lt
+Telefono numeris: +37052764563
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 2a6dbc7e-2305-467d-bdef-e58f65617678 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/10/2025 17:24 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

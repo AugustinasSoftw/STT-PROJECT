@@ -1,0 +1,239 @@
+Lietuva: Asenizacijos mašinos
+Krovininis N2 klasės bortinis automobilis su keltuvu ir biotualetų aptarnavimo įranga įskaitant 
+techninį aptarnavimą
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB "Panevėžio specialus autotransportas"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Krovininis N2 klasės bortinis automobilis su keltuvu ir biotualetų aptarnavimo įranga įskaitant techninį 
+aptarnavimą
+Aprašymas: Krovininis N2 klasės bortinis automobilis su keltuvu ir biotualetų aptarnavimo įranga įskaitant techninį 
+aptarnavimą
+Procedūros identifikatorius: b1648ae1-6be4-48e4-859e-9bfd7565fe06
+Ankstesnis skelbimas: 71fd7944-2a70-4d74-bf23-02d919eb63e1-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144410 Asenizacijos mašinos
+2.1.2 Sutarties vykdymo vieta
+Miestas: panevėžys
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.2 Sutarties vykdymo vieta
+Miestas: Panevėžys
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: N2 klasės bortinis automobilis su keltuvu, įskaitant techninį aptarnavimą
+Aprašymas: Krovininis N2 klasės bortinis automobilis su keltuvu ir biotualetų aptarnavimo įranga įskaitant techninį 
+aptarnavimą
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144410 Asenizacijos mašinos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkamas Euro VI automobilis
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Prekės kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: prekės pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: techniniai parametrai
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB "Panevėžio specialus autotransportas"
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: AB "Panevėžio specialus autotransportas"
+Organizacija, iš kurios biudžeto mokama pagal sutartį: AB "Panevėžio specialus autotransportas"
+Organizacija, atliekanti mokėjimus: AB "Panevėžio specialus autotransportas"
+Organizacija, pasirašanti sutartį: AB "Panevėžio specialus autotransportas"
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Biotualetų aptarnavimo įranga
+Aprašymas: Krovininis N2 klasės bortinis automobilis su keltuvu ir biotualetų aptarnavimo įranga įskaitant techninį 
+aptarnavimą
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144410 Asenizacijos mašinos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: prekės kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: prekės pristatymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: techniniai parametrai
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB "Panevėžio specialus autotransportas"
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: AB "Panevėžio specialus autotransportas"
+Organizacija, atliekanti mokėjimus: AB "Panevėžio specialus autotransportas"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 84 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Alwark
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061458
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 55 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23811
+Sutarties sudarymo data: 27/06/2025
+Organizacija, pasirašanti sutartį: AB "Panevėžio specialus autotransportas"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: N2
+Netaršių transporto priemonių skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Alwark
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061458
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 29 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23812
+Sutarties sudarymo data: 27/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB "Panevėžio specialus autotransportas"
+Registracijos numeris: 247025610
+Pašto adresas: Pilėnų g. 43 
+Miestas: Panevėžys
+Pašto kodas: 36237
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: pirkimai@psa.lt
+Telefono numeris: +37065722779
+Interneto adresas: www.psa.lt
+Pirkėjo profilis: www.psa.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Alwark
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300638080
+Pašto adresas: Elektros g. 9, Panevėžys 
+Miestas: Vilnius
+Pašto kodas: 02244
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: ieva.janonyte@alwark.lt
+Telefono numeris: +37061440630
+Interneto adresas: www.alwark.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7658560f-16e9-4e91-907a-85ae9ca1a6c3 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/07/2025 15:13 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

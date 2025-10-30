@@ -1,0 +1,243 @@
+Lietuva: Tinklo infrastruktūra
+Tinklo komponentai, infrastruktūra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UŽIMTUMO TARNYBA PRIE LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR 
+DARBO MINISTERIJOS
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Tinklo komponentai, infrastruktūra
+Aprašymas: Perkami tinklo komutatoriai 24 ir 12 portų.
+Procedūros identifikatorius: ad182912-4889-4aef-b3be-f813202f797b
+Ankstesnis skelbimas: 432617ba-4d70-4f83-a3b9-411e29b31dd6-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32424000 Tinklo infrastruktūra
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 91 500 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 24 portų prieigos komutatorius su programine įranga
+Aprašymas: Perkami tinklo komutatoriai 24 ir 12 portų.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32424000 Tinklo infrastruktūra
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 82 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: papildoma garantija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UŽIMTUMO TARNYBA PRIE LIETUVOS 
+RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTERIJOS -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UŽIMTUMO TARNYBA PRIE LIETUVOS 
+RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTERIJOS -
+Organizacija, iš kurios biudžeto mokama pagal sutartį: UŽIMTUMO TARNYBA PRIE LIETUVOS RESPUBLIKOS 
+SOCIALINĖS APSAUGOS IR DARBO MINISTERIJOS
+Organizacija, atliekanti mokėjimus: UŽIMTUMO TARNYBA PRIE LIETUVOS RESPUBLIKOS SOCIALINĖS 
+APSAUGOS IR DARBO MINISTERIJOS
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 12 portų prieigos komutatorius su programine įranga
+Aprašymas: Perkami tinklo komutatoriai 24 ir 12 portų.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32424000 Tinklo infrastruktūra
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 9 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: laisvai pasirenkami kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: papildomas garantijos terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UŽIMTUMO TARNYBA PRIE LIETUVOS 
+RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTERIJOS -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UŽIMTUMO TARNYBA PRIE LIETUVOS 
+RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTERIJOS -
+Organizacija, atliekanti mokėjimus: UŽIMTUMO TARNYBA PRIE LIETUVOS RESPUBLIKOS SOCIALINĖS 
+APSAUGOS IR DARBO MINISTERIJOS
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 89 400 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Fortevento
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000050334
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 80 850 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 20941
+Data, kurią buvo pasirinktas laimėtojas: 09/05/2025
+Sutarties sudarymo data: 26/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 80 850 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 82 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Fortevento
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000050334
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 8 550 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 20942
+Data, kurią buvo pasirinktas laimėtojas: 09/05/2025
+Sutarties sudarymo data: 26/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UŽIMTUMO TARNYBA PRIE LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR 
+DARBO MINISTERIJOS
+Registracijos numeris: 190766619
+Pašto adresas: Vilniaus g. 21, Alytus 
+Miestas: Alytus
+Pašto kodas: LT-62112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: arvydas.kankevicius@uzt.lt
+Telefono numeris: +37064573723
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Fortevento
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302327313
+Pašto adresas: Lvivo g. 105A 
+Miestas: Vilnius
+Pašto kodas: 08104
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: patricija.kasperovic@fortevento.lt
+Telefono numeris: +37067952619
+Interneto adresas: www.fortevento.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: fe01ae2e-bce1-4f8e-91df-84862c4a4d63 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/06/2025 16:45 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

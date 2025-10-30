@@ -1,0 +1,147 @@
+Lietuva: Programavimo paslaugos, susijusios su sistemomis ir vartotojo programine įranga
+Pasiekimų patikrinimų užduočių skaitmeninimo, koregavimo ir parengimo elektroniniam 
+testavimui paslaugos (Supaprastintas atviras konkursas) senoje sistemoje suteiktą pirkimo 
+numerį Nr. 748206
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pasiekimų patikrinimų užduočių skaitmeninimo, koregavimo ir parengimo elektroniniam testavimui 
+paslaugos (Supaprastintas atviras konkursas) senoje sistemoje suteiktą pirkimo numerį Nr. 748206
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-26 paskelbto pirkimo Nr. 748206 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: . Šioje sistemoje bus skelbiami 
+tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Procedūros identifikatorius: fff62873-3a9c-4bb5-852a-ac02091e1a20
+Ankstesnis skelbimas: a211c025-bd89-4bb7-9cd0-6266fa4d3d7e-01
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72211000 Programavimo paslaugos, susijusios su sistemomis ir vartotojo 
+programine įranga
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 79 800 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pasiekimų patikrinimų užduočių skaitmeninimo, koregavimo ir parengimo elektroniniam testavimui 
+paslaugos (Supaprastintas atviras konkursas) senoje sistemoje suteiktą pirkimo numerį Nr. 748206
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-26 paskelbto pirkimo Nr. 748206 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: . Šioje sistemoje bus skelbiami 
+tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72211000 Programavimo paslaugos, susijusios su sistemomis ir vartotojo 
+programine įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 79 800 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 96 550 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Karolis Trakas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000006005
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 96 550 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 5797
+Sutarties sudarymo data: 17/12/2024
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Registracijos numeris: 305238040
+Pašto adresas: K. Kalinausko g. 7 
+Miestas: Vilnius
+Pašto kodas: LT-03107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: jurgita.nainiene@nsa.smm.lt
+Telefono numeris: 065818131
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Karolis Trakas
+Registracijos numeris: 1185896
+Pašto adresas: architektų g. 67-9 
+Miestas: Vilnius
+Pašto kodas: 04217
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: karolis.trakas@gmail.com
+Telefono numeris: +37064318178
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: ce9f7371-45dc-4c41-87dd-8d356424ad8a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 10/04/2025 11:33 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

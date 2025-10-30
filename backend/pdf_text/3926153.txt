@@ -1,0 +1,227 @@
+Lietuva: Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+(2024-GSC-579) Duomenų perdavimo įrenginiai (I pirkimo dalis)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (2024-GSC-579) Duomenų perdavimo įrenginiai (I pirkimo dalis)
+Aprašymas: Ataskaita teikiama už I pirkimo dalį.
+Procedūros identifikatorius: 11815d5b-4fc0-4719-82e3-ab7f5433944c
+Vidaus identifikatorius: 1
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32000000 Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 3 000 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (2024-GSC-579) Duomenų perdavimo įrenginiai (I pirkimo dalis)
+Aprašymas: (2024-GSC-579) Duomenų perdavimo įrenginiai (I pirkimo dalis - Duomenų perdavimo tinklo įranga).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32000000 Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 31/07/2025
+Galiojimas: 48 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 3 000 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina 94 balai
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 94
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Prekių garantinio laikotarpio metu sugedusių Prekių, jų modulių ir dalių pakeitimo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjas turi patvirtintą etikos (elgesio) kodeksą, kuriame nustatytos elgesio normos, orientuotos į 
+socialinės gerovės skatinimą bent trijose iš nurodytų socialinių sričių: darbo sąlygos, darbuotojų sauga ir sveikata, 
+darbuotojų teisės, žmogaus teisės, verslo etika ir valdysena, korupcijos prevencija.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, skelbiant naują konkursą
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Teisės aktų nustatyta tvarka
+6 Rezultatai
+Didžiausioji šios skelbimo preliminariųjų sutarčių vertė: 3 000 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties didžiausia vertė: 3 000 000 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Santa Monica Networks“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 403 600 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 3
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-211-25
+Data, kurią buvo pasirinktas laimėtojas: 09/05/2025
+Sutarties sudarymo data: 31/07/2025
+Laimėtojas:
+Oficialus pavadinimas: WhiteBit, UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 412 122,6 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-211-25
+Data, kurią buvo pasirinktas laimėtojas: 09/05/2025
+Sutarties sudarymo data: 31/07/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB „EIT sprendimai“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 413 945 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 2
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-211-25
+Data, kurią buvo pasirinktas laimėtojas: 09/05/2025
+Sutarties sudarymo data: 31/07/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB „Atea“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 524 230 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 4
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-211-25
+Data, kurią buvo pasirinktas laimėtojas: 09/05/2025
+Sutarties sudarymo data: 31/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 6
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Registracijos numeris: 303200016
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zivile.kasparaviciene@ignitis.lt
+Telefono numeris: +37069836092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Santa Monica Networks“
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 134162647
+Miestas: Vilnius
+Pašto kodas: 09313
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: WhiteBit, UAB
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 304522397
+Miestas: Vilnius
+Pašto kodas: 09236
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: UAB „EIT sprendimai“
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 226107940
+Miestas: Vilnius
+Pašto kodas: 05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0007
+Oficialus pavadinimas: UAB „Atea“
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 122588443
+Miestas: Vilnius
+Pašto kodas: 05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c6f52915-68b1-494b-a172-621eb8843f7e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 01/08/2025 14:11 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

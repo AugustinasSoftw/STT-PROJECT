@@ -1,0 +1,155 @@
+Lietuva: Bitumas
+2 kvietimas - Konkretus pirkimas „Kelių bitumas asfalto gamyklai“ pagal DPS „(PU-12384/24) 
+Kelių bitumas“ (seno CVP IS Nr. 726113)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 2 kvietimas - Konkretus pirkimas „Kelių bitumas asfalto gamyklai“ pagal DPS „(PU-12384/24) Kelių 
+bitumas“ (seno CVP IS Nr. 726113)
+Aprašymas: Kelių bitumas asfalto gamyklai
+Procedūros identifikatorius: 37abfcea-c031-4d6c-913c-2b01766dd19e
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44113610 Bitumas
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 2 kvietimas - Konkretus pirkimas „Kelių bitumas asfalto gamyklai“ pagal DPS „(PU-12384/24) Kelių 
+bitumas“ (seno CVP IS Nr. 726113)
+Aprašymas: Kelių bitumas asfalto gamyklai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44113610 Bitumas
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 2 500 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žiūrėti pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žiūrėti pirkimo dokumentuose
+Kategorija skyrimo kriterijaus fiksuota vertė: Mažiausias balų skaičius
+Skyrimo kriterijus: skaičius: 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Žiūrėti pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Žiūrėti pirkimo dokumentuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 2 500 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Akcinė bendrovė ORLEN Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000020783
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 461 450 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4794
+Sutarties sudarymo data: 18/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Registracijos numeris: 232112130
+Pašto adresas: Savanorių pr. 321C 
+Miestas: Kaunas
+Pašto kodas: 50120
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: pirkimai@keliuprieziura.lt
+Telefono numeris: +37037202293
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Akcinė bendrovė ORLEN Lietuva
+Registracijos numeris: 166451720
+Pašto adresas: Mažeikių g. 75, Juodeikių k., LT-89453 Mažeikių r 
+Miestas: Mažeikiai
+Pašto kodas: LT-89453
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: vidmantas.ciegis@orlenlietuva.lt
+Telefono numeris: +37044392146
+Interneto adresas: www.orlenlietuva.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: Kaunas.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8de27af3-4e8a-498c-b8ec-1daced40e9e0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/02/2025 08:13 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

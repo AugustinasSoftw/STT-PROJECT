@@ -1,0 +1,155 @@
+Lietuva: Centralizuotas šilumos tiekimas
+741851 Centralizuotos šilumos pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 741851 Centralizuotos šilumos pirkimas
+Aprašymas: Kauno miesto savivaldybės administracija, įgyvendindama Kauno miesto savivaldybės tarybos 2022 
+m. gegužės 24 d. sprendimu Nr. T-254 „Dėl teisės atlikti centrinės perkančiosios organizacijos funkcijas suteikimo 
+Kauno miesto savivaldybės administracijai“ jai suteiktas teises atlikti Centrinės perkančiosios organizacijos funkcijas, 
+vykdydama viešąjį pirkimą, numato sudaryti preliminariąją elektros pirkimo sutartį, kurios pagrindu Kauno miesto 
+savivaldybės kontroliuojamos įmonės, viešosios įstaigos, biudžetinės įstaigos (kurių savininkė ar dalininkė yra Kauno 
+miesto savivaldybė) sudarys pagrindines sutartis dėl šilumos pirkimo.
+Procedūros identifikatorius: f165b028-346e-4fa2-9d68-63895aa01845
+Ankstesnis skelbimas: 718516-2024
+Vidaus identifikatorius: 741851
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Centralizuotos šilumos pirkimas
+Aprašymas: Kauno miesto savivaldybės administracija, įgyvendindama Kauno miesto savivaldybės tarybos 2022 
+m. gegužės 24 d. sprendimu Nr. T-254 „Dėl teisės atlikti centrinės perkančiosios organizacijos funkcijas suteikimo 
+Kauno miesto savivaldybės administracijai“ jai suteiktas teises atlikti Centrinės perkančiosios organizacijos funkcijas, 
+vykdydama viešąjį pirkimą, numato sudaryti preliminariąją šilumos pirkimo sutartį, kurios pagrindu Kauno miesto 
+savivaldybės kontroliuojamos įmonės, viešosios įstaigos, biudžetinės įstaigos (kurių savininkė ar dalininkė yra Kauno 
+miesto savivaldybė) sudarys pagrindines sutartis dėl šilumos pirkimo.
+Vidaus identifikatorius: 741851
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Tiekėjo įsipareigojimas tiekti šilumą, pagamintą iš atsinaujinančių energijos išteklių
+Aprašymas: Tiekėjo įsipareigojimas tiekti šilumą, pagamintą iš atsinaujinančių energijos išteklių
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 26 204 349,92 Euro
+Preliminariųjų sutarčių apytikslė vertė: 26 204 349,92 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Prekę tiekti gali tik šis vienintelis tiekėjas todėl, kad nėra konkurencijos, t. y. Kauno mieste 
+yra tik vienintelis centralizuotos šilumos tiekėjas, turintis išimtines teises tiekti tokią prekę, todėl pirkimas, 
+vadovaujantis LR viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2 punkto c papunkčiu, atliekamas neskelbiamų 
+derybų būdu, nes prekę gali tiekti tik konkretus tiekėjas dėl išimtinių teisių.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Akcinė bendrovė „Kauno energija“
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SR-687
+Data, kurią buvo pasirinktas laimėtojas: 22/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: taip
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Akcinė bendrovė „Kauno energija“
+Registracijos numeris: 235014830
+Pašto adresas: Raudondvario pl. 84 
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: a.sisiene@kaunoenergija.lt
+Telefono numeris: +370 68750437
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: a66c2a3c-221b-4725-a471-4a5098dca0c5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/12/2024 16:03 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

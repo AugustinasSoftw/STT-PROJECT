@@ -1,0 +1,157 @@
+Lietuva: Apsaugos programinės įrangos paketai
+Ugniasienių licencijos atnaujinimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Lietuvos nacionalinis radijas ir televizija (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Ugniasienių licencijos atnaujinimas
+Aprašymas: Perkančioji organizacija siekia įsigyti du vienetus (2 vnt.) Check Point Next Generation Threat Prevention 
+Package (NGTP) paketo licencijas su 36 mėn. naujumo garantija, saugumo prenumeratomis ir techniniu palaikymu 
+(I-ma pirkimo alternatyva) arba lygiavertę įrangą su 36 mėn. techniniu palaikymu ir saugumo prenumeratomis 
+(II-a pirkimo alternatyva). Jei bus siūlomos Check Point Licencijos, jos turi būti suderinamos su organizacijos 
+naudojamomis Check Point 16200 ugniasienėmis. Jei Tiekėjas negali pasiūlyti Check Point saugumo prenumeratų ir 
+palaikymo licencijų, jis gali siūlyti alternatyvią techninę ir programinę įrangą pagal šios specifikacijos II alternatyvoje 
+aprašytus reikalavimus su 36 mėn. saugumo prenumeratomis ir techniniu palaikymu.
+Procedūros identifikatorius: ba5934f4-f47b-40ce-811a-78efa1d5cdc3
+Ankstesnis skelbimas: a5aeb67e-97d9-4c53-b3ee-e98777bc30a1-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48730000 Apsaugos programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 2 kategorija „Kompiuterių tinklo ugniasienės“
+Aprašymas: Perkančioji organizacija siekia įsigyti du vienetus (2 vnt.) Check Point Next Generation Threat Prevention 
+Package (NGTP) paketo licencijas su 36 mėn. naujumo garantija, saugumo prenumeratomis ir techniniu palaikymu 
+(I-ma pirkimo alternatyva) arba lygiavertę įrangą su 36 mėn. techniniu palaikymu ir saugumo prenumeratomis 
+(II-a pirkimo alternatyva). Jei bus siūlomos Check Point Licencijos, jos turi būti suderinamos su organizacijos 
+naudojamomis Check Point 16200 ugniasienėmis. Jei Tiekėjas negali pasiūlyti Check Point saugumo prenumeratų ir 
+palaikymo licencijų, jis gali siūlyti alternatyvią techninę ir programinę įrangą pagal šios specifikacijos II alternatyvoje 
+aprašytus reikalavimus su 36 mėn. saugumo prenumeratomis ir techniniu palaikymu.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48730000 Apsaugos programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliktas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausios kainos kriterijus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Lietuvos nacionalinis radijas ir televizija (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Lietuvos nacionalinis radijas ir televizija 
+(PV)
+Organizacija, atliekanti mokėjimus: VšĮ Lietuvos nacionalinis radijas ir televizija (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 88 195,54 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: WhiteBit
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000096793
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 88 195,54 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34394
+Data, kurią buvo pasirinktas laimėtojas: 09/10/2025
+Sutarties sudarymo data: 13/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Lietuvos nacionalinis radijas ir televizija (PV)
+Registracijos numeris: 124241078
+Pašto adresas: S. Konarskio g. 49, LT-03123 Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-03123
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marius.dickus@lrt.lt
+Telefono numeris: 867445477
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: WhiteBit
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304522397
+Pašto adresas: Šeimyniškių g. 19 
+Miestas: Vilnius
+Pašto kodas: 09236
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@whitebit.lt
+Telefono numeris: +370 5 250 1177
+Interneto adresas: www.whitebit.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ce03c0b3-8546-408f-9e36-32efcad275a3 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 26/10/2025 23:19 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,213 @@
+Lietuva: Inžinerijos paslaugos
+Paprastojo ir kapitalinio remonto aprašų parengimo paslaugų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šilalės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Paprastojo ir kapitalinio remonto aprašų parengimo paslaugų pirkimas
+Aprašymas: Numatoma įsigyti paprastojo ir kapitalinio remonto aprašų parengimo paslaugas. Perkama paslauga 
+skirstoma į tris dalis.
+Procedūros identifikatorius: ccdfd939-9a64-4a5e-84f0-cbc6171500e9
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71300000 Inžinerijos paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: VISUOMENĖS (MOKSLO) PASKIRTIES PASTATO, ŠILALĖS G. 37, KVĖDARNA, ŠILALĖS R. SAV., 
+KAPITALINIO REMONTO PROJEKTO PIRKIMAS
+Aprašymas: Numatoma įsigyti paprastojo ir kapitalinio remonto aprašų parengimo paslaugas. Perkama paslauga 
+skirstoma į tris dalis.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71300000 Inžinerijos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Poveikio aplinkai mažinimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: aprašymas pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilalės rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šilalės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Šilalės rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: VŠĮ ŠILALĖS RAJONO SAVIVALDYBĖS SVEIKATOS CENTRO LAUKUVOS PADALINIO PASTATO, 
+ŠILALĖS G. 29, LAUKUVA, ŠILALĖS R. SAV., PAPRASTOJO REMONTO DARBŲ APRAŠO PIRKIMAS
+Aprašymas: Numatoma įsigyti paprastojo ir kapitalinio remonto aprašų parengimo paslaugas. Perkama paslauga 
+skirstoma į tris dalis.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71300000 Inžinerijos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Poveikio aplinkai mažinimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: aprašymas pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilalės rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šilalės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Šilalės rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: VŠĮ ŠILALĖS RAJONO SAVIVALDYBĖS SVEIKATOS CENTRO PASTATO, VYTAUTO DIDŽIOJO G. 
+19, ŠILALĖ, TREČIO AUKŠTO PATALPOSE ESANČIO „DIENOS STACIONARO“ PAPRASTOJO REMONTO DARBŲ 
+APRAŠO PIRKIMAS
+Aprašymas: Numatoma įsigyti paprastojo ir kapitalinio remonto aprašų parengimo paslaugas. Perkama paslauga 
+skirstoma į tris dalis.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71300000 Inžinerijos paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Poveikio aplinkai mažinimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: aprašymas pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilalės rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šilalės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Šilalės rajono savivaldybės administracija
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šilalės rajono savivaldybės administracija
+Registracijos numeris: 188773720
+Pašto adresas: J. Basanavičiaus g. 2-1 
+Miestas: Šilalė
+Pašto kodas: 75138
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: raimonda.bruziene@silale.lt
+Telefono numeris: 044945337
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 6c4967f0-bf5b-47a3-a143-135a5268a4f9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/08/2025 14:24 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

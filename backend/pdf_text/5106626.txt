@@ -1,0 +1,453 @@
+Lietuva: Sistemiškai veikiantys priešvirusiniai vaistai
+581115 DPS "Vaistiniai preparatai", konkretus pirkimas "Vaistiniai preparatai" (pirkimo 
+numeris 541367)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 581115 DPS "Vaistiniai preparatai", konkretus pirkimas "Vaistiniai preparatai" (pirkimo numeris 541367)
+Aprašymas: Konkretus pirkimas "Vaistiniai preparatai" (pirkimo numeris 541367), atliekamas sukurtos dinaminės 
+pirkimo sistemos "Vaistiniai preparatai" (pirkimo numeris 581115) pagrindu.
+Procedūros identifikatorius: e36a4079-8e31-4f92-9043-c868e6bd1c79
+Ankstesnis skelbimas: 004329-2022
+Vidaus identifikatorius: 581115
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33651400 Sistemiškai veikiantys priešvirusiniai vaistai
+Kiti klasifikacijos kodai (cpv): 33614000 Antidiarėjiniai vaistai, vaistai žarnyno infekcinėms ir uždegiminėms ligoms 
+gydyti
+Kiti klasifikacijos kodai (cpv): 33615100 Insulinas
+Kiti klasifikacijos kodai (cpv): 33616000 Vitaminai
+Kiti klasifikacijos kodai (cpv): 33621300 Antianeminiai preparatai
+Kiti klasifikacijos kodai (cpv): 33621200 Antihemoraginiai vaistai
+Kiti klasifikacijos kodai (cpv): 33621400 Plazmos pakaitalai ir infuziniai tirpalai
+Kiti klasifikacijos kodai (cpv): 33631400 Antibiotikai ir chemoterapiniai vaistai odos ligoms gydyti
+Kiti klasifikacijos kodai (cpv): 33622200 Kraujospūdį mažinantys vaistai
+Kiti klasifikacijos kodai (cpv): 33622700 Kalcio kanalų blokatoriai
+Kiti klasifikacijos kodai (cpv): 33631600 Antiseptikai ir dezinfekuojančiosios medžiagos
+Kiti klasifikacijos kodai (cpv): 33640000 Urogenitalinę sistemą veikiantys vaistai ir hormonai
+Kiti klasifikacijos kodai (cpv): 33642200 Sistemiškai veikiantys kortikosteroidai
+Kiti klasifikacijos kodai (cpv): 33642000 Sistemiškai veikiantys hormonų preparatai, išskyrus lytinius hormonus
+Kiti klasifikacijos kodai (cpv): 33651510 Imuniniai serumai
+Kiti klasifikacijos kodai (cpv): 33651100 Sistemiškai veikiantys antibakteriniai vaistai
+Kiti klasifikacijos kodai (cpv): 33661200 Analgetikai
+Kiti klasifikacijos kodai (cpv): 33652300 Imunosupresantai
+Kiti klasifikacijos kodai (cpv): 33652100 Antinavikiniai vaistai
+Kiti klasifikacijos kodai (cpv): 33661300 Antiepilepsiniai vaistai
+Kiti klasifikacijos kodai (cpv): 33661700 Kiti nervų sistemą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33691000 Antiparazitiniai vaistai, insekticidai ir repelentai
+Kiti klasifikacijos kodai (cpv): 33693000 Kiti gydomieji produktai
+Kiti klasifikacijos kodai (cpv): 33691100 Antiprotozojiniai vaistai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos, Eivenių g. 2, LT-50161 Kaunas
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vaistiniai preparatai
+Aprašymas: Konkretus pirkimas "Vaistiniai preparatai" (pirkimo numeris 541367), atliekamas sukurtos dinaminės 
+pirkimo sistemos "Vaistiniai preparatai" (pirkimo numeris 581115) pagrindu.
+Vidaus identifikatorius: 541367
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33651400 Sistemiškai veikiantys priešvirusiniai vaistai
+Kiti klasifikacijos kodai (cpv): 33614000 Antidiarėjiniai vaistai, vaistai žarnyno infekcinėms ir uždegiminėms ligoms 
+gydyti
+Kiti klasifikacijos kodai (cpv): 33616000 Vitaminai
+Kiti klasifikacijos kodai (cpv): 33621200 Antihemoraginiai vaistai
+Kiti klasifikacijos kodai (cpv): 33631400 Antibiotikai ir chemoterapiniai vaistai odos ligoms gydyti
+Kiti klasifikacijos kodai (cpv): 33622200 Kraujospūdį mažinantys vaistai
+Kiti klasifikacijos kodai (cpv): 33622700 Kalcio kanalų blokatoriai
+Kiti klasifikacijos kodai (cpv): 33642200 Sistemiškai veikiantys kortikosteroidai
+Kiti klasifikacijos kodai (cpv): 33642000 Sistemiškai veikiantys hormonų preparatai, išskyrus lytinius hormonus
+Kiti klasifikacijos kodai (cpv): 33651510 Imuniniai serumai
+Kiti klasifikacijos kodai (cpv): 33651100 Sistemiškai veikiantys antibakteriniai vaistai
+Kiti klasifikacijos kodai (cpv): 33661200 Analgetikai
+Kiti klasifikacijos kodai (cpv): 33652100 Antinavikiniai vaistai
+Kiti klasifikacijos kodai (cpv): 33661300 Antiepilepsiniai vaistai
+Kiti klasifikacijos kodai (cpv): 33661700 Kiti nervų sistemą veikiantys vaistai
+Kiti klasifikacijos kodai (cpv): 33693000 Kiti gydomieji produktai
+Kiti klasifikacijos kodai (cpv): 33691100 Antiprotozojiniai vaistai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos, Eivenių g. 2, LT-50161 Kaunas
+5.1.3 Numatomas galiojimas
+Galiojimas: 12 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai vertinami pagal mažiausios kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos sveikatos mokslų universiteto ligoninė 
+Kauno klinikos (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 53 492,46 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 117 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_1
+Sutarties sudarymo data: 26/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 896 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_2
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 598 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_3
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 464 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_4
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P5
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 99,2 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_5
+Sutarties sudarymo data: 26/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P6
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 729 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_6
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P7
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 870 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_7
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P8
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 082,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_8
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P9
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 4 158 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_9
+Sutarties sudarymo data: 26/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Litfarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P10
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 19 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0480_10
+Sutarties sudarymo data: 10/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P11
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_11
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P12
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 5 800 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_12
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P13
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 351 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_13
+Sutarties sudarymo data: 26/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P14
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 250 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_14
+Sutarties sudarymo data: 26/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P15
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 142 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_15
+Sutarties sudarymo data: 26/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P16
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 688,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_16
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P17
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 84 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_17
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P18
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 990 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_18
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P19
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 306,56 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_19
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P20
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 477,7 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_20
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P21
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 225 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_21
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Lex ano
+Pasiūlymas:
+Pasiūlymo identifikatorius: P22
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 600 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0521_22
+Sutarties sudarymo data: 13/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P23
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 592 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_23
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Entafarma
+Pasiūlymas:
+Pasiūlymo identifikatorius: P24
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 372 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0674_24
+Sutarties sudarymo data: 25/02/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: P25
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 600 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT-25-0681_25
+Sutarties sudarymo data: 26/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos (PV)
+Registracijos numeris: 135163499
+Pašto adresas: Eivenių g. 2 
+Miestas: Kaunas
+Pašto kodas: 50161
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: asta.naujokaitiene@kaunoklinikos.lt
+Telefono numeris: +370 37326124
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Armila
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123813957
+Miestas: Vilnius
+Pašto kodas: 14259
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Lex ano
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300153209
+Miestas: Vilnius
+Pašto kodas: 03231
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Entafarma
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 174443844
+Miestas: Klonėnų vs. 1, Širvintų r.
+Pašto kodas: 19156
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0007
+Oficialus pavadinimas: UAB Litfarma
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 133943714
+Miestas: Vilnius
+Pašto kodas: 08420
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 89c0a76e-f26c-41ae-a503-d26526b6f3b7 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/10/2025 15:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

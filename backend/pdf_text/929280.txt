@@ -1,0 +1,139 @@
+Lietuva: Atliekų rinkimo transporto priemonės
+Pirkimo Nr. 409724. Šiukšliavežės automobilis
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: SĮ "Kompata"
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama vietos valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pirkimo Nr. 409724. Šiukšliavežės automobilis
+Aprašymas: Pirkimas perkeliamas iš senosios CVP IS. Pirkimo Nr. 409724.
+Procedūros identifikatorius: 54d48d48-f533-45a7-9058-d437e4d16a21
+Ankstesnis skelbimas: e139f872-b052-46b9-ad0e-793cc30ef887-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144511 Atliekų rinkimo transporto priemonės
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pirkimo Nr. 409724. Šiukšliavežės automobilis
+Aprašymas: Pirkimas perkeliamas iš senosios CVP IS. Pirkimo Nr. 409724.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144511 Atliekų rinkimo transporto priemonės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: 30127
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: SĮ "Kompata"
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: SĮ "Kompata"
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 269 800 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Alwark
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000002884
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 3066
+Sutarties sudarymo data: 27/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: SĮ "Kompata"
+Registracijos numeris: 155402647
+Pašto adresas: Ažušilės g. 20 
+Miestas: Ignalina
+Pašto kodas: 30127
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: viesiejipirkimai@kompata.lt
+Telefono numeris: +37062948158
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Alwark
+Registracijos numeris: 300638080
+Pašto adresas: Kirtimų g. 47B, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 02244
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ieva.janonyte@alwark.lt
+Telefono numeris: +37061440630
+Interneto adresas: www.alwark.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8621a1b4-e09b-4010-b44c-92c9b21bd657 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/01/2025 16:10 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

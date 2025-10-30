@@ -1,0 +1,130 @@
+Lietuva: Keleivinių transporto priemonių nuoma su vairuotoju
+Pirkimo Nr. 708868 Pildomas skelbimas apie sutartį pirkimui iš seno CVP IS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Greitosios medicinos pagalbos tarnyba (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pirkimo Nr. 708868 Pildomas skelbimas apie sutartį pirkimui iš seno CVP IS
+Aprašymas: Skelbimas pildomas dėl 57 pirkimo dalies
+Procedūros identifikatorius: a50a2136-6596-4ab7-accc-02043056b9f4
+Ankstesnis skelbimas: 98710-2024
+Vidaus identifikatorius: 708868
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 60170000 Keleivinių transporto priemonių nuoma su vairuotoju
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 300 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pirkimo Nr. 708868 Pildomas skelbimas apie sutartį pirkimui iš seno CVP IS
+Aprašymas: 57 pirkimo dalis
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 60170000 Keleivinių transporto priemonių nuoma su vairuotoju
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos aplinkos 
+ministro 2022 m. gruodžio 13 d. įsakymu Nr. D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 
+28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos 
+kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos 
+ir perkantieji subjektai turi taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ 
+pakeitimo“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Greitosios medicinos pagalbos tarnyba (PV) -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Peržiūros institucijos arba kitos teisminės institucijos sprendimas
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 6
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Greitosios medicinos pagalbos tarnyba (PV)
+Registracijos numeris: 235042580
+Pašto adresas: Pramonės pr. 33, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 51271
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@greitojipagalba.lt
+Telefono numeris: +37037408679
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f79a3ed5-acae-427f-867a-4c8e05788beb - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/06/2025 16:24 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

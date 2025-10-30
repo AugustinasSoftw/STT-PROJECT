@@ -1,0 +1,149 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Negyvenamosios paskirties pastatų ir inžinerinių statinių J. Kairiūkščio g. 14, Vilniuje statybos 
+projektas taikant statinio informacinį modeliavimą (BIM)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Infrastruktūros valdymo agentūra
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Negyvenamosios paskirties pastatų ir inžinerinių statinių J. Kairiūkščio g. 14, Vilniuje statybos projektas 
+taikant statinio informacinį modeliavimą (BIM)
+Aprašymas: Perkančioji organizacija vykdydama šį viešąjį pirkimą numato įsigyti Specialiosios paskirties pastatų ir 
+inžinerinių statinių J. Kairiūkščio g. 14, Vilniuje, projektinių pasiūlymų, taikant statinio informacinį modeliavimą (BIM), 
+bei techninės užduoties parengimo paslaugą.
+Procedūros identifikatorius: 11bcee76-142c-4f42-a35a-5c76e46fc397
+Ankstesnis skelbimas: 290b14ec-5fbd-4b59-bcfc-3a1acba2b759-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Negyvenamosios paskirties pastatų ir inžinerinių statinių J. Kairiūkščio g. 14, Vilniuje statybos projektas 
+taikant statinio informacinį modeliavimą (BIM)
+Aprašymas: Perkančioji organizacija vykdydama šį viešąjį pirkimą numato įsigyti Specialiosios paskirties pastatų ir 
+inžinerinių statinių J. Kairiūkščio g. 14, Vilniuje, projektinių pasiūlymų, taikant statinio informacinį modeliavimą (BIM), 
+bei techninės užduoties parengimo paslaugą.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. pirkimo dokumentuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Infrastruktūros valdymo agentūra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 141 570 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: IN ace
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087284
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 141 570 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34667
+Data, kurią buvo pasirinktas laimėtojas: 15/09/2025
+Sutarties sudarymo data: 30/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Infrastruktūros valdymo agentūra
+Registracijos numeris: 188743887
+Pašto adresas: Giedraičių g. 41-101 
+Miestas: Vilnius
+Pašto kodas: LT-09303
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ovidijus.ruskys@kam.lt
+Telefono numeris: +370 706 84 411
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: IN ace
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 300935637
+Pašto adresas: Ukmergės g. 126 
+Miestas: Vilnius
+Pašto kodas: 08100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@inace.lt
+Telefono numeris: +37060061119
+Interneto adresas: www.inace.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 9cdc5903-0556-4259-92a2-5496a84ee650 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/10/2025 15:23 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

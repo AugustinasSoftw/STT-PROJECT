@@ -1,0 +1,128 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Vasario 16-osios g. II etapo rekonstrukcijos projekto korekcija (C laida) (Neskelbiamos 
+derybos)
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Jonavos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vasario 16-osios g. II etapo rekonstrukcijos projekto korekcija (C laida) (Neskelbiamos derybos)
+Aprašymas: Pirkimo objektas - Vasario 16-osios g. II etapo rekonstrukcijos projekto korekcija (C laida) (toliau - 
+Paslaugos). Pirkimo objektas į dalis neskaidomas. Pirkimo apimtys, reikalavimai ir techninė specifikacija apibrėžti 
+specialiųjų pirkimo sąlygų 2 priede. Pirkimo objektas neskaidomas į dalis, nes perkamos vienos rūšies paslaugos, 
+kurios tarpusavyje yra glaudžiai susijusios, o galutinis rezultatas yra vieningas ir nedalus. Tiekėjai privalo siūlyti visą 
+perkamų paslaugų apimtį.
+Procedūros identifikatorius: 4ece3594-5167-4f4f-8f2b-51593e67bd57
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vasario 16-osios g. II etapo rekonstrukcijos projekto korekcija (C laida) (Neskelbiamos derybos)
+Aprašymas: Pirkimo objektas - Vasario 16-osios g. II etapo rekonstrukcijos projekto korekcija (C laida) (toliau - 
+Paslaugos). Pirkimo objektas į dalis neskaidomas. Pirkimo apimtys, reikalavimai ir techninė specifikacija apibrėžti 
+specialiųjų pirkimo sąlygų 2 priede. Pirkimo objektas neskaidomas į dalis, nes perkamos vienos rūšies paslaugos, 
+kurios tarpusavyje yra glaudžiai susijusios, o galutinis rezultatas yra vieningas ir nedalus. Tiekėjai privalo siūlyti visą 
+perkamų paslaugų apimtį.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Numatytas kaip Sutarties vykdymo sąlyga.
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Jonavos rajono savivaldybės administracija -
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Pirkimo objektas neskaidomas į atskiras pirkimo objekto dalis, nes perkamas nedalus objektas, 
+t.y. vieno konkretaus techninio projekto korekcija.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Sweco Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000031039
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 5749
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Jonavos rajono savivaldybės administracija
+Registracijos numeris: 188769070
+Pašto adresas: Žeimių g. 13 
+Miestas: Jonava
+Pašto kodas: 55158
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: sandra.rusoniene@jonava.lt
+Telefono numeris: +37034953805
+Interneto adresas: www.jonava.lt
+Pirkėjo profilis: www.jonava.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Sweco Lietuva
+Registracijos numeris: 301135783
+Pašto adresas: Ozo g. 12A-1 
+Miestas: Vilnius
+Pašto kodas: 08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vytaute.martinaitiene@sweco.lt
+Telefono numeris: +370 5 2622621
+Interneto adresas: www.sweco.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d7060d31-b1fb-4041-bd53-a25dd21f8ef9 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 06/03/2025 10:07 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

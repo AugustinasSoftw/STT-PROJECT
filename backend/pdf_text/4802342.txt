@@ -1,0 +1,175 @@
+Lietuva: Baldai
+Kietųjų baldų, skirtų Kauno Gedimino sporto ir sveikatinimo gimnazijos bendrabučio pastatui, 
+pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kietųjų baldų, skirtų Kauno Gedimino sporto ir sveikatinimo gimnazijos bendrabučio pastatui, pirkimas
+Aprašymas: Šiuo konkrečiu pirkimu siekiamas įsigyti kietuosius baldus (spintas, spinteles, darbo stalus, virtuvės 
+stalus, virtuvės spinteles, lovas), skirtus Kauno Gedimino sporto ir sveikatinimo gimnazijos bendrabučio pastatui, 
+įskaitant šių baldų pagaminimą (jeigu siūlomi baldai yra nepagaminti), pristatymą, sunešimą ir surinkimą), nurodytus 
+techninėje specifikacijoje (konkretaus pirkimo sąlygų 2 priedas) ir atitinkančius joje nustatytus reikalavimus. 
+Planuojamų įsigyti baldų kiekiai nurodyti Pasiūlymo formoje (konkretaus pirkimo sąlygų 1 priedas) ir techninėje 
+specifikacijoje (konkretaus pirkimo sąlygų 2 priedas).
+Procedūros identifikatorius: e9dfa7bc-287c-47ba-be3e-b34bc8dbceea
+Ankstesnis skelbimas: 089a1470-a888-44b8-9685-a730789af376-01
+Vidaus identifikatorius: 4119423
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39100000 Baldai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kietųjų baldų, skirtų Kauno Gedimino sporto ir sveikatinimo gimnazijos bendrabučio pastatui, pirkimas
+Aprašymas: Šiuo konkrečiu pirkimu siekiamas įsigyti kietuosius baldus (spintas, spinteles, darbo stalus, virtuvės 
+stalus, virtuvės spinteles, lovas), skirtus Kauno Gedimino sporto ir sveikatinimo gimnazijos bendrabučio pastatui, 
+įskaitant šių baldų pagaminimą (jeigu siūlomi baldai yra nepagaminti), pristatymą, sunešimą ir surinkimą), nurodytus 
+techninėje specifikacijoje (konkretaus pirkimo sąlygų 2 priedas) ir atitinkančius joje nustatytus reikalavimus. 
+Planuojamų įsigyti baldų kiekiai nurodyti Pasiūlymo formoje (konkretaus pirkimo sąlygų 1 priedas) ir techninėje 
+specifikacijoje (konkretaus pirkimo sąlygų 2 priedas).
+Vidaus identifikatorius: 4119423
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 49 909,09 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymo kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 91
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Prekėms suteikiamas papildomas garantinis terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno miesto savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kauno Gedimino sporto ir sveikatinimo gimnazija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 46 592 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Taiklu
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000090057
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 46 592 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 50
+Informacija apie sutartį:
+Sutarties identifikatorius: 32068
+Sutarties sudarymo data: 01/10/2025
+Organizacija, pasirašanti sutartį: Kauno Gedimino sporto ir sveikatinimo gimnazija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Taiklu
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304437662
+Pašto adresas: Marvelės g. 106A 
+Miestas: Kaunas
+Pašto kodas: 46205
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@taiklu.lt
+Telefono numeris: +37060996170
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 29337242
+Pašto adresas: A. Mickevičiau g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Kauno Gedimino sporto ir sveikatinimo gimnazija
+Registracijos numeris: 190133962
+Pašto adresas: Aukštaičių g. 78 
+Miestas: Kaunas
+Pašto kodas: 50284
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 97970a90-76d2-4327-b618-9658a58ce8a2 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/10/2025 10:04 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

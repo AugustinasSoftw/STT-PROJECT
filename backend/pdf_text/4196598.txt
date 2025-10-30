@@ -1,0 +1,963 @@
+Lietuva: Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+(PU-13091/24) [ITP25] Autogreiderio galinis nubrauktuvas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (PU-13091/24) [ITP25] Autogreiderio galinis nubrauktuvas
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Procedūros identifikatorius: 2eb71ae5-e10f-4ffa-8c44-e83e74c42414
+Ankstesnis skelbimas: d2fcd949-5274-437b-ae25-715fcd2470bf-04
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Šilutės meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui Champion 730A VHP, 1999 m. gamybos, ident. Nr. 030028
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Šilutės meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui Champion 730A VHP, 1999 m. gamybos, ident. Nr. 030030
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Klaipėdos meistrijai, bei jo pritaikymas 
+ir sumontavimas autogreideriui Champion 730A VHP, 1999 m. gamybos, ident. Nr. 030029.
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Akmenės meistrijai, bei jo pritaikymas 
+ir sumontavimas autogreideriui HBM BG 190 TA-3, 2004 m, gamybos, ident. Nr. 4200240411
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Akmenės meistrijai, bei jo pritaikymas 
+ir sumontavimas autogreideriui Champion 730A VHP, 1999 m. gamybos, ident. Nr. 030039
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Švenčionių meistrijai, bei jo pritaikymas 
+ir sumontavimas autogreideriui HBM BG 190 TA-3, 2004 m, gamybos, ident. Nr. 4200240410
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Ignalinos meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 190 TA-3, 2004 m, gamybos, ident. Nr. 580009
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Širvintų meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 190 TA-3, 2016 m, gamybos, ident. Nr. 570001
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Šalčininkų meistrijai, bei jo pritaikymas 
+ir sumontavimas autogreideriui HBM BG 190 TA-3, 2004 m, gamybos, ident. Nr. 4200120410
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Anykščių meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 190 TA-3, 2004 m, gamybos, ident. Nr. 4200140410
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Biržų meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 230 TA-3, 2004 m, gamybos, ident. Nr. 4700140501
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Šiaulių meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 190 TA-5, 2016 m, gamybos, ident. Nr. 580023
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0013
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Joniškio meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 190 TA-3, 2004 m, gamybos, ident. Nr. 4200230411
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 13
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0014
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Šakių meistrijai, bei jo pritaikymas ir 
+sumontavimas autogreideriui HBM BG 190 TA-3, 2005 m, gamybos, ident. Nr. 4100780503
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 14
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+5.1 Techninės ID dalies: LOT-0015
+Pavadinimas: Greiderio galinis grunto volo nubraukimo įrenginys (skleistuvas), Vilkaviškio meistrijai, bei jo pritaikymas 
+ir sumontavimas autogreideriui Champion 730A VHP, 1999 m. gamybos, ident. Nr. 030006
+Aprašymas: Autogreiderio galinis nubrauktuvas
+Vidaus identifikatorius: 15
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 43200000 Žemės perstūmos ir kasimo mašinos bei susijusios dalys
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+Organizacija, atliekanti mokėjimus: AB „Kelių priežiūra“ (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 391 090 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 27 380 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-1
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 27 380 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-2
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 27 380 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-3
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 27 950 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-4
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 27 250 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-5
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 27 300 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-6
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 27 750 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-7
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 21 750 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-8
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 27 350 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-9
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 27 400 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-10
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 22 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-11
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 21 950 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-12
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0013
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0013
+Pasiūlymo vertė: 27 950 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-13
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0014
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0014
+Pasiūlymo vertė: 22 450 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-14
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0015
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: KELUVA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000022849
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0015
+Pasiūlymo vertė: 27 350 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PIR25-401-15
+Sutarties sudarymo data: 06/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Registracijos numeris: 232112130
+Pašto adresas: Savanorių pr. 321C 
+Miestas: Kaunas
+Pašto kodas: 50120
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vaida.trasikiene@keliuprieziura.lt
+Telefono numeris: +37069630366
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: KELUVA
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 121543961
+Pašto adresas: LIEPKALNIO 101 
+Miestas: VILNIUS
+Pašto kodas: LT 02121
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: edmundas@keluva.lt
+Telefono numeris: +37068727760
+Interneto adresas: www.keluva.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003, LOT-0004, LOT-0005, LOT-0006, LOT-0007, 
+LOT-0008, LOT-0009, LOT-0010, LOT-0011, LOT-0012, LOT-0013, LOT-0014, LOT-0015
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 374 90941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7113fb78-54f4-4029-b059-4542f09a2d74 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/08/2025 15:38 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

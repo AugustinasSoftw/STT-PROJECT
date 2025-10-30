@@ -1,0 +1,211 @@
+Lietuva: Lokomotyvų ir riedmenų dalys
+30899 Dyzelinių variklių ir jų sistemų dalys MTU arba lygiavertis (DPS:28303)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 30899 Dyzelinių variklių ir jų sistemų dalys MTU arba lygiavertis (DPS:28303)
+Aprašymas: Dyzelinių variklių ir jų sistemų dalys MTU arba lygiavertis. Detalus pirkimo objekto aprašymas 
+pateikiamas Techninėje specifikacijoje.
+Procedūros identifikatorius: 09712e6f-9b33-4667-a2d5-866de30ae8b7
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+Kiti klasifikacijos kodai (cpv): 14811000 Girnakmeniai, tekėlai ir šlifavimo diskai
+Kiti klasifikacijos kodai (cpv): 14812000 Abrazyviniai milteliai arba grūdeliai
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 19510000 Guminiai gaminiai
+Kiti klasifikacijos kodai (cpv): 24910000 Klijai
+Kiti klasifikacijos kodai (cpv): 24960000 Įvairūs chemijos produktai
+Kiti klasifikacijos kodai (cpv): 30192125 Žymekliai
+Kiti klasifikacijos kodai (cpv): 31122000 Generavimo (generatorių) įrenginiai
+Kiti klasifikacijos kodai (cpv): 31211300 Saugikliai
+Kiti klasifikacijos kodai (cpv): 31214100 Jungikliai
+Kiti klasifikacijos kodai (cpv): 31221000 Elektros relės
+Kiti klasifikacijos kodai (cpv): 31300000 Izoliuoti laidai ir kabeliai
+Kiti klasifikacijos kodai (cpv): 31520000 Šviestuvai ir apšvietimo įranga
+Kiti klasifikacijos kodai (cpv): 31531000 Elektros lemputės
+Kiti klasifikacijos kodai (cpv): 31532400 Kištukiniai lempų lizdai
+Kiti klasifikacijos kodai (cpv): 31681410 Elektros medžiagos
+Kiti klasifikacijos kodai (cpv): 39717000 Ventiliatoriai ir oro kondicionavimo prietaisai
+Kiti klasifikacijos kodai (cpv): 39812500 Sandarikliai
+Kiti klasifikacijos kodai (cpv): 42132130 Pneumatinės vožtuvo pavaros
+Kiti klasifikacijos kodai (cpv): 42512500 Oro kondicionavimo įrenginių dalys
+Kiti klasifikacijos kodai (cpv): 42514310 Oro filtrai
+Kiti klasifikacijos kodai (cpv): 42913300 Alyvos filtrai
+Kiti klasifikacijos kodai (cpv): 42913400 Degalų filtrai
+Kiti klasifikacijos kodai (cpv): 44164310 Vamzdeliai ir jungiamosios detalės
+Kiti klasifikacijos kodai (cpv): 44165100 Žarnos
+Kiti klasifikacijos kodai (cpv): 44315200 Suvirinimo medžiagos
+Kiti klasifikacijos kodai (cpv): 44322200 Kabelių jungtys
+Kiti klasifikacijos kodai (cpv): 44333000 Viela
+Kiti klasifikacijos kodai (cpv): 44440000 Guoliai
+Kiti klasifikacijos kodai (cpv): 44510000 Įrankiai
+Kiti klasifikacijos kodai (cpv): 44511000 Rankiniai įrankiai
+Kiti klasifikacijos kodai (cpv): 44521100 Spynos
+Kiti klasifikacijos kodai (cpv): 44530000 Tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44531000 Srieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44532000 Nesrieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44533000 Varinės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 50222000 Riedmenų remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 30899 Dyzelinių variklių ir jų sistemų dalys MTU arba lygiavertis (DPS:28303)
+Aprašymas: Dyzelinių variklių ir jų sistemų dalys MTU arba lygiavertis. Detalus pirkimo objekto aprašymas 
+pateikiamas Techninėje specifikacijoje.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+Kiti klasifikacijos kodai (cpv): 14811000 Girnakmeniai, tekėlai ir šlifavimo diskai
+Kiti klasifikacijos kodai (cpv): 14812000 Abrazyviniai milteliai arba grūdeliai
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 19510000 Guminiai gaminiai
+Kiti klasifikacijos kodai (cpv): 24910000 Klijai
+Kiti klasifikacijos kodai (cpv): 24960000 Įvairūs chemijos produktai
+Kiti klasifikacijos kodai (cpv): 30192125 Žymekliai
+Kiti klasifikacijos kodai (cpv): 31122000 Generavimo (generatorių) įrenginiai
+Kiti klasifikacijos kodai (cpv): 31211300 Saugikliai
+Kiti klasifikacijos kodai (cpv): 31214100 Jungikliai
+Kiti klasifikacijos kodai (cpv): 31221000 Elektros relės
+Kiti klasifikacijos kodai (cpv): 31300000 Izoliuoti laidai ir kabeliai
+Kiti klasifikacijos kodai (cpv): 31520000 Šviestuvai ir apšvietimo įranga
+Kiti klasifikacijos kodai (cpv): 31531000 Elektros lemputės
+Kiti klasifikacijos kodai (cpv): 31532400 Kištukiniai lempų lizdai
+Kiti klasifikacijos kodai (cpv): 31681410 Elektros medžiagos
+Kiti klasifikacijos kodai (cpv): 39717000 Ventiliatoriai ir oro kondicionavimo prietaisai
+Kiti klasifikacijos kodai (cpv): 39812500 Sandarikliai
+Kiti klasifikacijos kodai (cpv): 42132130 Pneumatinės vožtuvo pavaros
+Kiti klasifikacijos kodai (cpv): 42512500 Oro kondicionavimo įrenginių dalys
+Kiti klasifikacijos kodai (cpv): 42514310 Oro filtrai
+Kiti klasifikacijos kodai (cpv): 42913300 Alyvos filtrai
+Kiti klasifikacijos kodai (cpv): 42913400 Degalų filtrai
+Kiti klasifikacijos kodai (cpv): 44164310 Vamzdeliai ir jungiamosios detalės
+Kiti klasifikacijos kodai (cpv): 44165100 Žarnos
+Kiti klasifikacijos kodai (cpv): 44315200 Suvirinimo medžiagos
+Kiti klasifikacijos kodai (cpv): 44322200 Kabelių jungtys
+Kiti klasifikacijos kodai (cpv): 44333000 Viela
+Kiti klasifikacijos kodai (cpv): 44440000 Guoliai
+Kiti klasifikacijos kodai (cpv): 44510000 Įrankiai
+Kiti klasifikacijos kodai (cpv): 44511000 Rankiniai įrankiai
+Kiti klasifikacijos kodai (cpv): 44521100 Spynos
+Kiti klasifikacijos kodai (cpv): 44530000 Tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44531000 Srieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44532000 Nesrieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44533000 Varinės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 50222000 Riedmenų remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 400 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: PD
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LTG Kompetencijų centras UAB (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 385 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AS Baltic Marine Group Lietuvos filialas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000043281
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 349 313 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 20585
+Sutarties sudarymo data: 09/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Registracijos numeris: 307037118
+Pašto adresas: Pelesos g. 10-102 
+Miestas: Vilnius
+Pašto kodas: LT-02111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Pirkėjo profilis: www.ltg.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: AS Baltic Marine Group Lietuvos filialas
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 305138894
+Pašto adresas: Senasis Ukmergės kel. 4, Vilnius 140302 
+Miestas: Vilnius
+Pašto kodas: 14302
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: genadij.verchoturov@bm.ee
+Telefono numeris: 065670779
+Interneto adresas: www.bm.ee
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: e8e473d3-4c8c-4f7a-b9d8-40fe1061b3c9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 05/06/2025 23:17 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

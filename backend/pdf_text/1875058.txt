@@ -1,0 +1,185 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Lietuvos muitinės duomenų analitikos modelio sukūrimo ir garantinės priežiūros paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Lietuvos muitinės duomenų analitikos modelio sukūrimo ir garantinės priežiūros paslaugos
+Aprašymas: Šiame pirkime yra tęsiamos senoje CVP IS paskelbto pirkimo Nr. 746686 procedūros. Naujas skelbimas 
+sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas yra paskelbti senojoje CVP IS. Šioje sistemoje 
+bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai. Tiekėjai iš senos CVP IS gali atsisiųsti savo 
+dokumentus ir paskelbti naujoje sistemoje.
+Procedūros identifikatorius: a042de90-2b2b-4636-b1e3-de9e5d8eab42
+Ankstesnis skelbimas: d51839ba-a939-457b-859b-cb628d4f943b-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 80510000 Specialistų mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 826 446,28 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Lietuvos muitinės duomenų analitikos modelio sukūrimo ir garantinės priežiūros paslaugos
+Aprašymas: Šiame pirkime yra tęsiamos senoje CVP IS paskelbto pirkimo Nr. 746686 procedūros. Naujas skelbimas 
+sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas yra paskelbti senojoje CVP IS. Šioje sistemoje 
+bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai. Tiekėjai iš senos CVP IS gali atsisiųsti savo 
+dokumentus ir paskelbti naujoje sistemoje.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 80510000 Specialistų mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 826 446,28 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: mažiausia kaina
+Aprašymas: kaina
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialistų patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 6 mėn.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 6 mėn.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Muitinės departamentas prie Lietuvos 
+Respublikos finansų ministerijos -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 362 644,63 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Blue Bridge MSP UAB
+Laimėtojo subrangovai:
+Oficialus pavadinimas: UAB Blue Bridge Code
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000010007
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 362 655,63 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 8
+Informacija apie sutartį:
+Sutarties identifikatorius: 14528
+Data, kurią buvo pasirinktas laimėtojas: 12/03/2025
+Sutarties sudarymo data: 26/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 04-015-P-0001
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas Ekonomikos gaivinimo ir atsparumo 
+didinimo priemonės „Naujos kartos Lietuva“ projekto Nr. 04-015-P-0001 „Muitinės rizikos valdymo 
+modernizavimas“ poveiklės „Naujų automatinės analizės metodų bei šiam funkcionalumui būtinų sąsajų 
+sukūrimas“ lėšomis.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos
+Registracijos numeris: 188656838
+Pašto adresas: A. Jakšto g. 1 
+Miestas: Vilnius
+Pašto kodas: LT - 01105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: laima.snieganaite@lrmuitine.lt
+Telefono numeris: +37062034835
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Blue Bridge MSP UAB
+Registracijos numeris: 301489547
+Pašto adresas: Birutės g. 2 
+Miestas: Klaipėda
+Pašto kodas: LT-9120
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: indre.saltonaite@bluebridge.lt
+Telefono numeris: +37061572899
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Blue Bridge Code
+Registracijos numeris: 302253877
+Miestas: Vilnius
+Pašto kodas: LT-03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Subrangovas
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: bf62b9c3-5072-49b5-8483-f62b05f7af63 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/03/2025 11:44 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

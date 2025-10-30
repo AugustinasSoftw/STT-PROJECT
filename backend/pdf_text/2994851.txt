@@ -1,0 +1,132 @@
+Lietuva: Gatvės ženklai
+Eismo saugumo priemonių ir naujų kelio ženklų įrengimo, remonto ir jų priežiūros statybos 
+darbai NUTRAUKTAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Marijampolės savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Eismo saugumo priemonių ir naujų kelio ženklų įrengimo, remonto ir jų priežiūros statybos darbai 
+NUTRAUKTAS
+Aprašymas: Vykdomas eismo saugumo priemonių ir naujų kelio ženklų įrengimo, remonto ir jų priežiūros statybos 
+darbų pirkimas atviro konkurso būdu.
+Procedūros identifikatorius: 0f0bd948-9d76-4610-a788-146be1ee09ce
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34992300 Gatvės ženklai
+Kiti klasifikacijos kodai (cpv): 45233290 Kelio ženklų montavimas
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 247 933,88 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Eismo saugumo priemonių ir naujų kelio ženklų įrengimo, remonto ir jų priežiūros statybos darbai 
+NUTRAUKTAS
+Aprašymas: Vykdomas eismo saugumo priemonių ir naujų kelio ženklų įrengimo, remonto ir jų priežiūros statybos 
+darbų pirkimas atviro konkurso būdu.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34992300 Gatvės ženklai
+Kiti klasifikacijos kodai (cpv): 45233290 Kelio ženklų montavimas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 247 933,88 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausiu pasiūlymu yra laikomas mažiausios kainos pasiūlymas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Marijampolės savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Marijampolės savivaldybės administracija
+Registracijos numeris: 188769113
+Pašto adresas: J. Basanavičiaus a. 1 
+Miestas: Marijampolė
+Pašto kodas: 68307
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: linas.griska@marijampole.lt
+Telefono numeris: +37061234985
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 6aef739e-a194-4567-9fcc-4f213ecd614d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/06/2025 10:59 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

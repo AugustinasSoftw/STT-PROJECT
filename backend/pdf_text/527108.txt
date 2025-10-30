@@ -1,0 +1,160 @@
+Lietuva: Skirstymo sistema
+736411 Elektros energijos tiekimo nuo kranto (angl. onshore power supply) įrangos atliekų 
+surinkimo laivui pirkimas ir jos sumontavimas Klaipėdos uoste
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 736411 Elektros energijos tiekimo nuo kranto (angl. onshore power supply) įrangos atliekų surinkimo 
+laivui pirkimas ir jos sumontavimas Klaipėdos uoste
+Aprašymas: Elektros energijos tiekimo nuo kranto (angl. onshore power supply) įrangos atliekų surinkimo laivui 
+pirkimas ir jos sumontavimas Klaipėdos uoste
+Procedūros identifikatorius: 20e09533-ae4d-4691-a480-528ca5f22701
+Vidaus identifikatorius: 736411
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31213400 Skirstymo sistema
+2.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 736411 Elektros energijos tiekimo nuo kranto (angl. onshore power supply) įrangos atliekų surinkimo 
+laivui pirkimas ir jos sumontavimas Klaipėdos uoste
+Aprašymas: Elektros energijos tiekimo nuo kranto (angl. onshore power supply) įrangos atliekų surinkimo laivui 
+pirkimas ir jos sumontavimas Klaipėdos uoste
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Kiti sutarties objektai: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 31213400 Skirstymo sistema
+Kiti klasifikacijos kodai (cpv): 31213400 Skirstymo sistema
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 496 597,6 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Papildoma garantija
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto 
+direkcija (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 496 597,6 Euro
+Preliminariųjų sutarčių apytikslė vertė: 496 597,6 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Elektrifikacijos paslaugos“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 496 597,6 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 73-2024-293
+Sutarties sudarymo data: 25/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+Registracijos numeris: 240329870
+Pašto adresas: J. Janonio g. 24-1 
+Miestas: Klaipėda
+Pašto kodas: 92251
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: m.kunigonis@port.lt
+Telefono numeris: +37046499627
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370310325
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Elektrifikacijos paslaugos“
+Registracijos numeris: 300014907
+Pašto adresas: Anso Lymanto g. 7, Jonušų k. 
+Miestas: Klaipėdos r.
+Pašto kodas: 96173
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info@elektrifikacija.lt
+Telefono numeris: +37068815632
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 6e39efa9-86f0-4f04-b532-5f37b1a061c6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/12/2024 14:39 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

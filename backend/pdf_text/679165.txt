@@ -1,0 +1,565 @@
+Lietuva: Medicinos įranga
+Medicininės įrangos gyvūnų gyvybinių parametrų monitoravimui ir biosaugos užtikrinimui 
+pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universitetas
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medicininės įrangos gyvūnų gyvybinių parametrų monitoravimui ir biosaugos užtikrinimui pirkimas
+Aprašymas: Medicininės įrangos gyvūnų gyvybinių parametrų monitoravimui ir biosaugos užtikrinimui (8 pirkimo 
+dalys). Pirkimo dalių kiekiai ir techninės specifikacijos savybės nurodytos pirkimo dokumentuose.
+Procedūros identifikatorius: 01b0e28e-3e3a-4947-8a32-8665f5acb3c5
+Ankstesnis skelbimas: 585003-2024
+Vidaus identifikatorius: 740135
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: LT022
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Trijų kanalų holterio monitorius
+Aprašymas: Trijų kanalų holterio monitorius (Pirkimo objekto techninės savybės nurodytos pirkimo dokumentuose)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33100000 Medicinos įranga
+Kiekis: 6 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Pašto kodas: LT022
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Šildomi kilimėliai (komplektas)
+Aprašymas: Šildomi kilimėliai (komplektas) (Pirkimo objekto techninės specifikacijos savybės nurodytos pirkimo 
+dokumentuose)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 2 736 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žr. pirkimo dokumentuiose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Automatinė kontrasto švirkšto pompa
+Aprašymas: Automatinė kontrasto švirkšto pompa ((Pirkimo objekto techninės specifikacijos savybės nurodytos 
+pirkimo dokumentuose)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Veterinarinis elektrokardiografas
+Aprašymas: Veterinarinis elektrokardiografas (Pirkimo objekto techninės specifikacijos savybės nurodytos pirkimo 
+dokumentuose)
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33123200 Elektrokardiografijos prietaisai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 2 600 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: CO2 inkubatorius
+Aprašymas: CO2 inkubatorius (Pirkimo objekto techninės specifikacijos savybės nurodytos pirkimo dokumentuose)
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33152000 Inkubatoriai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 181 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Vienpusė automatinė chirurginių ir laboratorinių instrumentų plovimo-dezinfekavimo mašina su 
+džiovinimu ir priedais
+Aprašymas: Vienpusė automatinė chirurginių ir laboratorinių instrumentų plovimo-dezinfekavimo mašina su džiovinimu 
+ir priedais (Pirkimo objekto techninės specifikacijos savybės nurodytos pirkimo dokumentuose)
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33191000 Sterilizacijos, dezinfekcijos ir higienos prietaisai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 41 816 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 85
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Šlapimo analizatorius
+Aprašymas: Šlapimo analizatorius (Pirkimo objekto techninės specifikacijos savybės nurodytos pirkimo 
+dokumentuose)
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 720 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 85
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Peroksido rūko sterilizatorius patalpoms
+Aprašymas: Peroksido rūko sterilizatorius patalpoms (Pirkimo objekto techninės specifikacijos savybės nurodytos 
+pirkimo dokumentuose)
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33191000 Sterilizacijos, dezinfekcijos ir higienos prietaisai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 7 775,5 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (balai, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentuose
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 61 828,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Airimedus
+Pasiūlymas:
+Pasiūlymo identifikatorius: P2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024-P-01387
+Sutarties sudarymo data: 10/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medita
+Pasiūlymas:
+Pasiūlymo identifikatorius: P4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024-P-01298 (1)
+Sutarties sudarymo data: 25/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Inospectra
+Pasiūlymas:
+Pasiūlymo identifikatorius: P5
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024-P-01350
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Anmeda Techna
+Pasiūlymas:
+Pasiūlymo identifikatorius: P6
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024-P-01286
+Sutarties sudarymo data: 22/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medita
+Pasiūlymas:
+Pasiūlymo identifikatorius: P7
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024-P-01298 (2)
+Sutarties sudarymo data: 25/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: SIA Animalab Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: P8
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024-P-01385
+Sutarties sudarymo data: 11/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universitetas
+Registracijos numeris: 302536989
+Pašto adresas: A. Mickevičiaus g. 9 
+Miestas: Kaunas
+Pašto kodas: LT-44307
+Šalis: Lietuva
+E. paštas: dalia.petreikiene@lsmuni.lt
+Telefono numeris: +370 37372171
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: Mickevičiaus g.18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Airimedus
+Registracijos numeris: 126237331
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@airimedus.lt
+Telefono numeris: +370 685 65001
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Medita
+Registracijos numeris: 110323729
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: medita@medita.lt
+Telefono numeris: +370 5 2720360
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004, LOT-0007
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Inospectra
+Registracijos numeris: 302817477
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: info@inospecctra.com
+Telefono numeris: +370 37 280702
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0005
+8.1 ORG-0007
+Oficialus pavadinimas: UAB Anmeda Techna
+Registracijos numeris: 301232595
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@anmeda.lt
+Telefono numeris: +370 5 2796055
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0006
+8.1 ORG-0008
+Oficialus pavadinimas: SIA Animalab Baltic
+Registracijos numeris: 42403043857
+Miestas: Ryga
+Šalis: Lietuva
+E. paštas: ap@animalab.lv
+Telefono numeris: +371 29161786
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0008
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: ebcbc745-94c1-4161-9ca5-39c4aec2bf27 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/01/2025 20:06 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,287 @@
+Lietuva: Lazerių valdomos staklės ir mechaninio apdirbimo centrai
+1.2.2.1. PCB gamybos technologinė linija (Atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus kolegija
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 1.2.2.1. PCB gamybos technologinė linija (Atviras konkursas)
+Aprašymas: Numatoma įsigyti PCB gamybos technologinė linijos įrangą su priedais Prekės turi būti pristatytos ir 
+surinktos/suderintos ne vėliau kaip iki 2025 m. gruodžio 1 d., adresu J. Jasinskio g. 15, Vilnius, bei suteikti Mokymai 
+per 14 kalendorinių dienų nuo Prekių pristatymo, surinkimo/suderinimo dienos, adresu J. Jasinskio g. 15, Vilnius
+Procedūros identifikatorius: 92fff05c-194f-432d-9633-ff8678850c5d
+Ankstesnis skelbimas: e854e9cc-87d2-41f4-ac2d-e92ee6f7637f-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42610000 Lazerių valdomos staklės ir mechaninio apdirbimo centrai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 pirkimo dalis - Mechaninio, terminio ir cheminio spausdintųjų plokščių išbaigimo staklės su priedais
+Aprašymas: Numatoma įsigyti PCB gamybos technologinė linijos įrangą su priedais Prekės turi būti pristatytos ir 
+surinktos/suderintos ne vėliau kaip iki 2025 m. gruodžio 1 d., adresu J. Jasinskio g. 15, Vilnius, bei suteikti Mokymai 
+per 14 kalendorinių dienų nuo Prekių pristatymo, surinkimo/suderinimo dienos, adresu J. Jasinskio g. 15, Vilnius
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42610000 Lazerių valdomos staklės ir mechaninio apdirbimo centrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 6 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus kolegija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus kolegija
+Organizacija, atliekanti mokėjimus: Vilniaus kolegija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 pirkimo dalis - Lazerinės ir mechaninės spausdintųjų plokščių staklės su priedais
+Aprašymas: Numatoma įsigyti PCB gamybos technologinė linijos įrangą su priedais Prekės turi būti pristatytos ir 
+surinktos/suderintos ne vėliau kaip iki 2025 m. gruodžio 1 d., adresu J. Jasinskio g. 15, Vilnius, bei suteikti Mokymai 
+per 14 kalendorinių dienų nuo Prekių pristatymo, surinkimo/suderinimo dienos, adresu J. Jasinskio g. 15, Vilnius
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42610000 Lazerių valdomos staklės ir mechaninio apdirbimo centrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 6 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus kolegija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus kolegija
+Organizacija, atliekanti mokėjimus: Vilniaus kolegija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 3 pirkimo dalis - Mechaninės spausdintųjų plokščių staklės su priedais
+Aprašymas: Numatoma įsigyti PCB gamybos technologinė linijos įrangą su priedais Prekės turi būti pristatytos ir 
+surinktos/suderintos ne vėliau kaip iki 2025 m. gruodžio 1 d., adresu J. Jasinskio g. 15, Vilnius, bei suteikti Mokymai 
+per 14 kalendorinių dienų nuo Prekių pristatymo, surinkimo/suderinimo dienos, adresu J. Jasinskio g. 15, Vilnius
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42610000 Lazerių valdomos staklės ir mechaninio apdirbimo centrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 6 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus kolegija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus kolegija
+Organizacija, atliekanti mokėjimus: Vilniaus kolegija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 479 747,49 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB Elektronikos arsenalas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000071689
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 177 355,18 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: U7-149
+Pavadinimas: 1.2.2.1. PCB gamybos technologinė linija 2 pd
+Sutarties sudarymo data: 08/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Projektas Vilniaus kolegijos veiklos efektyvumo didinimas: inžinerijos studijų ir 
+mokslo bei meno sinergija. Nr. 10019P0003
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB Elektronikos arsenalas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000071689
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 196 363,64 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: U7-148
+Pavadinimas: 1.2.2.1. PCB gamybos technologinė linija 1 pd
+Sutarties sudarymo data: 08/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Projektas Vilniaus kolegijos veiklos efektyvumo didinimas: inžinerijos studijų ir 
+mokslo bei meno sinergija. Nr. 10019P0003
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB Elektronikos arsenalas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000071689
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 106 028,67 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: U7-150
+Pavadinimas: 1.2.2.1. PCB gamybos technologinė linija 3 pd
+Sutarties sudarymo data: 08/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Projektas Vilniaus kolegijos veiklos efektyvumo didinimas: inžinerijos studijų ir 
+mokslo bei meno sinergija. Nr. 10019P0003
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus kolegija
+Registracijos numeris: 111965131
+Pašto adresas: Saltoniškių g. 58 - 1 
+Miestas: Vilnius
+Pašto kodas: 08105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: viko@viko.lt
+Telefono numeris: +370 521 91600
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: MB Elektronikos arsenalas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304995208
+Pašto adresas: Gedimino g. 24 
+Miestas: Trakai
+Pašto kodas: 21118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@voltai.lt
+Telefono numeris: +37062170789
+Interneto adresas: www.voltai.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 0b53bfe5-9dd2-4bd0-9ae1-0fc3755829cc - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/07/2025 18:53 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

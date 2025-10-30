@@ -1,0 +1,229 @@
+Lietuva: Elektromobiliai
+2 nauji M1 klasės automobiliai, varomi elektra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Zarasų rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 2 nauji M1 klasės automobiliai, varomi elektra
+Aprašymas: Perkančioji organizacija numato įsigyti 2 naujus M1 klasės automobilius, varomus elektra. Reikalavimai 
+pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede (techninėje specifikacijoje).
+Procedūros identifikatorius: c2cea625-3a1d-40bb-b7b6-961f5363cf50
+Ankstesnis skelbimas: f1095b38-6001-4b07-9d50-34704c4c82cf-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Naujas M1 klasės automobilis, varomas elektra
+Aprašymas: Perkančioji organizacija numato įsigyti 2 naujus M1 klasės automobilius, varomus elektra. Reikalavimai 
+pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede (techninėje specifikacijoje).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 6 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Laimėjusiu pripažįstamas mažiausios kainos pasiūlymas.
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 47 199,99
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: LR Viešųjų pirkimų įstatyme nustatyta tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Zarasų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Zarasų rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Naujas M1 klasės automobilis, varomas elektra
+Aprašymas: Perkančioji organizacija numato įsigyti 2 naujus M1 klasės automobilius, varomus elektra. Reikalavimai 
+pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede (techninėje specifikacijoje).
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 6 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Laimėjusius pripažįstamas mažiausios kainos pasiūlymas.
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 47 199,99
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: LR Viešųjų pirkimų įstatyme nustatyta tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Zarasų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Zarasų rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 94 399,98 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Moller Auto UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000048859
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 47 199,99 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18541
+Sutarties sudarymo data: 13/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: M1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Moller Auto UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000048859
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 47 199,99 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18542
+Sutarties sudarymo data: 13/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: M1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Zarasų rajono savivaldybės administracija
+Registracijos numeris: 188753461
+Pašto adresas: Sėlių a. 22 
+Miestas: Zarasai
+Pašto kodas: LT-32110
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: info@zarasai.lt
+Telefono numeris: +370 385 37173
+Pirkėjo profilis: www.zarasai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Moller Auto UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110430994
+Pašto adresas: Laisvės pr. 127 
+Miestas: Vilnius
+Pašto kodas: 06118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Kamile.Lekaviciute@moller.lt
+Telefono numeris: +370 650 45004
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 729442ed-abf9-41bd-9c89-a992512a28e8 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/05/2025 13:20 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,125 @@
+Lietuva: Centralizuotas šilumos tiekimas
+Centralizuotos šilumos pirkimas
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Panevėžio mokymo centras
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Centralizuotos šilumos pirkimas
+Aprašymas: Centralizuotos šilumos (toliau - prekė) tiekimas į Panevėžio mokymo centro pastatus (patalpas) adresais: 
+Staniūnų g. 68, Pilėnų g. 35, Danutės g. 40A, Stetiškių g. 1P, Aldonos g. 4, Klaipėdos g. 146, Šermukšnių g. 31 
+Panevėžys ir Mokyklos 3 ir Mūšos g. Narteikių k., Pasvalio r. sav. Pirkimas skaidomas į 9 dalis. Preliminarus šilumos 
+kiekis 36 mėnesiams - 11871.000 MWh. Perkamas šilumos kiekis gali didėti ar mažėti 30 proc..
+Procedūros identifikatorius: c5bed39f-8ef8-4d80-b001-2610c4ec6b88
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Centralizuotas šilumos tiekimas
+Aprašymas: Centralizuotos šilumos (toliau - prekė) tiekimas į Panevėžio mokymo centro pastatus (patalpas) adresais: 
+Staniūnų g. 68, Pilėnų g. 35, Danutės g. 40A, Stetiškių g. 1P, Aldonos g. 4, Klaipėdos g. 146, Šermukšnių g. 31 
+Panevėžys ir Mokyklos 3 ir Mūšos g. Narteikių k., Pasvalio r. sav. Pirkimas skaidomas į 9 dalis. Preliminarus šilumos 
+kiekis 36 mėnesiams - 11871.000 MWh. Perkamas šilumos kiekis gali didėti ar mažėti 30 proc..
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Organizacija, iš kurios biudžeto mokama pagal sutartį: Panevėžio mokymo centras
+Organizacija, atliekanti mokėjimus: Panevėžio mokymo centras
+Organizacija, pasirašanti sutartį: Panevėžio mokymo centras
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 865 396 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Vadovaujantis Lietuvos Respublikos šilumos ūkio įstatymo 30 straipsnio 4 ir 5 punktais, licencija 
+šilumos tiekimo veiklai išduodama neterminuotam laikui tik vienam asmeniui tam tikroje nustatytoje teritorijoje. 1.9. 
+Centralizuotą šilumą Panevėžio apskrityje tiekia tik AB „Panevėžio energija“
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Panevėžio energija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: sut1
+Data, kurią buvo pasirinktas laimėtojas: 28/02/2025
+Organizacija, pasirašanti sutartį: Panevėžio mokymo centras
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Panevėžio mokymo centras
+Registracijos numeris: 306137642
+Pašto adresas: J. Basanavičiaus g. 23A 
+Miestas: Panevėžys
+Pašto kodas: 36205
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: virginija.brazdziuniene@paneveziomc.lt
+Telefono numeris: +37065658439
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Gedimino pr. 40 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: AB Panevėžio energija
+Pašto adresas: Senamiesčio g. 113 
+Miestas: Panevėžys
+Pašto kodas: 35115
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a4491ad4-61a1-48a1-ad81-d6ee3c51cff5 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 07/03/2025 13:59 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

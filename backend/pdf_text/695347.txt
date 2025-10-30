@@ -1,0 +1,107 @@
+Lietuva: Centralizuotas šilumos tiekimas
+CPO Šilumos energijos pirkimas
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: CPO Šilumos energijos pirkimas
+Aprašymas: Perkančioji organizacija numato įsigyti šilumos energijos tiekimą Kretingos lopšelio-darželio "Ąžuoliukas", 
+pastatui esančiam adresu Savanorių g. 23A, Kretinga
+Procedūros identifikatorius: bcee53b4-edfe-47c6-b57f-36e9f83fa6c0
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: CPO Šilumos energijos pirkimas
+Aprašymas: Perkančioji organizacija numato įsigyti šilumos energijos tiekimą Kretingos lopšelio-darželio "Ąžuoliukas", 
+pastatui esančiam adresu Savanorių g. 23A, Kretinga
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kretingos rajono savivaldybės administracija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2 punkto b 
+papunkčiu
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Registracijos numeris: 188715222
+Pašto adresas: Savanorių g. 29A 
+Miestas: Kretinga
+Pašto kodas: 97111
+Šalis: Lietuva
+E. paštas: edita.berzanskiene@kretinga.lt
+Telefono numeris: +37061678318
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Kretingos šilumos tinklai
+Registracijos numeris: 164294882
+Pašto adresas: Žalioji g. 3 
+Miestas: Kretinga
+Pašto kodas: LT-97145
+Šalis: Lietuva
+E. paštas: klemensas.kacinskas@kresiti.lt
+Telefono numeris: +37066511429
+Šios organizacijos vaidmenys:
+Dalyvis
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c303000a-da66-4a6e-8258-7b3b8934a456 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 07/01/2025 15:52 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

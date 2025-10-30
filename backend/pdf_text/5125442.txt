@@ -1,0 +1,167 @@
+Lietuva: Ultragarso įranga
+ULTRAGARSO SISTEMA AKUŠERIJAI (ATVIRAS KONKURSAS)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Tauragės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ULTRAGARSO SISTEMA AKUŠERIJAI (ATVIRAS KONKURSAS)
+Aprašymas: Perkančioji organizacija perka 1 (vieną) ultragarso sistemą akušerijai. Pirkimą iki sutarties pasirašymo 
+atlikti įgaliojo viešoji įstaiga Viešoji įstaiga Tauragės ligoninė (kodas: 179761936)
+Procedūros identifikatorius: 0177b6a1-7ea3-4011-88fa-d1d4f51149ce
+Ankstesnis skelbimas: 96bd478b-9889-4fab-86d4-51ed208c2239-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112200 Ultragarso įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: ULTRAGARSO SISTEMA AKUŠERIJAI (ATVIRAS KONKURSAS)
+Aprašymas: Perkančioji organizacija perka 1 (vieną) ultragarso sistemą akušerijai. Pirkimą iki sutarties pasirašymo 
+atlikti įgaliojo viešoji įstaiga Viešoji įstaiga Tauragės ligoninė (kodas: 179761936)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112200 Ultragarso įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: 1.6. Vykdomas žaliasis pirkimas vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius 
+pirkimus tvarkos aprašo, patvirtinto Lietuvos Respublikos Aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. 
+D1-508 „Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, 
+Aplinkos apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji 
+subjektai turi taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ 4.4.4.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Tarpininkavimo organizacija: Klaipėdos apygardos teismas
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Tauragės rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Tauragės rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 78 589 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Real Fusion UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000078958
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 78 589 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34364
+Data, kurią buvo pasirinktas laimėtojas: 09/10/2025
+Sutarties sudarymo data: 21/10/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Programa „ES - sveikatos labui“ (2021/2027)
+ES fondų identifikatorius: 09-022-P-0034
+Išsamesnė informacija apie ES fondus: „Sveikatos centro sudėtyje teikiamų sveikatos priežiūros paslaugų 
+infrastruktūros modernizavimas Pagėgių savivaldybėje“, projekto numeris Nr. 09-022-P-0034. Finansavimo 
+šaltinis - 2022-2030 metų sveikatos priežiūros kokybės ir efektyvumo didinimo plėtros programos pažangos 
+priemonė Nr. 11-002-02-11-01 „Gerinti sveikatos priežiūros paslaugų kokybę ir prieinamumą“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Tauragės rajono savivaldybės administracija
+Registracijos numeris: 188737457
+Pašto adresas: Respublikos g. 2 
+Miestas: Tauragė
+Pašto kodas: 72255
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: milda.kliunkiene@taurage.lt
+Telefono numeris: +370 644 85066
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Real Fusion UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 305575214
+Pašto adresas: V.Daunio g. 78-1 
+Miestas: Vilnius
+Pašto kodas: 08410
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@realfusion.eu
+Telefono numeris: +370 609 09981
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H.Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: 046390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Tarpininkavimo organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 6a13a2d2-b134-46ce-bc6a-5a88cb1de3cf - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/10/2025 08:20 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,177 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Gyvenamosios paskirties pastato (įvairių socialinių grupių asmenims) J. Janonio g. 19, 
+Kelmėje, statybos projekto parengimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kelmės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Gyvenamosios paskirties pastato (įvairių socialinių grupių asmenims) J. Janonio g. 19, Kelmėje, 
+statybos projekto parengimas
+Aprašymas: Statinio projektavimo darbų užduotyje (priedas Nr. 2) nurodyti paslaugų kiekiai, paslaugų charakteristikos 
+ir techniniai reikalavimai, paslaugų teikimo terminai ir kiti reikalavimai.
+Procedūros identifikatorius: e51bcdcb-215f-4986-9f1e-0b8dde8beb69
+Ankstesnis skelbimas: 1e4796b1-8b22-4386-a0ac-ce9f2b81b877-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 36 271 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Gyvenamosios paskirties pastato (įvairių socialinių grupių asmenims) J. Janonio g. 19, Kelmėje, 
+statybos projekto parengimas
+Aprašymas: Statinio projektavimo darbų užduotyje (priedas Nr. 2) nurodyti paslaugų kiekiai, paslaugų charakteristikos 
+ir techniniai reikalavimai, paslaugų teikimo terminai ir kiti reikalavimai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 36 271 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Tiekėjas taiko aplinkos apsaugos vadybos sistemą
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: ENtiekėjo = Kaina tiekėjo - PV ENtiekėjo - kiekvieno pasiūlymo ekonominis naudingumas; Kaina 
+tiekėjo - tiekėjo pasiūlyme nurodyta bendra kaina eurais; PV - tai piniginė vertė eurais, kuri bus skaičiuojama 
+tiesiogiai už šias reikšmes: PV - 0 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 metus nėra 
+vadovavęs nei vienam projektui, atitinkančiam konkurso sąlygų 91 punkte nurodytus reikalavimus; PV - 1000 Eurų, 
+jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 metus yra vadovavęs vienam projektui atitinkančiam 
+konkurso sąlygų 91 punkte nurodytus reikalavimus; PV - 2000 Eurų, jei tiekėjo siūlomas projekto vadovas per 
+pastaruosius 3 metus yra vadovavęs dviem projektams, atitinkantiems konkurso sąlygų 91 punkte nurodytus 
+reikalavimus; PV - 3000 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 metus yra vadovavęs trims 
+ir daugiau projektams, atitinkantiems konkurso sąlygų 91 punkte nurodytus reikalavimus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas -
+Informacija apie peržiūros terminus: VPĮ VII skyrius
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kelmės rajono savivaldybės administracija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 36 848,01 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "PA Group"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000049376
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 36 848,01 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 20675
+Sutarties sudarymo data: 28/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: Pirkimas finansuojamas iš ES lėšų pagal ES projektą „Paslaugų, reikalingų 
+institucinės globos pertvarkai įgyvendinti, infrastruktūros modernizavimas ir plėtra Kelmės rajone“.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kelmės rajono savivaldybės administracija
+Registracijos numeris: 188768730
+Pašto adresas: Vytauto Didžiojo g. 58, Kelmė 
+Miestas: Kelmė
+Pašto kodas: 86143
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: sigita.maziliauskiene@kelme.lt
+Telefono numeris: 042769154
+Interneto adresas: www.kelme.lt
+Pirkėjo profilis: www.kelme.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "PA Group"
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 302440866
+Pašto adresas: Raudondvario pl. 164A 
+Miestas: Kaunas
+Pašto kodas: LT-47173
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@pagroup.lt
+Telefono numeris: +370 687 31300
+Fakso numeris: +370 37 280511
+Interneto adresas: www.pagroup.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Dvaro g. 
+Miestas: Šiauliai
+Pašto kodas: LT-76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 652 16037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 3ade83ca-983b-4c83-add7-a69b93ecafe7 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/06/2025 11:47 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

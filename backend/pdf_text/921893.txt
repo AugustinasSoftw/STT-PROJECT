@@ -1,0 +1,402 @@
+Lietuva: Transporto įranga ir pagalbiniai transportavimo gaminiai
+736312 "Elektrinių autobusų su liftu (keltuvu) įsigijimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Pagėgių savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 736312 "Elektrinių autobusų su liftu (keltuvu) įsigijimas
+Aprašymas: Įsigyti trys elektriniai 22+1 (vairuotojo) sėdimų vietų autobusų su liftu (keltuvu), pritaikomi ne mažiau 2 
+neįgaliųjų asmenų standartiniuose (įskaitant elektrinius) vežimėliuose pavežėjimui (išmontuojant reikiamą sėdynių 
+kiekį ant greito nuėmimo kojų). Pervežant maksimalų asmenų su neįgaliaisiais vežimėliais kiekį, autobuse turi važiuoti 
+ne mažiau kaip 15 asmenų stacionariose sėdynėse (neįskaitant vairuotojo)
+Procedūros identifikatorius: ccdc83ff-1176-451d-84ed-8c21235dde65
+Ankstesnis skelbimas: 655883-2024
+Vidaus identifikatorius: 736312
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34000000 Transporto įranga ir pagalbiniai transportavimo gaminiai
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: Vilniaus g. 11 
+Miestas: Pagėgiai
+Pašto kodas: 99288
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Elektrinių autobusų su liftu (keltuvu) įsigijimas
+Aprašymas: Įsigyjamas vienas elektrinis 22+1 (vairuotojo) sėdimų vietų autobusas su liftu (keltuvu), pritaikomu ne 
+mažiau 2 neįgaliųjų asmenų standartiniuose (įskaitant elektrinius) vežimėliuose pavežėjimui (išmontuojant reikiamą 
+sėdynių kiekį ant greito nuėmimo kojų). Pervežant maksimalų asmenų su neįgaliaisiais vežimėliais kiekį, autobuse turi 
+važiuoti ne mažiau kaip 15 keleivių stacionariose sėdynėse (neįskaitant vairuotojo).
+Vidaus identifikatorius: TEN-0001
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34000000 Transporto įranga ir pagalbiniai transportavimo gaminiai
+Kiekis: 1 
+Pasirinkimo galimybės:
+Galimybių aprašymas: -
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Vilniaus g. 11 
+Miestas: Pagėgiai
+Pašto kodas: 99288
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 13 Mėnuo
+5.1.4 Atnaujinimas
+Pirkėjas pasilieka teisę iš to paties tiekėjo pirkti papildomai, kaip aprašyta čia: -
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+Informacija apie ankstesnius skelbimus:
+Ankstesnio skelbimo identifikatorius: 655883-2024
+Ankstesnio skelbimo dalies identifikatorius: 1
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama visai netarši (elektrinė) transporto priemonė.
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra novatoriški arba labai patobulinti, palyginti su kitais 
+darbais, prekėmis ar paslaugomis, kurie jau yra rinkoje.
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai įtraukti
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami, taikant formulę: C=W_(kainos svoris)(W_(kainos svoris) 
+∙ C_( siūloma kaina))/(206611,57 Eur be PVM), kur: W kainos svoris- kainos lyginamasis svoris 90; C siūloma 
+kaina- konkretaus vertinamo pasiūlymo kaina be PVM.
+Lyginamasis svoris (balai, tikslus skaičius): 20,308 3
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Kokybė
+Aprašymas: Tansporto priemonės elektros energijos sąnaudos kWh/km pagal kompetentingos įstaigos ar 
+organizacijos sertifikato, testų rezultatus ar kito lygiaverčio bandymo metodą.
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: KIaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Pagėgių savivaldybės administracija
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Pagėgių savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Pagėgių savivaldybės administracija
+Organizacija, pasirašanti sutartį: Pagėgių savivaldybės administracija
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Elektrinio autobuso (1 vnt.) su liftu (keltuvu) įsigijimas.
+Aprašymas: Įsigyjamas vienas elektrinis 22+1 (vairuotojo) sėdimų vietų autobusas su liftu (keltuvu), pritaikomu ne 
+mažiau 2 neįgaliųjų asmenų standartiniuose (įskaitant elektrinius) vežimėliuose pavežėjimui (išmontuojant reikiamą 
+sėdynių kiekį ant greito nuėmimo kojų). Pervežant maksimalų asmenų su neįgaliaisiais vežimėliais kiekį, autobuse turi 
+važiuoti ne mažiau kaip 15 keleivių stacionariose sėdynėse (neįskaitant vairuotojo).
+Vidaus identifikatorius: TEN-0002
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34000000 Transporto įranga ir pagalbiniai transportavimo gaminiai
+Kiekis: 1 
+Pasirinkimo galimybės:
+Galimybių aprašymas: -
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Vilniaus g. 11 
+Miestas: Pagėgiai
+Pašto kodas: 99288
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+Informacija apie ankstesnius skelbimus:
+Ankstesnio skelbimo identifikatorius: 655883-2024
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama visai netarši (elektrinė) transporto priemonė.
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami, taikant formulę: C=W_(kainos svoris)(W_(kainos svoris) 
+∙ C_( siūloma kaina))/(206611,57 Eur be PVM), kur: W kainos svoris- kainos lyginamasis svoris 90; C siūloma 
+kaina- konkretaus vertinamo pasiūlymo kaina be PVM.
+Lyginamasis svoris (balai, tikslus skaičius): 20,308 3
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: : Tansporto priemonės elektros energijos sąnaudos kWh/km pagal kompetentingos įstaigos ar 
+organizacijos sertifikato, testų rezultatus ar kito lygiaverčio bandymo metodą.
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: KIaipėdos apygardos teismas
+Organizacija, atliekanti mokėjimus: Pagėgių savivaldybės administracija
+Organizacija, pasirašanti sutartį: Pagėgių savivaldybės administracija
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Elektrinio autobuso (1 vnt.) su liftu (keltuvu) įsigijimas.
+Aprašymas: Įsigyjamas vienas elektrinis 22+1 (vairuotojo) sėdimų vietų autobusas su liftu (keltuvu), pritaikomu ne 
+mažiau 2 neįgaliųjų asmenų standartiniuose (įskaitant elektrinius) vežimėliuose pavežėjimui (išmontuojant reikiamą 
+sėdynių kiekį ant greito nuėmimo kojų). Pervežant maksimalų asmenų su neįgaliaisiais vežimėliais kiekį, autobuse turi 
+važiuoti ne mažiau kaip 15 keleivių stacionariose sėdynėse (neįskaitant vairuotojo).
+Vidaus identifikatorius: TEN-0003
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34000000 Transporto įranga ir pagalbiniai transportavimo gaminiai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Vilniaus g. 11 
+Miestas: Pagėgiai
+Pašto kodas: 99288
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 159 990 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+Informacija apie ankstesnius skelbimus:
+Ankstesnio skelbimo identifikatorius: 655883-2024
+Ankstesnio skelbimo dalies identifikatorius: 3
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama visai netarši (elektrinė) transporto priemonė.
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Prieinamumas visiems
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai įtraukti
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami, taikant formulę: C=W_(kainos svoris)(W_(kainos svoris) 
+∙ C_( siūloma kaina))/(206611,57 Eur be PVM), kur: W kainos svoris- kainos lyginamasis svoris 90; C siūloma 
+kaina- konkretaus vertinamo pasiūlymo kaina be PVM.
+Lyginamasis svoris (balai, tikslus skaičius): 20,308 3
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Tansporto priemonės elektros energijos sąnaudos kWh/km pagal kompetentingos įstaigos ar 
+organizacijos sertifikato, testų rezultatus ar kito lygiaverčio bandymo metodą.
+Lyginamasis svoris (balai, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: KIaipėdos apygardos teismas
+Organizacija, pasirašanti sutartį: Pagėgių savivaldybės administracija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 479 970 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB transporto firma "Transmitto"
+Pasiūlymas:
+Pasiūlymo identifikatorius: TEN-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 159 990 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Subranga: Ne
+Subrangos vertė: 0 Euro
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A3-25
+Data, kurią buvo pasirinktas laimėtojas: 09/12/2024
+Sutarties sudarymo data: 21/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: Taip
+Išsamesnė informacija apie ES fondus: Projektas Nr. 27005P0002 „Negalią turintiems mokiniams ir kitiems 
+mokiniams pavėžėti iki ir iš ugdymo įstaigos lengvai pritaikomų transporto priemonių įsigijimas Pagėgių 
+savivaldybėje“ pagal regioninę pažangos priemonę Nr. 12003030123 (RE) „Padidint ugdymo prieinamumą 
+atskirtį patiriantiems vaikams“.
+Organizacija, pasirašanti sutartį: Pagėgių savivaldybės administracija
+6.1.4 Statistinė informacija
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 159 990 Euro
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: Autobusas (M3)
+Visai netaršių sunkiųjų transporto priemonių skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB transporto firma "Transmitto"
+Pasiūlymas:
+Pasiūlymo identifikatorius: TEN-0002
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 159 990 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A3-24
+Data, kurią buvo pasirinktas laimėtojas: 09/12/2024
+Sutarties sudarymo data: 21/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: Taip
+Išsamesnė informacija apie ES fondus: Projektas Nr. 27005P0002 „Negalią turintiems mokiniams ir kitiems 
+mokiniams pavėžėti iki ir iš ugdymo įstaigos lengvai pritaikomų transporto priemonių įsigijimas Pagėgių 
+savivaldybėje“ pagal regioninę pažangos priemonę Nr. 12003030123 (RE) „Padidint ugdymo prieinamumą 
+atskirtį patiriantiems vaikams“.
+Organizacija, pasirašanti sutartį: Pagėgių savivaldybės administracija
+6.1.4 Statistinė informacija
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 159 990 Euro
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: Autobusas (M3)
+Visai netaršių sunkiųjų transporto priemonių skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB transporto firma "Transmitto"
+Pasiūlymas:
+Pasiūlymo identifikatorius: TEN-0003
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 159 990 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A3-26
+Data, kurią buvo pasirinktas laimėtojas: 09/12/2024
+Sutarties sudarymo data: 21/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: Taip
+Išsamesnė informacija apie ES fondus: Projektas Nr. 27005P0002 „Negalią turintiems mokiniams ir kitiems 
+mokiniams pavėžėti iki ir iš ugdymo įstaigos lengvai pritaikomų transporto priemonių įsigijimas Pagėgių 
+savivaldybėje“ pagal regioninę pažangos priemonę Nr. 12003030123 (RE) „Padidint ugdymo prieinamumą 
+atskirtį patiriantiems vaikams“.
+Organizacija, pasirašanti sutartį: Pagėgių savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+Transporto priemonės kategorija: Autobusas (M3)
+Visai netaršių sunkiųjų transporto priemonių skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Pagėgių savivaldybės administracija
+Registracijos numeris: 188746659
+Pašto adresas: Vilniaus g. 9 
+Miestas: Pagėgiai
+Pašto kodas: 99288
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: info@pagegiai.lt
+Telefono numeris: +37044157482
+Interneto adresas: www.pagegiai.lt
+Pirkėjo profilis: www.pagegiai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: KIaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: 0 46 39 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB transporto firma "Transmitto"
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 186083521
+Miestas: Vilnius
+Pašto kodas: 02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@transmitto.lt
+Telefono numeris: +37067611117
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: b1856f5f-2905-44e0-8f26-857af70252eb - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/01/2025 14:57 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

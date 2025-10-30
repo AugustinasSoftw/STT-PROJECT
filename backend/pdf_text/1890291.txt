@@ -1,0 +1,149 @@
+Lietuva: Statybos darbų priežiūra
+Daugiabučio gyvenamojo namo Akmenų g.1B, Klaipėdoje statybos darbų techninės priežiūros 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Daugiabučio gyvenamojo namo Akmenų g.1B, Klaipėdoje statybos darbų techninės priežiūros 
+paslaugos
+Aprašymas: Daugiabučio gyvenamojo namo Akmenų g.1B, Klaipėdoje statybos darbų techninės priežiūros paslaugos 
+(toliau - paslaugos). Išsamesnė perkamų paslaugų informacija ir reikalavimai pateikiami techninėje specifikacijoje 
+(konkurso sąlygų aprašo 2 priedas) ir techniniame projekte (konkurso sąlygų aprašo 8 priedas).
+Procedūros identifikatorius: cfca6048-fe1e-41fe-8570-6983a79d2f0b
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71247000 Statybos darbų priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Daugiabučio gyvenamojo namo Akmenų g.1B, Klaipėdoje statybos darbų techninės priežiūros 
+paslaugos
+Aprašymas: Daugiabučio gyvenamojo namo Akmenų g.1B, Klaipėdoje statybos darbų techninės priežiūros paslaugos 
+(toliau - paslaugos). Išsamesnė perkamų paslaugų informacija ir reikalavimai pateikiami techninėje specifikacijoje 
+(konkurso sąlygų aprašo 2 priedas) ir techniniame projekte (konkurso sąlygų aprašo 8 priedas).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71247000 Statybos darbų priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 34 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo* patirtis teikiant techninės priežiūros paslaugas 
+objektuose, kurie buvo įgyvendinti taikant BIM
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo* darbo patirtis - per pastaruosius 5 metus iki pasiūlymų 
+pateikimo termino pabaigos vykdė statinio statybos techninės priežiūros vadovo funkcijas pagal rangos darbų 
+vykdymo sutartį, kurios vertė ne mažesnė kaip 5 mln. Eur be PVM (statinių kategorija: ypatingi statiniai; pastatai 
+pagal paskirtį - negyvenamieji pastatai ir (ar) gyvenamieji pastatai).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvavimo prašymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Registracijos numeris: 188710823
+Pašto adresas: Liepų g. 11, Klaipėda 
+Miestas: Klaipėda
+Pašto kodas: 92138
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: zivile.gocente@klaipeda.lt
+Telefono numeris: +370 46 39 61 04
+Pirkėjo profilis: www.klaipeda.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 30617648-16c1-440d-8f68-9b85bd655f47 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/03/2025 16:28 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

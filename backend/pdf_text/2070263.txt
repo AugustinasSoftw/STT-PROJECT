@@ -1,0 +1,182 @@
+Lietuva: Įvairios konstrukcijos
+LAUKO TRENIRUOKLIAI IR SPORTO KOMPLEKSAI BEI JŲ ĮRENGIMAS TAURAGĖS VYTAUTO 
+STADIONE (ATVIRAS)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Tauragės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: LAUKO TRENIRUOKLIAI IR SPORTO KOMPLEKSAI BEI JŲ ĮRENGIMAS TAURAGĖS VYTAUTO 
+STADIONE (ATVIRAS)
+Aprašymas: Perkančioji organizacija numato įsigyti lauko treniruoklius ir sporto kompleksus bei jų įrengimą 
+(sumontavimą) Tauragės Vytauto stadione.
+Procedūros identifikatorius: d8b01115-2bca-4a37-a285-280ffca4017a
+Ankstesnis skelbimas: b48c65c9-09bc-4ca7-9eb9-43c0c028d659-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44212320 Įvairios konstrukcijos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: LAUKO TRENIRUOKLIAI IR SPORTO KOMPLEKSAI BEI JŲ ĮRENGIMAS TAURAGĖS VYTAUTO 
+STADIONE (ATVIRAS)
+Aprašymas: Perkančioji organizacija numato įsigyti lauko treniruoklius ir sporto kompleksus bei jų įrengimą 
+(sumontavimą) Tauragės Vytauto stadione.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44212320 Įvairios konstrukcijos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Įvykdytas žaliasis pirkimas vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius 
+pirkimus tvarkos aprašo, patvirtinto Lietuvos Respublikos Aplinkos ministro 2022 m. gruodžio 13 d. įsakymu Nr. 
+D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo”, 4.4.4.4 papunkčiu, t. y. prekė yra tvirta, 
+ilgaamžė, funkcionali, ji ar jos sudedamosios dalys tinka naudoti daug kartų ir (ar) lengvai pataisomos, ir (ar) 
+pakeičiamos.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 85
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Papildoma įrenginių garantinio termino trukmė metais (neįskaitant minimalaus 3 m. tiekėjo ir (arba) 
+gamintojo suteikiamo garantinio termino)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Svorio reguliavimas kilogramų tikslumu
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 6
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Maksimalus reguliuojamas svoris
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Tauragės rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 208 400 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Kesrama
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000029614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 208 400 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15346
+Sutarties sudarymo data: 05/04/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Tauragės rajono savivaldybės administracija
+Registracijos numeris: 188737457
+Pašto adresas: Respublikos g. 2 
+Miestas: Tauragė
+Pašto kodas: 72255
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: milda.kliunkiene@taurage.lt
+Telefono numeris: +370 644 85066
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Kesrama
+Registracijos numeris: 300854758
+Pašto adresas: Tauralaukio, 4A-15A 
+Miestas: Klaipėda
+Pašto kodas: 92347
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: dauksys.egidijus@gmail.com
+Telefono numeris: +37067927210
+Interneto adresas: www.kesrama.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 39 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8c2d4f8c-f1fa-4064-8f40-f1e51102adce - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/04/2025 14:08 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

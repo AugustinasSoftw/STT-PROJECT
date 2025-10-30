@@ -1,0 +1,154 @@
+Lietuva: Sistemų ir aptarnavimo paslaugos
+Klientų srautų valdymo sistemos techninės įrangos montavimo, remonto, konfigūravimo, 
+programavimo paslaugos, įskaitant techninės įrangos remontui reikalingas dalis 
+(TARPTAUTINIS ATVIRAS KONKURSAS)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė Regitra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Klientų srautų valdymo sistemos techninės įrangos montavimo, remonto, konfigūravimo, programavimo 
+paslaugos, įskaitant techninės įrangos remontui reikalingas dalis (TARPTAUTINIS ATVIRAS KONKURSAS)
+Aprašymas: Šiuo metu Perkančiosios organizacijos infrastruktūroje yra įdiegta klientų srautų valdymo sistema 
+Orchestra 7 4.4.0 v su Qmatic gamintojo licencijuota technine įranga. Perkamos klientų srautų valdymo sistemos 
+techninės įrangos montavimo, remonto, konfigūravimo, programavimo paslaugos, įskaitant techninės įrangos remontui 
+reikalingas dalis
+Procedūros identifikatorius: a13c184a-594e-471a-a49e-faf69b6a7c0a
+Ankstesnis skelbimas: 2301396d-98a3-4615-9e16-aaa5e4dc35bc-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72250000 Sistemų ir aptarnavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 25 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Klientų srautų valdymo sistemos techninės įrangos montavimo, remonto, konfigūravimo, programavimo 
+paslaugos, įskaitant techninės įrangos remontui reikalingas dalis (TARPTAUTINIS ATVIRAS KONKURSAS)
+Aprašymas: Šiuo metu Perkančiosios organizacijos infrastruktūroje yra įdiegta klientų srautų valdymo sistema 
+Orchestra 7 4.4.0 v su Qmatic gamintojo licencijuota technine įranga. Perkamos klientų srautų valdymo sistemos 
+techninės įrangos montavimo, remonto, konfigūravimo, programavimo paslaugos, įskaitant techninės įrangos remontui 
+reikalingas dalis
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72250000 Sistemų ir aptarnavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 25 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Regitra
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Akcinė bendrovė Regitra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 30 250 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Hansab
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000041800
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 8 288,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23371
+Sutarties sudarymo data: 16/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė Regitra
+Registracijos numeris: 110078991
+Pašto adresas: Liepkalnio g. 97A 
+Miestas: Vilnius
+Pašto kodas: 02121
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vaida.sakalauskiene@regitra.lt
+Telefono numeris: +37060097479
+Pirkėjo profilis: www.regitra.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Hansab
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111510685
+Pašto adresas: Savanorių pr. 180A 
+Miestas: Vilnius
+Pašto kodas: LT-03154
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda@hansab.lt
+Telefono numeris: +37062036036
+Interneto adresas: www.hansab.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 20978ce4-c105-4720-bb03-dad0f07c6538 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/07/2025 12:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

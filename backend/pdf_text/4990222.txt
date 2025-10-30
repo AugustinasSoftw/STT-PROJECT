@@ -1,0 +1,151 @@
+Lietuva: Dyzelinis kuras
+26012 Dyzelinis kuras (DPS: 18808)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Pirkėjo teisinė forma: Organizacija, skirianti sutartį, subsidijuojamą centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 26012 Dyzelinis kuras (DPS: 18808)
+Aprašymas: Šioje Dinaminėje pirkimo sistemoje yra tęsiama senoje CVP IS 2024-11-26 paskelbta Dinaminė pirkimo 
+sistema Nr. 748496 iš konkretaus DPS paskelbto senoje aplinkoje CVP IS 2021-08-07 Nr. 55889. Pirkimo dokumentai 
+ir skelbimas apie pirkimą yra paskelbti senoje CVP IS, Šioje sistemoje įkelti dokumentai paviešinti senoje sistemoje ir 
+po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Procedūros identifikatorius: 7ecff21c-1697-4c76-9712-57ed25b0384a
+Ankstesnis skelbimas: bb092a1b-96bc-47c5-8261-13d7de5548cf-01
+Pirkimo būdas: Ribotas
+Pagrindiniai procedūros ypatumai: Dinaminė Pirkimo sistema
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09134200 Dyzelinis kuras
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 26012 Dyzelinis kuras (DPS: 18808)
+Aprašymas: Šioje Dinaminėje pirkimo sistemoje yra tęsiama senoje CVP IS 2024-11-26 paskelbta Dinaminė pirkimo 
+sistema Nr. 748496 iš konkretaus DPS paskelbto senoje aplinkoje CVP IS 2021-08-07 Nr. 55889. Pirkimo dokumentai 
+ir skelbimas apie pirkimą yra paskelbti senoje CVP IS, Šioje sistemoje įkelti dokumentai paviešinti senoje sistemoje ir 
+po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 46 300 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kainos ir kokybės santykis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Pirmas kriterijus Visa Pasiūlymo 
+kaina (A) x=98 Antras kriterijus Pasiūlymo kaina žiemos (Sausio, Vasario, Gruodžio mėn.) laikotarpiu Prekei su 
+sintetiniu bio priedu (B)* y=2
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+Dinaminės pirkimo sistemos taikymas nutraukiamas
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: UAB LTG Kompetencijų centras
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Lietuvos geležinkeliai (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 46 300 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Akcinė bendrovė ORLEN Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000007504
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 12 681 539,77 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16378
+Data, kurią buvo pasirinktas laimėtojas: 09/01/2025
+Sutarties sudarymo data: 23/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Registracijos numeris: 110053842
+Pašto adresas: Geležinkelio g. 16 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Akcinė bendrovė ORLEN Lietuva
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 166451720
+Pašto adresas: Mažeikių g. 75, Juodeikių k., LT-89453 Mažeikių r 
+Miestas: Mažeikiai
+Pašto kodas: LT-89453
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: vidmantas.ciegis@orlenlietuva.lt
+Telefono numeris: +37044392146
+Interneto adresas: www.orlenlietuva.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a71509ed-c4c9-4fc7-b8da-27bb4284f019 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/10/2025 11:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,165 @@
+Lietuva: Apsaugos paslaugos
+Pastatų apsauga (Skelbiamos apklausos būdu)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinis M.K Čiurlionio dailės muziejus
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pastatų apsauga (Skelbiamos apklausos būdu)
+Aprašymas: APSAUGOS IR JAI REIKALINGOS ĮRANGOS, NUOMOS, TECHNINĖS PRIEŽIŪROS BEI REMONTO 
+PASLAUGOS.
+Procedūros identifikatorius: 93d4268b-fabe-4876-9ac4-e603814b781a
+Ankstesnis skelbimas: e152bb64-8430-4332-b64a-23787fdd00d7-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79713000 Apsaugos paslaugos
+Kiti klasifikacijos kodai (cpv): 79711000 Signalizacijos sistemų stebėsenos paslaugos
+Kiti klasifikacijos kodai (cpv): 50610000 Apsaugos įrangos remonto ir priežiūros paslaugos
+Kiti klasifikacijos kodai (cpv): 32323500 Stebėjimo videosistema
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Kaunas
+2.1.3 Vertė
+Numatoma vertė be PVM: 70 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pastatų apsauga (Skelbiamos apklausos būdu)
+Aprašymas: APSAUGOS IR JAI REIKALINGOS ĮRANGOS, NUOMOS, TECHNINĖS PRIEŽIŪROS BEI REMONTO 
+PASLAUGOS.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Kiti sutarties objektai: darbai
+Pagrindinis klasifikacijos kodas (cpv): 79713000 Apsaugos paslaugos
+Kiti klasifikacijos kodai (cpv): 79711000 Signalizacijos sistemų stebėsenos paslaugos
+Kiti klasifikacijos kodai (cpv): 50610000 Apsaugos įrangos remonto ir priežiūros paslaugos
+Kiti klasifikacijos kodai (cpv): 32323500 Stebėjimo videosistema
+Kiekis: 1 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Kaunas
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 70 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Poveikio aplinkai mažinimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nurodyti pirkimo sąlygose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyti pirkimo sąlygose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinis M.K Čiurlionio dailės muziejus -
+Organizacija, pasirašanti sutartį: Nacionalinis M.K Čiurlionio dailės muziejus
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 70 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Ekskomisarų biuras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000015475
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 51 210,66 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4170
+Sutarties sudarymo data: 25/01/2025
+Organizacija, pasirašanti sutartį: Nacionalinis M.K Čiurlionio dailės muziejus
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinis M.K Čiurlionio dailės muziejus
+Registracijos numeris: 190755932
+Pašto adresas: K.Donelaičio g. 64 
+Miestas: Kaunas
+Pašto kodas: LT - 44248
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: mkc.info@ciurlionis.lt
+Telefono numeris: +37068484463
+Pirkėjo profilis: www.ciurlionis.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Ekskomisarų biuras"
+Registracijos numeris: 122755433
+Pašto adresas: Laisvės pr. 10, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: mantas.kumpys@ekskomisarai.lt
+Telefono numeris: 861247884
+Interneto adresas: www.ekskomisarai.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8e67e12d-134b-4329-9908-a9f5ba4fd507 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/02/2025 10:17 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

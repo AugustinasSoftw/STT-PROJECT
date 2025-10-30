@@ -1,0 +1,154 @@
+Lietuva: Programinės įrangos kūrimo paslaugos
+RRF projekto "Socialinių paslaugų prieinamumo didinimas" TPP užsakymo ir išdavimo 
+posistemio programinės įrangos kūrimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos Respublikos socialinės apsaugos ir darbo ministerija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: RRF projekto "Socialinių paslaugų prieinamumo didinimas" TPP užsakymo ir išdavimo posistemio 
+programinės įrangos kūrimo paslaugos
+Aprašymas: RF projekto "Socialinių paslaugų prieinamumo didinimas" TPP užsakymo ir išdavimo posistemio 
+programinės įrangos kūrimo paslaugos
+Procedūros identifikatorius: a59dea48-84af-4ddf-8858-12da7d42f5ef
+Ankstesnis skelbimas: aeb7eadb-2784-42e3-9588-bd8b9902e0ac-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: RRF projekto "Socialinių paslaugų prieinamumo didinimas" TPP užsakymo ir išdavimo posistemio 
+programinės įrangos kūrimo paslaugos
+Aprašymas: RF projekto "Socialinių paslaugų prieinamumo didinimas" TPP užsakymo ir išdavimo posistemio 
+programinės įrangos kūrimo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialistų patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Specialistų patirtis
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 0
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos Respublikos socialinės apsaugos ir 
+darbo ministerija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 769 400 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: GO-ERP UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000041196
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 690 135,6 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16117
+Sutarties sudarymo data: 16/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos Respublikos socialinės apsaugos ir darbo ministerija
+Registracijos numeris: 188603515
+Pašto adresas: A. Vivulskio g. 11, 
+Miestas: Vilniaus
+Pašto kodas: 03162
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: post@socmin.lt
+Telefono numeris: +370 5 266 4201
+Fakso numeris: +370 5 266 4209
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: GO-ERP UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302602282
+Pašto adresas: Pilaitės pr. 16 
+Miestas: Vilnius
+Pašto kodas: LT-04352
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: edvardas@go-erp.eu
+Telefono numeris: +37061540779
+Interneto adresas: www.go-erp.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 9af3c86b-1291-450a-92bd-7bdcd92f54da - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/05/2025 17:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

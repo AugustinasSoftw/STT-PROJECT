@@ -1,0 +1,148 @@
+Lietuva: Pastoliai
+(10094) Pastolių nuoma su montavimo darbais
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB KN Energies
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (10094) Pastolių nuoma su montavimo darbais
+Aprašymas: Pastolių nuoma su montavimo darbais
+Procedūros identifikatorius: 283ecfdb-911b-46de-aeda-57dcb168b1ce
+Ankstesnis skelbimas: 31bd6322-02a2-47e2-8f95-430f6e7e7102-02
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44212310 Pastoliai
+Kiti klasifikacijos kodai (cpv): 45262100 Pastolių surinkimo darbai
+Kiti klasifikacijos kodai (cpv): 45262110 Pastolių išmontavimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 100 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (10094) Pastolių nuoma su montavimo darbais
+Aprašymas: Pastolių nuoma su montavimo darbais
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44212310 Pastoliai
+Kiti klasifikacijos kodai (cpv): 45262100 Pastolių surinkimo darbai
+Kiti klasifikacijos kodai (cpv): 45262110 Pastolių išmontavimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 100 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Komunalinio sektoriaus pirkimų įstatymo VII skyriaus nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: Komunalinio sektoriaus pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB KN Energies -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB KN Energies -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 100 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Hotrema
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027637
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 5 501,15 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6148
+Data, kurią buvo pasirinktas laimėtojas: 05/03/2025
+Sutarties sudarymo data: 12/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB KN Energies
+Registracijos numeris: 110648893
+Pašto adresas: Burių g. 19, Klaipėda 
+Miestas: Klaipėda
+Pašto kodas: 92276
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: d.nedzveckas@kn.lt
+Telefono numeris: +370 620 18249
+Interneto adresas: www.kn.lt
+Pirkėjo profilis: www.kn.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Hotrema
+Registracijos numeris: 302747986
+Pašto adresas: Montuotojų g. 1C 
+Miestas: Mažeikiai
+Pašto kodas: LT-89101
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: markas.galdikas@hotrema.lt
+Telefono numeris: +37066775972
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26, 
+Miestas: Klaipėda
+Pašto kodas: LT-92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +37046390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 980d6e32-0411-4fdf-b0d1-99bb916f635c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/03/2025 11:03 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,123 @@
+Lietuva: Duomenų bazių ir operacinių sistemų programinės įrangos paketai
+ATSTUMINĖS KELIŲ RINKLIAVOS SISTEMOS, PAREMTOS GNSS AR LYGIAVERTE 
+TECHNOLOGIJA, NUOMOS PIRKIMAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ATSTUMINĖS KELIŲ RINKLIAVOS SISTEMOS, PAREMTOS GNSS AR LYGIAVERTE 
+TECHNOLOGIJA, NUOMOS PIRKIMAS
+Aprašymas: Pirkimo objektas - atstuminės kelių rinkliavos sistemos, paremtos GNSS ar lygiaverte technologija, 
+nuomos pirkimas,
+Procedūros identifikatorius: fe0fc283-872a-4ee5-b73e-fe0909461aca
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48600000 Duomenų bazių ir operacinių sistemų programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: ATSTUMINĖS KELIŲ RINKLIAVOS SISTEMOS, PAREMTOS GNSS AR LYGIAVERTE 
+TECHNOLOGIJA, NUOMOS PIRKIMAS
+Aprašymas: Pirkimo objektas - atstuminės kelių rinkliavos sistemos, paremtos GNSS ar lygiaverte technologija, 
+nuomos pirkimas,
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48600000 Duomenų bazių ir operacinių sistemų programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 50
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Sutarties I dalies įvykdymo terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Neprivalomų reikalavimų įgyvendinimas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriuje.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Lietuvos Respublikos viešųjų pirkimų įstatymo VII 
+skyriuje.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Peržiūros institucijos arba kitos teisminės institucijos sprendimas
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lijana.palsiene@vialietuva.lt
+Telefono numeris: 862024412
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 69600cc0-bd5f-412c-a0a1-9bf4e32fee09 - 03
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/01/2025 09:31 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,270 @@
+Lietuva: Dozimetrai
+Paviršinės taršos matuokliai, dozimetrai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Paviršinės taršos matuokliai, dozimetrai
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-10 paskelbto pirkimo Nr. 741558 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.”
+Procedūros identifikatorius: d2e85d8b-4eda-44ca-b820-af3bc5716392
+Ankstesnis skelbimas: cde9fee8-3d7e-4b55-8577-5fac156d8e29-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38527200 Dozimetrai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Paviršinės taršos matuokliai
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-10 paskelbto pirkimo Nr. 741558 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.”
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38527200 Dozimetrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Asmeniniai dozimetrai
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-10 paskelbto pirkimo Nr. 741558 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.”
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38527200 Dozimetrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Dozimetras, skirtas α, β spinduliams arba γ spinduliuotei aptikti
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-10-10 paskelbto pirkimo Nr. 741558 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.”
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38527200 Dozimetrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: kaip numatyta VPĮ VII dalyje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Priešgaisrinės apsaugos ir gelbėjimo 
+departamentas prie Vidaus reikalų ministerijos -
+Organizacija, atliekanti mokėjimus: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų 
+ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 103 306 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: LOKMIS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000007820
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 61 983 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6532
+Sutarties sudarymo data: 10/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: LOKMIS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000007820
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 41 322 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6533
+Sutarties sudarymo data: 17/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos
+Registracijos numeris: 188601311
+Pašto adresas: Švitrigailos g. 18 
+Miestas: Vilnius
+Pašto kodas: 03223
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: pagd@vpgt.lt
+Telefono numeris: 070756866
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: LOKMIS
+Registracijos numeris: 123011245
+Pašto adresas: Visorių g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-08300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: office@lokmis.lt
+Telefono numeris: +37052151895
+Fakso numeris: +37052151746
+Interneto adresas: www.lokmis.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: cc3594d8-6416-49b5-bcb3-8db91fec320f - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/03/2025 08:49 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

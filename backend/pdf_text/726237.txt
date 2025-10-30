@@ -1,0 +1,146 @@
+Lietuva: Spausdintuvai ir braižytuvai
+Daugiafunkcinių įrenginių pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė maisto ir veterinarijos tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Daugiafunkcinių įrenginių pirkimas
+Aprašymas: 2024-11-07 d. senojoje CVP IS versijoje paskelbto pirkimo Nr. 745171 perskelbimas
+Procedūros identifikatorius: e680ae84-d948-4a95-82a3-e2d65109fd2d
+Ankstesnis skelbimas: b42e8b34-90bb-4580-9241-44c5acfa5688-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30232100 Spausdintuvai ir braižytuvai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Daugiafunkcinių įrenginių pirkimas
+Aprašymas: 2024-11-07 d. senojoje CVP IS versijoje paskelbto pirkimo Nr. 745171 perskelbimas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30232100 Spausdintuvai ir braižytuvai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: 1.1. Pirkimas laikomas žaliuoju pagal Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 
+d. įsakymu Nr. D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 
+„Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos 
+apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi 
+taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ patvirtinto Aplinkos 
+apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo III sk. 3 punktu - Prekės turi atitikti 
+aukščiausio energinio efektyvumo klasę (prieinamą Lietuvos rinkoje), nustatytą Europos Komisijos reglamentuose 
+dėl gaminių energijos vartojimo efektyvumo ženklinimo reikalavimus.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: ekonomiškai naudingiausią pasiūlymą išrenkamas pagal kainą.
+Lyginamasis svoris (dešimtainė sistema, tikslus skaičius): 1
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė maisto ir veterinarijos tarnyba
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 40 535 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Novakopa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000010068
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2218
+Sutarties sudarymo data: 08/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė maisto ir veterinarijos tarnyba
+Registracijos numeris: 188601279
+Pašto adresas: Siesikų g. 19 
+Miestas: Vilnius
+Pašto kodas: LT-07170
+Šalis: Lietuva
+E. paštas: agne.kavoliene@vmvt.lt
+Telefono numeris: +37065024212
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Novakopa
+Registracijos numeris: 135592370
+Pašto adresas: A. Juozapavičiaus pr. 7M, 
+Miestas: Kaunas
+Pašto kodas: LT-45251
+Šalis: Lietuva
+E. paštas: arunas@novakopa.lt
+Telefono numeris: +37037200896
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: a6d1edac-4610-4355-a7f9-5a8ee8582916 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/01/2025 17:09 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

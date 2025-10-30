@@ -1,0 +1,459 @@
+Lietuva: Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos
+818219 Kelionių organizavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 818219 Kelionių organizavimo paslaugos
+Aprašymas: Kelionių organizavimo paslaugos
+Procedūros identifikatorius: 3153e2e8-93ba-432d-a772-17cca98179ee
+Ankstesnis skelbimas: 40637-2025
+Vidaus identifikatorius: 818219
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63500000 Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos
+Kiti klasifikacijos kodai (cpv): 63512000 Kelionių bilietų pardavimo ir turistinių kelionių organizavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Tarnybinių kelionių užsienyje (ekstradicijų) organizavimo paslaugos
+Aprašymas: Tarnybinių kelionių užsienyje (ekstradicijų) organizavimo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63500000 Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ (toliau - Tvarkos aprašas) 4.3 ir 4.4.4 
+punktais atliekamas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Specialistų kvalifikacija
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 67
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialistų kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 23
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkos apsaugos vadybos sistemos taikymas paslaugoms
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos -
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Kelionių užsienyje organizavimo paslaugos (PD)
+Aprašymas: Kelionių užsienyje organizavimo paslaugos (PD)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63500000 Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ (toliau - Tvarkos aprašas) 4.3 ir 4.4.4 
+punktais atliekamas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 67
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialistų kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 23
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkos apsaugos vadybos sistemos taikymas paslaugoms
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos -
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Kelionių užsienyje organizavimo paslaugos (LKPB)
+Aprašymas: Kelionių užsienyje organizavimo paslaugos (LKPB)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63500000 Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ (toliau - Tvarkos aprašas) 4.3 ir 4.4.4 
+punktais atliekamas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 67
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialistų kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 23
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkos apsaugos vadybos sistemos taikymas paslaugoms
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos -
+Organizacija, pasirašanti sutartį: Lietuvos kriminalinės policijos biuras
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Kelionių Lietuvoje organizavimo paslaugos
+Aprašymas: Kelionių Lietuvoje organizavimo paslaugos
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63500000 Kelionių agentūrų, kelionių operatorių ir pagalbinės turizmo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 
+„Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Produktų, kurių 
+viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir 
+aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, 
+paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ (toliau - Tvarkos aprašas) 4.3 ir 4.4.4 
+punktais atliekamas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 75
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialistų kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 15
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aplinkos apsaugos vadybos sistemos taikymas paslaugoms
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos -
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 4 067 600 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „ZIP Travel“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1PasiūlymasZIP
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1SutartisZIP
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 22/04/2025
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Laimėtojas:
+Oficialus pavadinimas: UAB „ZIP Travel“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1PasiūlymasZIP
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1SutartisZIP
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 22/04/2025
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Laimėtojas:
+Oficialus pavadinimas: UAB „ZIP Travel“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1PasiūlymasZIP
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1SutartisZIP
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 22/04/2025
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Vestekspress“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2PasiūlymasWest
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2SutartisWest
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 24/04/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Vidaus saugumo fondas (VSF) (2021/2027)
+ES fondų identifikatorius: Vidaus saugumo fondas (VSF) (2021/2027)
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „BPC Travel“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2PasiūlymasBPC
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 3SutartisBPC
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 28/04/2025
+Organizacija, pasirašanti sutartį: Lietuvos kriminalinės policijos biuras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „ZIP Travel“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2PasiūlymasZIP
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4SutartisZIP
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 06/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Vidaus saugumo fondas (VSF) (2021/2027)
+ES fondų identifikatorius: Vidaus saugumo fondas (VSF) (2021/2027)
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Laimėtojas:
+Oficialus pavadinimas: UAB „ZIP Travel“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2PasiūlymasZIP
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4SutartisZIP
+Data, kurią buvo pasirinktas laimėtojas: 13/03/2025
+Sutarties sudarymo data: 06/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Vidaus saugumo fondas (VSF) (2021/2027)
+ES fondų identifikatorius: Vidaus saugumo fondas (VSF) (2021/2027)
+Organizacija, pasirašanti sutartį: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188785847
+Pašto adresas: Saltoniškių g. 19 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: agnija.solovjova@policija.lt
+Telefono numeris: +370 64669735
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „ZIP Travel“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135474614
+Miestas: Kaunas
+Pašto kodas: 44303
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0004
+8.1 ORG-0005
+Oficialus pavadinimas: UAB „Vestekspress“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110461363
+Pašto adresas: A. Stulginskio g. 5-59, LT-01115 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01115
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0006
+Oficialus pavadinimas: UAB „BPC Travel“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300139120
+Miestas: Vilnius
+Pašto kodas: 09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0007
+Oficialus pavadinimas: Lietuvos kriminalinės policijos biuras
+Registracijos numeris: 188785270
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: bb5568bc-b5a0-4061-9225-44ff4eadc614 - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/06/2025 13:12 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

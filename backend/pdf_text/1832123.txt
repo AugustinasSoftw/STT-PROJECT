@@ -1,0 +1,193 @@
+Lietuva: Programinės įrangos paketai ir informacinės sistemos
+Kompiuterinių darbo vietų pažeidžiamumų skenavimo programinė įranga
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kompiuterinių darbo vietų pažeidžiamumų skenavimo programinė įranga
+Aprašymas: Kompiuterinių darbo vietų pažeidžiamumų skenavimo programinės įrangos licencijų komplektas, kurį 
+sudaro 1700 vnt.
+Procedūros identifikatorius: cddeeec7-d953-4e2c-bc0d-60a1a6b81327
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48732000 Duomenų apsaugos programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48900000 Įvairūs programinės įrangos paketai ir kompiuterių sistemos
+Kiti klasifikacijos kodai (cpv): 48980000 Programavimo kalbos ir priemonės
+Kiti klasifikacijos kodai (cpv): 48200000 Tinklo kūrimo, interneto ir intraneto programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48321000 Automatizuotojo projektavimo sistemų (CAD) programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48331000 Projektų valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48420000 Įrangos valdymo programinės įrangos paketai ir programinės įrangos paketų 
+rinkiniai
+Kiti klasifikacijos kodai (cpv): 48443000 Sąskaitybos programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48517000 Informacinių technologijų programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48520000 Multimedijos programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+Kiti klasifikacijos kodai (cpv): 48730000 Apsaugos programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kompiuterinių darbo vietų pažeidžiamumų skenavimo programinė įranga
+Aprašymas: Kompiuterinių darbo vietų pažeidžiamumų skenavimo programinės įrangos licencijų komplektas, kurį 
+sudaro 1700 vnt.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+Kiti klasifikacijos kodai (cpv): 48732000 Duomenų apsaugos programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48820000 Serveriai
+Kiti klasifikacijos kodai (cpv): 48900000 Įvairūs programinės įrangos paketai ir kompiuterių sistemos
+Kiti klasifikacijos kodai (cpv): 48980000 Programavimo kalbos ir priemonės
+Kiti klasifikacijos kodai (cpv): 48200000 Tinklo kūrimo, interneto ir intraneto programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48219300 Administravimo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48321000 Automatizuotojo projektavimo sistemų (CAD) programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48331000 Projektų valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48420000 Įrangos valdymo programinės įrangos paketai ir programinės įrangos paketų 
+rinkiniai
+Kiti klasifikacijos kodai (cpv): 48443000 Sąskaitybos programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48517000 Informacinių technologijų programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48520000 Multimedijos programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48700000 Programinės įrangos paketų paslaugų programos
+Kiti klasifikacijos kodai (cpv): 48730000 Apsaugos programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 75 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Aplinkos apsaugos kriterijų taikymas pagal Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymą.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinama pasiūlymo kaina eurais už visą pirkimo objektą, įskaitant visus mokesčius (taip pat ir PVM, 
+jei taikoma) ir visas tiekėjo išlaidas, susijusias su sutarties vykdymu.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 99
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: jei tiekėjas pasiūlo 5 (penkių) darbo dienų licencijų trūkumų pastebėtų licencijų perdavimo - priėmimo 
+metu ar (ir) po akto pasirašymo pašalinimo terminą, tiekėjui skiriamas 1 balas; jei tiekėjas pasiūlo 10 (dešimt) 
+darbo dienų licencijų trūkumų pastebėtų licencijų perdavimo - priėmimo metu ar (ir) po akto pasirašymo pašalinimo 
+terminą, tiekėjui skiriama 0 balų.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 1
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Pretenzijų ir ieškinių pateikimo tvarka ir terminai nurodyti motininio DPS pirkimo 
+sąlygų 13 dalyje.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Pretenzijų ir ieškinių pateikimo tvarka ir terminai nurodyti motininio DPS pirkimo 
+sąlygų 13 dalyje.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 74 460 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Atviros informacinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000025777
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 74 460 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6696
+Data, kurią buvo pasirinktas laimėtojas: 07/03/2025
+Sutarties sudarymo data: 19/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: ST-90 (5.7 Mr)
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Valda.Darguziene@registrucentras.lt
+Telefono numeris: +370 669 90409
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Atviros informacinės sistemos
+Registracijos numeris: 300040275
+Pašto adresas: Perkūnkiemio g. 6 
+Miestas: Vilnius
+Pašto kodas: 12130
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lina@distributor.lt
+Telefono numeris: +37061114403
+Interneto adresas: www.distributor.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 4488e5f8-a1b1-4253-b11d-4255ac98a694 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/03/2025 15:55 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,182 @@
+Lietuva: Transporto priemonių ir su jomis susijusių įrenginių remonto, priežiūros ir kitos 
+paslaugos
+Tarnybinių transporto priemonių techninės priežiūros ir remonto paslaugų, atsarginių dalių 
+pirkimas Plungės mieste
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Tarnybinių transporto priemonių techninės priežiūros ir remonto paslaugų, atsarginių dalių pirkimas 
+Plungės mieste
+Aprašymas: 1. Pirkimo objektas - Klaipėdos AVPK Plungės rajono policijos komisariato (toliau - perkančioji 
+organizacija) tarnybinių transporto priemonių techninės priežiūros ir remonto paslaugos (toliau - paslaugos). 
+2. Paslaugos perkamos pagal perkančiosios organizacijos faktinį poreikį ir finansinę padėtį, priklausomai nuo 
+tarnybinių transporto priemonių ir jų gedimų skaičiaus. Perkančioji organizacija neįsipareigoja nupirkti viso nurodyto 
+preliminaraus paslaugų kiekio ar nupirkti paslaugų už visą maksimalią sutarties vertę. 3. Tarnybinėms transporto 
+priemonėms prižiūrėti ir remontuoti, kurioms galioja pardavėjo taikoma garantija, paslaugos bus įsigyjamos tik tokia 
+apimtimi ar pobūdžiu, kuris neturėtų įtakos garantijos taikymui.
+Procedūros identifikatorius: 1989e3a8-00f4-4fbe-996c-811024300366
+Ankstesnis skelbimas: 3af21259-3bef-4275-9ca2-c1b757570324-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+2.1.2 Sutarties vykdymo vieta
+Miestas: Plungė
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Tarnybinių transporto priemonių techninės priežiūros ir remonto paslaugos
+Aprašymas: 1. Pirkimo objektas - Klaipėdos AVPK Plungės rajono policijos komisariato (toliau - perkančioji 
+organizacija) tarnybinių transporto priemonių techninės priežiūros ir remonto paslaugos (toliau - paslaugos). 
+2. Paslaugos perkamos pagal perkančiosios organizacijos faktinį poreikį ir finansinę padėtį, priklausomai nuo 
+tarnybinių transporto priemonių ir jų gedimų skaičiaus. Perkančioji organizacija neįsipareigoja nupirkti viso nurodyto 
+preliminaraus paslaugų kiekio ar nupirkti paslaugų už visą maksimalią sutarties vertę. 3. Tarnybinėms transporto 
+priemonėms prižiūrėti ir remontuoti, kurioms galioja pardavėjo taikoma garantija, paslaugos bus įsigyjamos tik tokia 
+apimtimi ar pobūdžiu, kuris neturėtų įtakos garantijos taikymui.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50100000 Transporto priemonių ir su jomis susijusių įrenginių remonto, 
+priežiūros ir kitos paslaugos
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+5.1.2 Sutarties vykdymo vieta
+Miestas: Plungė
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 60 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Informacija nurodyta pirkimo dokumentuose
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Kita paslaugų teikimo 
+sutartis
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Informacija nurodyta pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Informacija nurodyta pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Policijos departamentas prie Lietuvos Respublikos 
+vidaus reikalų ministerijos
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Policijos departamentas prie Lietuvos 
+Respublikos vidaus reikalų ministerijos
+Organizacija, atliekanti mokėjimus: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 60 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Autoalvus
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000094447
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 39 204 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30597
+Pavadinimas: KLAIPĖDOS APSKRITIES VYRIAUSIOJO POLICIJOS KOMISARIATO TARNYBINIŲ 
+TRANSPORTO PRIEMONIŲ TECHNINĖS PRIEŽIŪROS IR REMONTO PASLAUGŲ PLUNGĖS RAJONO 
+SAVIVALDYBĖJE VIEŠOJO PIRKIMO-PARDAVIMO SUTARTIS
+Data, kurią buvo pasirinktas laimėtojas: 17/09/2025
+Sutarties sudarymo data: 17/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188785847
+Pašto adresas: Saltoniškių g. 19 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: irmina.tuziene@policija.lt
+Telefono numeris: +370 646 51 579
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Autoalvus
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 171764229
+Pašto adresas: J. Žilevičiaus g. 1 
+Miestas: Plungė
+Pašto kodas: 90143
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: autoalvus@yahoo.com
+Telefono numeris: +37068697154
+Interneto adresas: www.autoalvus.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 2551018e-ca32-4e7d-a73b-8744c70b393e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 22/09/2025 16:03 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

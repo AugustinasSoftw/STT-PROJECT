@@ -1,0 +1,331 @@
+Lietuva: Duomenų saugojimo paslaugos
+Viešosios debesijos paslaugos (VSSA)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Viešosios debesijos paslaugos (VSSA)
+Aprašymas: Viešosios debesijos paslaugos (VSSA) (III pirkimo dalys)
+Procedūros identifikatorius: e696ae1e-a0aa-432b-90cc-a80d24ac0f57
+Ankstesnis skelbimas: d88ba0f1-a473-47dd-8133-3f8447a72a38-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72317000 Duomenų saugojimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 5 940 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo dalis - Viešosios debesijos paslaugos
+Aprašymas: Viešosios debesijos paslaugos (VSSA) (III pirkimo dalys)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72317000 Duomenų saugojimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 980 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, atliekanti mokėjimus: Valstybės skaitmeninių sprendimų agentūra
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo dalis - Viešosios debesijos paslaugos
+Aprašymas: Viešosios debesijos paslaugos (VSSA) (III pirkimo dalys)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72317000 Duomenų saugojimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 980 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, atliekanti mokėjimus: Valstybės skaitmeninių sprendimų agentūra
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III pirkimo dalis - Viešosios debesijos paslaugos
+Aprašymas: Viešosios debesijos paslaugos (VSSA) (III pirkimo dalys)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72317000 Duomenų saugojimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 980 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, atliekanti mokėjimus: Valstybės skaitmeninių sprendimų agentūra
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 5 940 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: Atea
+Oficialus pavadinimas: ATEA AS, ATEA Finland Oy
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028438
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 980 000 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 25
+Aprašymas: IBM Lietuva, UAB
+Informacija apie sutartį:
+Sutarties identifikatorius: 32517
+Sutarties sudarymo data: 22/08/2025
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Fortevento
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028425
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 1 980 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32518
+Sutarties sudarymo data: 07/10/2025
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: TeraSky Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000028323
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 1 980 000 Euro
+Vieta laimėtojų sąraše: 1
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 15
+Aprašymas: TeraSky Baltic
+Informacija apie sutartį:
+Sutarties identifikatorius: 32519
+Sutarties sudarymo data: 05/09/2025
+Organizacija, pasirašanti sutartį: Valstybės skaitmeninių sprendimų agentūra
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.viteikiene@cpo.lt
+Telefono numeris: +37066629019
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, įsigyjanti kitiems pirkėjams skirtas prekes ir (arba) paslaugas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: TeraSky Baltic
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 304935428
+Pašto adresas: Kareivių g. 11B 
+Miestas: Vilnius
+Pašto kodas: LT-09109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: office.vilnius@terasky.com
+Telefono numeris: +37066074921
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Fortevento
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 302327313
+Pašto adresas: Lvivo g. 105A 
+Miestas: Vilnius
+Pašto kodas: 08104
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: patricija.kasperovic@fortevento.lt
+Telefono numeris: +37067952619
+Interneto adresas: www.fortevento.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0004
+Oficialus pavadinimas: Atea
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 122588443
+Pašto adresas: J. Rutkausko g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@atea.lt
+Telefono numeris: +37052397830
+Fakso numeris: +37052397831
+Interneto adresas: www.atea.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0007
+Oficialus pavadinimas: ATEA AS
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 976239997
+Miestas: Oslas
+Pašto kodas: 0579
+Šalies administracinis vienetas (NUTS): Oslo (NO081)
+Šalis: Norvegija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0008
+Oficialus pavadinimas: ATEA Finland Oy
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 0919156-0
+Miestas: Vantaa
+Pašto kodas: 01600
+Šalies administracinis vienetas (NUTS): Helsinki-Uusimaa (FI1B1)
+Šalis: Suomija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0009
+Oficialus pavadinimas: Valstybės skaitmeninių sprendimų agentūra
+Registracijos numeris: 188772433
+Miestas: Vilnius
+Pašto kodas: 09319
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Organizacija, atliekanti mokėjimus
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 40114827-90ec-4f06-8456-98eaf55e8011 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/10/2025 14:02 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

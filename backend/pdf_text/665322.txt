@@ -1,0 +1,154 @@
+Lietuva: Piknometrai
+Matavimo prietaisas arba jų sistema kietųjų medžiagų fizinėms savybėms tirti
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vytauto Didžiojo universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Matavimo prietaisas arba jų sistema kietųjų medžiagų fizinėms savybėms tirti
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-11 paskelbto pirkimo (seno CVP IS Nr. 745687) 
+"Matavimo prietaisas arba jų sistema kietųjų medžiagų fizinėms savybėms tirti" procedūros. (1 komplektas): a) 
+tikrajam tankiui ir tūriui nustatyti įvertinant tiek atviras, tiek uždaras poras; b) kietųjų medžiagų aktyviajam lyginamajam 
+paviršiaus plotui BET (Brunauerio, Emmeto ir Tellerio teorijos) metodu nustatyti".
+Procedūros identifikatorius: d312ff3d-9f97-4d17-a8ec-de339a6767d2
+Ankstesnis skelbimas: e2d41e79-3401-43c5-962d-c6c39c0e5a25-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38425600 Piknometrai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Matavimo prietaisas arba jų sistema kietųjų medžiagų fizinėms savybėms tirti
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-11 paskelbto pirkimo (seno CVP IS Nr. 745687) 
+"Matavimo prietaisas arba jų sistema kietųjų medžiagų fizinėms savybėms tirti" procedūros. (1 komplektas): a) 
+tikrajam tankiui ir tūriui nustatyti įvertinant tiek atviras, tiek uždaras poras; b) kietųjų medžiagų aktyviajam lyginamajam 
+paviršiaus plotui BET (Brunauerio, Emmeto ir Tellerio teorijos) metodu nustatyti".
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38425600 Piknometrai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vytauto Didžiojo universitetas (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 31 885,12 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: T OPTIMUS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000006901
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1952
+Sutarties sudarymo data: 30/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos žemės ūkio fondas kaimo plėtrai 
+(EŽŪFKP) (2021/2027)
+ES fondų identifikatorius: Pirkimas finansuojamas iš projekto ŽŪA Nr. 35BV-04988 ,,Organinės 
+anglies panaudojimas ekosistemų paslaugų plėtrai, pritaikant ūkininkavimą prie klimato kaitos 
+ACT.LT“ (AgroCarbonTech.LT), vykdomas pagal KPP priemonę ,,Bendradarbiavimas“, veiklos sritį ,, Parama 
+EIP veiklos grupėms kurti ir jų veiklai vystyti“
+Išsamesnė informacija apie ES fondus: Projektas „Organinės anglies panaudojimas ekosistemų 
+paslaugų plėtrai, pritaikant ūkininkavimą prie klimato kaitos ACT.LT“ (AgroCarbonTech.LT), Nr. 35BV-
+KK-22-1-04988-PR001, vykdomas pagal Lietuvos kaimo plėtros 2014-2020 metų programos priemonės 
+„Bendradarbiavimas“ veiklos sritis „Parama EIP veiklos grupėms kurti ir jų veiklai vystyti“
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vytauto Didžiojo universitetas (PV)
+Registracijos numeris: 111950396
+Pašto adresas: K. Donelaičio g. 58, 
+Miestas: Kaunas
+Pašto kodas: 44248
+Šalis: Lietuva
+E. paštas: vilma.pavloviene@vdu.lt
+Telefono numeris: +37037752246
+Interneto adresas: www.vdu.lt
+Pirkėjo profilis: www.vdu.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: T OPTIMUS
+Registracijos numeris: 300050433
+Pašto adresas: Sakalų g. 17-1, Ringaudai, LT-53339 Kauno r. 
+Miestas: Kauno r.
+Pašto kodas: LT-53339
+Šalis: Lietuva
+E. paštas: info@toptimus.lt
+Telefono numeris: +37065647505
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 0e730bd5-0439-4e25-87dd-7c3b07acb294 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/01/2025 12:58 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

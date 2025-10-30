@@ -1,0 +1,162 @@
+Lietuva: Kraujui tirti skirti reagentai
+Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui 
+kapiliariniame kraujyje, su įrangos įsigijimu panaudos būdu (ATVIRAS KONKURSAS)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui kapiliariniame 
+kraujyje, su įrangos įsigijimu panaudos būdu (ATVIRAS KONKURSAS)
+Aprašymas: Vieno kraujo mėginio ištyrimui reikalingas medicinos priemonių bei priedų rinkinys, skirtas hemoglobino 
+koncentracijos nustatymui kapiliariniame kraujyje su įrangos įsigijimu panaudos būdu.
+Procedūros identifikatorius: 8f53c582-7063-431b-8699-8a4b1c0b5643
+Ankstesnis skelbimas: 981d808d-6e58-4f8e-80c1-5d0dc863bc7e-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 132 231,41 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Medicinos priemonių bei priedų rinkinys, skirtas hemoglobino koncentracijos nustatymui kapiliariniame 
+kraujyje, su įrangos įsigijimu panaudos būdu (ATVIRAS KONKURSAS)
+Aprašymas: Vieno kraujo mėginio ištyrimui reikalingas medicinos priemonių bei priedų rinkinys, skirtas hemoglobino 
+koncentracijos nustatymui kapiliariniame kraujyje su įrangos įsigijimu panaudos būdu.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696200 Kraujui tirti skirti reagentai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 132 231,41 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Povekio aplinkai mažinimas: mažinti popieriaus sunaudojimą, atsisakyti nebūtino dokumentų 
+kopijavimo ir spausdinimo.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Kaina
+Aprašymas: Lyginamasis svoris - 70 balų
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Sistemos techninės charakteristikos
+Aprašymas: Sistemos techninės charakteristikos
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Lyginamasis svoris - 30 balų
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Informacija apie peržiūros terminus
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Informacija apie peržiūros terminus
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Nacionalinis kraujo centras (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 143 481 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000038115
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 143 481,8 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16548
+Sutarties sudarymo data: 23/04/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Registracijos numeris: 126413338
+Pašto adresas: Žolyno g. 34 
+Miestas: Vilnius
+Pašto kodas: LT-10246
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: i.vaitekenaite@kraujodonoryste.lt
+Telefono numeris: +370 5 2392438
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Mediq Lietuva
+Registracijos numeris: 302513086
+Pašto adresas: Kolektyvo g. 15-20, 08314 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 08314
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: inga.rinkeviciene@mediq.com
+Telefono numeris: 065288446
+Fakso numeris: 052688470
+Interneto adresas: www.mediq.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 1baf1d63-303d-40d9-91cd-d38e278873f7 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/04/2025 09:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

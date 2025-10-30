@@ -1,0 +1,164 @@
+Lietuva: IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo 
+paslaugos
+Lietuvos Respublikos gyventojų registro bei Metrikacijos ir gyvenamosios vietos deklaravimo 
+informacinės sistemos priežiūros ir vystymo paslaugos (atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Lietuvos Respublikos gyventojų registro bei Metrikacijos ir gyvenamosios vietos deklaravimo 
+informacinės sistemos priežiūros ir vystymo paslaugos (atviras konkursas)
+Aprašymas: Perkamos Lietuvos Respublikos gyventojų registro bei Metrikacijos ir gyvenamosios vietos deklaravimo 
+informacinės sistemos priežiūros ir vystymo paslaugos
+Procedūros identifikatorius: f74529de-aca2-46d4-a576-4800afd3b2a8
+Ankstesnis skelbimas: 06b8eb3e-0b40-4c17-bcc9-3f73c7425b83-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72000000 IT paslaugos: konsultavimas, programinės įrangos kūrimas, 
+internetas ir aptarnavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Lietuvoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 800 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Lietuvos Respublikos gyventojų registro bei Metrikacijos ir gyvenamosios vietos deklaravimo 
+informacinės sistemos priežiūros ir vystymo paslaugos (atviras konkursas)
+Aprašymas: Perkamos Lietuvos Respublikos gyventojų registro bei Metrikacijos ir gyvenamosios vietos deklaravimo 
+informacinės sistemos priežiūros ir vystymo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72000000 IT paslaugos: konsultavimas, programinės įrangos kūrimas, 
+internetas ir aptarnavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Lietuva
+5.1.5 Vertė
+Numatoma vertė be PVM: 800 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkamos nematerialaus pobūdžio intelektinės paslaugos, nesusijusios su materialaus objekto 
+sukūrimu, kurių teikimo metu nebus sukurtas neigiamas poveikis aplinkai, taip pat nebus sukuriamas taršos šaltinis 
+ar generuojamos atliekos.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina, į kurią įskaičiuotos visos tiekėjo išlaidos, įskaitant PVM.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomas papildomų PHP programuotojų skaičius (P1)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 800 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: NFQ Technologies
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000047690
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 462 459 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24796
+Sutarties sudarymo data: 11/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: 124110246
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Rima.Rackauskiene@registrucentras.lt
+Telefono numeris: +370 649 49430
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: NFQ Technologies
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135867375
+Pašto adresas: Brastos g. 15, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 47183
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: tadas@nfq.com
+Telefono numeris: +37068779320
+Interneto adresas: www.nfq.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01400
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 93262106-1d17-4822-a057-b2e935a1bf8a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/07/2025 08:59 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

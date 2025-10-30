@@ -1,0 +1,152 @@
+Lietuva: Statybos darbai
+Užteršto grunto saugojimo aikštelės baigiamieji statybos darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Užteršto grunto saugojimo aikštelės baigiamieji statybos darbai
+Aprašymas: Užteršto grunto saugojimo aikštelės baigiamieji statybos darbai
+Procedūros identifikatorius: 8152f3b3-9a25-4ff0-b697-b67cacd10330
+Vidaus identifikatorius: 1537278
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Užteršto grunto saugojimo aikštelės baigiamieji statybos darbai
+Aprašymas: Užteršto grunto saugojimo aikštelės baigiamieji statybos darbai
+Vidaus identifikatorius: 1537278
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: ISO 14001
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto 
+direkcija (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Akcinė bendrovė Klaipėdos valstybinio jūrų 
+uosto direkcija (PV) -
+Organizacija, pasirašanti sutartį: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 953 461,51 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Sūduvos statyba“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 953 461,51 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Aprašymas: UAB "Parama" pasitelkiama darbų ir paslaugų vykdymui
+Informacija apie sutartį:
+Sutarties identifikatorius: 79-2025-141
+Data, kurią buvo pasirinktas laimėtojas: 30/04/2025
+Sutarties sudarymo data: 22/05/2025
+Organizacija, pasirašanti sutartį: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 6
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV)
+Registracijos numeris: 240329870
+Pašto adresas: J. Janonio g. 24-1, 
+Miestas: Klaipėda
+Pašto kodas: 92251
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: s.staponkus@port.lt
+Telefono numeris: 846499734
+Pirkėjo profilis: www.portofklaipeda.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: LT-92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 4639 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Sūduvos statyba“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 303389524
+Miestas: Kaunas
+Pašto kodas: LT-44303
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 79d9ffe7-01b9-4c6c-a040-894afa48b4d6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 05/06/2025 16:28 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

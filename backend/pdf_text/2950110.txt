@@ -1,0 +1,130 @@
+Lietuva: Programavimo paslaugos, susijusios su programinės įrangos produktų paketais
+Šiaulių m. savivaldybės ir Panevėžio m. savivaldybės turto valdymo sistema
+Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant sutrumpinti pasiūlymų 
+priėmimo terminą
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šiaulių miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šiaulių m. savivaldybės ir Panevėžio m. savivaldybės turto valdymo sistema
+Aprašymas: Numatoma įsigyti sistemos diegimo darbus, siekiant sukurti NT bei kito turto valdymo sistemą. 
+Planuojama apimtis: IT sprendimo sukūrimo paslaugos, mokymų ir konsultacinės paslaugos, universaliosios duomenų 
+teikimo sąsajos sukūrimas, pirminių duomenų struktūros aprašo parengimas, jungties su VDV IS sukūrimas ir kt. 
+Diegimo metu turės būti kuriamos tiesioginės sąsajos sistema - sistema. Elektroninių paslaugų inicijavimo naudotojo 
+sąsaja, paslaugų procesų konstravimas, asmens atpažintis, atsiskaitymai už paslaugas, komunikavimas su paslaugų 
+gavėjais, duomenų analizė, ataskaitos bei jų publikavimas, duomenų pakartotinio panaudojimo uždaviniai ir kt. 
+turės būti realizuojami naudojant bendro naudojimo platformų sprendinius, kuriuos kaip paslaugas teikia VIISP, VDV 
+IS, atvirų duomenų portalas ir kt. Nebus kuriami bendro naudojimo platformų paslaugas dubliuojantys sprendimai, 
+išskyrus atvejus, kai panaudojami jau anksčiau įdiegti sprendimai arba naujų sprendimų kūrimas pagrįstas būtinybe ir 
+suderintas su atitinkamų platformų valdytojais.
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos 
+produktų paketais
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: Sistema bus diegiama Šiaulių miesto ir Panevėžio miesto savivaldybėse
+2.1.3 Vertė
+Numatoma vertė be PVM: 538 454 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šiaulių m. savivaldybės ir Panevėžio m. savivaldybės turto valdymo sistema
+Aprašymas: Numatoma įsigyti sistemos diegimo darbus, siekiant sukurti NT bei kito turto valdymo sistemą. 
+Planuojama apimtis: IT sprendimo sukūrimo paslaugos, mokymų ir konsultacinės paslaugos, universaliosios duomenų 
+teikimo sąsajos sukūrimas, pirminių duomenų struktūros aprašo parengimas, jungties su VDV IS sukūrimas ir kt. 
+Diegimo metu turės būti kuriamos tiesioginės sąsajos sistema - sistema. Elektroninių paslaugų inicijavimo naudotojo 
+sąsaja, paslaugų procesų konstravimas, asmens atpažintis, atsiskaitymai už paslaugas, komunikavimas su paslaugų 
+gavėjais, duomenų analizė, ataskaitos bei jų publikavimas, duomenų pakartotinio panaudojimo uždaviniai ir kt. 
+turės būti realizuojami naudojant bendro naudojimo platformų sprendinius, kuriuos kaip paslaugas teikia VIISP, VDV 
+IS, atvirų duomenų portalas ir kt. Nebus kuriami bendro naudojimo platformų paslaugas dubliuojantys sprendimai, 
+išskyrus atvejus, kai panaudojami jau anksčiau įdiegti sprendimai arba naujų sprendimų kūrimas pagrįstas būtinybe ir 
+suderintas su atitinkamų platformų valdytojais.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos 
+produktų paketais
+Kiekis: 1 vienetas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: Sistema bus diegiama Šiaulių miesto ir Panevėžio miestų savivaldybėse
+5.1.3 Numatomas galiojimas
+Kitas galiojimas: Nežinomas
+5.1.6 Bendra informacija
+Rezervuota dalyvavimo teisė: Dalyvavimas nerezervuotas.
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Informacija apie Europos Sąjungos fondus
+ES fondai: programa: Europos Sąjungos ekonomikos gaivinimo priemonė (EURI) finansavimo išlaidos (2021/2027)
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.12 Pirkimo sąlygos
+Pateikimo sąlygos:
+Kalbos, kuriomis galima pateikti pasiūlymus arba dalyvavimo prašymus: lietuvių kalba
+Sutarties sąlygos:
+Sutartis turi būti vykdoma pagal globojamų darbo grupių užimtumo programas: Ne
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Šiaulių miesto savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šiaulių miesto savivaldybės administracija -
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šiaulių miesto savivaldybės administracija
+Registracijos numeris: 188771865
+Pašto adresas: Vasario 16-osios g. 62 
+Miestas: Šiauliai
+Pašto kodas: 76295
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: rastine@siauliai.lt
+Telefono numeris: +37041509490
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: cc0a2a59-76df-4dd5-ba8a-bd1f248d666d - 01
+Formos tipas: Planuojamas pirkimas
+Skelbimo rūšis: Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant 
+sutrumpinti pasiūlymų priėmimo terminą
+Skelbimo išsiuntimo data: 29/05/2025 12:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+Numatoma skelbimo apie viešąjį pirkimą pagal šią procedūrą paskelbimo data: 01/08/2025

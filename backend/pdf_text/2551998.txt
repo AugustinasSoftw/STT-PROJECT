@@ -1,0 +1,1659 @@
+Lietuva: Laboratoriniai reagentai
+Laboratoriniai reagentai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lazdijų rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Laboratoriniai reagentai
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Procedūros identifikatorius: 28e33d6d-0f94-4eb8-9de2-3518d06eddf3
+Ankstesnis skelbimas: acfd25f6-5891-43d6-a8ec-2bfd4ccd1b90-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 329 250 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Reagentai kraujo grupių pagal ABO sistemą ir RhD nustatymui
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 100 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Reagentai, papildomos priemonės imunohematologinių tyrimų atlikimui stulpelinės agliutinacijos metodu 
+prietaisu "BIO VUE" arba lygiaverčiu. Prietaisas "BIO VUE" yra įstaigos nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Reagentai, papildomos priemonės CRB tyrimų atlikimui (POCT) prietaisu QuikRead GO arba 
+lygiaverčiu. Prietaisas QuikRead GO yra įstaigos nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Reagentai, papildomos priemonės gliukozės, laktatų tyrimų atlikimui vienu metu arba atskirai (siūlyti 
+analizatorių panaudai)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 7 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Reagentai, papildomos priemonės krešėjimo sistemos tyrimų atlikimui analizatoriumi "Trombotimer 
+1" (arba lygiaverčiu). Analizatorius yra įstaigos nuosavybė
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 600 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Reagentai, papildomos priemonės elektrolitų tyrimų atlikimui analizatoriumi EASYLYTE PLIUS arba 
+lygiaverčiu. Analizatorius yra įstaigos nuosavybė
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Reagentai ir papildomos priemonės pH, kraujo dujų, elektrolitų, metabolitų tyrimų sistemos analizatoriui 
+ABL80 basic arba jam lygiaverčiui prietaisui. Analizatorius ABL80 basic yra įstaigos nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 25 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Hematologiniai tyrimai 5 dalių leukocitų diferenciacijos analizatoriumi Yumizen H 500 arba lygiavertis. 
+Automatinis hematologinis analizatorius YH500 yra įstaigos nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 18 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: Reagentai, papildomos priemonės ir eksploatacinės medžiagos imunologinių tyrimų atlikimui 
+automatiniu imunologinių tyrimų analizatoriumi (analizatorių siūlyti pagal panaudą)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 40 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Reagentai, papildomos priemonės biocheminių tyrimų atlikimui automatiniu biocheminiu analizatoriumi 
+su ISE moduliu (analizatorių siūlyti panaudai)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 58 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: Reagentai ir priemonės KRAUJO DUJŲ ir ELEKTROLITŲ tyrimams, kraujo dujų ir elektrolitų 
+analizatoriui. (Analizatorių siūlyti pagal panaudą)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 17 200 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: Reagentai bei papildomos priemonės automatiniam kraujo krešėjimo sistemos analizatoriui. 
+(Analizatorių siūlyti pagal panaudą)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 44 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0013
+Pavadinimas: Reagentai bei papildomos priemonės sausos imunochemijos analizatoriui. (Analizatorių siūlyti pagal 
+panaudą 2 vnt.)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 13
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 46 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0014
+Pavadinimas: Reagentai, papildomos priemonės šlapimo tyrimų atlikimui, šlapimo analizatoriumi. (Analizatorių siūlyti 
+pagal panaudą)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 14
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 3 300 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0015
+Pavadinimas: Darbo priemonių rinkinys standartizuotam šlapimo nuosėdų tyrimui atlikti. Įeina Centrifuginiai 
+mėgintuvėliai, pipetės mėginio lašinimui, vertinimo kameros, šlapimo nuosėdų kontrolė, šlapimo nuosėdų dažai
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 15
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 550 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0016
+Pavadinimas: Reagentai, papildomos priemonės hematologinių tyrimų atlikimui trijų dalių leukocitų diferenciacijos 
+automatiniu analizatoriumi "Mythic 18" (gamintojas Orphee) arba lygiaverčiu . Prietaisas "Mythic 18" yra įstaigos 
+nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 16
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 2 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0017
+Pavadinimas: Reagentai, papildomos priemonės šlapimo tyrimų atlikimui,šlapimo analizatoriumi Uryxxon Relax, 
+Macherey-Nagel (Analizatoriai - 3 vnt. yra įstaigos nuosavybė)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 17
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0018
+Pavadinimas: Vienkartiniai pipečių antgaliai
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 18
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 329 250 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0019
+Pavadinimas: Reagentai ir kitos eksploatacinės medžiagos hematologiniui analizatoriui ABX Micros 60 - 2 vnt. 
+(analizatoriai įstaigos nuosavybė).Siūlomi reagentai bei priemonės turi būti originalūs analizatoriaus gamintojo arba 
+lygiaverčiai su analizatoriaus gamintojo patvirtintais adaptacijos protokolais, pilnai atitinkantys kokybinius ir techninius 
+reikalavimus ir tinkantys ABX Micros 60.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 19
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 5 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0020
+Pavadinimas: Reagentai, papildomos priemonės CRB tyrimų atlikimui (POCT) prietaisu i- Chroma arba lygiaverčiu. 
+Prietaisas i-Chroma yra įstaigos nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 20
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0021
+Pavadinimas: Reagentai, papildomos priemonės INR/PT tyrimų atlikimui prietaisu Micropoint plus arba lygiaverčiu. 
+Prietaisas Micropoint plus yra įstaigos nuosavybė.
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 21
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0022
+Pavadinimas: Reagentai, papildomos priemonės gliukozės koncentracijos kraujyje matavimui
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 22
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 3 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0023
+Pavadinimas: Išorinė kokybės kontrolė (ciklais)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 23
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 17 700 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+5.1 Techninės ID dalies: LOT-0024
+Pavadinimas: Išorinė kokybės kontrolė (mėginiais)
+Aprašymas: Perkančioji organizacija numato įsigyti Laboratorinius reagentus ir pagalbines priemones Klinikinėje 
+diagnostikos laboratorijoje atliekamiems tyrimams (atviras konkursas (tarptautinis))
+Vidaus identifikatorius: 24
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 700 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lazdijų rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Lazdijų rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 326 450 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Vitrolab
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018621
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 6 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17731
+Sutarties sudarymo data: 24/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023780
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 6 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17732
+Sutarties sudarymo data: 24/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medviva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 7 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17733
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 6 600 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17734
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB DIAMEDICA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023638
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 6 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17735
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Vitrolab
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018621
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 25 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17736
+Sutarties sudarymo data: 24/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medviva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 18 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17737
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medviva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 40 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17738
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medviva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 58 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17717
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 17 200 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17718
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 44 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17719
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0013
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0013
+Pasiūlymo vertė: 46 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17720
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0014
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0014
+Pasiūlymo vertė: 3 300 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17721
+Sutarties sudarymo data: 05/05/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0015
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0015
+Pasiūlymo vertė: 550 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17722
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0016
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medviva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0016
+Pasiūlymo vertė: 2 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17723
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0017
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Bioeksma
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023781
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0017
+Pasiūlymo vertė: 1 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17724
+Sutarties sudarymo data: 24/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0018
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023780
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0018
+Pasiūlymo vertė: 600 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17725
+Sutarties sudarymo data: 07/05/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0019
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medviva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023454
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0019
+Pasiūlymo vertė: 5 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17726
+Sutarties sudarymo data: 25/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0020
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Medita
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023743
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0020
+Pasiūlymo vertė: 6 000 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17727
+Sutarties sudarymo data: 28/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0021
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023780
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0021
+Pasiūlymo vertė: 6 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17728
+Sutarties sudarymo data: 07/05/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0022
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Mediq Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000023780
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0022
+Pasiūlymo vertė: 3 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17729
+Sutarties sudarymo data: 07/05/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0023
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016478
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0023
+Pasiūlymo vertė: 17 700 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 17730
+Sutarties sudarymo data: 29/04/2025
+Organizacija, pasirašanti sutartį: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0024
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lazdijų rajono savivaldybės administracija
+Registracijos numeris: 188714992
+Pašto adresas: Vilniaus g. 1 
+Miestas: Lazdijai
+Pašto kodas: 67106
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+E. paštas: vilma.vaskeviciute@lazdijai.lt
+Telefono numeris: 061241865
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Medviva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306107396
+Pašto adresas: Šaltupio g. 7B 
+Miestas: Vilnius
+Pašto kodas: LT-02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@medviva.lt
+Telefono numeris: +37061800391
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004, LOT-0008, LOT-0009, LOT-0010, LOT-0016, LOT-0019
+8.1 ORG-0003
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 122263421
+Pašto adresas: Kalvarijų sodų 1-oji g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-08315
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: dalia.vilkelyte@diagsis.com
+Telefono numeris: +37052740497
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0005, LOT-0011, LOT-0012, LOT-0013, LOT-0014, LOT-0015, LOT-0023
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Bioeksma
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300096612
+Pašto adresas: Ukmergės g. 364-20 
+Miestas: Vilnius
+Pašto kodas: 14188
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ramunas.diliautas@bioeksma.lt
+Telefono numeris: +370 5 2729713
+Interneto adresas: www.bioeksma.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0017
+8.1 ORG-0005
+Oficialus pavadinimas: UAB DIAMEDICA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 111768155
+Pašto adresas: Vanaginės g. 37A 
+Miestas: Didžioji Riešė
+Pašto kodas: LT-14261
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: konkursai@diamedica.lt
+Telefono numeris: 037067950237
+Interneto adresas: www.diamedica.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0006
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Medita
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110323729
+Pašto adresas: Aviečių g. 14 
+Miestas: Vilnius
+Pašto kodas: 08418
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: medita@medita.lt
+Telefono numeris: +37052720372
+Interneto adresas: www.medita.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0020
+8.1 ORG-0007
+Oficialus pavadinimas: UAB Mediq Lietuva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302513086
+Pašto adresas: Kolektyvo g. 15-20, 08314 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 08314
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: inga.rinkeviciene@mediq.com
+Telefono numeris: 065288446
+Fakso numeris: 052688470
+Interneto adresas: www.mediq.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003, LOT-0018, LOT-0021, LOT-0022
+8.1 ORG-0008
+Oficialus pavadinimas: UAB Vitrolab
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 235279070
+Pašto adresas: Baltų pr. 36-11 
+Miestas: Kaunas
+Pašto kodas: LT-48196
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: konkursai@vitrolab.lt
+Telefono numeris: 8 37 333 317
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0007
+8.1 ORG-0009
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0010
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0011
+Oficialus pavadinimas: VšĮ Lazdijų rajono savivaldybės sveikatos centras
+Registracijos numeris: 165220415
+Pašto adresas: Kauno g.8 
+Miestas: Lazdijai
+Pašto kodas: 67128
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+E. paštas: info@lazdijurssc.lt
+Telefono numeris: 0 318 51 435
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 91fa0b5c-18ba-45ec-8ba0-264b646e430d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/05/2025 11:48 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

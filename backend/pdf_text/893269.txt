@@ -1,0 +1,169 @@
+Lietuva: Architektūros, statybų, inžinerijos ir inspektavimo paslaugos
+Klaipėdos pašto stoties statinių komplekso tvarkybos darbų, tvarkomųjų statybos darbų, 
+paskirties keitimo į kultūros ir sklypo sutvarkymo projekto ir projekto vykdymo priežiūros 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: BĮ Kultūros infrastruktūros centras
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Klaipėdos pašto stoties statinių komplekso tvarkybos darbų, tvarkomųjų statybos darbų, paskirties 
+keitimo į kultūros ir sklypo sutvarkymo projekto ir projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos pašto stoties statinių komplekso tvarkybos darbų, tvarkomųjų statybos darbų, paskirties keitimo 
+į kultūros ir sklypo sutvarkymo projekto ir projekto vykdymo priežiūros paslaugos
+Procedūros identifikatorius: d4e0ff12-1481-4bb7-ba02-816a6c1e0804
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71000000 Architektūros, statybų, inžinerijos ir inspektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71200000 Architektūros ir susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 659 497 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Klaipėdos pašto stoties statinių komplekso tvarkybos darbų, tvarkomųjų statybos darbų, paskirties 
+keitimo į kultūros ir sklypo sutvarkymo projekto ir projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos pašto stoties statinių komplekso tvarkybos darbų, tvarkomųjų statybos darbų, paskirties keitimo 
+į kultūros ir sklypo sutvarkymo projekto ir projekto vykdymo priežiūros paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71000000 Architektūros, statybų, inžinerijos ir inspektavimo paslaugos
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 659 497 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Aplinkos 
+apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ (toliau - Tvarkos aprašas), 4.1 
+papunkčiu, sutartyje nustatyta sąlyga: projekte turi būti numatyta, kad statyboje naudojamos statybinės medžiagos 
+atitiktų minimalius aplinkos apsaugos kriterijus (Tvarkos aprašo 2 priedo XIII Skyrius „Statybinės medžiagos“) ir 
+kad kiti su pastato projektu susiję produktai atitiktų jiems taikomus minimalius aplinkos apsaugos kriterijus (Tvarkos 
+aprašo 2 priedo XIV skyrius „Patalpų apšvietimas“; XV skyrius „Vandens maišytuvai ir dušai“; XVI skyrius „Vandens 
+šildytuvai“).
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kainos kriterijus 90 balų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Kokybės kriterijus
+Aprašymas: Kokybės kriterijus 10 balų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 488 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 488 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Taip
+Subrangos vertė žinoma: taip
+Subrangos vertė: 24 400 Euro
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 5
+Informacija apie sutartį:
+Sutarties identifikatorius: TPS-27
+Sutarties sudarymo data: 29/10/2024
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: BĮ Kultūros infrastruktūros centras
+Registracijos numeris: 110051791
+Pašto adresas: Šnipiškių g. 3 
+Miestas: Vilnius
+Pašto kodas: 09309
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: mindaugas.petkelis@kulturosic.lt
+Telefono numeris: +37068567585
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Aplan“
+Registracijos numeris: 302638855
+Miestas: Vilnius
+Pašto kodas: 08245
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@aplan.lt
+Telefono numeris: +37060979272
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 13bc5ac5-5600-40e1-a7f5-505933cbf198 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/01/2025 09:11 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

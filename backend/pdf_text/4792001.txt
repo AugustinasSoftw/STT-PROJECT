@@ -1,0 +1,152 @@
+Lietuva: Keitikliai
+Šilumos energijos skaitikliai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Miesto gijos“ (PV)
+Pirkėjo teisinė forma: Subjektai, turintys specialiųjų ar išskirtinių teisių
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šilumos energijos skaitikliai
+Aprašymas: Kvalifikacijos vertinimo sistema: „Apskaitos įrenginių pirkimo kvalifikacijos vertinimo sistema”, V kategorija 
+- Įvadiniai šilumos skaitikliai, senojoje CVP IS pirkimo Nr. 672144, naujoje CVP IS pirkimo ID 960770.
+Procedūros identifikatorius: 2115acbe-0761-4350-9609-f7c34d7329e7
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31711120 Keitikliai
+Kiti klasifikacijos kodai (cpv): 31712100 Mikroelektronikos įrenginiai ir aparatai
+Kiti klasifikacijos kodai (cpv): 32423000 Tinklo telktuvas
+Kiti klasifikacijos kodai (cpv): 32441200 Telemetrijos ir valdymo įrenginiai
+Kiti klasifikacijos kodai (cpv): 32500000 Telekomunikacijų įranga ir reikmenys
+Kiti klasifikacijos kodai (cpv): 38421100 Vandens skaitikliai
+Kiti klasifikacijos kodai (cpv): 38551000 Energijos skaitikliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šilumos energijos skaitikliai
+Aprašymas: Kvalifikacijos vertinimo sistema: „Apskaitos įrenginių pirkimo kvalifikacijos vertinimo sistema”, V kategorija 
+- Įvadiniai šilumos skaitikliai, senojoje CVP IS pirkimo Nr. 672144, naujoje CVP IS pirkimo ID 960770.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31711120 Keitikliai
+Kiti klasifikacijos kodai (cpv): 31712100 Mikroelektronikos įrenginiai ir aparatai
+Kiti klasifikacijos kodai (cpv): 32423000 Tinklo telktuvas
+Kiti klasifikacijos kodai (cpv): 32441200 Telemetrijos ir valdymo įrenginiai
+Kiti klasifikacijos kodai (cpv): 32500000 Telekomunikacijų įranga ir reikmenys
+Kiti klasifikacijos kodai (cpv): 38421100 Vandens skaitikliai
+Kiti klasifikacijos kodai (cpv): 38551000 Energijos skaitikliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Sutarties vykdymo laikotarpiu taikyti priemones, susijusias su gamtos išteklių tausojimu ir laikytis 
+šių aplinkosaugos reikalavimų: mažinti popieriaus sunaudojimą, atsisakyti nebūtino dokumentų kopijavimo ir 
+spausdinimo. PVM sąskaitos faktūros ir (ar) kiti su Sutarties vykdymu susiję dokumentai Užsakovui turi būti pateikti 
+tik elektroniniu formatu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB „Miesto gijos“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Miesto gijos“ (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: AB „Miesto gijos“ (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 236 880 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: VITEKA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000070067
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 236 880 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31910
+Data, kurią buvo pasirinktas laimėtojas: 01/07/2025
+Sutarties sudarymo data: 22/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Miesto gijos“ (PV)
+Registracijos numeris: 124135580
+Pašto adresas: Spaudos g. 6-1 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@miestogijos.lt
+Telefono numeris: 19118
+Pirkėjo profilis: www.miestogijos.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: VITEKA
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 301739634
+Pašto adresas: Antagynės g. 38 
+Miestas: Kaunas
+Pašto kodas: 47164
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: prekyba@viteka.eu
+Telefono numeris: +37061643796
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 00bd5422-607c-4dea-995f-b4eb46e25b67 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/10/2025 08:20 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

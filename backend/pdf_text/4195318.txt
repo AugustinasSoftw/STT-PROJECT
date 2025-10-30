@@ -1,0 +1,141 @@
+Lietuva: Ryšių su klientais valdymo programinės įrangos kūrimo paslaugos
+(PU-13577/25) [IITP25] Projektų valdymo sistemos „Terra project“ plėtra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (PU-13577/25) [IITP25] Projektų valdymo sistemos „Terra project“ plėtra
+Aprašymas: Projektų valdymo sistemos „Terra project“ plėtra
+Procedūros identifikatorius: 15010d44-f145-4aca-a676-6184ea5571a7
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72212445 Ryšių su klientais valdymo programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (PU-13577/25) [IITP25] Projektų valdymo sistemos „Terra project“ plėtra
+Aprašymas: Projektų valdymo sistemos „Terra project“ plėtra
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72212445 Ryšių su klientais valdymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūros terminai nurodyti LR Viešųjų pirkimų įstatymo 
+102,103,104,105 straipsniuose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kelių priežiūra“ (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 57 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Vadovaujantis Viešųjų pirkimų įstatymo (VPĮ) 71 straipsnio 1 dalies 2 punktu, neskelbiamų 
+derybų būdas gali būti taikomas, kai konkurencija nėra įmanoma dėl techninių priežasčių arba išimtinių teisių 
+apsaugos, įskaitant intelektinės nuosavybės teises.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Terra IT
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000075449
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 57 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23698
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Registracijos numeris: 232112130
+Pašto adresas: Savanorių pr. 321C 
+Miestas: Kaunas
+Pašto kodas: 50120
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vaida.trasikiene@keliuprieziura.lt
+Telefono numeris: +37069630366
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Terra IT
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 300043862
+Pašto adresas: Partizanų g. 15A 
+Miestas: Kaunas
+Pašto kodas: 50203
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@terrait.lt
+Telefono numeris: +37068725439
+Interneto adresas: www.terrait.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 374 90941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: fe9cebb5-9720-4773-99e9-f5f83427bbf9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/08/2025 14:16 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

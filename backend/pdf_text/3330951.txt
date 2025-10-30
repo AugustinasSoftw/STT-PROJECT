@@ -1,0 +1,244 @@
+Lietuva: Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Transporto priemonių atsarginės dalys
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Klaipėdos paslaugos" (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama vietos valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Miesto geležinkelio, tramvajų, troleibusų ar autobusų paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Transporto priemonių atsarginės dalys
+Aprašymas: Transporto priemonių atsarginės dalys
+Procedūros identifikatorius: ea3f658d-1053-4b51-b53d-b5a9a5403543
+Ankstesnis skelbimas: c78cf496-9848-463b-bad9-21de3bc67a75-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Kiti klasifikacijos kodai (cpv): 34320000 Mechaninės atsarginės dalys, išskyrus variklius ir jų dalis
+2.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Preliminariosios sutarties didžiausioji vertė: 800 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Transporto priemonių atsarginės dalys
+Aprašymas: Transporto priemonių atsarginės dalys
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Kiti klasifikacijos kodai (cpv): 34320000 Mechaninės atsarginės dalys, išskyrus variklius ir jų dalis
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 800 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, neskelbiant naujo konkurso
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB "Klaipėdos paslaugos" (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB "Klaipėdos paslaugos" (PV) -
+6 Rezultatai
+Preliminariųjų sutarčių apytikslė vertė: 968 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties iš naujo įvertinta vertė: 968 000 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Skuba Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000049611
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22364
+Sutarties sudarymo data: 13/06/2025
+Laimėtojas:
+Oficialus pavadinimas: REBORDA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000040703
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22368
+Sutarties sudarymo data: 13/06/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB KADEX
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000047221
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22365
+Sutarties sudarymo data: 13/06/2025
+Laimėtojas:
+Oficialus pavadinimas: ADAMPOLIS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000049766
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22366
+Sutarties sudarymo data: 13/06/2025
+Laimėtojas:
+Oficialus pavadinimas: EUROPART UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000049409
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 22367
+Sutarties sudarymo data: 13/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 10
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "Klaipėdos paslaugos" (PV)
+Registracijos numeris: 140033557
+Pašto adresas: Garažų g. 2 
+Miestas: Klaipėda
+Pašto kodas: 92101
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: ausra.skrabiene@klap.lt
+Telefono numeris: +37065013222
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Skuba Lietuva
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 305638604
+Pašto adresas: V. A. Graičiūno g. 36 
+Miestas: Vilnius
+Pašto kodas: LT-02241
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: skuba@skuba.lt
+Telefono numeris: +37052553460
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: REBORDA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 210527070
+Pašto adresas: Molo g. 17 
+Miestas: Klaipėda
+Pašto kodas: 92277
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: lukas@reborda.lt
+Telefono numeris: +37061605863
+Interneto adresas: www.reborda.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: UAB KADEX
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 147871933
+Pašto adresas: Šilagalio g. 1 Pažagieniai, Panevėžio raj. 
+Miestas: Pažgieniai
+Pašto kodas: 36200
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: mantas@kadex.lt
+Telefono numeris: +37068655634
+Interneto adresas: www.kadex.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: ADAMPOLIS
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 234522530
+Pašto adresas: Perspektyvos gatvė 10-1 
+Miestas: Kaunas
+Pašto kodas: LT-52119
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: areta.zioge@adampolis.lt
+Telefono numeris: +37064023385
+Interneto adresas: www.adampolis.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: EUROPART UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 211657540
+Pašto adresas: Pramonės g. 6 
+Miestas: Klaipėda
+Pašto kodas: 94102
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: k.pakenas@europart.net
+Telefono numeris: +37068530137
+Interneto adresas: www.europart.net
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0007
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0008
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 253111fb-1380-4ce6-a0c9-727e42271fbd - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/06/2025 14:14 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

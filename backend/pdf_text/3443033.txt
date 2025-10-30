@@ -1,0 +1,253 @@
+Lietuva: Grafičio valymo paslaugos
+Grafičių valymas (Neries upės dešinė ir kairė pusės) (Atviras tarptautinis pirkimas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Grafičių valymas (Neries upės dešinė ir kairė pusės) (Atviras tarptautinis pirkimas)
+Aprašymas: Perkamas grafičių valymas (Neries upės dešinė ir kairė pusės)
+Procedūros identifikatorius: f99bf98b-e4ed-4282-8945-96eb44bc34ee
+Ankstesnis skelbimas: 3e67d5be-7fdd-4a4f-99fa-be09225dd523-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90690000 Grafičio valymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. pirkimo dokumentus
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Papildoma informacija: Perkančioji organizacija riboja maksimalų pirkimo objekto dalių skaičių dėl kurių laimėtoju gali 
+būti nustatomas tas pats tiekėjas - ne daugiau kaip 1 (viena) pirkimo objekto dalis. Jei tiekėjas pasiūlymus pateiks 
+ir pretenduos laimėti į 2 (dvi) pirkimo objekto dalis, laimėta bus pripažinta 1 (viena) šio tiekėjo pasiūlyta pirkimo 
+objekto dalis pagal tiekėjo pasiūlyme nurodytą eiliškumą (prioritetus). Jei tiekėjas savo pasiūlyme nenurodys eiliškumo 
+(prioritetų) bus nustatomas eiliškumas nuo 1 objekto dalies iki 2 objekto dalies atitinkamai didėjančia tvarka. Sutartis I 
+pirkimo objekto daliai nebus sudaroma, nes dalyvės UAB „Dezinfekcijos paslaugos“ pasiūlymas negali būti pripažintas 
+laimėtoju, vadovaujantis pirkimo sąlygų 13.2 punktu, I pirkimo objekto dalyje neliko dalyvių, kurie gali būti patvirtinti 
+laimėtojais.
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 p.o.d. Vilniaus miesto savivaldybės teritorijos dešinėje Neries upės pusėje (Grigiškių, Panerių, 
+Naujininkų, Vilkpėdės, Rasų, Senamiesčio, Naujamiesčio, Naujosios Vilnios, Antakalnio seniūnijos), grafičių valymo 
+paslaugos
+Aprašymas: Perkamas grafičių valymas (Neries upės dešinė ir kairė pusės)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90690000 Grafičio valymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. pirkimo dokumentus
+5.1.3 Numatomas galiojimas
+Galiojimas: 38 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentus
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Grafičių valymo paslaugų kaina
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 86
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Grafičių valymo paslaugų skubaus užsakymo atlikimo terminas (užsakymas iki 50 kv. m.)
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Grafičių valymo paslaugų įprasto užsakymo atlikimo terminas (užsakymas iki 1 000 kv. m.)
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, atliekanti mokėjimus: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 p.o.d. Vilniaus miesto savivaldybės teritorijos kairėje Neries upės pusėje (Verkių, Žirmūnų, Šnipiškių, 
+Pašilaičių, Fabijoniškių, Šeškinės, Karoliniškių, Pilaitės, Žvėryno, Lazdynų, Viršuliškių, Justiniškių seniūnijos), grafičių 
+valymo paslaugos
+Aprašymas: Perkamas grafičių valymas (Neries upės dešinė ir kairė pusės)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90690000 Grafičio valymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. pirkimo dokumentus
+5.1.3 Numatomas galiojimas
+Galiojimas: 38 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentus
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Grafičių valymo paslaugų kaina
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 86
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Grafičių valymo paslaugų skubaus užsakymo atlikimo terminas (užsakymas iki 50 kv. m.)
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Grafičių valymo paslaugų įprasto užsakymo atlikimo terminas (užsakymas iki 1 000 kv. m.)
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, atliekanti mokėjimus: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 495 867,77 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB DEZINFEKCIJOS PASLAUGOS
+Pasiūlymas:
+Pasiūlymo identifikatorius: Tiekėjo pasiūlymas negali būti pripažintas laimėtoju, vadovaujantis pirkimo sąlygų 13.2 
+punktu
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: Nesudaryta - vadovaujantis pirkimo sąlygų 13.2 punktu
+Pavadinimas: Sutartis nesudaryta, nes vadovaujantis pirkimo sąlygų 13.2 punktu, I pirkimo objekto dalyje neliko 
+dalyvių, kurie gali būti patvirtinti laimėtojais. Sprendimo data 2025-05-23.
+Sutarties sudarymo data: 23/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB DEZINFEKCIJOS PASLAUGOS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000051819
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 495 867,77 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: A62-386/25
+Sutarties sudarymo data: 05/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Registracijos numeris: 188710061
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: VILNIUS
+Pašto kodas: 09601
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.vaitiekunaite@vilnius.lt
+Telefono numeris: +37052112693
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB DEZINFEKCIJOS PASLAUGOS
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302502912
+Pašto adresas: Verkiu g. 35 
+Miestas: Vilnius
+Pašto kodas: 09100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: daniilas@dezinfekcijospaslaugos.lt
+Telefono numeris: 867802499
+Interneto adresas: www.dezinfekcijospaslaugos.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ef2af985-dbf7-4b3e-9502-c91b78eda0f6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/06/2025 16:01 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

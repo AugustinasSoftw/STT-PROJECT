@@ -1,0 +1,151 @@
+Lietuva: Kapitalinio remonto ir atnaujinimo darbai
+VP-2920-1 Paprastojo remonto darbai adresu A. Jucio g. 9, Plungėje
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Turto bankas
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VP-2920-1 Paprastojo remonto darbai adresu A. Jucio g. 9, Plungėje
+Aprašymas: Paprastojo remonto darbai adresu A. Jucio g. 9, Plungėje
+Procedūros identifikatorius: 828b0db7-62af-4d7a-bc71-449150d19ef3
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453000 Kapitalinio remonto ir atnaujinimo darbai
+Kiti klasifikacijos kodai (cpv): 45236110 Sporto aikštelių paviršių lyginimo darbai
+Kiti klasifikacijos kodai (cpv): 45262640 Aplinkos gerinimo darbai
+Kiti klasifikacijos kodai (cpv): 45421143 Žaliuzių montavimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Negyvenamieji pastatai, nesantys kultūros paveldo objekto teritorijoje, jo apsaugos zonoje ir vietovėje 
+(ypatingi statiniai)
+Aprašymas: Paprastojo remonto darbai adresu A. Jucio g. 9, Plungėje
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45453000 Kapitalinio remonto ir atnaujinimo darbai
+Kiti klasifikacijos kodai (cpv): 45236110 Sporto aikštelių paviršių lyginimo darbai
+Kiti klasifikacijos kodai (cpv): 45262640 Aplinkos gerinimo darbai
+Kiti klasifikacijos kodai (cpv): 45421143 Žaliuzių montavimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 100
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės įmonė Turto bankas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybės įmonė Turto bankas -
+Organizacija, atliekanti mokėjimus: Valstybės įmonė Turto bankas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 9 996,74 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB VVARFF
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061671
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 9 996,74 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 19967
+Data, kurią buvo pasirinktas laimėtojas: 26/05/2025
+Sutarties sudarymo data: 03/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Turto bankas
+Registracijos numeris: 112021042
+Pašto adresas: Kęstučio g. 45 
+Miestas: Vilnius
+Pašto kodas: 08124
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lina.bukavickiene@turtas.lt
+Telefono numeris: +37066930835
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB VVARFF
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 169700486
+Pašto adresas: J. Tumo Vaižganto g. 28A 
+Miestas: Plungė
+Pašto kodas: LT-90125
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+E. paštas: info@varf.lt
+Telefono numeris: +37069831174
+Interneto adresas: www.varf.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1189530d-24b1-4eec-bbc1-6bba75d91c03 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/06/2025 12:55 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

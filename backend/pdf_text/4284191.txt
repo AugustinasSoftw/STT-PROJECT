@@ -1,0 +1,171 @@
+Lietuva: Oro kondicionavimo įrengimo darbai
+Oro kondicionavimo sistemų įrengimo Kauno lopšeliui-darželiui „Rasytė“ darbų, atliekamo 
+dinaminės pirkimo sistemos pagrindu, konkretus pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Oro kondicionavimo sistemų įrengimo Kauno lopšeliui-darželiui „Rasytė“ darbų, atliekamo dinaminės 
+pirkimo sistemos pagrindu, konkretus pirkimas
+Aprašymas: Oro kondicionavimo sistemų įrengimo Kauno lopšeliui-darželiui „Rasytė“ darbų, atliekamo dinaminės 
+pirkimo sistemos pagrindu, konkretus pirkimas.
+Procedūros identifikatorius: 6b50bfea-4132-42fc-9dca-ebace7206c8d
+Ankstesnis skelbimas: 5e93b91b-0081-4c1a-8f38-aab061220ddf-01
+Ankstesnis skelbimas: 729091-2024
+Vidaus identifikatorius: 2792398
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45331220 Oro kondicionavimo įrengimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Oro kondicionavimo sistemų įrengimo Kauno lopšeliui-darželiui „Rasytė“ darbų, atliekamo dinaminės 
+pirkimo sistemos pagrindu, konkretus pirkimas
+Aprašymas: Oro kondicionavimo sistemų įrengimo Kauno lopšeliui-darželiui „Rasytė“ darbų, atliekamo dinaminės 
+pirkimo sistemos pagrindu, konkretus pirkimas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45331220 Oro kondicionavimo įrengimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 26 974,5 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Darbams taikomas statinio papildoma sgarantinis terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Socialinis kriterijus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno miesto savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kauno lopšelis-darželis "Rasytė"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 22 304,7 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Elektros paslaugos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000065419
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 22 304,7 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28413
+Data, kurią buvo pasirinktas laimėtojas: 18/06/2025
+Sutarties sudarymo data: 23/07/2025
+Organizacija, pasirašanti sutartį: Kauno lopšelis-darželis "Rasytė"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Elektros paslaugos
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 134848272
+Pašto adresas: Jonavos g. 62A 
+Miestas: Kaunas
+Pašto kodas: LT-44192
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@elektrospaslaugos.lt
+Telefono numeris: +37067427655
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Ryšių centras: 037490941
+E. paštas: kauno.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Kauno lopšelis-darželis "Rasytė"
+Registracijos numeris: 191637011
+Miestas: Kaunas
+Pašto kodas: 48128
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 8356527a-2257-47b6-ae10-d9df4fdbf399 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/08/2025 13:17 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

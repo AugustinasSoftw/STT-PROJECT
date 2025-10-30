@@ -1,0 +1,226 @@
+Lietuva: Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Padangos motorinėms transporto priemonėms
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Kauno autobusai"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Miesto geležinkelio, tramvajų, troleibusų ar autobusų paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Padangos motorinėms transporto priemonėms
+Aprašymas: Padangos motorinėms transporto priemonėms: I pirkimo objekto dalis - Autobusų ir troleibusų padangos, 
+II pirkimo objekto dalis - Komercinių automobilių ir mikroautobusų padangos
+Procedūros identifikatorius: db521fb3-c11d-433a-96ef-b16801607144
+Ankstesnis skelbimas: 713118-2024
+Vidaus identifikatorius: 743433
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Autobusų ir troleibusų padangos
+Aprašymas: Autobusų ir troleibusų padangos padangos skirtos miesto tipo autobusams ir troleibusams. Užsakymo 
+laikotarpiui numato maksimalią pirkimo sutarties vertę (t.y. maksimaliai pirkimui skirtą lėšų sumą) - 229500,00 Eur 
+be PVM ir pradinės sutarties vertė bus lygi maksimaliai pirkimui skirtai lėšų sumai be PVM pirkimo dokumentuose ir 
+pirkimo sutartyje nurodytų prekių įsigijimui tiekėjo pasiūlyme nurodytais įkainiais be PVM. Preliminarus kiekis - 590 
+vnt.. Prekių užsakymo laikotarpis 24 (dvidešimt keturi) mėnesiai nuo pirkimo sutarties įsigaliojimo dienos. Prekių 
+kiekiai preliminarūs, skirti pasiūlymams palyginti, perkantysis subjektas neįsipareigoja išpirkti nurodyto prekių kiekio. 
+Perkantysis subjektas, esant poreikiui, gali įsigyti prekių sąraše nenurodytų, tačiau su pirkimo objektu susijusių prekių 
+neviršijant 10 procentų pradinės sutarties vertės.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34352200 Autobusų padangos
+Kiekis: 590 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 09/12/2024
+Trukmės pabaigos data: 08/01/2027
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kriterijaus reikšmė - dalyvio balas už pasiūlytą pasiūlymo kainą be PVM
+Lyginamasis svoris (balai, tikslus skaičius): 50
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: siūlomos prekės išorinio riedėjimo triukšmo lygis db
+Lyginamasis svoris (balai, tikslus skaičius): 45
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: prekių pristatymo terminas darbo dienomis
+Lyginamasis svoris (balai, tikslus skaičius): 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB "Kauno autobusai"
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Komercinių automobilių ir mikroautobusų padangos
+Aprašymas: Komercinių automobilių ir mikroautobusų padangos, skirtos komerciniams automobiliams ir 
+mikroautobusams. Užsakymo laikotarpiui numato maksimalią pirkimo sutarties vertę (t.y. maksimaliai pirkimui skirtą 
+lėšų sumą) - 70 000,00 Eur be PVM ir pradinės sutarties vertė bus lygi maksimaliai pirkimui skirtai lėšų sumai be 
+PVM pirkimo dokumentuose ir pirkimo sutartyje nurodytų prekių įsigijimui tiekėjo pasiūlyme nurodytais įkainiais be 
+PVM. Preliminarus kiekis - 210 vnt.. Prekių užsakymo laikotarpis 24 (dvidešimt keturi) mėnesiai nuo pirkimo sutarties 
+įsigaliojimo dienos. Prekių kiekiai preliminarūs, skirti pasiūlymams palyginti, perkantysis subjektas neįsipareigoja 
+išpirkti nurodyto prekių kiekio. Perkantysis subjektas, esant poreikiui, gali įsigyti prekių sąraše nenurodytų, tačiau su 
+pirkimo objektu susijusių prekių neviršijant 10 procentų pradinės sutarties vertės.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34351100 Automobilių padangos
+Kiekis: 210 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kaunas
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 09/12/2024
+Trukmės pabaigos data: 08/01/2027
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: pasiūlymo kaina be PVM
+Lyginamasis svoris (balai, tikslus skaičius): 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: prekių pristatymo terminas darbo dienomis
+Lyginamasis svoris (balai, tikslus skaičius): 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB "Kauno autobusai"
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 299 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Autokamera"
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 229 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-24-373
+Data, kurią buvo pasirinktas laimėtojas: 28/11/2024
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Autokamera"
+Pasiūlymas:
+Pasiūlymo identifikatorius: P2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 70 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-24-372
+Data, kurią buvo pasirinktas laimėtojas: 28/11/2024
+Sutarties sudarymo data: 09/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "Kauno autobusai"
+Registracijos numeris: 133154754
+Pašto adresas: Raudondvario pl. 105 
+Miestas: Kaunas
+Pašto kodas: 47185
+Šalis: Lietuva
+E. paštas: sandra.bieliniene@kaunoautobusai.lt
+Telefono numeris: +37062167745
+Pirkėjo profilis: www.kaunoautobusai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Autokamera"
+Registracijos numeris: 147557530
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Ryšių centras: Savanorių pr. 174 R
+E. paštas: info@autokamera.lt
+Telefono numeris: +37052311199
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 07b87974-3ecc-405f-971d-5bc7514872bd - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/01/2025 15:52 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

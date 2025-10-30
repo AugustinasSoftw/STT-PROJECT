@@ -1,0 +1,99 @@
+Lietuva: Kelionių agentūrų ir panašios paslaugos
+Pirkimo Nr. 735768 (senoje CVP IS atviras konkursas) Kelionių organizavimo paslaugos.
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos Respublikos kultūros ministerija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pirkimo Nr. 735768 (senoje CVP IS atviras konkursas) Kelionių organizavimo paslaugos.
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje (CVP IS) 2024-10-04 paskelbto pirkimo Nr.735768 
+procedūros. Atviro pirkimo aplinka ir pasiūlymų pateikimo terminas sukurtas tik pirkimo procedūrų tęsimo tikslais, 
+prašome neteikti pasiūlymų per naują sistemą. Pirkimo vykdytojas vertins Jūsų pasiūlymą pateiktą senoje 
+CVP IS sistemoje. Pirkimo dokumentai ir skelbimas apie pirkimą yra pateikti senoje CVP IS sistemoje https://
+pirkimai.eviesiejipirkimai.lt. Naujas Nacionalinis skelbimas apie pirkimą yra paskelbtas tik informavimo tikslais.
+Procedūros identifikatorius: 3fdc0d03-680e-4112-b1cb-bb020472da69
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63510000 Kelionių agentūrų ir panašios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pirkimo Nr. 735768 (senoje CVP IS atviras konkursas) Kelionių organizavimo paslaugos.
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje (CVP IS) 2024-10-04 paskelbto pirkimo Nr.735768 
+procedūros. Atviro pirkimo aplinka ir pasiūlymų pateikimo terminas sukurtas tik pirkimo procedūrų tęsimo tikslais, 
+prašome neteikti pasiūlymų per naują sistemą. Pirkimo vykdytojas vertins Jūsų pasiūlymą pateiktą senoje 
+CVP IS sistemoje. Pirkimo dokumentai ir skelbimas apie pirkimą yra pateikti senoje CVP IS sistemoje https://
+pirkimai.eviesiejipirkimai.lt. Naujas Nacionalinis skelbimas apie pirkimą yra paskelbtas tik informavimo tikslais.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 63510000 Kelionių agentūrų ir panašios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos Respublikos kultūros ministerija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas ne dėl to, kad gautas dalyvio prašymas 
+peržiūrėti sprendimą dėl sutarties skyrimo, o dėl techninių ar procedūrinių klaidų
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos Respublikos kultūros ministerija
+Registracijos numeris: 188683671
+Pašto adresas: J. Basanavičiaus g. 5 
+Miestas: Vilnius
+Pašto kodas: 01118
+Šalis: Lietuva
+E. paštas: edita.benetiene@lrkm.lt
+Telefono numeris: +370 608 47669
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 350d0d65-f8fa-4bcc-940e-cc3ce6b7b4d5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 06/12/2024 12:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

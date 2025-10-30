@@ -1,0 +1,91 @@
+Lietuva: Centralizuotas šilumos tiekimas
+251760 Centralizuotos šilumos energija Didžiasalio, N. Daugėliškio ir Tverečiaus seniūnijose 
+(senas Nr. 747201)
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Ignalinos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 251760 Centralizuotos šilumos energija Didžiasalio, N. Daugėliškio ir Tverečiaus seniūnijose (senas Nr. 
+747201)
+Aprašymas: Centralizuotos šilumos energija
+Procedūros identifikatorius: 639a8cc4-811e-48df-adc3-46192522d3b3
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Centralizuotos šilumos energija Didžiasalio, N. Daugėliškio ir Tverečiaus seniūnijose
+Aprašymas: perkama centralizuota šiluma Didžiasalio, N. Daugėliškio ir Tverečiaus seniūnijose
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Dėl energijos arba energijai gaminti skirto kuro tiekimo skiriamos sutartys
+Kitas pagrindimas: vadovaujantis Lietuvos Respublikos šilumos ūkio įstatymo 30 straipsnio 1 ir 2 dalimis, šilumos 
+tiekimo veikla yra licencijuojama. Licencijų išdavimo tvarką ir taisykles tvirtina Vyriausybė. Licencijas šilumos 
+tiekėjui, tiekiančiam ne mažiau kaip 10 GWh šilumos per metus, atsižvelgdama į savivaldybės institucijos 
+rekomendacijas, išduoda, jų galiojimą sustabdo, panaikina ir licencijuojamą veiklą kontroliuoja Valstybinės 
+energetikos reguliavimo taryba (toliau - VERT). Licencijas mažiau šilumos tiekiančiam tiekėjui išduoda, sustabdo, 
+panaikina ir licencijuojamą veiklą kontroliuoja savivaldybės institucija.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Ignalinos rajono savivaldybės administracija
+Registracijos numeris: 288768350
+Pašto adresas: Laisvės a. 70 
+Miestas: Ignalina
+Pašto kodas: LT-30122
+Šalis: Lietuva
+E. paštas: ausra.kaceviciene@ignalina.lt
+Telefono numeris: +37038651831
+Interneto adresas: www.ignalina.lt
+Pirkėjo profilis: www.ignalina.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: e0e9bf6c-7b4f-45b0-8218-5e41f978b7b5 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 13/12/2024 11:24 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

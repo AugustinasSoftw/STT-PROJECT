@@ -1,0 +1,989 @@
+Lietuva: Fizinės terapijos prietaisai
+Judėjimo techninės pagalbos priemonių pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Techninės pagalbos priemonių centras
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Judėjimo techninės pagalbos priemonių pirkimas
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Procedūros identifikatorius: 2262d402-54d5-4c99-a8b9-bbc7296edd0f
+Ankstesnis skelbimas: 5a0fc8d3-4299-4878-acb8-0d6acbdfc60d-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 pirkimo dalis -Slankioji lenta. Perkamas kiekis nuo 400 vnt. iki 600 vnt. BVPŽ kodas-33155000-1
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 pirkimo dalis -Naktipuodžio kėdutė su plastikine sėdimąja dalimi. Perkamas kiekis nuo 1800 vnt. iki 
+3000 vnt. BVPŽ kodas-39110000-6
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 3 pirkimo dalis. Vonios lenta. Perkamas kiekis nuo 1500 vnt. iki 2000 vnt. BVPŽ kodas 39144000-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 92
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: 4 pirkimo dalis. Vaikščiojimo rėmas. Perkamas kiekis nuo 1500 vnt. iki 2000 vnt. BVPŽ kodas 
+33141720-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: 5 pirkimo dalis. Naktipuodžio kėdutė sulankstoma. Perkamas kiekis nuo 1300 vnt. iki 2000 vnt. BVPŽ 
+kodas 39110000-6
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: 6 pirkimo dalis. Dušo kėdutė su nugaros ir rankų atramomis. Perkamas kiekis nuo 1000 vnt. iki 1200 
+vnt. BVPŽ kodas 39144000-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: 7 pirkimo dalis. Dušo kėdutė be nugaros atramos. Perkamas kiekis nuo 1500 vnt. iki 2000 vnt. BVPŽ 
+kodas 39144000-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 85
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 15
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: 8 pirkimo dalis. Dušo-naktipuodžio kėdutė su mažais ratukais. Perkamas kiekis nuo 500 vnt. iki 800 vnt. 
+BVPŽ kodas 33193100-0
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: 9 pirkimo dalis. Dušo kėdutė mažesnėms dušo kabinoms. Perkamas kiekis nuo 1000 vnt. iki 1500 vnt. 
+BVPŽ kodas 39144000-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: 10 pirkimo dalis. Vežimėlis universalus su svorio centru perkeltu atgal. Perkamas kiekis nuo 150 vnt. iki 
+200 vnt. BVPŽ kodas 33190000-8
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: 11 pirkimo dalis. Automatiškai reguliuojama lova. Perkamas kiekis nuo 2000 vnt. iki 4000 vnt. BVPŽ 
+kodas 33192100-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: 12 pirkimo dalis. Lovos staliukas. Perkamas kiekis nuo 1000 vnt. iki 1500 vnt. BVPŽ kodas 39100000-3
+Aprašymas: Judėjimo techninės pagalbos priemonių pirkimas (12 pirkimo dalių). Perkančioji organizacija numato 
+įsigyti įvairias judėjimo techninės pagalbos priemones: automatiškai reguliuojamas lovas, dušo bei naktipuodžio 
+kėdutes ir kitas priemones. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 priede. Pirkimo 
+objektas skaidomas į 12 dalių, kurių apimtys ir dalykas, reikalavimai ir techninė specifikacija apibrėžti specialiųjų 
+pirkimo sąlygų 2 priede. Perkančioji organizacija sudarys atskiras sutartis dėl pirkimo dalių, dėl kurių laimėtoju 
+nustatytas tas pats tiekėjas Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos 
+aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ 4.4.4.1 punktu.
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33155000 Fizinės terapijos prietaisai
+Kiti klasifikacijos kodai (cpv): 39110000 Sėdimieji baldai, kėdės ir susiję produktai bei dalys
+Kiti klasifikacijos kodai (cpv): 39144000 Vonios kambario baldai
+Kiti klasifikacijos kodai (cpv): 33141720 Priemonės, padedančios vaikščioti
+Kiti klasifikacijos kodai (cpv): 33193100 Invalidų vežimėliai ir invalidų kėdės su ratukais
+Kiti klasifikacijos kodai (cpv): 33190000 Įvairūs medicinos prietaisai ir produktai
+Kiti klasifikacijos kodai (cpv): 33192100 Medicininės paskirties lovos
+Kiti klasifikacijos kodai (cpv): 39100000 Baldai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Perėjimas prie žiedinės ekonomikos
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Ekonominis naudingumas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Pagal poreikį
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Techninės pagalbos priemonių centras
+Organizacija, atliekanti mokėjimus: Techninės pagalbos priemonių centras
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 2 132 530 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Kasko Group UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069529
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 101 070 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27217
+Pavadinimas: Sutartis PK4-74. Pirkimo numeris 2536940. 9 pirkimo dalis. Dušo kėdutė mažesnėms dušo 
+kabinoms
+Data, kurią buvo pasirinktas laimėtojas: 02/07/2025
+Sutarties sudarymo data: 08/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Teida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069669
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 27 920 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27218
+Pavadinimas: Sutartis PK1-103. Pirkimo numeris 2536940. 3 pirkimo dalis. Vonios lenta
+Data, kurią buvo pasirinktas laimėtojas: 11/07/2025
+Sutarties sudarymo data: 22/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Kasko Group UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069529
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 39 180 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27219
+Pavadinimas: Sutartis PK4-110 specialiosios sąlygos Pirkimo numeris 2536940. 6 pirkimo dalis. Dušo kėdutė 
+su nugaros ir rankų atramomis
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2025
+Sutarties sudarymo data: 06/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Kasko Group UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069529
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 96 300 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27220
+Pavadinimas: Sutartis PK4-109. Pirkimo numeris 2536940. 4 pirkimo dalis. Vaikščiojimo rėmas
+Data, kurią buvo pasirinktas laimėtojas: 21/07/2025
+Sutarties sudarymo data: 01/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Slaugivita
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069408
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 70 560 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27221
+Pavadinimas: Sutartis PK4-106. Pirkimo numeris 2536940. 11 pirkimo dalis. Automatiškai reguliuojama lova
+Data, kurią buvo pasirinktas laimėtojas: 08/07/2025
+Sutarties sudarymo data: 24/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Teida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069669
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 34 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27222
+Pavadinimas: Sutartis PK4-105. Pirkimo numeris 2536940. 5 pirkimo dalis. Naktipuodžio kėdutė sulankstoma
+Data, kurią buvo pasirinktas laimėtojas: 11/07/2025
+Sutarties sudarymo data: 23/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Teida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069669
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 88 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27223
+Pavadinimas: Sutartis PK4-91. Pirkimo numeris 2536940. 12 pirkimo dalis. Lovos staliukas
+Data, kurią buvo pasirinktas laimėtojas: 04/07/2025
+Sutarties sudarymo data: 15/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Teida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069669
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 1 636 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27215
+Pavadinimas: Sutartis PK4-107. Pirkimo numeris 2536940. 7 pirkimo dalis. Dušo kėdutė be nugaros atramos
+Data, kurią buvo pasirinktas laimėtojas: 11/07/2025
+Sutarties sudarymo data: 24/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Teida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000069669
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 39 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27216
+Pavadinimas: Sutartis PK4-104. Pirkimo numeris 2536940. 2 pirkimo dalis. Naktipuodžio kėdutė su plastikine 
+sėdimąja dalimi.
+Data, kurią buvo pasirinktas laimėtojas: 08/07/2025
+Sutarties sudarymo data: 23/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Techninės pagalbos priemonių centras
+Registracijos numeris: 190789945
+Pašto adresas: Mindaugo g.42A-1 
+Miestas: Vilnius
+Pašto kodas: 01311
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: livija.martineniene@tpnc.lt
+Telefono numeris: +37060680687
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Teida
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 134310131
+Pašto adresas: Puodžių g. 4-1, 
+Miestas: Kaunas
+Pašto kodas: 44288
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: migle@teida.lt
+Telefono numeris: 0 37 323576
+Interneto adresas: www.teida.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003, LOT-0007, LOT-0009, LOT-0011, LOT-0012
+8.1 ORG-0003
+Oficialus pavadinimas: Kasko Group UAB
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 302298947
+Pašto adresas: A. Vivulskio g. 12D 
+Miestas: Vilnius
+Pašto kodas: 03221
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: kfv@kid-man.com
+Telefono numeris: 37066721502
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0004, LOT-0005
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Slaugivita
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 145440368
+Pašto adresas: Dubijos g. 16 
+Miestas: Šiauliai
+Pašto kodas: LT-77172
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: daiva@slaugivita.com
+Telefono numeris: +37061441922
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0006
+8.1 ORG-0005
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7d8706f5-56ca-4ae4-b75e-f419b4c52a45 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/08/2025 07:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

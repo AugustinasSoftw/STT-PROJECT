@@ -1,0 +1,148 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+732386 (2024-GEN-233) 300 MW bloko valdymo sistemos simuliatorius ir jo programavimo 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 732386 (2024-GEN-233) 300 MW bloko valdymo sistemos simuliatorius ir jo programavimo paslaugos
+Aprašymas: (2024-GEN-233) 300 MW bloko valdymo sistemos simuliatorius ir jo programavimo paslaugos
+Procedūros identifikatorius: fc2696dd-5ecd-4ae8-9290-7fa04d9553cf
+Vidaus identifikatorius: 732386
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 48150000 Pramonės valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48420000 Įrangos valdymo programinės įrangos paketai ir programinės įrangos paketų 
+rinkiniai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 979 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 732386 (2024-GEN-233) 300 MW bloko valdymo sistemos simuliatorius ir jo programavimo paslaugos
+Aprašymas: 732386 (2024-GEN-233) 300 MW bloko valdymo sistemos simuliatorius ir jo programavimo paslaugos
+Vidaus identifikatorius: 732386
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 48100000 Pramonei skirti programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48200000 Tinklo kūrimo, interneto ir intraneto programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: UAB Ignitis grupės paslaugų centras (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 979 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Nauji darbai ar paslaugos, kurie yra tokie pat kaip esami darbai ar paslaugos ir 
+kurie užsakyti laikantis Direktyvoje nustatytų griežtų sąlygų
+Kitas pagrindimas: 79 str. 1 d. 3 p. c) pp.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Emerson Process Management Sp. z o.o.
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1620/2/24/0297
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1620/2/24/0297
+Data, kurią buvo pasirinktas laimėtojas: 27/12/2024
+Sutarties sudarymo data: 31/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Ignitis grupės paslaugų centras (PV)
+6.1.4 Statistinė informacija
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 979 000 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Registracijos numeris: 303200016
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalis: Lietuva
+E. paštas: zivile.kasparaviciene@ignitis.lt
+Telefono numeris: +37069836092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Emerson Process Management Sp. z o.o.
+Registracijos numeris: 012592385
+Miestas: Varšuva
+Šalis: Lenkija
+E. paštas: romas.keras@emerson.com
+Telefono numeris: +370 698 76063
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: d426c249-859c-4895-9dd0-b303ddf7a33b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/01/2025 14:47 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

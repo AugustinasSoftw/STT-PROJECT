@@ -1,0 +1,156 @@
+Lietuva: Geležinkelių eismo valdymo programinės įrangos kūrimo paslaugos
+27606 Ruožo Kaišiadorys - Klaipėda (Draugystės st.) elektrifikavimas pakeitimų integravimo į 
+EVKS paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 27606 Ruožo Kaišiadorys - Klaipėda (Draugystės st.) elektrifikavimas pakeitimų integravimo į EVKS 
+paslaugos
+Aprašymas: Perkamos Ruožo Kaišiadorys - Klaipėda (Draugystės st.) elektrifikavimas pakeitimų integravimo į EVKS 
+paslaugos
+Procedūros identifikatorius: ac0253dc-1afd-44a9-b701-7bdc1ba9f1a2
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72212140 Geležinkelių eismo valdymo programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 27606 Ruožo Kaišiadorys - Klaipėda (Draugystės st.) elektrifikavimas pakeitimų integravimo į EVKS 
+paslaugos
+Aprašymas: Perkamos Ruožo Kaišiadorys - Klaipėda (Draugystės st.) elektrifikavimas pakeitimų integravimo į EVKS 
+paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72212140 Geležinkelių eismo valdymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 24 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nustatyta teisės aktuose
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Lietuvos geležinkeliai (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Lietuvos geležinkeliai (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 760 364 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Pirkimo inicijavimo stadijoje nustatytos aplinkybės, kad egzistuoja sąlygos vykdyti Pirkimą 
+iš Indra Sistemas S.A. neskelbiamų derybų būdu dėl žemiau išdėstomų priežasčių, susijusių su konkurencijos 
+nebuvimu dėl techninių priežasčių (PĮ 79 str. 1 d. 3p. b) papunkčio nuostatos t.y konkurencijos nėra dėl techninių 
+priežasčių: Užsakovui būtina išlaikyti EVKS sistemai įdiegimo metu suteiktą Saugos vientisumo SIL2 lygį, dėl 
+šios priežasties paslaugas gali suteikti tik tiekėjas, kuris paslaugų suteikimo metu užtikrintų nenutrūkstamą EVKS 
+atitikimą CENELEC EN 50126, 50128 ir 50129 (SIL 2) standartų reikalavimams. 
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Indra Sistemas S.A
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000031233
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 628 400 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SI-165/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Registracijos numeris: 110053842
+Pašto adresas: Geležinkelio g. 16 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Indra Sistemas S.A
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: A-28599033
+Pašto adresas: Avenida de Castilla 2, Edificio Kenia Kudos Innovation Campus. San Fernando de Henares, 
+Miestas: Madrid
+Pašto kodas: 28830
+Šalies administracinis vienetas (NUTS): Madrid (ES300)
+Šalis: Ispanija
+E. paštas: smorenoc@indra.es
+Telefono numeris: +34699991905
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01400
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 28360cb7-5a55-4737-8947-8d76fb326eff - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/06/2025 09:41 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,148 @@
+Lietuva: Automobiliniai keltuvai
+Automobilinis bokštelis
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB „Jurbarko komunalininkas"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Būstas ir komunaliniai patogumai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Automobilinis bokštelis
+Aprašymas: Pirkimo objektas - automobilinis bokštelis - 1 vnt. Pirkimo objekto kodas pagal Bendrąjį viešųjų pirkimų 
+žodyną (BVPŽ) - 42413500-9 (Automobiliniai keltuvai). Pirkimo objektas yra vientisas ir į dalis neskaidomas. Detalūs 
+Prekės techniniai reikalavimai yra pateikti Techninėje specifikacijoje (Apklausos sąlygų 1 priedas). Prekė turi būti 
+atitinkanti ES reikalavimus, įregistruota Lietuvos Respublikoje. Prekė pilnai sukomplektuota pagal apklausos sąlygų 1 
+priede pateiktą Techninę specifikaciją ir paruošta eksploatacijai.
+Procedūros identifikatorius: 462fd8f5-3814-4513-988d-d38b489c89dc
+Ankstesnis skelbimas: b8c5eeb3-b140-4afb-8f22-39299c813435-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42413500 Automobiliniai keltuvai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 50 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Automobilinis bokštelis
+Aprašymas: Pirkimo objektas - automobilinis bokštelis - 1 vnt. Pirkimo objekto kodas pagal Bendrąjį viešųjų pirkimų 
+žodyną (BVPŽ) - 42413500-9 (Automobiliniai keltuvai). Pirkimo objektas yra vientisas ir į dalis neskaidomas. Detalūs 
+Prekės techniniai reikalavimai yra pateikti Techninėje specifikacijoje (Apklausos sąlygų 1 priedas). Prekė turi būti 
+atitinkanti ES reikalavimus, įregistruota Lietuvos Respublikoje. Prekė pilnai sukomplektuota pagal apklausos sąlygų 1 
+priede pateiktą Techninę specifikaciją ir paruošta eksploatacijai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42413500 Automobiliniai keltuvai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 50 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 1
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Nėra
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB „Jurbarko komunalininkas"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 48 700 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Autojarus hidraulika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000097755
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 48 700 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32105
+Sutarties sudarymo data: 02/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB „Jurbarko komunalininkas"
+Registracijos numeris: 258325370
+Pašto adresas: Muitinės g. 26A 
+Miestas: Jurbarkas
+Pašto kodas: LT-74106
+Šalies administracinis vienetas (NUTS): Tauragės apskritis (LT027)
+Šalis: Lietuva
+E. paštas: info@jurbkom.lt
+Telefono numeris: 0 700 22986
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Autojarus hidraulika
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 302431689
+Pašto adresas: Lakūnų plentas 44B 
+Miestas: Kaunas
+Pašto kodas: LT-46292
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: remigijus@autojarus.lt
+Telefono numeris: +37069873865
+Interneto adresas: www.autojarus.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a3ce3cac-86b4-4ae4-b2f4-6c1b51ce13be - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/10/2025 13:45 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

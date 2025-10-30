@@ -1,0 +1,182 @@
+Lietuva: Kompiuterių dalys, priedai ir reikmenys
+Kompiuterinės įrangos detalės ir medžiagos (Supaprastintas atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kompiuterinės įrangos detalės ir medžiagos (Supaprastintas atviras konkursas)
+Aprašymas: Perkančioji organizacija pirkimu siekia įsigyti kompiuterinės įrangos detales ir medžiagas.
+Procedūros identifikatorius: f79574fe-8e88-4003-b71f-2217c52d543c
+Ankstesnis skelbimas: f9769da6-2881-4ed2-b4be-ef4833cdbcfe-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30237000 Kompiuterių dalys, priedai ir reikmenys
+Kiti klasifikacijos kodai (cpv): 32420000 Tinklo įranga
+Kiti klasifikacijos kodai (cpv): 32521000 Telekomunikacijų kabeliai
+Kiti klasifikacijos kodai (cpv): 32562000 Šviesolaidžių kabeliai
+Kiti klasifikacijos kodai (cpv): 44321000 Kabeliai
+Kiti klasifikacijos kodai (cpv): 44322000 Kabelių priedai
+Kiti klasifikacijos kodai (cpv): 30190000 Įvairi biuro įranga ir reikmenys
+Kiti klasifikacijos kodai (cpv): 30216100 Optiniai skaitymo įrenginiai
+Kiti klasifikacijos kodai (cpv): 30231000 Kompiuterių ekranai ir pultai
+Kiti klasifikacijos kodai (cpv): 30233100 Kompiuterio atminties įrenginiai
+Kiti klasifikacijos kodai (cpv): 30237310 Spausdintuvų kasetės
+Kiti klasifikacijos kodai (cpv): 31400000 Akumuliatoriai, galvaniniai elementai ir baterijos
+Kiti klasifikacijos kodai (cpv): 31681500 Krovikliai
+Kiti klasifikacijos kodai (cpv): 32342300 Mikrofonai ir patalpų įgarsinimo įranga
+Kiti klasifikacijos kodai (cpv): 32351000 Garso ir vaizdo aparatūros priedai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 45 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kompiuterinės įrangos detalės ir medžiagos (Supaprastintas atviras konkursas)
+Aprašymas: Perkančioji organizacija pirkimu siekia įsigyti kompiuterinės įrangos detales ir medžiagas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30237000 Kompiuterių dalys, priedai ir reikmenys
+Kiti klasifikacijos kodai (cpv): 32420000 Tinklo įranga
+Kiti klasifikacijos kodai (cpv): 32521000 Telekomunikacijų kabeliai
+Kiti klasifikacijos kodai (cpv): 32562000 Šviesolaidžių kabeliai
+Kiti klasifikacijos kodai (cpv): 44321000 Kabeliai
+Kiti klasifikacijos kodai (cpv): 44322000 Kabelių priedai
+Kiti klasifikacijos kodai (cpv): 30190000 Įvairi biuro įranga ir reikmenys
+Kiti klasifikacijos kodai (cpv): 30216100 Optiniai skaitymo įrenginiai
+Kiti klasifikacijos kodai (cpv): 30231000 Kompiuterių ekranai ir pultai
+Kiti klasifikacijos kodai (cpv): 30233100 Kompiuterio atminties įrenginiai
+Kiti klasifikacijos kodai (cpv): 30237310 Spausdintuvų kasetės
+Kiti klasifikacijos kodai (cpv): 31400000 Akumuliatoriai, galvaniniai elementai ir baterijos
+Kiti klasifikacijos kodai (cpv): 31681500 Krovikliai
+Kiti klasifikacijos kodai (cpv): 32342300 Mikrofonai ir patalpų įgarsinimo įranga
+Kiti klasifikacijos kodai (cpv): 32351000 Garso ir vaizdo aparatūros priedai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 45 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal tiekėjo pasiūlyme 
+nurodytą kainą, kuri turi būti apskaičiuota ir nurodyta taip, kaip reikalaujama specialiųjų pirkimo sąlygų 5 priede 
+„Pasiūlymo forma“
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: VPĮ VII skyriuje nustatyta tvarka
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: VPĮ VII skyriuje nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 45 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Atea
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000013100
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 45 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 3919
+Sutarties sudarymo data: 04/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: ST-39 (5.7 Mr)
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Valda.Darguziene@registrucentras.lt
+Telefono numeris: +370 669 90409
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Atea
+Registracijos numeris: 122588443
+Pašto adresas: J. Rutkausko g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@atea.lt
+Telefono numeris: +37052397830
+Fakso numeris: +37052397831
+Interneto adresas: www.atea.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: de39b810-9a1b-4a53-8020-6d0b834e5469 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/02/2025 16:46 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

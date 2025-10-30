@@ -1,0 +1,161 @@
+Lietuva: Klientų aptarnavimo paslaugos
+Klientų aptarnavimo užsienyje paslaugos (PPR-1160)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+1.1 Pirkėjas
+Oficialus pavadinimas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Klientų aptarnavimo užsienyje paslaugos (PPR-1160)
+Aprašymas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos priima užsieniečių 
+prašymus suteikti Lietuvos Respublikos elektroninio rezidento (toliau - e. rezidentas) statusą bei išduoda 
+elektroninės atpažinties ir elektroninio parašo priemonę (toliau - e. rezidento kortelė). Siekiant sukurti pridėtinę vertę 
+užsieniečiams, ketinantiems naudotis e. paslaugomis fiziškai neatvykus į Lietuvą, Migracijos departamentas ketina 
+įsigyti klientų aptarnavimo užsienyje paslaugas.
+Procedūros identifikatorius: 08b714ad-daac-4ec3-9fc2-6064414e45c5
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79342320 Klientų aptarnavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Klientų aptarnavimo užsienyje paslaugos (PPR-1160)
+Aprašymas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos priima užsieniečių 
+prašymus suteikti Lietuvos Respublikos elektroninio rezidento (toliau - e. rezidentas) statusą bei išduoda 
+elektroninės atpažinties ir elektroninio parašo priemonę (toliau - e. rezidento kortelė). Siekiant sukurti pridėtinę vertę 
+užsieniečiams, ketinantiems naudotis e. paslaugomis fiziškai neatvykus į Lietuvą, Migracijos departamentas ketina 
+įsigyti klientų aptarnavimo užsienyje paslaugas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79342320 Klientų aptarnavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Papildoma informacija: 1. Vokietijos Federacinė Respublika 2. Belgijos Karalystė 3. Šveicarijos 
+Konfederacija 4. Danijos Karalystė 5. Nyderlandų Karalystė 6. Austrijos Respublika 7. Italijos Respublika 8. 
+Prancūzijos Respublika 9. Japonija 10. Australijos Sandrauga 11. Korėjos Respublika (Pietų Korėja) 12. Jungtinė 
+Karalystė 13. Airijos Respublika 14. Švedijos Karalystė 15. Suomijos Respublika 16. Norvegijos Karalystė 17. Izraelio 
+Valstybė 18. Singapūro Respublika 19. Taivanas 20. Jungtinės Amerikos Valstijos 21. Kanada
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Laikotarpis, per kurį išorės paslaugų teikėjas galėtų pradėti teikti išorės paslaugas klientams, mėnesiai 
+nuo pirkimo sutarties pasirašymo dienos (T1)
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 40
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Viso pasiūlymo kaina, eurais
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 50
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Išorės paslaugų teikėjas gali pasiūlyti daugiau veikiančių klientų aptarnavimo vietų, nei nurodyta 2.1 
+punkte (T2)
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Išteklių agentūra prie Lietuvos Respublikos vidaus 
+reikalų ministerijos
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188729923
+Pašto adresas: Šventaragio g. 2, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: evaldas.stadalius@vrm.lt
+Telefono numeris: +370 52717230
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188610666
+Miestas: Vilnius
+Pašto kodas: 10312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@migracija.gov.lt
+Telefono numeris: +370 707 67000
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: b37e0fae-eafd-4648-acdb-f743121fee25 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/01/2025 10:36 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,160 @@
+Lietuva: Šoviniai
+5,56 x 45 mm NATO šoviniai (PPR-436)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 5,56 x 45 mm NATO šoviniai (PPR-436)
+Aprašymas: Pirkimas atliekamas pagal Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, 
+įstatymą. Maksimalus kiekis iki 5 000 000 vnt.
+Procedūros identifikatorius: db008807-1d14-42fe-b547-c90263ea84ce
+Ankstesnis skelbimas: d12a279b-9b53-4567-b2b5-86b82a4f665d-01
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35331500 Šoviniai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2009/81/EB
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 5,56 x 45 mm NATO šoviniai (PPR-436)
+Aprašymas: Pirkimas atliekamas pagal Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, 
+įstatymą. Maksimalus kiekis iki 5 000 000 vnt.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35331500 Šoviniai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal mažiausią kainą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, 
+įstatymo IV skyriuje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Išteklių agentūra prie Lietuvos Respublikos vidaus 
+reikalų ministerijos
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Išteklių agentūra prie Lietuvos Respublikos 
+vidaus reikalų ministerijos
+Organizacija, pasirašanti sutartį: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 958 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: Laimėtojas pagrindinis partneris Baltic Fox OU
+Oficialus pavadinimas: Laimėtojas JVG antras partneris UAB DEFENSA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000088614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 958 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34146
+Data, kurią buvo pasirinktas laimėtojas: 22/08/2025
+Sutarties sudarymo data: 11/09/2025
+Organizacija, pasirašanti sutartį: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188729923
+Pašto adresas: Šventaragio g. 2, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: evaldas.stadalius@vrm.lt
+Telefono numeris: +370 52717230
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Laimėtojas JVG antras partneris UAB DEFENSA
+Registracijos numeris: 300005349
+Pašto adresas: L. Stuokos-Gucevičiaus g. 9-2, Vilniaus m., Vilniaus m. sav. 
+Miestas: Vilnius
+Pašto kodas: LT01122
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@defensa.lt
+Telefono numeris: +37052655555
+Fakso numeris: +37052553310
+Interneto adresas: www.defensa.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Laimėtojas pagrindinis partneris Baltic Fox OU
+Miestas: Talinas
+Pašto kodas: 10124
+Šalies administracinis vienetas (NUTS): Põhja-Eesti (EE001)
+Šalis: Estija
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: abf8cee5-cc94-4714-98bd-b2b72c671e21 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/10/2025 10:04 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

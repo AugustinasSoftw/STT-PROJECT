@@ -1,0 +1,164 @@
+Lietuva: Sistemų ir aptarnavimo paslaugos
+Duomenų surinkimo ir analizės informacinės sistemos (DSAIS) priežiūros ir vystymo 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė energetikos reguliavimo taryba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Duomenų surinkimo ir analizės informacinės sistemos (DSAIS) priežiūros ir vystymo paslaugos
+Aprašymas: Duomenų surinkimo ir analizės informacinė sistema (toliau - DSAIS) skirta visam Valstybinės energetikos 
+reguliavimo tarybos (toliau - Taryba, Perkančioji organizacija) duomenų apie reguliuojamas sritis gyvavimo ciklui 
+valdyti, veiklos efektyvumui ir darbo kokybei gerinti. Taryba numato įsigyti DSAIS priežiūros ir vystymo paslaugas, kad 
+būtų užtikrintas nepertraukiamas Tarybos ir išorinių DSAIS naudotojų darbas naudojantis DSAIS.
+Procedūros identifikatorius: 2332c82b-5508-4a65-aaac-6ac593d29e15
+Ankstesnis skelbimas: 71f620d2-0447-48e6-b4a1-62b9d6aa9edc-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72250000 Sistemų ir aptarnavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+Kiti klasifikacijos kodai (cpv): 72211000 Programavimo paslaugos, susijusios su sistemomis ir vartotojo programine 
+įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Duomenų surinkimo ir analizės informacinės sistemos (DSAIS) priežiūros ir vystymo paslaugos
+Aprašymas: Duomenų surinkimo ir analizės informacinė sistema (toliau - DSAIS) skirta visam Valstybinės energetikos 
+reguliavimo tarybos (toliau - Taryba, Perkančioji organizacija) duomenų apie reguliuojamas sritis gyvavimo ciklui 
+valdyti, veiklos efektyvumui ir darbo kokybei gerinti. Taryba numato įsigyti DSAIS priežiūros ir vystymo paslaugas, kad 
+būtų užtikrintas nepertraukiamas Tarybos ir išorinių DSAIS naudotojų darbas naudojantis DSAIS.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72250000 Sistemų ir aptarnavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+Kiti klasifikacijos kodai (cpv): 72211000 Programavimo paslaugos, susijusios su sistemomis ir vartotojo programine 
+įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 200 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo reikalavimai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siūlomo specialisto profesinė patirtis, kuri viršija kvalifikaciniame reikalavime specialistui nustatytą 
+patirtį: Specialisto Nr. 2 programuotojo papildoma profesinė patirtis.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė energetikos reguliavimo taryba -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 148 830 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Baltic Amadeus
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018823
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 148 830 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6606
+Sutarties sudarymo data: 04/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė energetikos reguliavimo taryba
+Registracijos numeris: 188706554
+Pašto adresas: Verkių g. 25C-1 
+Miestas: Vilnius
+Pašto kodas: LT-08223
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: raimonda.zukauskaite@vert.lt
+Telefono numeris: +37061579380
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Baltic Amadeus
+Registracijos numeris: 110320619
+Pašto adresas: Lvivo g. 21A 
+Miestas: Vilnius
+Pašto kodas: 09313
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ba.lt
+Telefono numeris: +37052780400
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: fd887cb8-4c7f-4c9e-ad36-799dcee2a9a8 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/03/2025 14:50 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

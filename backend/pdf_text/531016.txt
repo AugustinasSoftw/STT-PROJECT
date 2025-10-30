@@ -1,0 +1,143 @@
+Lietuva: Vandens siurbliai
+738693 - Klaipėdos m. 3-čios vandenvietės 2-o kėlimo energetiškai efektyvių siurblių įsigijimas 
+ir sumontavimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Klaipėdos vanduo
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama regioninės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 738693 - Klaipėdos m. 3-čios vandenvietės 2-o kėlimo energetiškai efektyvių siurblių įsigijimas ir 
+sumontavimas
+Aprašymas: 1) geriamojo vandens tiekimo sausai pastatomi horizontalaus montavimo vandens siurbliai 4 vnt. 2) 
+siurblių energetiškai efektyvūs el. varikliai 4 vnt. 3) siurblių ir variklių būklės stebėjimo sistema. 4) dažnio keitikliai 
+4 vnt. 5) montavimo darbai. 6) integravimas į esamą trečios vandenvietės antro kėlimo PLV ir SCADA sistemą, 
+paleidimo derinimo darbai.
+Procedūros identifikatorius: 94108fb6-44be-4f1c-81d4-5e6104716451
+Ankstesnis skelbimas: 560460-2024
+Vidaus identifikatorius: 738693
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122130 Vandens siurbliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 738693 - Klaipėdos m. 3-čios vandenvietės 2-o kėlimo energetiškai efektyvių siurblių įsigijimas ir 
+sumontavimas
+Aprašymas: 1) geriamojo vandens tiekimo sausai pastatomi horizontalaus montavimo vandens siurbliai 4 vnt. 2) 
+siurblių energetiškai efektyvūs el. varikliai 4 vnt. 3) siurblių ir variklių būklės stebėjimo sistema. 4) dažnio keitikliai 
+4 vnt. 5) montavimo darbai. 6) integravimas į esamą trečios vandenvietės antro kėlimo PLV ir SCADA sistemą, 
+paleidimo derinimo darbai.
+Vidaus identifikatorius: 738693
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122130 Vandens siurbliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: naktinio siurblio efektyvumas darbo taške
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: dieninio siurblio efektyvumas darbo taške
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 25
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: pristatymo ir sumontavimo terminas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, pasirašanti sutartį: UAB Narvija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 209 120 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Klaipėdos vanduo
+Registracijos numeris: 140089260
+Pašto adresas: Ryšininkų g.11 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalis: Lietuva
+E. paštas: info@vanduo.lt
+Telefono numeris: 046220220
+Pirkėjo profilis: www.vanduo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26, LT-92131 
+Miestas: Klaipėda
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Narvija
+Registracijos numeris: 141499878
+Miestas: Klaipėda
+Šalis: Lietuva
+E. paštas: n.jakas@narvija.com
+Telefono numeris: +370 695 67692
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 2d55c027-664f-48df-8a60-b4f3d98f0ab1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/12/2024 16:18 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

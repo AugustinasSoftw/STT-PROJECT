@@ -1,0 +1,213 @@
+Lietuva: Ekspertų paslaugos
+Inžinerinių statinių projektų ekspertizių paslaugų centralizuotas pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Inžinerinių statinių projektų ekspertizių paslaugų centralizuotas pirkimas
+Aprašymas: Inžinerinių statinių projektų ekspertizių paslaugos (toliau - paslaugos), atitinkančios techninėje 
+specifikacijoje (Preliminariosios sutarties 2 priedas) nustatytus reikalavimus. Per visą preliminariosios sutarties trukmę 
+paslaugas numatoma teikti ~ 180 (preliminarus skaičius) projektams.
+Procedūros identifikatorius: b884c25f-c22a-41bf-97a0-21f964bfeec5
+Ankstesnis skelbimas: 4b4db05c-b5c9-4d8b-9133-ee349760850f-01
+Vidaus identifikatorius: 521436
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Preliminariosios sutarties didžiausioji vertė: 743 801,65 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Inžinerinių statinių projektų ekspertizių paslaugų centralizuotas pirkimas
+Aprašymas: Inžinerinių statinių projektų ekspertizių paslaugos (toliau - paslaugos), atitinkančios techninėje 
+specifikacijoje (Preliminariosios sutarties 2 priedas) nustatytus reikalavimus. Per visą preliminariosios sutarties trukmę 
+paslaugas numatoma teikti ~ 180 (preliminarus skaičius) projektams.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 743 801,65 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, dėl dalies neskelbiant naujo konkurso ir dėl dalies skelbiant naują konkursą
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno miesto savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno miesto savivaldybės administracija -
+6 Rezultatai
+Preliminariųjų sutarčių apytikslė vertė: 743 801,65 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties iš naujo įvertinta vertė: 743 801,65 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Projektų ekspertizė"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000018063
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 5949
+Sutarties sudarymo data: 10/03/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB "Statybos projektų ekspertizės centras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000017674
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 5947
+Sutarties sudarymo data: 10/03/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB DARBASTA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000017834
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 5948
+Sutarties sudarymo data: 10/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Projektų ekspertizė"
+Registracijos numeris: 120091161
+Pašto adresas: A.Vienuolio g. 6 
+Miestas: Vilnius
+Pašto kodas: LT-01104
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: office@proex.lt
+Telefono numeris: 052121887
+Interneto adresas: www.proex.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: UAB "Statybos projektų ekspertizės centras"
+Registracijos numeris: 124850887
+Pašto adresas: Kęstučio g. 59 
+Miestas: Vilnius
+Pašto kodas: LT-08124
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ekspertize.com
+Telefono numeris: 052312912
+Interneto adresas: www.ekspertize.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: UAB DARBASTA
+Registracijos numeris: 123436424
+Pašto adresas: Švarioji g. 34-3 
+Miestas: Vilnius
+Pašto kodas: 09235
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: valdas.pletas@darbasta.lt
+Telefono numeris: +37068726659
+Interneto adresas: www.darbasta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: LT-44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 886facc8-caef-4eb8-9ba0-1510865e0e80 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/03/2025 14:02 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

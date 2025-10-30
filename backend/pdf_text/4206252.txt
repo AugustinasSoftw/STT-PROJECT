@@ -1,0 +1,94 @@
+Lietuva: Binokliai
+Stebėjimo prietaisai (sk. vado lygmens) (Skelbiama apklausa)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos kariuomenės Krašto apsaugos savanorių pajėgų Vyčio apygardos 5-oji rinktinė
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Stebėjimo prietaisai (sk. vado lygmens) (Skelbiama apklausa)
+Aprašymas: Stebėjimo prietaisai (binokliai)
+Procedūros identifikatorius: a72b34f5-1ba8-4cbc-8d72-2c6130aaf41b
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38631000 Binokliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Stebėjimo prietaisai (sk. vado lygmens) (Skelbiama apklausa)
+Aprašymas: Stebėjimo prietaisai (binokliai)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38631000 Binokliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Krašto apsaugos savanorių 
+pajėgų Vyčio apygardos 5-oji rinktinė
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos kariuomenės Krašto apsaugos savanorių pajėgų Vyčio apygardos 5-oji rinktinė
+Registracijos numeris: 191684114
+Pašto adresas: Dembavos g. 30 
+Miestas: Dembava, Panevėžio r.
+Pašto kodas: LT-38176
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: gita.kriaucioniene@mil.lt
+Telefono numeris: +370 45 463286
+Fakso numeris: +370 45 465573
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Dembavos g. 30 
+Miestas: Dembava
+Pašto kodas: LT-38176
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 2a079394-fa89-4ca1-bb15-fc49922172ca - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 22/08/2025 09:47 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

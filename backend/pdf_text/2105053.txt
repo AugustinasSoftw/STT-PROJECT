@@ -1,0 +1,126 @@
+Lietuva: Sistemų ir aptarnavimo paslaugos
+Socialinių išmokų apskaitos informacinės sistemos „Parama“ palaikymo, plėtros ir vystymo 
+pirkimas (Neskelbiamos derybos)
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Jonavos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Socialinių išmokų apskaitos informacinės sistemos „Parama“ palaikymo, plėtros ir vystymo pirkimas 
+(Neskelbiamos derybos)
+Aprašymas: Socialinių išmokų apskaitos informacinės sistemos „Parama“ palaikymo (priežiūros), plėtros ir vystymo 
+paslaugos.
+Procedūros identifikatorius: 2c673510-8c3c-422d-b64a-d548d0d8b4e2
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72250000 Sistemų ir aptarnavimo paslaugos
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Socialinių išmokų apskaitos informacinės sistemos „Parama“ palaikymo, plėtros ir vystymo pirkimas 
+(Neskelbiamos derybos)
+Aprašymas: Socialinių išmokų apskaitos informacinės sistemos „Parama“ palaikymo (priežiūros), plėtros ir vystymo 
+paslaugos.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72250000 Sistemų ir aptarnavimo paslaugos
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žalias pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su produktų inovacijomis.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Jonavos rajono savivaldybės administracija -
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: perkamas Paslaugas suteikti gali konkretus tiekėjas, turintis išimtines teises platinti, diegti, 
+vystyti socialinių išmokų apskaitos informacinę sistemą „Parama“, bei teikti pritaikymo, priežiūros, mokymo, 
+konsultavimo ir kitas su šiuo produktu susijusias paslaugas. Turimų autorinių teisių tiekėjas nėra atsisakęs ar 
+perleidęs kitiems asmenims.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: NEVDA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000044930
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 15513
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Jonavos rajono savivaldybės administracija
+Registracijos numeris: 188769070
+Pašto adresas: Žeimių g. 13 
+Miestas: Jonava
+Pašto kodas: 55158
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: sandra.rusoniene@jonava.lt
+Telefono numeris: +37034953805
+Interneto adresas: www.jonava.lt
+Pirkėjo profilis: www.jonava.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: NEVDA
+Registracijos numeris: 121931451
+Pašto adresas: Savanorių pr. 178F 
+Miestas: Vilnius
+Pašto kodas: 03154
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: paulius@nevda.lt
+Telefono numeris: +37068515007
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +37037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: eb4499e1-51ae-4a7a-b9b9-06bd5bb0ba1b - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 09/04/2025 11:36 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

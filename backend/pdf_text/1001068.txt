@@ -1,0 +1,143 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Socialinės globos namų, adresu Žemaičių g. 18, Panevėžys pastato rekonstravimo projektinių 
+pasiūlymų, techninio darbo projekto parengimas ir projekto vykdymo priežiūra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Panevėžio miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Socialinės globos namų, adresu Žemaičių g. 18, Panevėžys pastato rekonstravimo projektinių 
+pasiūlymų, techninio darbo projekto parengimas ir projekto vykdymo priežiūra
+Aprašymas: Projekto tikslas: atlikti esamo pastato rekonstrukciją įrengiant šiuolaikinius standartus atitinkančius 
+globos namus. Perplanuoti esamą pastato patalpų infrastruktūrą, numatyti gyvenamąsias, laisvalaikio, priežiūros, 
+administracines, maitinimo gamybos ir pagalbines patalpas, pritaikant jas gyventojų ir dirbančiųjų asmenų poreikiams. 
+Taip pat suprojektuoti naujas vandentiekio, nuotekų, šildymo, rekuperacinę vėdinimo ir vėsinimo, elektros, gaisrinės ir 
+apsauginės signalizacijų sistemas.
+Procedūros identifikatorius: 75e4cc77-5ca0-4036-9db1-07816fd910d7
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Socialinės globos namų, adresu Žemaičių g. 18, Panevėžys pastato rekonstravimo projektinių 
+pasiūlymų, techninio darbo projekto parengimas ir projekto vykdymo priežiūra
+Aprašymas: Projekto tikslas: atlikti esamo pastato rekonstrukciją įrengiant šiuolaikinius standartus atitinkančius 
+globos namus. Perplanuoti esamą pastato patalpų infrastruktūrą, numatyti gyvenamąsias, laisvalaikio, priežiūros, 
+administracines, maitinimo gamybos ir pagalbines patalpas, pritaikant jas gyventojų ir dirbančiųjų asmenų poreikiams. 
+Taip pat suprojektuoti naujas vandentiekio, nuotekų, šildymo, rekuperacinę vėdinimo ir vėsinimo, elektros, gaisrinės ir 
+apsauginės signalizacijų sistemas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybė
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Numatyta pirkimo sąlgose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: Numatyta pirkimo sąlgose
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Panevėžio miesto savivaldybės administracija -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Panevėžio miesto savivaldybės administracija
+Registracijos numeris: 288724610
+Pašto adresas: Laisvės a. 20 
+Miestas: Panevėžys
+Pašto kodas: LT-35200
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: jolanta.valuziene@panevezys.lt
+Telefono numeris: +370 45 501 292
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 8398129f-6884-4748-bd67-06176c465e1b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 31/01/2025 14:44 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

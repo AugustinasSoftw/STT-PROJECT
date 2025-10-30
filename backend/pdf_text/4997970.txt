@@ -1,0 +1,442 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Projektavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Projektavimo paslaugos
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Procedūros identifikatorius: 0e35ba0b-f076-466b-b994-19958383a4a6
+Ankstesnis skelbimas: 0fb88128-ad08-4c3e-98ad-29642ad5daa7-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Administracinio pastato 1B2p (Mindaugo g. 26 ir 28, Vilnius) pamatų hidroizoliacijos ir šiltinimo darbų 
+projektavimo paslaugos (VĮAC)
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: už neypatingojo/ypatingojo statinio projekto vadovo per pastaruosius 5 metus iki pasiūlymo pateikimo 
+termino pabaigos parengtų neypatingųjų ar ypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo 
+apsaugos zonoje, kultūros paveldo vietovėje, remonto ar rekonstravimo, ar naujos statybos techninių projektų ar 
+techninių darbo projektų, ar darbų projektų (tam pačiam objektui) skaičius ir vadovavimas atliekant darbus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Logistikos valdybos Įgulų 
+aptarnavimo tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kariuomenės Logistikos valdybos 
+Įgulų aptarnavimo tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Pastato-sandėlio 5F2p (Savanorių pr. 8, Vilnius) fasado ir vidaus patalpų remonto projektavimo 
+paslaugos( VĮAC)
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: už ypatingojo statinio projekto vadovo per pastaruosius 5 metus iki pasiūlymo pateikimo termino 
+pabaigos parengtų ypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros 
+paveldo vietovėje, remonto ar rekonstravimo, ar naujos statybos techninių projektų ar techninių darbo projektų, ar 
+darbų projektų (tam pačiam objektui) skaičius ir vadovavimas atliekant darbus
+Kategorija skyrimo kriterijaus fiksuota vertė: Mažiausias balų skaičius
+Skyrimo kriterijus: skaičius: 20
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Logistikos valdybos Įgulų 
+aptarnavimo tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kariuomenės Logistikos valdybos 
+Įgulų aptarnavimo tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Poliklinikos pastato 2D2p (Vytauto pr.49, Kaunas) stogo ir bendrojo naudojimo patalpų remonto 
+projektavimo paslaugos
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: už ypatingojo statinio projekto vadovo per pastaruosius 5 metus iki pasiūlymo pateikimo termino 
+pabaigos parengtų ypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros 
+paveldo vietovėje, remonto ar rekonstravimo, ar naujos statybos techninių projektų ar techninių darbo projektų, ar 
+darbų projektų (tam pačiam objektui) skaičius ir vadovavimas atliekant darbus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Logistikos valdybos Įgulų 
+aptarnavimo tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kariuomenės Logistikos valdybos 
+Įgulų aptarnavimo tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: JVIB valgyklos (Kareivinių g. 9, Kaunas) vėsinimo sistemos ir vidaus patalpų remonto projektavimo 
+paslaugos
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: už ypatingojo statinio projekto vadovo per pastaruosius 5 metus iki pasiūlymo pateikimo termino 
+pabaigos parengtų ypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros 
+paveldo vietovėje, remonto ar rekonstravimo, ar naujos statybos techninių projektų ar techninių darbo projektų, ar 
+darbų projektų (tam pačiam objektui) skaičius ir vadovavimas atliekant darbus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Logistikos valdybos Įgulų 
+aptarnavimo tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kariuomenės Logistikos valdybos 
+Įgulų aptarnavimo tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Kareivinių 16H3p (Vaidoto g. 209, Kaunas) remonto projektavimo paslaugos
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: už ypatingojo statinio projekto vadovo per pastaruosius 5 metus iki pasiūlymo pateikimo termino 
+pabaigos parengtų ypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros 
+paveldo vietovėje, remonto ar rekonstravimo, ar naujos statybos techninių projektų ar techninių darbo projektų, ar 
+darbų projektų (tam pačiam objektui) skaičius ir vadovavimas atliekant darbus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Logistikos valdybos Įgulų 
+aptarnavimo tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kariuomenės Logistikos valdybos 
+Įgulų aptarnavimo tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Sporto salės 40C1p (Vaidoto g. 209, Kaunas) remonto projektavimo paslaugos
+Aprašymas: Reikalavimai pirkimo objektui (atitinkamai pirkimo daliai) nurodyti pirkimo sąlygų 1-6 prieduose „Techninė 
+specifikacija“ ir Pirkimo sąlygų 8-19 prieduose.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: už ypatingojo statinio projekto vadovo per pastaruosius 5 metus iki pasiūlymo pateikimo termino 
+pabaigos parengtų ypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros 
+paveldo vietovėje, remonto ar rekonstravimo, ar naujos statybos techninių projektų ar techninių darbo projektų, ar 
+darbų projektų (tam pačiam objektui) skaičius ir vadovavimas atliekant darbus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kariuomenės Logistikos valdybos Įgulų 
+aptarnavimo tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kariuomenės Logistikos valdybos 
+Įgulų aptarnavimo tarnyba
+Organizacija, atliekanti mokėjimus: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 138 847,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Klasikinis portikas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092944
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 44 715,55 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33428
+Sutarties sudarymo data: 10/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ENERO
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092404
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 34 969 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33429
+Sutarties sudarymo data: 10/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ENERO
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092404
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 29 033,95 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33430
+Data, kurią buvo pasirinktas laimėtojas: 23/09/2025
+Sutarties sudarymo data: 10/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Klasikinis portikas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092944
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 34 969 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33431
+Data, kurią buvo pasirinktas laimėtojas: 25/09/2025
+Sutarties sudarymo data: 10/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Klasikinis portikas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092944
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 23 951,95 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33432
+Data, kurią buvo pasirinktas laimėtojas: 25/09/2025
+Sutarties sudarymo data: 13/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ENERO
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092404
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 39 875,55 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33433
+Sutarties sudarymo data: 10/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos kariuomenės Logistikos valdybos Įgulų aptarnavimo tarnyba
+Registracijos numeris: 300066843
+Pašto adresas: Mindaugo g. 26 
+Miestas: Vilnius
+Pašto kodas: LT-03215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: iat@mil.lt
+Telefono numeris: +370 5 278 5343
+Pirkėjo profilis: www.kariuomene.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: ENERO
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302521962
+Pašto adresas: Trakų g. 3 
+Miestas: Vilnius
+Pašto kodas: 01132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: T.Ulinauskas@enero.lt
+Telefono numeris: +0 686 48426
+Interneto adresas: www.enero.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003, LOT-0006
+8.1 ORG-0003
+Oficialus pavadinimas: UAB "Klasikinis portikas"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 125139628
+Pašto adresas: Bajorų sodų 18-oji g. 27 
+Miestas: Vilnius
+Pašto kodas: LT-01133
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@valevicius.com
+Telefono numeris: +37068730769
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0004, LOT-0005
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f63364ce-bb1d-4c54-a171-2394cb5aa420 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/10/2025 16:08 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

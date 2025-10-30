@@ -1,0 +1,225 @@
+Lietuva: Remonto ir priežiūros paslaugos
+HIDRAULINIŲ SISTEMŲ TECHNINĖS PRIEŽIŪROS IR REMONTO PASLAUGOS, ĮSKAITANT SU 
+ŠIŲ PASLAUGŲ TEIKIMU SUSIJUSIŲ DETALIŲ KEITIMĄ
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Klaipėdos regiono atliekų tvarkymo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: HIDRAULINIŲ SISTEMŲ TECHNINĖS PRIEŽIŪROS IR REMONTO PASLAUGOS, ĮSKAITANT SU ŠIŲ 
+PASLAUGŲ TEIKIMU SUSIJUSIŲ DETALIŲ KEITIMĄ
+Aprašymas: Hidraulinių sistemų remonto paslaugos, kurios apima technologinių įrenginių hidraulinių sistemų, atliekų 
+tvarkymo technikos hidraulinių sistemų bei atliekų pervežimo transporto priemonių hidraulinių sistemų techninę 
+priežiūrą ir remontą, įskaitant su šių paslaugų teikimu susijusių detalių keitimą
+Procedūros identifikatorius: 620d6835-0cba-45f6-bd67-8d9a2e42d2dc
+Ankstesnis skelbimas: 753771-2024
+Vidaus identifikatorius: ID 299139
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 55 200 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: HIDRAULINIŲ SISTEMŲ TECHNINĖS PRIEŽIŪROS IR REMONTO PASLAUGOS, ĮSKAITANT SU ŠIŲ 
+PASLAUGŲ TEIKIMU SUSIJUSIŲ DETALIŲ KEITIMĄ
+Aprašymas: Hidraulinių sistemų remonto paslaugos, kurios apima technologinių įrenginių hidraulinių sistemų, atliekų 
+tvarkymo technikos hidraulinių sistemų bei atliekų pervežimo transporto priemonių hidraulinių sistemų techninę 
+priežiūrą ir remontą, įskaitant su šių paslaugų teikimu susijusių detalių keitimą.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+Kiekis: 700 valanda
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 55 200 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Socialinių tikslų įgyvendinimas
+Aprašymas: Tiekėjas tiesiogiai pirkimo sutartį vykdančius darbuotojus draudžia papildomu gyvybės draudimu, kuris 
+apima traumų, sunkios negalios ar mirties atvejus
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Už kainos kriterijų siūlomi balai
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kriterijus (T1) - Tiekėjas (savo pajėgumais) turi įgijęs ne mažesnę kaip 2 metų patirtį teikiant su 
+pirkimo objektu susijusias paslaugas (hidraulinių sistemų techninė priežiūra ir remontas), būtent su atliekų 
+tvarkymu susijusiose įmonėse
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kriterijus (T2) - papildomas socialinis kriterijus - tiekėjas tiesiogiai pirkimo sutartį vykdančius 
+darbuotojus draudžia papildomu sveikatos draudimu, kuris apima ir individualių konsultacijų su psichiatru bei 
+psichoterapeutu paslaugas arba gyvybės draudimu, kuris apima traumų, sunkios negalios ar mirties atvejus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 2
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kriterijus (T3) - Tiekėjas naujoms detalėms, tiekiamoms pagal Sutarties SD 2.11 punktą bei 
+atitinkančioms rinkos kainą, taiko nuolaidą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 8
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Informacija apie peržiūros terminus: 10
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 55 200 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Visrupos servisas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 29 804 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: TEN-0001
+Data, kurią buvo pasirinktas laimėtojas: 22/01/2025
+Sutarties sudarymo data: 31/01/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB "Visrupos servisas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 29 804 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: TEN-0001
+Data, kurią buvo pasirinktas laimėtojas: 22/01/2025
+Sutarties sudarymo data: 31/01/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB "Visrupos servisas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 29 804 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: TEN-0001
+Data, kurią buvo pasirinktas laimėtojas: 22/01/2025
+Sutarties sudarymo data: 31/01/2025
+Laimėtojas:
+Oficialus pavadinimas: UAB "Visrupos servisas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 29 804 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: TEN-0001
+Data, kurią buvo pasirinktas laimėtojas: 22/01/2025
+Sutarties sudarymo data: 31/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 29 804 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 29 804 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Klaipėdos regiono atliekų tvarkymo centras (PV)
+Registracijos numeris: 163743744
+Pašto adresas: Liepų g. 15 
+Miestas: Klaipėda
+Pašto kodas: 92138
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: sonata.rudiene@kratc.lt
+Telefono numeris: +370 640 75487
+Interneto adresas: www.kratc.lt
+Pirkėjo profilis: www.kratc.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Visrupos servisas"
+Registracijos numeris: 304210383
+Miestas: Klaipėda
+Pašto kodas: 94178
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: f150d862-a889-41c6-9ec0-e8fae7d1ae49 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/02/2025 10:32 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,103 @@
+Lietuva: Pėsčiųjų takų statybos darbai
+Pėsčiųjų tako I. Šeiniaus g., Širvintose, paprastojo remonto ir tvoros įrengimo darbai 
+(Skelbiama apklausa)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Širvintų rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pėsčiųjų tako I. Šeiniaus g., Širvintose, paprastojo remonto ir tvoros įrengimo darbai (Skelbiama 
+apklausa)
+Aprašymas: Širvintų rajono savivaldybės administracija perka pėsčiųjų tako I. Šeiniaus g., Širvintose, paprastojo 
+remonto ir tvoros įrengimo darbus. Pirkimo Nr. 836. Detali informacija pateikiama pirkimo dokumentuose.
+Procedūros identifikatorius: cd3ba0f7-b495-46ec-aab1-76759972ed85
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233161 Pėsčiųjų takų statybos darbai
+Kiti klasifikacijos kodai (cpv): 34928200 Tvoros
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pėsčiųjų tako I. Šeiniaus g., Širvintose, paprastojo remonto ir tvoros įrengimo darbai (Skelbiama 
+apklausa)
+Aprašymas: Širvintų rajono savivaldybės administracija perka pėsčiųjų tako I. Šeiniaus g., Širvintose, paprastojo 
+remonto ir tvoros įrengimo darbus. Pirkimo Nr. 836. Detali informacija pateikiama pirkimo dokumentuose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233161 Pėsčiųjų takų statybos darbai
+Kiti klasifikacijos kodai (cpv): 34928200 Tvoros
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Širvintų rajono savivaldybės administracija
+Registracijos numeris: 188722373
+Pašto adresas: Vilniaus g. 61 
+Miestas: Širvintos
+Pašto kodas: LT-19120
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: danguole.palkeviciene@sirvintos.lt
+Telefono numeris: +37061215691
+Fakso numeris: +370 382 30270
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-015001
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: de0d453c-bfe7-4597-af23-158d4124cd11 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 04/03/2025 09:23 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

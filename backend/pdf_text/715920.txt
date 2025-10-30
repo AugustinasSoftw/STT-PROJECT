@@ -1,0 +1,145 @@
+Lietuva: Statybos darbų priežiūra
+„Magistralinio kelio A1 Vilnius-Kaunas-Klaipėda ruožo nuo 97,60 iki 98,31 km kapitalinis 
+remontas, įrengiant sankryžos jungiamuosius kelius, greitėjimo(lėtėjimo) juostų“ techninės 
+priežiūros paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: „Magistralinio kelio A1 Vilnius-Kaunas-Klaipėda ruožo nuo 97,60 iki 98,31 km kapitalinis remontas, 
+įrengiant sankryžos jungiamuosius kelius, greitėjimo(lėtėjimo) juostų“ techninės priežiūros paslaugos
+Aprašymas: X pirkimo kategorija - Techninės priežiūros paslaugos kelių ir kitų transporto statinių naujos statybos, 
+rekonstravimo ir remonto darbų objektams, kurių SMD virš 1 000 000,00 Eur be PVM.
+Procedūros identifikatorius: 7345e8cd-c032-4190-93c3-eeaf0b92a15b
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71247000 Statybos darbų priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: „Magistralinio kelio A1 Vilnius-Kaunas-Klaipėda ruožo nuo 97,60 iki 98,31 km kapitalinis remontas, 
+įrengiant sankryžos jungiamuosius kelius, greitėjimo(lėtėjimo) juostų“ techninės priežiūros paslaugos
+Aprašymas: X pirkimo kategorija - Techninės priežiūros paslaugos kelių ir kitų transporto statinių naujos statybos, 
+rekonstravimo ir remonto darbų objektams, kurių SMD virš 1 000 000,00 Eur be PVM.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71247000 Statybos darbų priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Specialisto patirtis
+Lyginamasis svoris (balai, tikslus skaičius): 30
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Valandinis darbo užmokėstis
+Lyginamasis svoris (balai, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kaina
+Lyginamasis svoris (balai, tikslus skaičius): 50
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 12 183,89 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Laboratorinių bandymų centras
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000011420
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2221
+Sutarties sudarymo data: 09/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalis: Lietuva
+E. paštas: lijana.palsiene@vialietuva.lt
+Telefono numeris: 862024412
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Laboratorinių bandymų centras
+Registracijos numeris: 135641038
+Pašto adresas: R. Kalantos g. 85a 
+Miestas: Kaunas
+Pašto kodas: LT-52308
+Šalis: Lietuva
+E. paštas: lbc@lbc.lt
+Telefono numeris: +37037456333
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 1f098733-d54e-494f-a82e-439d67f9bbb9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/01/2025 13:07 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

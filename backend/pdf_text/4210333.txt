@@ -1,0 +1,142 @@
+Lietuva: Reklamos paslaugos
+Ekspozicinių stendų lauko parodoms projektavimo ir gamybos paslaugos, Nr. 5768/2025/VUM
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Ekspozicinių stendų lauko parodoms projektavimo ir gamybos paslaugos, Nr. 5768/2025/VUM
+Aprašymas: Ekspozicinių stendų lauko parodoms projektavimo ir gamybos paslaugos, Nr. 5768/2025/VUM
+Procedūros identifikatorius: 1b092325-86fa-4219-ae23-72b11ea61698
+Ankstesnis skelbimas: 7174799f-58d5-4f31-8e4a-24249464ad84-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79341000 Reklamos paslaugos
+Kiti klasifikacijos kodai (cpv): 79341400 Reklamos kampanijų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Parodų ir (ar) mugių ir panašių renginių reklamos stendų sukūrimo ir idėjos įgyvendinimo ir kitos 
+susijusios paslaugos
+Aprašymas: Ekspozicinių stendų lauko parodoms projektavimo ir gamybos paslaugos, Nr. 5768/2025/VUM
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79341000 Reklamos paslaugos
+Kiti klasifikacijos kodai (cpv): 79341400 Reklamos kampanijų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Nurodyta VPĮ
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus universitetas (PV)
+Organizacija, atliekanti mokėjimus: Vilniaus universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 7 125,69 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Optimum Solution
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000084780
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 7 125,69 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 27389
+Data, kurią buvo pasirinktas laimėtojas: 14/08/2025
+Sutarties sudarymo data: 18/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Optimum Solution
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 302332424
+Pašto adresas: Šeškinės g 1-15 
+Miestas: Vilnius
+Pašto kodas: 07151
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@optimum-solution.lt
+Telefono numeris: +370698 13407
+Interneto adresas: www.opti.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ae243795-4856-44e7-805f-c8898d5a9de0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 22/08/2025 11:16 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

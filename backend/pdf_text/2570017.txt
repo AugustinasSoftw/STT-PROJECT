@@ -1,0 +1,364 @@
+Lietuva: Autorių teikiamos paslaugos
+Dalykų užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos (Atviras konkursas) (Nutrauktas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Dalykų užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos 
+(Atviras konkursas) (Nutrauktas)
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Procedūros identifikatorius: c86d0b01-a276-4c87-852c-045ee45b786b
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo objekto dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos.
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos.
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos.
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: IV pirkimo objekto dalis - istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos.
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos.
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko užduočių modulių (didelį 
+mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Aprašymas: Tikslas - sukurti skaitmeninius dalykų užduočių modulius (toliau - modulius), skirtus 2-10 klasių didelį 
+mokymosi potencialą turinčių mokinių ugdymo turinio turtinimui. Pirkimo objektas - matematikos, lietuvių k., gamtos 
+mokslų, istorijos, geografijos ir užsienio kalbos (anglų) 36 skaitmeninių dalykų užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. Pirkimas skaidomas į 6 pirkimo objekto dalis: I pirkimo objekto 
+dalis - matematikos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) 
+sukūrimo paslaugos. II pirkimo objekto dalis - lietuvių kalbos skaitmeninių dalyko užduočių modulių (didelį mokymosi 
+potencialą turintiems mokiniams) sukūrimo paslaugos. III pirkimo objekto dalis - gamtos mokslų skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos. IV pirkimo objekto dalis 
+- istorijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo 
+paslaugos. V pirkimo objekto dalis - geografijos skaitmeninių dalyko užduočių modulių (didelį mokymosi potencialą 
+turintiems mokiniams) sukūrimo paslaugos. VI pirkimo objekto dalis - užsienio kalbos (anglų) skaitmeninių dalyko 
+užduočių modulių (didelį mokymosi potencialą turintiems mokiniams) sukūrimo paslaugos.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 322 314,05 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Registracijos numeris: 305238040
+Pašto adresas: K. Kalinausko g. 7 
+Miestas: Vilnius
+Pašto kodas: LT-03107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zydre.juceviciene@nsa.smm.lt
+Telefono numeris: +37068440990
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a515b2c8-705b-4295-bb4e-c7fdf1c60969 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 07/05/2025 19:55 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

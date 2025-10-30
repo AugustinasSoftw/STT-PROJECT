@@ -1,0 +1,168 @@
+Lietuva: Sistemų palaikymo paslaugos
+Statistinių duomenų saugyklos (SDS) ir SDS_NAD palaikymo ir vystymo paslaugų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos
+Pirkėjo teisinė forma: ES institucija, įstaiga ar agentūra
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Statistinių duomenų saugyklos (SDS) ir SDS_NAD palaikymo ir vystymo paslaugų pirkimas
+Aprašymas: NMA ketina įsigyti statistinių duomenų saugyklos (SDS) ir atvirų duomenų modulio (SDS_NAD) palaikymo 
+ir vystymo paslaugas. paslaugų orientacinės apimtys, skaičiuojant darbo dienomis, yra: 135 (šimtas trisdešimt 
+penkios) darbo dienos per 36 (trisdešimt šešis) mėnesius. Nurodyta Paslaugų apimtis yra orientacinė ir skirta tik 
+pasiūlymo kainai apskaičiuoti. Perkančioji organizacija neįsipareigoja nusipirkti visos nurodytos paslaugų apimties, 
+tačiau sutarties vykdymo metu Paslaugų apimtis gali didėti ne daugiau 10 (dešimt) procentų numatytos 36 (trisdešimt 
+šešių) mėnesių paslaugų apimties taikant Sutartyje nurodytą paslaugų įkainį.
+Procedūros identifikatorius: 9563a7eb-ac12-43d9-98d0-876493b5a8d3
+Ankstesnis skelbimas: 88d16307-079e-4020-affc-d6d99ce195c0-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72253200 Sistemų palaikymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Statistinių duomenų saugyklos (SDS) ir SDS_NAD palaikymo ir vystymo paslaugų pirkimas
+Aprašymas: NMA ketina įsigyti statistinių duomenų saugyklos (SDS) ir atvirų duomenų modulio (SDS_NAD) palaikymo 
+ir vystymo paslaugas. paslaugų orientacinės apimtys, skaičiuojant darbo dienomis, yra: 135 (šimtas trisdešimt 
+penkios) darbo dienos per 36 (trisdešimt šešis) mėnesius. Nurodyta Paslaugų apimtis yra orientacinė ir skirta tik 
+pasiūlymo kainai apskaičiuoti. Perkančioji organizacija neįsipareigoja nusipirkti visos nurodytos paslaugų apimties, 
+tačiau sutarties vykdymo metu Paslaugų apimtis gali didėti ne daugiau 10 (dešimt) procentų numatytos 36 (trisdešimt 
+šešių) mėnesių paslaugų apimties taikant Sutartyje nurodytą paslaugų įkainį.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72253200 Sistemų palaikymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Pirkimo sąlygose nurodyta
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pirkimo sąlygose nurodyta
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Viešųjų pirkimų įstatymo VII skyriaus nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė mokėjimo agentūra prie Žemės ūkio 
+ministerijos -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Nacionalinė mokėjimo agentūra prie Žemės 
+ūkio ministerijos -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 87 615 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB iTree Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000055277
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 87 615 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21502
+Data, kurią buvo pasirinktas laimėtojas: 26/05/2025
+Sutarties sudarymo data: 10/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinė mokėjimo agentūra prie Žemės ūkio ministerijos
+Registracijos numeris: 288739270
+Pašto adresas: Blindžių g. 17 
+Miestas: Vilnius
+Pašto kodas: 08111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@nma.lt
+Telefono numeris: +370 (5) 252 6999
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB iTree Lietuva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302249829
+Pašto adresas: Konstitucijos pr. 7 
+Miestas: Vilnius
+Pašto kodas: 09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infolt@itreegroup.eu
+Telefono numeris: +37052487506
+Interneto adresas: www.itreegroup.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 3d96dd3c-1b39-420b-9a4f-f010fb22cb0d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 11/06/2025 09:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

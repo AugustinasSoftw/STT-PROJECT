@@ -1,0 +1,227 @@
+Lietuva: Sudedamosios lovos
+Sulankstomos lovos, miegmaišiai ir didelės palapinės
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Sulankstomos lovos, miegmaišiai ir didelės palapinės
+Aprašymas: Perkama 1575 vnt. sulankstomų lovų, 1575 vnt. miegmaišių ir 6 vnt. didelių palapinų
+Procedūros identifikatorius: c01eb498-6787-4e7a-af3d-a5e898826365
+Ankstesnis skelbimas: 39ffa3e8-065f-4893-b56c-71c5c1bf6a69-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39522520 Sudedamosios lovos
+Kiti klasifikacijos kodai (cpv): 39522520 Sudedamosios lovos
+Kiti klasifikacijos kodai (cpv): 39522540 Miegmaišiai
+Kiti klasifikacijos kodai (cpv): 39522530 Palapinės
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I dalis - slankstomų lovų ir miegmaišių pirkimas
+Aprašymas: Perkama 1575 vnt. sulankstomų lovų, 1575 vnt. miegmaišių ir 6 vnt. didelių palapinų
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39522520 Sudedamosios lovos
+Kiti klasifikacijos kodai (cpv): 39522520 Sudedamosios lovos
+Kiti klasifikacijos kodai (cpv): 39522540 Miegmaišiai
+Kiti klasifikacijos kodai (cpv): 39522530 Palapinės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: 1.5. Pirkimas laikomas žaliuoju pirkimu pagal Lietuvos Respublikos aplinkos ministro 2011 m. birželio 
+28 d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos 
+aprašo (aktuali redakcija) (toliau - Aprašas) 4.1 punktą ir 4.4.4.4. bei 4.4.4.5. papunktį
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Laimėtojas išrenkamas pagal ekonomiškai naudingiausią pasiūlymą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriuje.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II dalis- didelių palapinių pirkimas
+Aprašymas: Perkama 1575 vnt. sulankstomų lovų, 1575 vnt. miegmaišių ir 6 vnt. didelių palapinų
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39522520 Sudedamosios lovos
+Kiti klasifikacijos kodai (cpv): 39522520 Sudedamosios lovos
+Kiti klasifikacijos kodai (cpv): 39522540 Miegmaišiai
+Kiti klasifikacijos kodai (cpv): 39522530 Palapinės
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Laimėtojas išrenkamas pagal ekonomiškai naudingiausią pasiūlymą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriuje.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 155 209,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ineo Group
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000074874
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 16 452 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30786
+Data, kurią buvo pasirinktas laimėtojas: 15/07/2025
+Sutarties sudarymo data: 23/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Taiklu
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000074683
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 138 757,5 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 38
+Aprašymas: Sutarties vykdymui pasitelkiamas subtiekėjais“ - Echo International Industry Sr, 21515611, Bdul. 
+Corneliu Coposu 7Bl. 104 Sc.2 Ap. 35 Cod 030602
+Informacija apie sutartį:
+Sutarties identifikatorius: 30787
+Data, kurią buvo pasirinktas laimėtojas: 29/08/2025
+Sutarties sudarymo data: 22/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Registracijos numeris: 188756386
+Pašto adresas: Savanorių pr. 371 
+Miestas: Kaunas
+Pašto kodas: 49386
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: rita.misiuniene@krs.lt
+Telefono numeris: +37037303114
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Taiklu
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 304437662
+Pašto adresas: Marvelės g. 106A 
+Miestas: Kaunas
+Pašto kodas: 46205
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@taiklu.lt
+Telefono numeris: +37060996170
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Ineo Group
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 306596695
+Pašto adresas: Jotvingių g. 1-50, LT-48141, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 48141
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: sales@ineo.lt
+Telefono numeris: +37065665888
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372423
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 4ae7fae8-7faa-4b32-9da1-fc1d71ebe2c3 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/09/2025 08:14 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

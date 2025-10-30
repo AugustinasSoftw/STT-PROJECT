@@ -1,0 +1,262 @@
+Lietuva: Specialistų mokymo paslaugos
+VBE kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VBE kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo paslaugos
+Aprašymas: VBE kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo paslaugos (3 pirkimo objekto 
+dalys)
+Procedūros identifikatorius: c52a811a-5993-4022-b86a-4edcab3eaf3a
+Ankstesnis skelbimas: 4d26d00b-9c03-4f1b-a848-802c6671275f-02
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80510000 Specialistų mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 80521000 Mokomųjų programų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Filosofijos VBE (II dalies) kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo 
+paslaugos
+Aprašymas: VBE kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo paslaugos (3 pirkimo objekto 
+dalys)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80510000 Specialistų mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 80521000 Mokomųjų programų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: nacionaliniai kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Ekonomikos ir verslumo VBE (II dalies) kandidatų darbų vertinimo mokymų programos parengimo ir 
+vykdymo paslaugos
+Aprašymas: VBE kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo paslaugos (3 pirkimo objekto 
+dalys)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80510000 Specialistų mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 80521000 Mokomųjų programų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: nacionaliniai kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Inžinerinių technologijų VBE (II dalies) kandidatų darbų vertinimo mokymų programos parengimo ir 
+vykdymo paslaugos
+Aprašymas: VBE kandidatų darbų vertinimo mokymų programos parengimo ir vykdymo paslaugos (3 pirkimo objekto 
+dalys)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80510000 Specialistų mokymo paslaugos
+Kiti klasifikacijos kodai (cpv): 80521000 Mokomųjų programų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: nacionaliniai kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 97 095 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: VšĮ "Tyrimų ir mokymų centras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000032687
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 26 325 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 24914
+Sutarties sudarymo data: 12/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Sanglaudos fondas (SF) (2021/2027)
+ES fondų identifikatorius: 10-062-P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: VšĮ "Lietuvos Junior Achievement"
+Oficialus pavadinimas: UAB Mokymų centras "Benga"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000030242
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 40 770 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 24915
+Sutarties sudarymo data: 12/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Sanglaudos fondas (SF) (2021/2027)
+ES fondų identifikatorius: 10-062-P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: VšĮ "Tyrimų ir mokymų centras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000032687
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 30 000 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 24916
+Sutarties sudarymo data: 23/04/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Sanglaudos fondas (SF) (2021/2027)
+ES fondų identifikatorius: 10-062-P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Registracijos numeris: 305238040
+Pašto adresas: K. Kalinausko g. 7 
+Miestas: Vilnius
+Pašto kodas: LT-03107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: denis.sosunov@nsa.smm.lt
+Telefono numeris: +37068612170
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: VšĮ "Lietuvos Junior Achievement"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 191832513
+Pašto adresas: Verkių g. 29J 
+Miestas: Vilnius
+Pašto kodas: LT-09108
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@lja.lt
+Telefono numeris: +37065064466
+Interneto adresas: www.lja.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: VšĮ "Tyrimų ir mokymų centras"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302481628
+Pašto adresas: Bernatonių g. 3 
+Miestas: Kaunas
+Pašto kodas: 47268
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0003
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0006
+Oficialus pavadinimas: UAB Mokymų centras "Benga"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304779484
+Miestas: Kaunas
+Pašto kodas: 47268
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 4d9b2f37-4367-4b43-8af0-b167dc6e587e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 20/07/2025 16:55 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

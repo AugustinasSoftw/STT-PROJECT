@@ -1,0 +1,137 @@
+Lietuva: Remonto ir priežiūros paslaugos
+Skrydžių valdymo sistemos ALSATM techninės ir programinės įrangos priežiūros paslaugų 
+pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Skrydžių valdymo sistemos ALSATM techninės ir programinės įrangos priežiūros paslaugų pirkimas
+Aprašymas: Perkamos skrydžių valdymo sistemos ALSATM techninės ir programinės įrangos priežiūros paslaugos
+Procedūros identifikatorius: 906e5f4b-2a6a-445a-a445-5b2874156797
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Skrydžių valdymo sistemos ALSATM techninės ir programinės įrangos priežiūros paslaugos
+Aprašymas: Perkamos skrydžių valdymo sistemos ALSATM techninės ir programinės įrangos priežiūros paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50000000 Remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymų vertinimo kriterijus - kaina (EUR be PVM)
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Pasiūlymų vertinimo kriterijus - 
+kaina (EUR be PVM)
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Komunalinio sektoriaus pirkimų įstatymo VII skyriaus nustatyta tvarka
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 302 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Paslaugų pirkimo sutartis, skiriama remiantis išimtine teise
+Kitas pagrindimas: Tiekėjas yra sistemos intelektinės nuosavybės savininkas bei vienintelis tiekėjas galintis suteikti 
+perkamas paslaugas
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: CS SOFT a.s.
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 302 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-144
+Sutarties sudarymo data: 29/08/2024
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Registracijos numeris: 210060460
+Pašto adresas: 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: stepuro.d@ans.lt
+Telefono numeris: +370 70694548
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: CS SOFT a.s.
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 257 81 723
+Miestas: Praha
+Pašto kodas: 16100
+Šalies administracinis vienetas (NUTS): Hlavní město Praha (CZ010)
+Šalis: Čekija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d087d8f5-e062-4ca1-bce7-ca624818937d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 19/06/2025 11:40 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

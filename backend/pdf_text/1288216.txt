@@ -1,0 +1,149 @@
+Lithuania: Potatoes
+Maisto produktai (valytos bulvės)
+Contract or concession award notice - standard regime
+1 Buyer
+1.1 Buyer
+Official name: VšĮ Klaipėdos universiteto ligoninė
+Legal type of the buyer: Body governed by public law
+Activity of the contracting authority: Health
+2 Procedure
+2.1 Procedure
+Title: Maisto produktai (valytos bulvės)
+Description: Valytos bulvės (šviežios, nepažeistos, švarios bulvės. Natūralaus dydžio nuluptos, nuplautos. Skonis 
+būdingas bulvėms).
+Procedure identifier: 508df064-2eed-4942-acd1-eca456f332fa
+Previous notice: 104b5e4f-6ce8-4b82-bb7f-1b2e72d0c68b-01
+Type of procedure: Open
+The procedure is accelerated: no
+Justification for the accelerated procedure: 
+Main features of the procedure: 
+2.1.1 Purpose
+Main nature of the contract: Supplies
+Main classification (cpv): 03212100 Potatoes
+2.1.2 Place of performance
+Country subdivision (NUTS): Klaipėdos apskritis (LT023)
+Country: Lithuania
+2.1.3 Value
+Estimated value excluding VAT: 0 Euro
+2.1.4 General information
+Legal basis:
+Directive 2014/24/EU
+5 Lot
+5.1 Lot technical ID: LOT-0001
+Title: Maisto produktai (valytos bulvės)
+Description: Valytos bulvės (šviežios, nepažeistos, švarios bulvės. Natūralaus dydžio nuluptos, nuplautos. Skonis 
+būdingas bulvėms).
+Internal identifier: 0
+5.1.1 Purpose
+Main nature of the contract: Supplies
+Main classification (cpv): 03212100 Potatoes
+5.1.2 Place of performance
+Country subdivision (NUTS): Klaipėdos apskritis (LT023)
+Country: Lithuania
+Additional information: 
+5.1.5 Value
+Estimated value excluding VAT: 0 Euro
+5.1.6 General information
+Procurement Project not financed with EU Funds.
+The procurement is covered by the Government Procurement Agreement (GPA): yes
+5.1.7 Strategic procurement
+Aim of strategic procurement: No strategic procurement
+5.1.10 Award criteria
+Criterion:
+Type: Price
+Name: 
+Description: Mažiausia kaina
+Description of the method to be used if weighting cannot be expressed by criteria: 100
+Justification for not indicating the weighting of the award criteria: 
+5.1.15 Techniques
+Framework agreement:
+No framework agreement
+Information about the dynamic purchasing system:
+No dynamic purchase system
+5.1.16 Further information, mediation and review
+Review organisation: Klaipėdos district court -
+Organisation providing offline access to the procurement documents: VšĮ Klaipėdos universiteto ligoninė -
+Organisation providing more information on the review procedures: Klaipėdos district court -
+6 Results
+Value of all contracts awarded in this notice: 64 740 Euro
+6.1 Result lot ldentifier: LOT-0001
+At least one winner was chosen.
+6.1.2 Information about winners
+Winner:
+Official name: UAB "Samsonas"
+Tender:
+Tender identifier: 000016905
+Identifier of lot or group of lots: LOT-0001
+Value of the tender: 64 740 Euro
+Rank in the list of winners: 1
+The tender is a variant: no
+Subcontracting: No
+Contract information:
+Identifier of the contract: VPS-2025-80
+Date of the conclusion of the contract: 14/02/2025
+6.1.4 Statistical information
+Received tenders or requests to participate:
+Type of received submissions: Tenders
+Number of tenders or requests to participate received: 2
+8 Organisations
+8.1 ORG-0001
+Official name: VšĮ Klaipėdos universiteto ligoninė
+Registration number: 306207585
+Postal address: Liepojos g. 41 
+Town: Klaipėda
+Postcode: 92288
+Country subdivision (NUTS): Klaipėdos apskritis (LT023)
+Country: Lithuania
+Email: kul@kul.lt
+Telephone: +37046396600
+Internet address: 
+Buyer profile: 
+Roles of this organisation:
+Buyer
+Organisation providing offline access to the procurement documents
+8.1 ORG-0002
+Official name: UAB "Samsonas"
+Registration number: 133140587
+Postal address: Europos pr. 38 
+Town: Kaunas
+Postcode: 46369
+Country subdivision (NUTS): Kauno apskritis (LT022)
+Country: Lithuania
+Email: a.lepinaitis@samsonas.lt
+Telephone: +37064014197
+Roles of this organisation:
+Tenderer
+Winner of these lots: LOT-0001
+8.1 ORG-0003
+Official name: Klaipėdos district court
+Registration number: 191844978
+Postal address: H. Manto g. 26 
+Town: Klaipėda
+Postcode: LT92131
+Country subdivision (NUTS): Klaipėdos apskritis (LT023)
+Country: Lithuania
+Email: klaipedos.apygardos@teismas.lt
+Telephone: +370 46390690
+Roles of this organisation:
+Review organisation
+Organisation providing more information on the review procedures
+8.1 ORG-0004
+Official name: European Dynamics S.A.
+Registration number: 002024901000
+Department: European Dynamics S.A.
+Town: Athens
+Postcode: 15125
+Country subdivision (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Country: Greece
+Email: eproc-esender@eurodyn.com
+Telephone: +30 2108094500
+Roles of this organisation:
+TED eSender
+11 Notice information
+11.1 Notice information
+Notice identifier/version: 9f313848-dd5c-4d8e-aca1-c90bedada74f - 01
+Form type: Result
+Notice type: Contract or concession award notice - standard regime
+Notice dispatch date: 19/02/2025 19:11 +02:00
+Languages in which this notice is officially available: English 
+11.2 Publication information

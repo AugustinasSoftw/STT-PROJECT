@@ -1,0 +1,393 @@
+Lietuva: Žemų grindų autobusai
+Naujų žemagrindžių elektra varomų miesto tipo autobusų keleiviams vežti ir jų privalomosios 
+techninės priežiūros bei negarantinių remontų Autobusų Techninės priežiūros laikotarpiu 
+pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Vilniaus viešasis transportas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Miesto geležinkelio, tramvajų, troleibusų ar autobusų paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Naujų žemagrindžių elektra varomų miesto tipo autobusų keleiviams vežti ir jų privalomosios techninės 
+priežiūros bei negarantinių remontų Autobusų Techninės priežiūros laikotarpiu pirkimas
+Aprašymas: Pirkimo objektas - nauji žemagrindžiai (angl. low floor) miesto tipo elektra varomi autobusai keleiviams 
+vežti (toliau - Autobusai) ir jų privalomoji techninė priežiūra bei negarantiniai ir garantiniai remontai Autobusų 
+Techninės priežiūros laikotarpiu, kuris prasideda nuo pirmo pristatyto Autobuso perdavimo-priėmimo akto pasirašymo 
+dienos ir baigiasi pasibaigus 60 (šešiasdešimties) mėnesių laikotarpiui nuo paskutinio pristatyto Autobuso perdavimo-
+priėmimo akto pasirašymo dienos. Pirkimo objektas skaidomas į 4 (keturias) objekto dalis: 1. 1 pirkimo objekto dalis 
+- mažos talpos elektra varomi miesto tipo autobusai [8 m.] (transporto priemonių kodas M3CE) - 9 vnt.; 2. 2 pirkimo 
+objekto dalis - vidutinės talpos elektra varomi miesto tipo autobusai [10 m.] (transporto priemonių kodas M3CE) - 
+24 vnt.; 3. 3 pirkimo objekto dalis - vienaukščiai, dviejų ašių elektra varomi autobusai [12 m.] (transporto priemonių 
+kodas M3CE) - 84 vnt.; 4. 4 pirkimo objekto dalis - vienaukščiai, sujungtiniai trijų ašių elektra varomi autobusai [18 m.] 
+(transporto priemonių kodas M3CG) - 28 vnt.
+Procedūros identifikatorius: ba79d943-62e7-49bc-9913-f5b28f816e39
+Ankstesnis skelbimas: 183204-2025
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Kiti sutarties objektai: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 34121400 Žemų grindų autobusai
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mažos talpos elektra varomi miesto tipo autobusai [8 m.] (transporto priemonių kodas M3CE) - 9 vnt.
+Aprašymas: Pirkimo objektas - nauji žemagrindžiai (angl. low floor) miesto tipo elektra varomi autobusai keleiviams 
+vežti (toliau - Autobusai) ir jų privalomoji techninė priežiūra bei negarantiniai ir garantiniai remontai Autobusų 
+Techninės priežiūros laikotarpiu, kuris prasideda nuo pirmo pristatyto Autobuso perdavimo-priėmimo akto pasirašymo 
+dienos ir baigiasi pasibaigus 60 (šešiasdešimties) mėnesių laikotarpiui nuo paskutinio pristatyto Autobuso perdavimo-
+priėmimo akto pasirašymo dienos. Pirkimo objektas skaidomas į 4 (keturias) objekto dalis: 1. 1 pirkimo objekto dalis 
+- mažos talpos elektra varomi miesto tipo autobusai [8 m.] (transporto priemonių kodas M3CE) - 9 vnt.; 2. 2 pirkimo 
+objekto dalis - vidutinės talpos elektra varomi miesto tipo autobusai [10 m.] (transporto priemonių kodas M3CE) - 
+24 vnt.; 3. 3 pirkimo objekto dalis - vienaukščiai, dviejų ašių elektra varomi autobusai [12 m.] (transporto priemonių 
+kodas M3CE) - 84 vnt.; 4. 4 pirkimo objekto dalis - vienaukščiai, sujungtiniai trijų ašių elektra varomi autobusai [18 m.] 
+(transporto priemonių kodas M3CG) - 28 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34121400 Žemų grindų autobusai
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Kiekis: 9 vienetas
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Sąnaudos
+Pavadinimas: 
+Aprašymas: Pirkimo dokumentuose nustatytus reikalavimus atitinkantis pasiūlymas bus išrenkamas gyvavimo 
+ciklo sąnaudų metodu - vertinant dalyvių pasiūlytų Autobusų viso perkamo kiekio kainą be PVM (C) bei viso 
+perkamų Autobusų kiekio eksploatacijos išlaidas (E), t. y. metines infliacijas įvertinant suskaičiuotas išlaidas 
+visų Autobusų Privalomajai techninei priežiūrai ir Negarantiniams remontams, bei viso perkamų Autobusų 
+kiekio naudojimo išlaidas (N), t. y. visų Autobusų energijos suvartojimo, įvertinant metines infliacijas (elektros 
+kainos indeksą), suskaičiuotas išlaidas 10 (dešimties) metų Autobusų eksploatacijos laikotarpiu, per šį laikotarpį 
+kiekvienam Autobusui nuvažiuojant 410 000 km. Ekonomiškai naudingiausiu pasiūlymu laikomas mažiausiomis 
+suskaičiuotomis visų Autobusų gyvavimo ciklo sąnaudomis be PVM (S) įvertintas pasiūlymas. Kai kelių dalyvių 
+suskaičiuotos gyvavimo ciklo sąnaudos be PVM (S) yra vienodos, nustatant pasiūlymų eilę, pirmesnis į šią eilę 
+įrašomas dalyvis, kurio pasiūlymas pateiktas anksčiausiai
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, atliekanti mokėjimus: UAB Vilniaus viešasis transportas (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Vidutinės talpos elektra varomi miesto tipo autobusai [10 m.] (transporto priemonių kodas M3CE) - 24 
+vnt.
+Aprašymas: Pirkimo objektas - nauji žemagrindžiai (angl. low floor) miesto tipo elektra varomi autobusai keleiviams 
+vežti (toliau - Autobusai) ir jų privalomoji techninė priežiūra bei negarantiniai ir garantiniai remontai Autobusų 
+Techninės priežiūros laikotarpiu, kuris prasideda nuo pirmo pristatyto Autobuso perdavimo-priėmimo akto pasirašymo 
+dienos ir baigiasi pasibaigus 60 (šešiasdešimties) mėnesių laikotarpiui nuo paskutinio pristatyto Autobuso perdavimo-
+priėmimo akto pasirašymo dienos. Pirkimo objektas skaidomas į 4 (keturias) objekto dalis: 1. 1 pirkimo objekto dalis 
+- mažos talpos elektra varomi miesto tipo autobusai [8 m.] (transporto priemonių kodas M3CE) - 9 vnt.; 2. 2 pirkimo 
+objekto dalis - vidutinės talpos elektra varomi miesto tipo autobusai [10 m.] (transporto priemonių kodas M3CE) - 
+24 vnt.; 3. 3 pirkimo objekto dalis - vienaukščiai, dviejų ašių elektra varomi autobusai [12 m.] (transporto priemonių 
+kodas M3CE) - 84 vnt.; 4. 4 pirkimo objekto dalis - vienaukščiai, sujungtiniai trijų ašių elektra varomi autobusai [18 m.] 
+(transporto priemonių kodas M3CG) - 28 vnt.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34121400 Žemų grindų autobusai
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Kiekis: 24 vienetas
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 77 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Sąnaudos
+Pavadinimas: 
+Aprašymas: Pirkimo dokumentuose nustatytus reikalavimus atitinkantis pasiūlymas bus išrenkamas gyvavimo 
+ciklo sąnaudų metodu - vertinant dalyvių pasiūlytų Autobusų viso perkamo kiekio kainą be PVM (C) bei viso 
+perkamų Autobusų kiekio eksploatacijos išlaidas (E), t. y. metines infliacijas įvertinant suskaičiuotas išlaidas 
+visų Autobusų Privalomajai techninei priežiūrai ir Negarantiniams remontams, bei viso perkamų Autobusų 
+kiekio naudojimo išlaidas (N), t. y. visų Autobusų energijos suvartojimo, įvertinant metines infliacijas (elektros 
+kainos indeksą), suskaičiuotas išlaidas 10 (dešimties) metų Autobusų eksploatacijos laikotarpiu, per šį laikotarpį 
+kiekvienam Autobusui nuvažiuojant 800 000 km. Ekonomiškai naudingiausiu pasiūlymu laikomas mažiausiomis 
+suskaičiuotomis visų Autobusų gyvavimo ciklo sąnaudomis be PVM (S) įvertintas pasiūlymas. Kai kelių dalyvių 
+suskaičiuotos gyvavimo ciklo sąnaudos be PVM (S) yra vienodos, nustatant pasiūlymų eilę, pirmesnis į šią eilę 
+įrašomas dalyvis, kurio pasiūlymas pateiktas anksčiausiai
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, atliekanti mokėjimus: UAB Vilniaus viešasis transportas (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Vienaukščiai, dviejų ašių elektra varomi autobusai [12 m.] (transporto priemonių kodas M3CE) - 84 vnt.
+Aprašymas: Pirkimo objektas - nauji žemagrindžiai (angl. low floor) miesto tipo elektra varomi autobusai keleiviams 
+vežti (toliau - Autobusai) ir jų privalomoji techninė priežiūra bei negarantiniai ir garantiniai remontai Autobusų 
+Techninės priežiūros laikotarpiu, kuris prasideda nuo pirmo pristatyto Autobuso perdavimo-priėmimo akto pasirašymo 
+dienos ir baigiasi pasibaigus 60 (šešiasdešimties) mėnesių laikotarpiui nuo paskutinio pristatyto Autobuso perdavimo-
+priėmimo akto pasirašymo dienos. Pirkimo objektas skaidomas į 4 (keturias) objekto dalis: 1. 1 pirkimo objekto dalis 
+- mažos talpos elektra varomi miesto tipo autobusai [8 m.] (transporto priemonių kodas M3CE) - 9 vnt.; 2. 2 pirkimo 
+objekto dalis - vidutinės talpos elektra varomi miesto tipo autobusai [10 m.] (transporto priemonių kodas M3CE) - 
+24 vnt.; 3. 3 pirkimo objekto dalis - vienaukščiai, dviejų ašių elektra varomi autobusai [12 m.] (transporto priemonių 
+kodas M3CE) - 84 vnt.; 4. 4 pirkimo objekto dalis - vienaukščiai, sujungtiniai trijų ašių elektra varomi autobusai [18 m.] 
+(transporto priemonių kodas M3CG) - 28 vnt.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34121400 Žemų grindų autobusai
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Kiekis: 84 vienetas
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 81 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, atliekanti mokėjimus: UAB Vilniaus viešasis transportas (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Vienaukščiai, sujungtiniai trijų ašių elektra varomi autobusai [18 m.] (transporto priemonių kodas M3CG) 
+- 28 vnt.
+Aprašymas: Pirkimo objektas - nauji žemagrindžiai (angl. low floor) miesto tipo elektra varomi autobusai keleiviams 
+vežti (toliau - Autobusai) ir jų privalomoji techninė priežiūra bei negarantiniai ir garantiniai remontai Autobusų 
+Techninės priežiūros laikotarpiu, kuris prasideda nuo pirmo pristatyto Autobuso perdavimo-priėmimo akto pasirašymo 
+dienos ir baigiasi pasibaigus 60 (šešiasdešimties) mėnesių laikotarpiui nuo paskutinio pristatyto Autobuso perdavimo-
+priėmimo akto pasirašymo dienos. Pirkimo objektas skaidomas į 4 (keturias) objekto dalis: 1. 1 pirkimo objekto dalis 
+- mažos talpos elektra varomi miesto tipo autobusai [8 m.] (transporto priemonių kodas M3CE) - 9 vnt.; 2. 2 pirkimo 
+objekto dalis - vidutinės talpos elektra varomi miesto tipo autobusai [10 m.] (transporto priemonių kodas M3CE) - 
+24 vnt.; 3. 3 pirkimo objekto dalis - vienaukščiai, dviejų ašių elektra varomi autobusai [12 m.] (transporto priemonių 
+kodas M3CE) - 84 vnt.; 4. 4 pirkimo objekto dalis - vienaukščiai, sujungtiniai trijų ašių elektra varomi autobusai [18 m.] 
+(transporto priemonių kodas M3CG) - 28 vnt.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34121400 Žemų grindų autobusai
+Kiti klasifikacijos kodai (cpv): 34300000 Transporto priemonių ir jų variklių dalys ir pagalbiniai reikmenys
+Kiekis: 28 vienetas
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 0
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Transporto priemonių 
+pirkimas, išperkamoji nuoma arba išperkamoji nuoma
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Sąnaudos
+Pavadinimas: 
+Aprašymas: Pirkimo dokumentuose nustatytus reikalavimus atitinkantis pasiūlymas bus išrenkamas gyvavimo 
+ciklo sąnaudų metodu - vertinant dalyvių pasiūlytų Autobusų viso perkamo kiekio kainą be PVM (C) bei viso 
+perkamų Autobusų kiekio eksploatacijos išlaidas (E), t. y. metines infliacijas įvertinant suskaičiuotas išlaidas 
+visų Autobusų Privalomajai techninei priežiūrai ir Negarantiniams remontams, bei viso perkamų Autobusų 
+kiekio naudojimo išlaidas (N), t. y. visų Autobusų energijos suvartojimo, įvertinant metines infliacijas (elektros 
+kainos indeksą), suskaičiuotas išlaidas 10 (dešimties) metų Autobusų eksploatacijos laikotarpiu, per šį laikotarpį 
+kiekvienam Autobusui nuvažiuojant 800 000 km. Ekonomiškai naudingiausiu pasiūlymu laikomas mažiausiomis 
+suskaičiuotomis visų Autobusų gyvavimo ciklo sąnaudomis be PVM (S) įvertintas pasiūlymas. Kai kelių dalyvių 
+suskaičiuotos gyvavimo ciklo sąnaudos be PVM (S) yra vienodos, nustatant pasiūlymų eilę, pirmesnis į šią eilę 
+įrašomas dalyvis, kurio pasiūlymas pateiktas anksčiausiai
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nurodyta Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, 
+transporto ir pašto paslaugų srities perkančiųjų subjektų, įstatyme
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Vilniaus viešasis transportas (PV) -
+Organizacija, atliekanti mokėjimus: UAB Vilniaus viešasis transportas (PV)
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Vilniaus viešasis transportas (PV)
+Registracijos numeris: 302683277
+Pašto adresas: Žolyno g. 15 
+Miestas: Vilnius
+Pašto kodas: LT-10209
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vilniausvt.lt
+Telefono numeris: +37052344444
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 1efbe240-1767-4614-b46a-600a400e820e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/04/2025 16:28 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

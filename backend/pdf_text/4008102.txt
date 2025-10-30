@@ -1,0 +1,220 @@
+Lietuva: Medicinos įranga
+Priešpraguliniai čiužiniai ir šoninės apsaugos su paminkštinimu (tarptautinis)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Naujosios Akmenės ligoninė-sveikatos centras
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Priešpraguliniai čiužiniai ir šoninės apsaugos su paminkštinimu (tarptautinis)
+Aprašymas: Pirma pirkimo dalis. Priešpraguliniai čiužiniai, 4 vnt. Antra pirkimo dalis. Šoninės apsaugos su 
+paminkštinimu, 4 poros.
+Procedūros identifikatorius: da232ecc-3a13-461b-87f0-c912ba15e623
+Ankstesnis skelbimas: a3a9a88b-8950-4146-a2bb-0a6316ff5eca-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Antipragulinis čiužinys (4 vnt.)
+Aprašymas: Pirma pirkimo dalis. Priešpraguliniai čiužiniai, 4 vnt. Antra pirkimo dalis. Šoninės apsaugos su 
+paminkštinimu, 4 poros.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kaina 70 proc., kokybė 30 proc.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 0
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: 30 proc.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+Informacija apie peržiūros terminus: 90
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Naujosios Akmenės ligoninė-sveikatos 
+centras
+Organizacija, atliekanti mokėjimus: VšĮ Naujosios Akmenės ligoninė-sveikatos centras
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Šoninių apsaugų paminkštinimai (4 poros)
+Aprašymas: Pirma pirkimo dalis. Priešpraguliniai čiužiniai, 4 vnt. Antra pirkimo dalis. Šoninės apsaugos su 
+paminkštinimu, 4 poros.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Kaina 100 proc
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+Informacija apie peržiūros terminus: 90
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Naujosios Akmenės ligoninė-sveikatos 
+centras
+Organizacija, atliekanti mokėjimus: VšĮ Naujosios Akmenės ligoninė-sveikatos centras
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 5 724,28 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Slaugivita
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077270
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 5 088,01 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26518
+Data, kurią buvo pasirinktas laimėtojas: 04/08/2025
+Sutarties sudarymo data: 05/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 26-528-P-0002
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Slaugivita
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077270
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 636,27 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26519
+Data, kurią buvo pasirinktas laimėtojas: 04/08/2025
+Sutarties sudarymo data: 05/08/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 26-528-P-0002
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Naujosios Akmenės ligoninė-sveikatos centras
+Registracijos numeris: 153083122
+Pašto adresas: Žemaitijos g.6 
+Miestas: NAUJOJI AKMENĖ
+Pašto kodas: 85138
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: egle.sileikaite@nal.lt
+Telefono numeris: +37064658391
+Interneto adresas: www.nal.lt
+Pirkėjo profilis: www.nal.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Slaugivita
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 145440368
+Pašto adresas: Dubijos g. 16 
+Miestas: Šiauliai
+Pašto kodas: LT-77172
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: daiva@slaugivita.com
+Telefono numeris: +37061441922
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 83 
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 652 16037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 100d48a2-64b9-44ba-912f-3b102b1575ff - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/08/2025 20:04 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

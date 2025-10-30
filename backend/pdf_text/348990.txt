@@ -1,0 +1,97 @@
+Lietuva: Su programine įranga susijusios paslaugos
+Žmogiškųjų resursų valdymo, darbo laiko apskaitos ir darbo užmokesčio apskaitos 
+programinės įrangos Vikarina autorinės priežiūros paslaugos
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Vilniaus šilumos tinklai (PV)
+Pirkėjo teisinė forma: Subjektai, turintys specialiųjų ar išskirtinių teisių
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Žmogiškųjų resursų valdymo, darbo laiko apskaitos ir darbo užmokesčio apskaitos programinės įrangos 
+Vikarina autorinės priežiūros paslaugos
+Aprašymas: Žmogiškųjų resursų valdymo, darbo laiko apskaitos ir darbo užmokesčio apskaitos programinės įrangos 
+Vikarina autorinės priežiūros paslaugos
+Procedūros identifikatorius: d901ae3f-297a-4c8d-8d37-0aff69a3cb2f
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Žmogiškųjų resursų valdymo, darbo laiko apskaitos ir darbo užmokesčio apskaitos programinės įrangos 
+Vikarina autorinės priežiūros paslaugos
+Aprašymas: Žmogiškųjų resursų valdymo, darbo laiko apskaitos ir darbo užmokesčio apskaitos programinės įrangos 
+Vikarina autorinės priežiūros paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Vilniaus šilumos tinklai (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Paslaugų pirkimo sutartis, skiriama remiantis išimtine teise
+Kitas pagrindimas: PĮ 79 str. 1d. 3p.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Vilniaus šilumos tinklai (PV)
+Pašto adresas: Spaudos g. 6-1 
+Miestas: Vilnius
+Pašto kodas: LT-05132
+Šalis: Lietuva
+E. paštas: info@chc.lt
+Telefono numeris: 19118
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Vikarinos technologijos"
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vikarina@vikarina.lt
+Telefono numeris: 8 5 2101890
+Šios organizacijos vaidmenys:
+Dalyvis
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: fac0a938-1f45-4d0e-8aad-6d119b6298c0 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 10/12/2024 09:57 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

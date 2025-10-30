@@ -1,0 +1,258 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Politinių organizacijų narių registro (POLONR) kūrimo ir diegimo paslaugos ir Politinių 
+organizacijų narių registro (POLONR) techninė priežiūra
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Politinių organizacijų narių registro (POLONR) kūrimo ir diegimo paslaugos ir Politinių organizacijų narių 
+registro (POLONR) techninė priežiūra
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-22 paskelbto pirkimo Nr. 748294 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti 
+senoje CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Procedūros identifikatorius: 9e605952-e91d-46f3-b31b-0182b15a4da0
+Ankstesnis skelbimas: afefb101-5f83-486e-b4ab-843b302cdb99-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 506 800 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Politinių organizacijų narių registro (POLONR) kūrimo ir diegimo paslaugos
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-22 paskelbto pirkimo Nr. 748294 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti 
+senoje CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 506 800 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinamas pasiūlymo kaina eurais, įskaitant visus mokesčius (taip pat ir PVM, jei taikoma) ir visas 
+tiekėjo išlaidas, susijusias su sutarties vykdymu
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 97
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Papildomas garantinis aptarnavimas
+Aprašymas: Tiekėjas savo pasiūlyme turi nurodyti jo siūlomą papildomą, viršijančią 12 mėn., garantinio 
+aptarnavimo trukmę, išreikštą mėnesiais, kuri bus vykdoma pagal Techninėje specifikacijoje nustatytus 
+reikalavimus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 10
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV) -
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Politinių organizacijų narių registro (POLONR) techninės priežiūros paslaugos
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-22 paskelbto pirkimo Nr. 748294 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti 
+senoje CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 2024-12-01 atlikti pirkimo dokumentų patikslinimai.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 506 800 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinamas pasiūlymo kaina eurais, įskaitant visus mokesčius (taip pat ir PVM, jei taikoma) ir visas 
+tiekėjo išlaidas, susijusias su sutarties vykdymu
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 96
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Tiekėjo siūlomo Testuotojo papildoma patirtis
+Aprašymas: Tiekėjo siūlomo Testuotojo papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 10
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV) -
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 322 159 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Dizaino kryptis
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000012817
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 293 760 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 5228
+Data, kurią buvo pasirinktas laimėtojas: 07/02/2025
+Sutarties sudarymo data: 17/02/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-085-P-0006
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB Tenera
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000012859
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 28 399 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 5229
+Data, kurią buvo pasirinktas laimėtojas: 31/01/2025
+Sutarties sudarymo data: 18/02/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02-085-P-0006
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: 124110246
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Robertas.Ignatjevas@registrucentras.lt
+Telefono numeris: 37052688262
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: MB Tenera
+Registracijos numeris: 303215527
+Pašto adresas: Dvariškių g. 44, Dvariškių v.s., Riešės sen. 
+Miestas: Vilniaus raj.
+Pašto kodas: 14256
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@tenera.lt
+Telefono numeris: +37061638353
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Dizaino kryptis
+Registracijos numeris: 225257570
+Pašto adresas: Laisvės pr. 88 
+Miestas: Vilnius
+Pašto kodas: LT-06125
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: sales@kryptis.lt
+Telefono numeris: +370 5 2126 036
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: ae41515b-6220-49fe-9772-992712f8ae5e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 26/02/2025 15:14 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

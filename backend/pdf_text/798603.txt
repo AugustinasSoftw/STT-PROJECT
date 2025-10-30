@@ -1,0 +1,174 @@
+Lietuva: Mokykliniai baldai
+ID 153931. Mokykliniai baldai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Trakų rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ID 153931. Mokykliniai baldai
+Aprašymas: Įgyvendinant projektą „Tūkstantmečio mokyklos II“ , perkami mokykliniai baldai : Vienvietis modulinis 
+reguliuojamo aukščio stalas be ratukų - 200 vnt, vienvietis modulinis reguliuojamo aukščio stalas su ratukais - 60 vnt, 
+vienvietis reguliuojamo aukščio mokyklinis stalas - 100vnt., reguliuojamo aukščio mokinio kėdė - 400 vnt., Staliukas 
+spec poreikiams - 40 vnt. ir prekių pristatymo bei sumontavimo paslaugos.
+Procedūros identifikatorius: c5d7d7fa-99d2-4fbc-9f1e-a79ded5846ca
+Ankstesnis skelbimas: 551249-2024
+Vidaus identifikatorius: 738233
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39160000 Mokykliniai baldai
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: Lauko g. 20 
+Miestas: Lentvaris
+Pašto kodas: 21115
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 90 743,8 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mokykliniai baldai
+Aprašymas: Įgyvendinant projektą „Tūkstantmečio mokyklos II“ , perkami mokykliniai baldai : Vienvietis modulinis 
+reguliuojamo aukščio stalas be ratukų - 200 vnt, vienvietis modulinis reguliuojamo aukščio stalas su ratukais - 60 vnt, 
+vienvietis reguliuojamo aukščio mokyklinis stalas - 100vnt., reguliuojamo aukščio mokinio kėdė - 400 vnt., Staliukas 
+spec poreikiams - 40 vnt. ir prekių pristatymo bei sumontavimo paslaugos.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39160000 Mokykliniai baldai
+Pasirinkimo galimybės:
+Galimybių aprašymas: nėra
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Lauko g. 20 
+Miestas: Lentvaris
+Pašto kodas: 21115
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 08/01/2025
+Galiojimas: 4 Mėnuo
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: pasiūlymai išrenkami pagal kainą
+Aprašymas: pasiūlymai išrenkami pagal mažiausios kainos kriterijų
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: kaina
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: UAB ,,Pikade Baltics"
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 90 743,8 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: TPA-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 90 743,8 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: B-1
+Pavadinimas: Mokykliniai baldai
+Data, kurią buvo pasirinktas laimėtojas: 18/12/2024
+Sutarties sudarymo data: 08/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos socialinis fondas (ESF) (2014/2020)
+ES fondų identifikatorius: Europos Sąjungos lėšomis bendrai finansuojamas projektas „Tūkstantmečio 
+mokyklos II“
+Išsamesnė informacija apie ES fondus: Nr. 10-012-P-0001
+Organizacija, pasirašanti sutartį: UAB ,,Pikade Baltics"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Trakų rajono savivaldybės administracija
+Registracijos numeris: 181626536
+Pašto adresas: Vytauto g. 33 
+Miestas: Trakai
+Pašto kodas: 21106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: direktorius@trakai.lt
+Telefono numeris: +370 52858300
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB ,,Pikade Baltics"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 305603076
+Pašto adresas: J.Borutos g. 23 
+Miestas: Kaunas
+Pašto kodas: 46115
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@pikade.eu
+Telefono numeris: +37065655123
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 364bc78b-e399-4431-9548-910a3fc3fdf4 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/01/2025 16:18 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

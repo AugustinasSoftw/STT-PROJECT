@@ -1,0 +1,126 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Mokslo paskirties pastatų komplekso adresu: Saulėtekio al. 9, Vilnius, pertvarkymo ir 
+naujo VU Matematikos ir informatikos fakulteto pastato projekto konkursas (senojo CVPIS 
+Nr.743658)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mokslo paskirties pastatų komplekso adresu: Saulėtekio al. 9, Vilnius, pertvarkymo ir naujo VU 
+Matematikos ir informatikos fakulteto pastato projekto konkursas (senojo CVPIS Nr.743658)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje paskelbto pirkimo Nr. 743658 procedūros. Naujas 
+skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje CVP IS. 
+Šioje sistemoje bus skelbiami po 2024-12-01 atlikti pirkimo dokumentų patikslinimai. Šioje sistemoje tiekėjai turi teikti 
+pasiūlymus.
+Procedūros identifikatorius: 429949c8-8a0b-407d-ac9e-a1f0212a4508
+Ankstesnis skelbimas: 1e5e62b5-f649-4159-9bf4-c67500637f4b-01
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mokslo paskirties pastatų komplekso adresu: Saulėtekio al. 9, Vilnius, pertvarkymo ir naujo VU 
+Matematikos ir informatikos fakulteto pastato projekto konkursas (senojo CVPIS Nr.743658)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje paskelbto pirkimo Nr. 743658 procedūros. Naujas 
+skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje CVP IS. 
+Šioje sistemoje bus skelbiami po 2024-12-01 atlikti pirkimo dokumentų patikslinimai. Šioje sistemoje tiekėjai turi teikti 
+pasiūlymus.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus universitetas (PV)
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Paleko archstudija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027265
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Data, kurią buvo pasirinktas laimėtojas: 14/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Paleko archstudija
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 125317632
+Pašto adresas: J. Jasinskio g. 14A - 13 
+Miestas: Vilnius
+Pašto kodas: 01112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@palekas.lt
+Telefono numeris: +37052619035
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7e9de016-fac7-40e0-8115-26bffa0da9d1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 04/09/2025 16:11 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

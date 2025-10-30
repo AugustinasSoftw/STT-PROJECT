@@ -1,0 +1,173 @@
+Lithuania: Data supply services
+Politikoje dalyvaujančių asmenų ir tarptautinių sankcijų patikros paslaugos
+Contract or concession award notice - standard regime
+1 Buyer
+1.1 Buyer
+Official name: UAB ILTE
+Legal type of the buyer: Body governed by public law, controlled by a central government authority
+Activity of the contracting authority: Economic affairs
+2 Procedure
+2.1 Procedure
+Title: Politikoje dalyvaujančių asmenų ir tarptautinių sankcijų patikros paslaugos
+Description: Vykdomas tarptautinis politikoje dalyvaujančių asmenų ir tarptautinių sankcijų patikros paslaugų (toliau 
+- Paslaugų) pirkimas atviro konkurso būdu. Perkamos Paslaugos, kurias sudaro: 1. Politikoje dalyvaujančių asmenų, 
+tarptautinių sankcijų ir viešai prieinamos informacijos duomenų teikimo paslaugas, sudarant galimybę Perkančiajai 
+organizacijai atlikti rankinę patikrą duomenų bazėje; 2. Politikoje dalyvaujančių asmenų, tarptautinių sankcijų ir 
+viešai prieinamos informacijos nuolatinės (automatinės) stebėsenos paslauga. Paslaugos apima reikalingas prieigas 
+prie Paslaugų teikėjo duomenų bazės, kurioje Perkančiajai organizacijai turėtų būti sudaryta galimybė rankiniu ir 
+automatiniu būdu tikrinti ir stebėti informaciją apie pasirinktus fizinius ir juridinius asmenis, savo nuožiūra įtraukti 
+šiuos asmenis į Paslaugų teikėjo valdomos duomenų bazės nuolatinio tikrinimo stebėseną bei vykdant nuolatinę 
+šių asmenų stebėseną, gauti šių asmenų atžvilgiu pakitusių duomenų pranešimus (angl. Alert). Pasiūlymas turi būti 
+teikiamas visai Paslaugų apimčiai. Preliminarus Paslaugų vartotojų skaičius - 5 vnt. Pirkimo objektas neskaidomas į 
+dalis, nes perkamas vienas paslaugų komplektas, kurio skaidymas būtų neracionalus ir pirkimo sutarties vykdymas 
+taptų techniškai per sudėtingas. Sistema turi būti vieninga ir veikianti kaip vientisa platforma, o skirtingų tiekėjų 
+sprendimai gali būti nesuderinami. Numatoma maksimali Sutarties galiojimo trukmė 36 mėn. Maksimali pirkimui skirta 
+lėšų suma - 170 000 Eur be PVM. Perkančioji organizacija numato įsigyti Paslaugas pagal poreikį pagal Paslaugų 
+teikėjo pasiūlytus fiksuotus įkainius (t. y. taikoma fiksuoto įkainio kainodara). Pirkimo dokumentuose nurodomi 
+preliminarūs Paslaugų kiekiai, kurie Sutarties vykdymo metu gali kisti (didėti ar mažėti). Perkančioji organizacija 
+neįsipareigoja įsigyti visų Paslaugų preliminarių kiekių ir/ar už visą nurodytą lėšų sumą. Sutarties galiojimo metu 
+atsiradus Perkančiosios organizacijos poreikiui įsigyti Sutartyje nenumatytas, tačiau su Pirkimo objektu / Sutarties 
+dalyku susijusias paslaugas (identiško / panašaus naudojimo) (toliau - Nenumatytos paslaugos), Užsakovas turi 
+teisę įsigyti ne daugiau nei 10 (dešimt) procentų Nenumatytų paslaugų, nedidinant Pradinės Sutarties kainos. Tiekėjų 
+kvalifikacija šiame pirkime nebus tikrinama, tiekėjams nenustatomi reikalavimai dėl kokybės vadybos sistemos ir 
+(arba) aplinkos apsaugos vadybos sistemos standartų laikymosi. Pirkime taikomi reikalavimai dėl tiekėjo ir subtiekėjų 
+(jei taikoma), ūkio subjektų, kurių pajėgumais tiekėjas remiasi, pašalinimo pagrindų nebuvimo. Pirkimui taikomi 
+aplinkosauginiai ir socialiniai kriterijai, taikomi reikalavimai, susiję su nacionaliniu saugumu. Išsamus Paslaugų viešojo 
+pirkimo aprašymas ir reikalavimai nurodomi pridedamose Pirkimo sąlygose.
+Procedure identifier: 4d621bad-7e10-47b7-9171-a076b8468fa4
+Type of procedure: Open
+The procedure is accelerated: no
+Justification for the accelerated procedure: 
+Main features of the procedure: 
+2.1.1 Purpose
+Main nature of the contract: Services
+Main classification (cpv): 72319000 Data supply services
+2.1.2 Place of performance
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Additional information: Lithuania
+2.1.3 Value
+Estimated value excluding VAT: 170 000 Euro
+2.1.4 General information
+Legal basis:
+Directive 2014/24/EU
+5 Lot
+5.1 Lot technical ID: LOT-0001
+Title: Politikoje dalyvaujančių asmenų ir tarptautinių sankcijų patikros paslaugos
+Description: Vykdomas tarptautinis politikoje dalyvaujančių asmenų ir tarptautinių sankcijų patikros paslaugų (toliau 
+- Paslaugų) pirkimas atviro konkurso būdu. Perkamos Paslaugos, kurias sudaro: 1. Politikoje dalyvaujančių asmenų, 
+tarptautinių sankcijų ir viešai prieinamos informacijos duomenų teikimo paslaugas, sudarant galimybę Perkančiajai 
+organizacijai atlikti rankinę patikrą duomenų bazėje; 2. Politikoje dalyvaujančių asmenų, tarptautinių sankcijų ir 
+viešai prieinamos informacijos nuolatinės (automatinės) stebėsenos paslauga. Paslaugos apima reikalingas prieigas 
+prie Paslaugų teikėjo duomenų bazės, kurioje Perkančiajai organizacijai turėtų būti sudaryta galimybė rankiniu ir 
+automatiniu būdu tikrinti ir stebėti informaciją apie pasirinktus fizinius ir juridinius asmenis, savo nuožiūra įtraukti 
+šiuos asmenis į Paslaugų teikėjo valdomos duomenų bazės nuolatinio tikrinimo stebėseną bei vykdant nuolatinę 
+šių asmenų stebėseną, gauti šių asmenų atžvilgiu pakitusių duomenų pranešimus (angl. Alert). Pasiūlymas turi būti 
+teikiamas visai Paslaugų apimčiai. Preliminarus Paslaugų vartotojų skaičius - 5 vnt. Pirkimo objektas neskaidomas į 
+dalis, nes perkamas vienas paslaugų komplektas, kurio skaidymas būtų neracionalus ir pirkimo sutarties vykdymas 
+taptų techniškai per sudėtingas. Sistema turi būti vieninga ir veikianti kaip vientisa platforma, o skirtingų tiekėjų 
+sprendimai gali būti nesuderinami. Numatoma maksimali Sutarties galiojimo trukmė 36 mėn. Maksimali pirkimui skirta 
+lėšų suma - 170 000 Eur be PVM. Perkančioji organizacija numato įsigyti Paslaugas pagal poreikį pagal Paslaugų 
+teikėjo pasiūlytus fiksuotus įkainius (t. y. taikoma fiksuoto įkainio kainodara). Pirkimo dokumentuose nurodomi 
+preliminarūs Paslaugų kiekiai, kurie Sutarties vykdymo metu gali kisti (didėti ar mažėti). Perkančioji organizacija 
+neįsipareigoja įsigyti visų Paslaugų preliminarių kiekių ir/ar už visą nurodytą lėšų sumą. Sutarties galiojimo metu 
+atsiradus Perkančiosios organizacijos poreikiui įsigyti Sutartyje nenumatytas, tačiau su Pirkimo objektu / Sutarties 
+dalyku susijusias paslaugas (identiško / panašaus naudojimo) (toliau - Nenumatytos paslaugos), Užsakovas turi 
+teisę įsigyti ne daugiau nei 10 (dešimt) procentų Nenumatytų paslaugų, nedidinant Pradinės Sutarties kainos. Tiekėjų 
+kvalifikacija šiame pirkime nebus tikrinama, tiekėjams nenustatomi reikalavimai dėl kokybės vadybos sistemos ir 
+(arba) aplinkos apsaugos vadybos sistemos standartų laikymosi. Pirkime taikomi reikalavimai dėl tiekėjo ir subtiekėjų 
+(jei taikoma), ūkio subjektų, kurių pajėgumais tiekėjas remiasi, pašalinimo pagrindų nebuvimo. Pirkimui taikomi 
+aplinkosauginiai ir socialiniai kriterijai, taikomi reikalavimai, susiję su nacionaliniu saugumu. Išsamus Paslaugų viešojo 
+pirkimo aprašymas ir reikalavimai nurodomi pridedamose Pirkimo sąlygose.
+Internal identifier: 0
+5.1.1 Purpose
+Main nature of the contract: Services
+Main classification (cpv): 72319000 Data supply services
+5.1.2 Place of performance
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Additional information: 
+5.1.5 Value
+Estimated value excluding VAT: 170 000 Euro
+5.1.6 General information
+Procurement Project not financed with EU Funds.
+The procurement is covered by the Government Procurement Agreement (GPA): yes
+5.1.7 Strategic procurement
+Aim of strategic procurement: Reduction of environmental impacts
+Description: Environmental impact reduction
+Approach to reducing environmental impacts: Other
+Green Procurement Criteria: National Green Public Procurement criteria
+5.1.10 Award criteria
+Criterion:
+Type: Price
+Name: 
+Description: Lowest price
+Category of award threshold criterion: Weight (percentage, exact)
+Award criterion number: 100
+Description of the method to be used if weighting cannot be expressed by criteria: 
+Justification for not indicating the weighting of the award criteria: 
+5.1.15 Techniques
+Framework agreement:
+No framework agreement
+Information about the dynamic purchasing system:
+No dynamic purchase system
+5.1.16 Further information, mediation and review
+Review organisation: Vilnius district court -
+Organisation providing offline access to the procurement documents: UAB ILTE -
+Organisation providing more information on the review procedures: UAB ILTE -
+6 Results
+6.1 Result lot ldentifier: LOT-0001
+No winner was chosen and the competition is closed.
+The reason why a winner was not chosen: All tenders, requests to participate or projects were withdrawn or found 
+inadmissible
+6.1.4 Statistical information
+Received tenders or requests to participate:
+Type of received submissions: Tenders
+Number of tenders or requests to participate received: 2
+8 Organisations
+8.1 ORG-0001
+Official name: UAB ILTE
+Registration number: 110084026
+Postal address: Ukmergės g. 124, Vilnius 
+Town: Vilnius
+Postcode: 08100
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Email: jurate.straksiene@ilte.lt
+Telephone: +37069424734
+Internet address: www.ilte.lt
+Buyer profile: www.ilte.lt
+Roles of this organisation:
+Buyer
+Organisation providing offline access to the procurement documents
+Organisation providing more information on the review procedures
+8.1 ORG-0002
+Official name: Vilnius district court
+Registration number: 193312970
+Postal address: Gedimino pr. 40 
+Town: Vilnius
+Postcode: 01501
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Email: vilniaus.apygardos@teismas.lt
+Telephone: +370 70668369
+Roles of this organisation:
+Review organisation
+8.1 ORG-0003
+Official name: European Dynamics S.A.
+Registration number: 002024901000
+Department: European Dynamics S.A.
+Town: Athens
+Postcode: 15125
+Country subdivision (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Country: Greece
+Email: eproc-esender@eurodyn.com
+Telephone: +30 2108094500
+Roles of this organisation:
+TED eSender
+Notice information
+Notice identifier/version: b7c42208-3e52-47a3-a12f-5b9fece11d16 - 01
+Form type: Result
+Notice type: Contract or concession award notice - standard regime
+Notice dispatch date: 02/05/2025 11:32 +03:00
+Languages in which this notice is officially available: English 

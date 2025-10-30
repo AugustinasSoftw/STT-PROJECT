@@ -1,0 +1,154 @@
+Lietuva: Programinės įrangos palaikymo paslaugos
+PSS/E esamų licencijų konvertavimas, papildomų licencijų įsigijimas ir palaikymo paslaugų 
+pirkimas / Procurement of Technical requirements for PSS/E conversion of existing licences, 
+support services
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LITGRID AB
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su elektros energija susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: PSS/E esamų licencijų konvertavimas, papildomų licencijų įsigijimas ir palaikymo paslaugų pirkimas / 
+Procurement of Technical requirements for PSS/E conversion of existing licences, support services
+Aprašymas: Vykdomas PSSE esamų licencijų konvertavimas, papildomų licencijų įsigyjimas ir palaikymo paslaugų 
+pirkimas. Daugiau informacijos galima rasti pirkimo dokumentuose.
+Procedūros identifikatorius: d8ef2e37-e278-4bd7-8e8c-4b65b5d17c22
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: PSS/E esamų licencijų konvertavimas, papildomų licencijų įsigijimas ir palaikymo paslaugų pirkimas / 
+Procurement of Technical requirements for PSS/E conversion of existing licences, support services
+Aprašymas: Vykdomas PSSE esamų licencijų konvertavimas, papildomų licencijų įsigyjimas ir palaikymo paslaugų 
+pirkimas. Daugiau informacijos galima rasti pirkimo dokumentuose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Neribota
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Neribota
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: LITGRID AB -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LITGRID AB -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 140 570 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Vadovaujantis Pirkimų įstatymo 79 str. 1 d. 3 p. b papunkčio nuostatomis, neskelbiamų 
+derybų vykdymo sąlyga privalo tenkinti du reikalavimus, t. y. egzistuoti techninės priežastys ir kartu yra vienintelis 
+potencialus tiekėjas. Siemens AS yra PSSE sistemos kūrėjas, todėl niekas kitas negali suteikti PSSE sistemos 
+palaikymo paslaugų, t.y. kitas tiekėjas objektyviai negali suteikti organizacijai reikalingų Siemens PSSE sistemos 
+palaikymo paslaugų. Įvertinus šią informaciją yra pagrindas pirkimo procedūras vykdyti neskelbiamų derybų iš 
+vieno tiekėjo - Siemens AS.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Siemens AS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000026761
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 140 570 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16698
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LITGRID AB
+Registracijos numeris: 302564383
+Pašto adresas: Karlo Gustavo Emilio Manerheimo g. 8 
+Miestas: Vilnius
+Pašto kodas: 05131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: arunas.jurgelaitis@litgrid.eu
+Telefono numeris: +37065611391
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Siemens AS
+Registracijos numeris: 923009108
+Pašto adresas: Oestre Aker Vei 88 
+Miestas: Oslo
+Pašto kodas: NO-0613
+Šalies administracinis vienetas (NUTS): Oslo (NO081)
+Šalis: Norvegija
+E. paštas: post.no@siemens.com
+Telefono numeris: +47 22 63 30 00
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 22834c18-bb6d-4eea-a0f5-da7976f2dbaf - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/04/2025 08:47 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,167 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Viešosios turizmo infrastruktūros prie Yglos ežero plėtros projektinių pasiūlymų ir techninio 
+darbo projekto parengimo bei statinio projekto vykdymo priežiūros paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Marijampolės savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Viešosios turizmo infrastruktūros prie Yglos ežero plėtros projektinių pasiūlymų ir techninio darbo 
+projekto parengimo bei statinio projekto vykdymo priežiūros paslaugos
+Aprašymas: Marijampolės savivaldybės administracija atviro konkurso būdu vykdo viešosios turizmo infrastruktūros 
+prie Yglos ežero plėtros projektinių pasiūlymų ir techninio darbo projekto parengimo bei statinio projekto vykdymo 
+priežiūros paslaugų tarptautinį viešąjį pirkimą.
+Procedūros identifikatorius: 89558a6f-8a9a-42d2-ad32-f0f067cb582f
+Ankstesnis skelbimas: b6dbac3a-953a-4b33-99e1-35acd75a0ba1-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 23 140,5 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Viešosios turizmo infrastruktūros prie Yglos ežero plėtros projektinių pasiūlymų ir techninio darbo 
+projekto parengimo bei statinio projekto vykdymo priežiūros paslaugos
+Aprašymas: Marijampolės savivaldybės administracija atviro konkurso būdu vykdo viešosios turizmo infrastruktūros 
+prie Yglos ežero plėtros projektinių pasiūlymų ir techninio darbo projekto parengimo bei statinio projekto vykdymo 
+priežiūros paslaugų tarptautinį viešąjį pirkimą.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 23 140,5 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymai vertinami pagal mažiausios pasiūlytos kainos kriterijų
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Marijampolės savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 20 650 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Infrastruktūros inžinerija
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000053173
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 20 650 Euro
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: taip
+Subrangos procentinė dalis: 20
+Informacija apie sutartį:
+Sutarties identifikatorius: 19504
+Sutarties sudarymo data: 23/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos regioninės plėtros fondas (ERPF) 
+(2021/2027)
+ES fondų identifikatorius: ES pažangos priemonė Nr. 01-004-07-01-01 (RE)
+Išsamesnė informacija apie ES fondus: ES pažangos priemonės Nr. 01-004-07-01-01 (RE) veikla „Viešosios 
+turizmo infrastruktūros modernizavimas ar sukūrimas, pritaikant gamtos ir kultūros objektus lankymui (taip 
+pat neįgaliųjų poreikiams)"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Marijampolės savivaldybės administracija
+Registracijos numeris: 188769113
+Pašto adresas: J. Basanavičiaus a. 1 
+Miestas: Marijampolė
+Pašto kodas: LT-68307
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: linas.griska@marijampole.lt
+Telefono numeris: +37061234985
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Infrastruktūros inžinerija
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300035342
+Pašto adresas: Gerosios Vilties g. 38 
+Miestas: Vilnius
+Pašto kodas: LT-03143
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: raimundasinfra@yahoo.com
+Telefono numeris: +37061240644
+Interneto adresas: www.infrainzinerija.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: LT-44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 49086d9d-6b43-4c53-87b3-dec5a2c73441 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/05/2025 10:23 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

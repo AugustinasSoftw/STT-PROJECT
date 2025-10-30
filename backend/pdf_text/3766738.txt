@@ -1,0 +1,162 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Su NCTS 6 faze suderinamos Ukrainos nacionalinės tranzito sistemos sukūrimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Centrinė projektų valdymo agentūra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Su NCTS 6 faze suderinamos Ukrainos nacionalinės tranzito sistemos sukūrimo paslaugos
+Aprašymas: Perkamos su NCTS 6 faze suderinamos Ukrainos nacionalinės tranzito sistemos sukūrimo paslaugos, 
+skirtos Ukrainos valstybinei muitinės tarnybai. Pirkimas, vadovaujantis Viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 
+2 punkto b ir c papunkčiais, gavus VPT pritarimą, atliktas neskelbiamų derybų būdu, kreipiantis į konkretų tiekėją.
+Procedūros identifikatorius: 35105472-92ff-4009-86bf-231104adb193
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagrindiniai procedūros ypatumai: Pirkimas, vadovaujantis Viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2 punkto b 
+ir c papunkčiais, gavus VPT pritarimą, atliktas neskelbiamų derybų būdu, kreipiantis į konkretų tiekėją.
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Ukraina
+Papildoma informacija: Ukrainos teritorijoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Su NCTS 6 faze suderinamos Ukrainos nacionalinės tranzito sistemos sukūrimo paslaugos
+Aprašymas: Perkamos su NCTS 6 faze suderinamos Ukrainos nacionalinės tranzito sistemos sukūrimo paslaugos, 
+skirtos Ukrainos valstybinei muitinės tarnybai. Pirkimas, vadovaujantis Viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 
+2 punkto b ir c papunkčiais, gavus VPT pritarimą, atliktas neskelbiamų derybų būdu, kreipiantis į konkretų tiekėją.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Ukraina
+Papildoma informacija: Ukrainos teritorijoje
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Pasiūlymai vertinami taikant 
+mažiausios kainos vertinimo kriterijų
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Centrinė projektų valdymo agentūra
+Organizacija, pasirašanti sutartį: VšĮ Centrinė projektų valdymo agentūra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 160 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Tiekėjas Netcompany S.A. yra vienintelis visų intelektinės nuosavybės teisių į sukurtos NCTS 
+5 etapo reikalavimus atitinkančios programinės įrangos ERMIS turėtojas, kadangi yra sistemos kūrėjas, turintis 
+išimtines teises ją vystyti, todėl nustatyta, kad šiuo konkrečiu atveju Pirkimu siekiamas įsigyti paslaugas suteikti 
+gali tik konkretus tiekėjas („Netcompany S.A.“), ir tai atitinka 71 straipsnio 1 dalies 2 punkto b ir c papunkčiuose 
+įtvirtintus pagrindus. Šiam sprendimui buvo gautas VPT pritarimas.
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Tiekėjas Netcompany S.A. yra vienintelis visų intelektinės nuosavybės teisių į sukurtos NCTS 
+5 etapo reikalavimus atitinkančios programinės įrangos ERMIS turėtojas, kadangi yra sistemos kūrėjas, turintis 
+išimtines teises ją vystyti, todėl nustatyta, kad šiuo konkrečiu atveju Pirkimu siekiamas įsigyti paslaugas suteikti 
+gali tik konkretus tiekėjas („Netcompany S.A.“), ir tai atitinka 71 straipsnio 1 dalies 2 punkto b ir c papunkčiuose 
+įtvirtintus pagrindus. Šiam sprendimui buvo gautas VPT pritarimas.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: NETCOMPANY S.A.
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 160 000 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: Sutartis 2025/4-3-783
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Kaimynystės, vystymosi ir tarptautinio 
+bendradarbiavimo priemonė (KVTBP) (2021/2027)
+ES fondų identifikatorius: Paslaugos finansuojamos pagal 2023 m. gruodžio 22 d. pasirašytą Europos 
+indėlio susitarimą Nr. NDICI-GEO-NEAR/2023/452-290, kurią CPVA ir Europos Sąjunga, atstovaujama 
+Europos Komisijos, pasirašė dėl „Viešųjų finansų valdymo paramos programos Ukrainai pratęsimo“ (toliau 
+- „EU4PFM pratęsimas“) įgyvendinimo, finansuojamo iš Kaimynystės, vystymosi ir tarptautinio 
+bendradarbiavimo priemonės - „Visuotinė Europa“ (NDICI - Visuotinė Europa).
+Organizacija, pasirašanti sutartį: VšĮ Centrinė projektų valdymo agentūra
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Centrinė projektų valdymo agentūra
+Registracijos numeris: 126125624
+Pašto adresas: S.Konarskio g. 13 
+Miestas: Vilnius
+Pašto kodas: 03109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: j.sakocius@cpva.lt
+Telefono numeris: +370 663 13758
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: NETCOMPANY S.A.
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: RCS LU B 56565
+Miestas: Liuksemburgas
+Pašto kodas: L-1253
+Šalies administracinis vienetas (NUTS): Luxembourg (LU000)
+Šalis: Liuksemburgas
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 8ef7cc99-a609-4fbb-89d3-4b5398f8589e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/07/2025 17:28 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

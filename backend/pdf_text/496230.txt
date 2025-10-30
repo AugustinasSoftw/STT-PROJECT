@@ -1,0 +1,142 @@
+Lietuva: Administravimo programinės įrangos paketai
+748071_Perkeltos iš senos CVP IS neskelbiamos derybos_Kompiuterizuotų darbo vietų (KDV) 
+valdymo programinės įrangos licencijų viešojo pirkimo ID_214858
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 748071_Perkeltos iš senos CVP IS neskelbiamos derybos_Kompiuterizuotų darbo vietų (KDV) valdymo 
+programinės įrangos licencijų viešojo pirkimo ID_214858
+Aprašymas: Kompiuterizuotų darbo vietų (KDV) valdymo programinės įrangos licencijos 3 m. laikotarpiui
+Procedūros identifikatorius: eba002c9-3fd2-4851-90b1-8d6cf1951219
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48219300 Administravimo programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kompiuterizuotų darbo vietų (KDV) valdymo programinės įrangos licencijų viešasis pirkimas
+Aprašymas: Kompiuterizuotų darbo vietų (KDV) valdymo programinės įrangos licencijos 3 metų laikotarpiui.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48219300 Administravimo programinės įrangos paketai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas vadovaujantis Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 
+13 d. įsakymu Nr. D1-401 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos 
+aprašo 4.4.3 papunkčiu.
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausios kainos vertinimo kriterijus
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 189 975 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Pagal ankstesnį skelbimą nebuvo gauta tinkamų pasiūlymų, dalyvavimo prašymų 
+arba paraiškų
+Kitas pagrindimas: Vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 25 straipsnio 1 dalimi, 31 
+straipsnio 1 dalimi, 66 straipsniu, 71 straipsnio 1 dalies 1 punktu, sprendimas pirkimą atlikti neskelbiamų derybų 
+būdu
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Promise Baltics, OU
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: (1.10-04-2 E) 22-189
+Sutarties sudarymo data: 13/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos
+Registracijos numeris: 188659752
+Pašto adresas: Vasario 16-osios g. 14 
+Miestas: Vilnius
+Pašto kodas: 01107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Laura.Kasikauskiene@vmi.lt
+Telefono numeris: +37052687858
+Interneto adresas: www.vmi.lt
+Pirkėjo profilis: www.vmi.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Promise Baltics, OU
+Registracijos numeris: 14348712
+Miestas: Talinas
+Šalis: Estija
+E. paštas: Rainers.valters@promise.lv
+Telefono numeris: +37126354341
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c81766bc-ecbb-4fff-9c49-dc81213cc4ab - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 17/12/2024 10:44 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

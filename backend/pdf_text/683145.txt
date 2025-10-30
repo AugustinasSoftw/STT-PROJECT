@@ -1,0 +1,147 @@
+Lietuva: Su programine įranga susijusios paslaugos
+743755 - VSFSVVP IS vystymo ir palaikymo paslaugų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Centrinė projektų valdymo agentūra
+Pirkėjo teisinė forma: ES institucija, įstaiga ar agentūra
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 743755 - VSFSVVP IS vystymo ir palaikymo paslaugų pirkimas
+Aprašymas: Vidaus saugumo fondo bei sienų valdymo ir vizų politikos finansinės paramos priemonės, įtrauktos į 
+integruoto sienų valdymo fondą, elektroninio keitimosi duomenimis sistemos (VSFSVVP IS) vystymo ir palaikymo 
+paslaugų pirkimas
+Procedūros identifikatorius: cc036656-5577-4b10-a5c4-4f8dc8e9a0bf
+Ankstesnis skelbimas: 733941-2024
+Vidaus identifikatorius: 743755
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 198 347 Euro
+Preliminariosios sutarties didžiausioji vertė: 198 347 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: VSFSVVP IS vystymo ir palaikymo paslaugų pirkimas
+Aprašymas: Vidaus saugumo fondo bei sienų valdymo ir vizų politikos finansinės paramos priemonės, įtrauktos į 
+integruoto sienų valdymo fondą, elektroninio keitimosi duomenimis sistemos (VSFSVVP IS) vystymo ir palaikymo 
+paslaugų pirkimas
+Vidaus identifikatorius: 743755
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+Kiekis: 2 800 valanda
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 189 970 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Kaina
+Aprašymas: Vertinama paslaugų teikėjo siūloma kaina.
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Kokybė
+Aprašymas: Vertinama paslaugų teikėjo siūlomų specialistų, atsakingų už sutarties vykdymą, patirtis.
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 198 347 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: UAB "NRD Systems"
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė: 18 997 Euro
+Subrangos procentinė dalis: 10
+Aprašymas: Subrangovas - UAB Etronika
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/4-1-582
+Data, kurią buvo pasirinktas laimėtojas: 11/12/2024
+Sutarties sudarymo data: 16/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Vidaus saugumo fondas (VSF) (2021/2027)
+ES fondų identifikatorius: VSF/SVVP 2021-2027 programa
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Centrinė projektų valdymo agentūra
+Registracijos numeris: 126125624
+Pašto adresas: S.Konarskio g. 13 
+Miestas: Vilnius
+Pašto kodas: 03109
+Šalis: Lietuva
+E. paštas: m.kazakevicius@cpva.lt
+Telefono numeris: +37066081933
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370706 68 369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „NRD Systems“
+Registracijos numeris: 111647812
+Pašto adresas: Gynėjų g. 14 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: sales@nrd.lt
+Telefono numeris: 37060080811
+Šios organizacijos vaidmenys:
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 62474729-f085-4b7b-9879-ce2ffc14e165 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/01/2025 14:08 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

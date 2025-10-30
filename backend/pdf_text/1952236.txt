@@ -1,0 +1,289 @@
+Lietuva: Ultragarsinės diagnostikos prietaisai
+Mobilus ultragarso aparatas (Nr. 9113-1)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Respublikinė Vilniaus universitetinė ligoninė (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mobilus ultragarso aparatas (Nr. 9113-1)
+Aprašymas: Mobilus ultragarso aparatas, 3 vnt, prekių pristatymo terminas - ne vėliau kaip per 4 mėn. nuo sutarties 
+įsigaliojimo dienos. Skubios pagalbos skyriaus ir Reanimacijos ir intensyvios terapijos skyriaus infrastruktūros 
+modernizavimo projektas (projekto kodas 09-008-P-0007)
+Procedūros identifikatorius: 65943e9a-48a1-4a62-8b62-a0c0600c6fb6
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33124120 Ultragarsinės diagnostikos prietaisai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Papildoma informacija: Pirkimo procedūros 1, 2, 3 p. d. nutrauktos vadovaujantis VPĮ 45 str. 1 d. 5 p. nustačius galimą 
+laimėtoją, kurio pasiūlymo kaina viršijo nustatytą biudžetą
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mobilus ultragarso aparatas
+Aprašymas: Mobilus ultragarso aparatas, 3 vnt, prekių pristatymo terminas - ne vėliau kaip per 4 mėn. nuo sutarties 
+įsigaliojimo dienos. Skubios pagalbos skyriaus ir Reanimacijos ir intensyvios terapijos skyriaus infrastruktūros 
+modernizavimo projektas (projekto kodas 09-008-P-0007)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33124120 Ultragarsinės diagnostikos prietaisai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: C=(Cmin/Cp)*X, kiekvieno tiekėjo pasiūlymo kainos (C) balas apskaičiuojamas mažiausios pasiūlytos 
+kainos (Cmin) ir vertinamo pasiūlymo kainos (Cp) santykį padauginus iš kainos lyginamojo svorio (X).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kiekvieno tiekėjo pasiūlymo kokybės kriterijaus (K) balai apskaičiuojami šia tvarka: K=5, jei Prekei prie 
+minimalios reikalaujamos 36 mėn. garantijos suteikiama papildoma nuo 12 iki 23 mėn. garantija, K = 10, jei Prekei 
+prie minimalios reikalaujamos 36 mėn. garantijos suteikiama papildoma ne mažiau kaip 24 mėn. garantija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Respublikinė Vilniaus universitetinė ligoninė 
+(PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Respublikinė Vilniaus universitetinė 
+ligoninė (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Respublikinė Vilniaus universitetinė ligoninė (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Mobilus ultragarso aparatas
+Aprašymas: Mobilus ultragarso aparatas, 3 vnt, prekių pristatymo terminas - ne vėliau kaip per 4 mėn. nuo sutarties 
+įsigaliojimo dienos. Skubios pagalbos skyriaus ir Reanimacijos ir intensyvios terapijos skyriaus infrastruktūros 
+modernizavimo projektas (projekto kodas 09-008-P-0007)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33124120 Ultragarsinės diagnostikos prietaisai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: C=(Cmin/Cp)*X, kiekvieno tiekėjo pasiūlymo kainos (C) balas apskaičiuojamas mažiausios pasiūlytos 
+kainos (Cmin) ir vertinamo pasiūlymo kainos (Cp) santykį padauginus iš kainos lyginamojo svorio (X).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kiekvieno tiekėjo pasiūlymo kokybės kriterijaus (K) balai apskaičiuojami šia tvarka: K=5, jei Prekei prie 
+minimalios reikalaujamos 36 mėn. garantijos suteikiama papildoma nuo 12 iki 23 mėn. garantija, K = 10, jei Prekei 
+prie minimalios reikalaujamos 36 mėn. garantijos suteikiama papildoma ne mažiau kaip 24 mėn. garantija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Respublikinė Vilniaus universitetinė ligoninė 
+(PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Respublikinė Vilniaus universitetinė 
+ligoninė (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Respublikinė Vilniaus universitetinė ligoninė (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Mobilus ultragarso aparatas
+Aprašymas: Mobilus ultragarso aparatas, 3 vnt, prekių pristatymo terminas - ne vėliau kaip per 4 mėn. nuo sutarties 
+įsigaliojimo dienos. Skubios pagalbos skyriaus ir Reanimacijos ir intensyvios terapijos skyriaus infrastruktūros 
+modernizavimo projektas (projekto kodas 09-008-P-0007)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33124120 Ultragarsinės diagnostikos prietaisai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kiekvieno tiekėjo pasiūlymo pirmo kriterijaus - pasiūlymo kainos (C) balas apskaičiuojamas 
+mažiausios pasiūlytos kainos (Cmin) ir vertinamo pasiūlymo kainos (Cp) santykį padauginus iš kainos lyginamojo 
+svorio (X). Pasiūlymo kainos balo apskaičiavimui taikoma formulė C=(Cmin/Cp)*X
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: K = 5, jei Prekei prie minimalios reikalaujamos 36 mėn. garantijos suteikiama papildoma nuo 12 iki 
+23 mėn. garantija, K = 10, jei Prekei prie minimalios reikalaujamos 36 mėn. garantijos suteikiama papildoma ne 
+mažiau kaip 24 mėn. garantija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Respublikinė Vilniaus universitetinė ligoninė 
+(PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Respublikinė Vilniaus universitetinė 
+ligoninė (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Respublikinė Vilniaus universitetinė ligoninė (PV)
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.3 Nelaimėję dalyviai:
+Dalyvis:
+Oficialus pavadinimas: UAB Ekstrameda
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.3 Nelaimėję dalyviai:
+Dalyvis:
+Oficialus pavadinimas: UAB Ekstrameda
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.3 Nelaimėję dalyviai:
+Dalyvis:
+Oficialus pavadinimas: UAB Ekstrameda
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Respublikinė Vilniaus universitetinė ligoninė (PV)
+Registracijos numeris: 124243848
+Pašto adresas: Šiltnamių g. 29 
+Miestas: Vilnius
+Pašto kodas: LT-04130
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: veronika.babiciene@rvul.lt
+Telefono numeris: +37067445528
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 193312970
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Ekstrameda
+Registracijos numeris: 303054942
+Miestas: Kaunas
+Pašto kodas: LT-44148
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: d5c9e4cc-487b-40c2-bf18-cc2f1fd6e097 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 01/04/2025 10:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

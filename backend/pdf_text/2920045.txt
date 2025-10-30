@@ -1,0 +1,175 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+562806 Nuotekų tvarkymo informacinės sistemos (NTIS) valdymo, tobulinimo ir plėtojimo 
+ekspertinio konsultavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos Respublikos aplinkos ministerija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 562806 Nuotekų tvarkymo informacinės sistemos (NTIS) valdymo, tobulinimo ir plėtojimo ekspertinio 
+konsultavimo paslaugos
+Aprašymas: Perkamos Nuotekų tvarkymo informacinės sistemos (NTIS) valdymo, tobulinimo ir plėtojimo ekspertinio 
+konsultavimo paslaugos. Paslaugų teikimo terminas - 12 mėnesių nuo pirkimo sutarties sudarymo dienos. Paslaugų 
+teikimas, esant tolimesniam finansavimui ir NTIS tobulinimo ir (arba) plėtojimo poreikiui, gali būti pratęstas 2 kartus 
+po 12 mėnesių. Pirkimo sutarčiai taikoma fiksuoto įkainio kainodara. Paslaugos (preliminarus lyginamasis kiekis 1000 
+darbo valandų per 12 mėnesių) bus perkamos pagal poreikį tiekėjo pasiūlyme nurodytu paslaugų valandiniu įkainiu, 
+už ne daugiau kaip 45 000,00 Eur su PVM per 12 mėnesių (maksimali pirkimo pirkimo sutarties vertė), su galimybe 
+pratęsti paslaugų teikimą tokiomis pat pirkimo apimtimis 2 kartus po 12 mėnesių, esant finansavimui ir poreikiui. 
+Užsakovas neprivalo įsigyti paslaugų už maksimalią pirkimo sutarties vertę. Ekonomiškai naudingiausias pasiūlymas 
+išrenkamas pagal kainos ir kokybės santykį. Atsiskaitymas vykdomas ne rečiau negu kartą per ketvirtį už faktiškai 
+suteiktas paslaugas pagal tiekėjo pateiktą atliktų paslaugų ataskaitą, kurioje turi būti nurodytos atliktos užduotys ir jų 
+atlikimo laikas (darbo valandomis), ir šalių pasirašytą paslaugų perdavimo-priėmimo aktą. Užsakovas už tinkamai ir 
+laiku atliktas paslaugas sumoka tiekėjui ne vėliau kaip per 30 dienų nuo tinkamos PVM sąskaitos faktūros / sąskaitos 
+faktūros pateikimo dienos.
+Procedūros identifikatorius: acce76e4-956c-40d7-b74c-dd1730c72a25
+Ankstesnis skelbimas: 798923-2024
+Vidaus identifikatorius: 562806
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 562806 Nuotekų tvarkymo informacinės sistemos (NTIS) valdymo, tobulinimo ir plėtojimo ekspertinio 
+konsultavimo paslaugos
+Aprašymas: Perkamos Nuotekų tvarkymo informacinės sistemos (NTIS) valdymo, tobulinimo ir plėtojimo ekspertinio 
+konsultavimo paslaugos. Paslaugų teikimo terminas - 12 mėnesių nuo pirkimo sutarties sudarymo dienos. Paslaugų 
+teikimas, esant tolimesniam finansavimui ir NTIS tobulinimo ir (arba) plėtojimo poreikiui, gali būti pratęstas 2 kartus 
+po 12 mėnesių. Pirkimo sutarčiai taikoma fiksuoto įkainio kainodara. Paslaugos (preliminarus lyginamasis kiekis 1000 
+darbo valandų per 12 mėnesių) bus perkamos pagal poreikį tiekėjo pasiūlyme nurodytu paslaugų valandiniu įkainiu, 
+už ne daugiau kaip 45 000,00 Eur su PVM per 12 mėnesių (maksimali pirkimo pirkimo sutarties vertė), su galimybe 
+pratęsti paslaugų teikimą tokiomis pat pirkimo apimtimis 2 kartus po 12 mėnesių, esant finansavimui ir poreikiui. 
+Užsakovas neprivalo įsigyti paslaugų už maksimalią pirkimo sutarties vertę. Ekonomiškai naudingiausias pasiūlymas 
+išrenkamas pagal kainos ir kokybės santykį. Atsiskaitymas vykdomas ne rečiau negu kartą per ketvirtį už faktiškai 
+suteiktas paslaugas pagal tiekėjo pateiktą atliktų paslaugų ataskaitą, kurioje turi būti nurodytos atliktos užduotys ir jų 
+atlikimo laikas (darbo valandomis), ir šalių pasirašytą paslaugų perdavimo-priėmimo aktą. Užsakovas už tinkamai ir 
+laiku atliktas paslaugas sumoka tiekėjui ne vėliau kaip per 30 dienų nuo tinkamos PVM sąskaitos faktūros / sąskaitos 
+faktūros pateikimo dienos.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72000000 IT paslaugos: konsultavimas, programinės įrangos kūrimas, 
+internetas ir aptarnavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žiūrėti pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Žiūrėti pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatytymo VII skyriaus nustatyta 
+tvarka.
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos Respublikos aplinkos ministerija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 135 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB "Duida"
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS-1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 13 310 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-28
+Sutarties sudarymo data: 22/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos Respublikos aplinkos ministerija
+Registracijos numeris: 188602370
+Pašto adresas: A. Jakšto g. 4 
+Miestas: Vilnius
+Pašto kodas: 01105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: dovile.montvilaite@am.lt
+Telefono numeris: +37062622252
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: MB "Duida"
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 305574190
+Miestas: Kaunas
+Pašto kodas: 50328
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1c05c82c-8c67-4952-b825-b0e9f57dec0e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/05/2025 16:58 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

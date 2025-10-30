@@ -1,0 +1,198 @@
+Lietuva: Autorių teikiamos paslaugos
+Užduočių pritaikymo specialiųjų ugdymosi poreikių turintiems mokiniams paslaugos 
+(Supaprastinas atviras konkursas)/NUTRAUKTAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Užduočių pritaikymo specialiųjų ugdymosi poreikių turintiems mokiniams paslaugos (Supaprastinas 
+atviras konkursas)/NUTRAUKTAS
+Aprašymas: Pirkimo objektas skaidomas į 2 pirkimo objekto dalis: I pirkimo objekto dalis - informatikos užduočių 
+pritaikymas / sukūrimas (preliminariai 120 užduočių - su skaitymo, kalbėjimo ir kalbos sunkumais susijusiems 
+ugdymosi poreikiams ir preliminariai 50 užduočių - su intelekto sutrikimu susijusiems ugdymosi poreikiams). II 
+pirkimo objekto dalis - gamtos mokslų užduočių pritaikymas / sukūrimas (preliminariai 200 užduočių - su skaitymo, 
+kalbėjimo ir kalbos sunkumais susijusiems ugdymosi poreikiams ir preliminariai 140 užduočių - su intelekto sutrikimu 
+susijusiems ugdymosi poreikiams). Detalizuota techninėje specifikacijoje.
+Procedūros identifikatorius: b3ab9b37-97d9-406f-a9f3-ec8a4051eff2
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo objekto dalis - informatikos užduočių pritaikymas / sukūrimas
+Aprašymas: Pirkimo objektas skaidomas į 2 pirkimo objekto dalis: I pirkimo objekto dalis - informatikos užduočių 
+pritaikymas / sukūrimas (preliminariai 120 užduočių - su skaitymo, kalbėjimo ir kalbos sunkumais susijusiems 
+ugdymosi poreikiams ir preliminariai 50 užduočių - su intelekto sutrikimu susijusiems ugdymosi poreikiams). II 
+pirkimo objekto dalis - gamtos mokslų užduočių pritaikymas / sukūrimas (preliminariai 200 užduočių - su skaitymo, 
+kalbėjimo ir kalbos sunkumais susijusiems ugdymosi poreikiams ir preliminariai 140 užduočių - su intelekto sutrikimu 
+susijusiems ugdymosi poreikiams). Detalizuota techninėje specifikacijoje.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalieji reikalavimai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo objekto dalis - gamtos mokslų užduočių pritaikymas / sukūrimas
+Aprašymas: Pirkimo objektas skaidomas į 2 pirkimo objekto dalis: I pirkimo objekto dalis - informatikos užduočių 
+pritaikymas / sukūrimas (preliminariai 120 užduočių - su skaitymo, kalbėjimo ir kalbos sunkumais susijusiems 
+ugdymosi poreikiams ir preliminariai 50 užduočių - su intelekto sutrikimu susijusiems ugdymosi poreikiams). II 
+pirkimo objekto dalis - gamtos mokslų užduočių pritaikymas / sukūrimas (preliminariai 200 užduočių - su skaitymo, 
+kalbėjimo ir kalbos sunkumais susijusiems ugdymosi poreikiams ir preliminariai 140 užduočių - su intelekto sutrikimu 
+susijusiems ugdymosi poreikiams). Detalizuota techninėje specifikacijoje.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 92312210 Autorių teikiamos paslaugos
+Kiti klasifikacijos kodai (cpv): 72212931 Mokymo programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žalieji reikalavimai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinė švietimo agentūra -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+Organizacija, atliekanti mokėjimus: Nacionalinė švietimo agentūra
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinė švietimo agentūra
+Registracijos numeris: 305238040
+Pašto adresas: K. Kalinausko g. 7 
+Miestas: Vilnius
+Pašto kodas: LT-03107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: dainius.linauskas@nsa.smm.lt
+Telefono numeris: +37061654836
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 038a9fae-93d1-4fc8-a529-97fa1478a24b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/06/2025 11:22 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

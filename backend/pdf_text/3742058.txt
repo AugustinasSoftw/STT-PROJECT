@@ -1,0 +1,167 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Prekybos leidimų išdavimo Vilniaus miesto seniūnijose skaitmeninimo paslaugos (Atviras 
+tarptautinis pirkimas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Prekybos leidimų išdavimo Vilniaus miesto seniūnijose skaitmeninimo paslaugos (Atviras tarptautinis 
+pirkimas)
+Aprašymas: Perkamos prekybos leidimų išdavimo Vilniaus miesto seniūnijose skaitmeninimo paslaugos
+Procedūros identifikatorius: 7e640645-8264-45b9-8480-2d2c7f88f508
+Ankstesnis skelbimas: b5f1f758-5f25-4ccb-b6c3-268536696101-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. pirkimo dokumentus
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Prekybos leidimų išdavimo Vilniaus miesto seniūnijose skaitmeninimo paslaugos (Atviras tarptautinis 
+pirkimas)
+Aprašymas: Perkamos prekybos leidimų išdavimo Vilniaus miesto seniūnijose skaitmeninimo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. pirkimo dokumentus
+5.1.3 Numatomas galiojimas
+Galiojimas: 10 Mėnuo
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentus
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Siūloma kaina už sistemos įgyvendinimą
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Paslaugų suteikimo terminas mėnesiais (1-5 Sistemos įgyvendinimo etapai)
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, pasirašanti sutartį: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 263 200 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Lexita"
+Pasiūlymas:
+Pasiūlymo identifikatorius: UAB „Lexita“
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 216 287,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: UAB Lexita
+Sutarties sudarymo data: 16/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 02022P0004
+Išsamesnė informacija apie ES fondus: 02022P0004 Prekybos leidimų išdavimo Vilniaus miesto seniūnijose 
+skaitmeninimas
+Organizacija, pasirašanti sutartį: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Registracijos numeris: 188710061
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: VILNIUS
+Pašto kodas: 09601
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.vaitiekunaite@vilnius.lt
+Telefono numeris: +37052112693
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Lexita"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302342831
+Pašto adresas: Lukiškių g. 9 
+Miestas: Vilnius
+Pašto kodas: 01108
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vp@lexita.lt
+Telefono numeris: +37065758415
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 999d2d6a-b36f-45bc-a975-0fa09270ba3c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/07/2025 15:04 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

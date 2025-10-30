@@ -1,0 +1,148 @@
+Lietuva: Statybos darbai
+Kapitalinio remonto ir atnaujinimo darbai su projektavimu K196
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Kauno butų ūkis
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kapitalinio remonto ir atnaujinimo darbai su projektavimu K196
+Aprašymas: DAUGIABUČIO NAMO KALNIEČIŲ G. 196, KAUNAS, ATNAUJINIMO (MODERNIZAVIMO) RANGOS 
+DARBAI KARTU SU PROJEKTO PARENGIMU
+Procedūros identifikatorius: ae4d2539-283c-48ec-9132-d38d70b538c8
+Ankstesnis skelbimas: d4cf569e-c780-4a82-aed0-40103b9414e3-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: taip
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kapitalinio remonto ir atnaujinimo darbai su projektavimu K196
+Aprašymas: DAUGIABUČIO NAMO KALNIEČIŲ G. 196, KAUNAS, ATNAUJINIMO (MODERNIZAVIMO) RANGOS 
+DARBAI KARTU SU PROJEKTO PARENGIMU
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Energijos vartojimo mažinimas
+Poveikio aplinkai mažinimo metodas: Klimato kaitos švelninimas
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymas atitinka reikalavimus įvertinimas pagal konkurso sąlygų numatytus kriterijus.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: 15 dienų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Kauno butų ūkis
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 797 227,84 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: VERSLO
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000093225
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 797 227,84 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 34577
+Data, kurią buvo pasirinktas laimėtojas: 22/09/2025
+Sutarties sudarymo data: 02/10/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Aplinkos ir klimato politikos programa (LIFE) 
+(2021/2027)
+ES fondų identifikatorius: LIFE2027
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Kauno butų ūkis
+Registracijos numeris: 132532496
+Pašto adresas: Chemijos g. 18 
+Miestas: Kauno m.
+Pašto kodas: LT-51339
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: pirkimai@kbu.lt
+Telefono numeris: 880020000
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: VERSLO
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 302627983
+Pašto adresas: Kalvarijos g. 9 
+Miestas: Kaunas
+Pašto kodas: LT-46349
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daliarozyte@gmail.com
+Telefono numeris: +37060424226
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d61e6049-9691-40bf-a8fb-fb49e6b7488b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/10/2025 08:55 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

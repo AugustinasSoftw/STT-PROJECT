@@ -1,0 +1,135 @@
+Lietuva: Kompiuterinė įranga ir reikmenys
+NUTRAUKTAS KONKURSAS. Kompiuteriai, monitoriai, jų dalys ir priedai (atviras tarptautinis 
+konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vytauto Didžiojo universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: NUTRAUKTAS KONKURSAS. Kompiuteriai, monitoriai, jų dalys ir priedai (atviras tarptautinis 
+konkursas)
+Aprašymas: Kompiuteriai, monitoriai, jų dalys ir priedai
+Procedūros identifikatorius: 254c24ef-00d3-4c50-b091-4ee53bd867d3
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: NUTRAUKTAS KONKURSAS. Kompiuteriai, monitoriai, jų dalys ir priedai (atviras tarptautinis 
+konkursas)
+Aprašymas: Kompiuteriai, monitoriai, jų dalys ir priedai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Kompiuteriai turi atitikti informacinių technologijų priemonėms keliamus kriterijus, patvirtintus 
+Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. DI-508 „Dėl produktų, kurių viešiesiems 
+pirkimams taikytini aplinkos apsaugos kriterijai, sąrašų, aplinkos apsaugos kriterijų ir aplinkos apsaugos kriterijų, 
+kuriuos perkančiosios organizacijos turi taikyti pirkdamos prekes, paslaugas ar darbus, taikymo tvarkos aprašo 
+patvirtinimo“ (2022 m. gruodžio 13 d. įsakymo Nr. D1-401 redakcija) patvirtintus minimalius aplinkos apsaugos 
+kriterijus. Kriterijai aprašyti Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 2 
+priedo IV skyriuje „Kompiuteriai ir planšetės“
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainos kriterijų, t.y. 
+laimėtoju bus pripažintas Tiekėjas pasiūlęs mažiausią kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vytauto Didžiojo universitetas (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vytauto Didžiojo universitetas (PV) -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vytauto Didžiojo universitetas (PV)
+Registracijos numeris: 111950396
+Pašto adresas: K. Donelaičio g. 58, 
+Miestas: Kaunas
+Pašto kodas: 44248
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vilma.pavloviene@vdu.lt
+Telefono numeris: +37037752246
+Interneto adresas: www.vdu.lt
+Pirkėjo profilis: www.vdu.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c7e73ca8-1a74-4d2a-b813-46b1c9353224 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/02/2025 15:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

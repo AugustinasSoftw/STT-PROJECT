@@ -1,0 +1,143 @@
+Lietuva: Centralizuotas šilumos tiekimas
+Centralizuotas šilumos tiekimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Ignalinos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Centralizuotas šilumos tiekimas
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-15 paskelbto pirkimo Nr. 747084 procedūros. 
+Neskelbiamos apklausos derybų pirkimo aplinka ir pasiūlymų pateikimo terminas sukurtas tik pirkimo procedūrų 
+tęsimo tikslais, prašome neteikti pasiūlymų per naują sistemą. Pirkimo vykdytojas vertins Jūsų pasiūlymą, pateiktą 
+senoje CVP IS.
+Procedūros identifikatorius: 3e563fcb-487c-4846-a0aa-d98468ca4804
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Centralizuotas šilumos tiekimas
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024-11-15 paskelbto pirkimo Nr. 747084 procedūros. 
+Neskelbiamos apklausos derybų pirkimo aplinka ir pasiūlymų pateikimo terminas sukurtas tik pirkimo procedūrų 
+tęsimo tikslais, prašome neteikti pasiūlymų per naują sistemą. Pirkimo vykdytojas vertins Jūsų pasiūlymą, pateiktą 
+senoje CVP IS.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Ignalinos rajono savivaldybės administracija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 544 500 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Dėl energijos arba energijai gaminti skirto kuro tiekimo skiriamos sutartys
+Kitas pagrindimas: VPĮ 4 straipsnio 1 dalies 1 papunkčiu, 71 straipsnio 1 dalies 2 punkto b papunkčiu ir 71 
+straipsnio 2 dalies nuostatomis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Ignalinos šilumos tinklai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000013564
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2059
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Ignalinos rajono savivaldybės administracija
+Registracijos numeris: 288768350
+Pašto adresas: Laisvės a. 70 
+Miestas: Ignalina
+Pašto kodas: LT-30122
+Šalis: Lietuva
+E. paštas: ausra.kaceviciene@ignalina.lt
+Telefono numeris: +37038651831
+Interneto adresas: www.ignalina.lt
+Pirkėjo profilis: www.ignalina.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Ignalinos šilumos tinklai
+Registracijos numeris: 155634880
+Pašto adresas: Vasario 16-osios g. 41 
+Miestas: Ignalina
+Pašto kodas: 30112
+Šalis: Lietuva
+E. paštas: info@igst.lt
+Telefono numeris: +37038652701
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 78675246-35e7-4b57-8492-e92558093a36 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/01/2025 09:50 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

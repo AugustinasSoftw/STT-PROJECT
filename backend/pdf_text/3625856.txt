@@ -1,0 +1,170 @@
+Lietuva: Oro kondicionavimo įrengimo darbai
+Oro kondicionavimo sistemų įrengimo Kauno lopšeliui - darželiui "Aviliukas" darbų, atliekamo 
+dinaminės pirkimo sistemos pagridu pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Oro kondicionavimo sistemų įrengimo Kauno lopšeliui - darželiui "Aviliukas" darbų, atliekamo dinaminės 
+pirkimo sistemos pagridu pirkimas
+Aprašymas: Šiuo konkrečiu pirkimu siekiama įsigyti Kauno lopšelio - darželio "Aviliukas" pastato, Žukausko g. 31, 
+Kaune, oro kondicionavimo sistemų įrengimo darbus. Darbų atlikimo terminas ne ilgiau kaip 4 (keturi) mėnesiai nuo 
+Darbų pradžios.
+Procedūros identifikatorius: 3e35bde5-7ff1-4da3-a654-8cfde400522f
+Ankstesnis skelbimas: 295500-2024
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45331220 Oro kondicionavimo įrengimo darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Oro kondicionavimo sistemų įrengimo Kauno lopšeliui - darželiui "Aviliukas" darbų, atliekamo dinaminės 
+pirkimo sistemos pagridu pirkimas
+Aprašymas: Šiuo konkrečiu pirkimu siekiama įsigyti Kauno lopšelio - darželio "Aviliukas" pastato, Žukausko g. 31, 
+Kaune, oro kondicionavimo sistemų įrengimo darbus. Darbų atlikimo terminas ne ilgiau kaip 4 (keturi) mėnesiai nuo 
+Darbų pradžios.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45331220 Oro kondicionavimo įrengimo darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 7 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 33 169,5 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Darbams taikomas statinio papildomas garantinis terminas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, pasirašanti sutartį: Kauno lopšelis - darželis "Aviliukas"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 26 425,72 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Elmitra
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000065388
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 25 167,35 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24233
+Data, kurią buvo pasirinktas laimėtojas: 19/06/2025
+Sutarties sudarymo data: 27/06/2025
+Organizacija, pasirašanti sutartį: Kauno lopšelis - darželis "Aviliukas"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Elmitra
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302497550
+Pašto adresas: Raudondvario pl. 150 
+Miestas: Kaunas
+Pašto kodas: LT-47174
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: mindaugas@elmitra.lt
+Telefono numeris: +37060994126
+Interneto adresas: www.elmitra.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g.18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Kauno lopšelis - darželis "Aviliukas"
+Registracijos numeris: 191635341
+Padalinys: Žukausko g., 31
+Miestas: Kaunas
+Pašto kodas: 49247
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f7131d35-16f5-468c-93ed-dd3be8e32efe - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/07/2025 09:44 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

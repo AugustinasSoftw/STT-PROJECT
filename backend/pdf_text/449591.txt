@@ -1,0 +1,161 @@
+Lietuva: Kadastrinio tyrinėjimo paslaugos
+745612 Žemės sklypų kadastriniai matavimai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Jonavos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 745612 Žemės sklypų kadastriniai matavimai
+Aprašymas: Perkančioji organizacija numato įsigyti žemės sklypų kadastrinių matavimų paslaugas. Pirkimas 
+skaidomas į 2 pirkimo objekto dalis: I pirkimo objekto dalis - žemės sklypų, kurių plotas iki 1 ha (imtinai), kadastrinių 
+matavimų atlikimas ir kadastro duomenų bylų parengimas/patikslinimas (su patikra); II pirkimo objekto dalis - žemės 
+sklypų, kurių plotas virš 1 ha iki 10 ha (imtinai), kadastrinių matavimų atlikimas ir kadastro duomenų bylų parengimas/
+patikslinimas (su patikra). Paslaugos teikiamos vadovaujantis technine specifikacija bei sutarties nuostatomis po 
+užsakymo pateikimo.
+Procedūros identifikatorius: ea925237-7c34-4b46-853e-92bf3781d534
+Ankstesnis skelbimas: 6543be6d-ea81-4648-b9c4-4d993ca2622d-01
+Vidaus identifikatorius: 745612
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo objekto dalis - žemės sklypų, kurių plotas iki 1 ha (imtinai), kadastrinių matavimų atlikimas ir 
+kadastro duomenų bylų parengimas/patikslinimas (su patikra).
+Aprašymas: Žemės sklypų, kurių plotas iki 1 ha (imtinai), kadastrinių matavimų atlikimas ir kadastro duomenų 
+bylų parengimas/patikslinimas (su patikra). Paslaugos teikiamos vadovaujantis technine specifikacija bei sutarties 
+nuostatomis po užsakymo pateikimo.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal mažiausios kainos 
+kriterijų.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo objekto dalis - žemės sklypų, kurių plotas virš 1 ha iki 10 ha (imtinai), kadastrinių matavimų 
+atlikimas ir kadastro duomenų bylų parengimas/patikslinimas (su patikra).
+Aprašymas: Žemės sklypų, kurių plotas virš 1 ha iki 10 ha (imtinai), kadastrinių matavimų atlikimas ir kadastro 
+duomenų bylų parengimas/patikslinimas (su patikra). Paslaugos teikiamos vadovaujantis technine specifikacija bei 
+sutarties nuostatomis po užsakymo pateikimo.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71354300 Kadastrinio tyrinėjimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 4 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal mažiausios kainos 
+kriterijų.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Jonavos rajono savivaldybės administracija
+Registracijos numeris: 188769070
+Pašto adresas: Žeimių g. 13 
+Miestas: Jonava
+Pašto kodas: 55158
+Šalis: Lietuva
+E. paštas: sandra.rusoniene@jonava.lt
+Telefono numeris: +37034953805
+Interneto adresas: www.jonava.lt
+Pirkėjo profilis: www.jonava.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: e85ad80c-03aa-4a15-81db-18aca03aa4e7 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/12/2024 12:42 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

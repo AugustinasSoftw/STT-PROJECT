@@ -1,0 +1,164 @@
+Lietuva: Programavimo paslaugos
+Darbo užmokesčio ir personalo valdymo informacinės sistemos licencijų įsigyjimas, diegimas, 
+priežiūros, vystymo ir palaikymo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Darbo užmokesčio ir personalo valdymo informacinės sistemos licencijų įsigyjimas, diegimas, 
+priežiūros, vystymo ir palaikymo paslaugos
+Aprašymas: Darbo užmokesčio ir personalo valdymo informacinės sistemos licencijų įsigyjimas, diegimas, priežiūros, 
+vystymo ir palaikymo paslaugos
+Procedūros identifikatorius: 0a46ad56-9cc1-4da2-9071-f5122a628969
+Ankstesnis skelbimas: ffd1ec90-5b14-4e7a-afc6-14201144fc32-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 48450000 Laiko apskaitos arba žmogiškųjų išteklių valdymo programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Darbo užmokesčio ir personalo valdymo informacinės sistemos licencijų įsigyjimas, diegimas, 
+priežiūros, vystymo ir palaikymo paslaugos
+Aprašymas: Darbo užmokesčio ir personalo valdymo informacinės sistemos licencijų įsigyjimas, diegimas, priežiūros, 
+vystymo ir palaikymo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 48450000 Laiko apskaitos arba žmogiškųjų išteklių valdymo programinės įrangos paketai
+Kiekis: 1 
+Pasirinkimo galimybės:
+Galimybių aprašymas: Esant nenumatytoms, nuo tiekėjo nepriklausančioms aplinkybėms, sutarties įdiegimo 
+terminas gali būti pratęstas pagrįstam terminui, tačiau ne ilgesniam nei 2 mėnesiams
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: LT-02300 
+Miestas: Vilnius
+Pašto kodas: LT-02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 28 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 188 200 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: Eur
+Aprašymas: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras 
+Viešoji įstaiga
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinis mokslinių tyrimų institutas Fizinių ir 
+technologijos mokslų centras (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 188 200 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Edrana Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000030371
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 188 200 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21860
+Data, kurią buvo pasirinktas laimėtojas: 25/03/2025
+Sutarties sudarymo data: 03/04/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras (PV)
+Registracijos numeris: 302496128
+Pašto adresas: Savanorių pr. 231 
+Miestas: Vilnius
+Pašto kodas: 02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tomas.tarabilda@ftmc.lt
+Telefono numeris: +37067848569
+Interneto adresas: www.ftmc.lt
+Pirkėjo profilis: www.ftmc.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Edrana Baltic
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124492283
+Pašto adresas: Ulonų g. 2 
+Miestas: Vilnius
+Pašto kodas: 08245
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: jurate.mikeniene@edrana.lt
+Telefono numeris: 061838470
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d98b0bb2-89e6-4ded-b5bb-024735d7da27 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/06/2025 14:50 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

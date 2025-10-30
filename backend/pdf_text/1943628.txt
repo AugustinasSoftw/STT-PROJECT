@@ -1,0 +1,173 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+Centralizuotos nekilnojamojo turto valdymo informacinės sistemos, jos palaikymo ir 
+priežiūros įsigijimo paslaugos (atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Centralizuotos nekilnojamojo turto valdymo informacinės sistemos, jos palaikymo ir priežiūros įsigijimo 
+paslaugos (atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti centralizuotos nekilnojamojo turto valdymo informacinės sistemos, 
+jos palaikymo ir priežiūros įsigijimo paslaugas. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 
+priede.
+Procedūros identifikatorius: e8520930-336a-4538-8437-2c94079101cb
+Ankstesnis skelbimas: 27d4bf72-0333-4d76-b98f-109cb38835a0-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kretinga
+Pašto kodas: 97111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Centralizuotos nekilnojamojo turto valdymo informacinės sistemos, jos palaikymo ir priežiūros įsigijimo 
+paslaugos (atviras konkursas)
+Aprašymas: Perkančioji organizacija numato įsigyti centralizuotos nekilnojamojo turto valdymo informacinės sistemos, 
+jos palaikymo ir priežiūros įsigijimo paslaugas. Reikalavimai pirkimo objektui nustatyti specialiųjų pirkimo sąlygų 2 
+priede.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Padidinti inovacijų paklausą Lietuvoje išnaudojant viešųjų pirkimų potencialą
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su produktų inovacijomis.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: Žr.pirkimo dokumentuose
+Aprašymas: Žr.pirkimo dokumentuose
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Kaina, C Centralizuotos 
+nekilnojamojo turto valdymo informacinės sistemos įdiegimo paslaugų termino sutrumpinimas mėn., Tg
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kretingos rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kretingos rajono savivaldybės administracija -
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 90 374 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Informatikos ir ryšių technologijų centras"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000020675
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 90 374 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 7058
+Sutarties sudarymo data: 19/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Nr.05-001-01-05-07
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 90 374 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 90 374 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Registracijos numeris: 188715222
+Pašto adresas: Savanorių g. 29A 
+Miestas: Kretinga
+Pašto kodas: 97111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: sonata.skominiene@kretinga.lt
+Telefono numeris: +37074140
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Informatikos ir ryšių technologijų centras"
+Registracijos numeris: 134880487
+Pašto adresas: Gaižiūnų g. 3 
+Miestas: Kaunas
+Pašto kodas: LT-50128
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@irtc.lt
+Telefono numeris: +37037491042
+Interneto adresas: www.irtc.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: a90be64c-b254-44cc-855e-f702f612f99d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/04/2025 09:37 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

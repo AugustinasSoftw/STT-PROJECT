@@ -1,0 +1,165 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+733257_Įtariamųjų, kaltinamųjų ir nuteistųjų registro integracijos su Habitoskopinių duomenų 
+registru paslaugų pirkimas (PPR-639)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+1.1 Pirkėjas
+Oficialus pavadinimas: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 733257_Įtariamųjų, kaltinamųjų ir nuteistųjų registro integracijos su Habitoskopinių duomenų registru 
+paslaugų pirkimas (PPR-639)
+Aprašymas: Perkamos Įtariamųjų, kaltinamųjų ir nuteistųjų registro integracijos su Habitoskopinių duomenų registru 
+paslaugos.
+Procedūros identifikatorius: ef6b779e-a3ca-4d2a-87db-5f53f0e963c8
+Ankstesnis skelbimas: 524437-2024
+Vidaus identifikatorius: 733257
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Įtariamųjų, kaltinamųjų ir nuteistųjų registro integracijos su Habitoskopinių duomenų registru paslaugos
+Aprašymas: Perkamos Įtariamųjų, kaltinamųjų ir nuteistųjų registro integracijos su Habitoskopinių duomenų registru 
+paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 145 800 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 145 800 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „iTree Lietuva“
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 15R-684
+Sutarties sudarymo data: 12/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Teisingumo programa (2014/2020)
+ES fondų identifikatorius: Projektas „Habitoskopinių duomenų registro susiejimas su nacionaliniu 
+nuosprendžių registru ir ECRIS-TCN“ Nr. 101138230
+Išsamesnė informacija apie ES fondus: Projektas „Habitoskopinių duomenų registro susiejimas su 
+nacionaliniu nuosprendžių registru ir ECRIS-TCN“ Nr. 101138230, bendrai finansuojamas Europos 
+Sąjungos ir valstybės biudžeto lėšomis pagal Teisingumo programą (angl. Justice Programme (JUST))
+Organizacija, pasirašanti sutartį: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų 
+ministerijos
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188729923
+Pašto adresas: Šventaragio g. 2, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: evaldas.stadalius@vrm.lt
+Telefono numeris: +370 52717230
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Grupės vadovas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188774822
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ird@vrm.lt
+Telefono numeris: +370 5 271 7177
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+8.1 ORG-0005
+Oficialus pavadinimas: UAB „iTree Lietuva“
+Registracijos numeris: 302249829
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: infolt@itreegroup.eu
+Telefono numeris: +37052487506
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: d4650be5-3a24-43f6-bca5-0826f8f6b8ea - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/01/2025 13:39 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

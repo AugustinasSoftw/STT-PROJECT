@@ -1,0 +1,123 @@
+Lietuva: Centralizuotas šilumos tiekimas
+Konsoliduotas šilumos energijos tiekimo pirkimas (Neskelbiamos derybos)
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Konsoliduotas šilumos energijos tiekimo pirkimas (Neskelbiamos derybos)
+Aprašymas: Konsoliduotas šilumos energijos tiekimo pirkimas (Kretingos rajono savivaldybės administracijos 
+pastatams, Kretingos rajono kultūros centro bei Darbėnų, Grūšlaukės, Kartenos, Kurmaičių, Kūlupėnų, Laukžemės, 
+Raguviškių, Rūdaičių, Šukės ir Vydmantų skyrių patalpoms, Kretingos rajono Jokūbavo Aleksandro Stulginskio 
+mokyklos-daugiafunkcio centro patalpoms, Kretingos Marijos Tiškevičiūtės mokyklos patalpoms)
+Procedūros identifikatorius: 5d13d7e5-36b0-4318-8313-b39f51ff2712
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Konsoliduotas šilumos energijos tiekimo pirkimas (Neskelbiamos derybos)
+Aprašymas: Konsoliduotas šilumos energijos tiekimo pirkimas (Kretingos rajono savivaldybės administracijos 
+pastatams, Kretingos rajono kultūros centro bei Darbėnų, Grūšlaukės, Kartenos, Kurmaičių, Kūlupėnų, Laukžemės, 
+Raguviškių, Rūdaičių, Šukės ir Vydmantų skyrių patalpoms, Kretingos rajono Jokūbavo Aleksandro Stulginskio 
+mokyklos-daugiafunkcio centro patalpoms, Kretingos Marijos Tiškevičiūtės mokyklos patalpoms)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09323000 Centralizuotas šilumos tiekimas
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kretingos rajono savivaldybės administracija -
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2 punkto b 
+papunkčiu
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Kretingos šilumos tinklai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000030688
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 5673
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Registracijos numeris: 188715222
+Pašto adresas: Savanorių g. 29A 
+Miestas: Kretinga
+Pašto kodas: 97111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: edita.berzanskiene@kretinga.lt
+Telefono numeris: +370 616 78318
+Pirkėjo profilis: www.kretinga.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Kretingos šilumos tinklai
+Registracijos numeris: 164294882
+Pašto adresas: Žalioji g. 3 
+Miestas: Kretinga
+Pašto kodas: LT-97145
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klemensas.kacinskas@kresiti.lt
+Telefono numeris: +37066511429
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 39 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b9012788-a265-4a4d-97ae-c58421ffbf0c - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 05/03/2025 11:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

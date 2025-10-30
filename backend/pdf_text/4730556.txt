@@ -1,0 +1,302 @@
+Lietuva: Mokymo paslaugos
+Vidurinės grandies vadovų ir specialistų mokymo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešojo valdymo agentūra
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vidurinės grandies vadovų ir specialistų mokymo paslaugos
+Aprašymas: Vidurinės grandies vadovų ir specialistų skaitmeninės, analitinės, finansinės ir lyderystės kompetencijų 
+mokymo paslaugos
+Procedūros identifikatorius: 66f6fc0c-9e0e-4e66-a2b2-79b4935f19c4
+Ankstesnis skelbimas: 6829fdb9-8202-4c4b-a8fe-9c49711a7624-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 440 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vidurinės grandies vadovų ir specialistų skaitmeninės kompetencijos mokymų paslaugos
+Aprašymas: Vidurinės grandies vadovų ir specialistų skaitmeninės, analitinės, finansinės ir lyderystės kompetencijų 
+mokymo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 440 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atsižvelgiant į tai, kad perkamos tik nematerialaus pobūdžio intelektinės paslaugos, nesusijusios 
+su materialaus objekto sukūrimu, kurių teikimo metu nebus sukurtas neigiamas poveikis aplinkai, taip pat nebus 
+sukuriamas taršos šaltinis ar generuojamos atliekos, vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. 
+įsakymu Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 
+patvirtinimo“, 4.4.3 p., Pirkimas laikomas žaliuoju.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina, Eur
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 82
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Skaitmeninių įrankių taikymo eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Skaitmeninės transformacijos eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešojo valdymo agentūra
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešojo valdymo agentūra
+Organizacija, atliekanti mokėjimus: Viešojo valdymo agentūra
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Vidurinės grandies vadovų ir specialistų analitinės - finansinės kompetencijų mokymų paslaugos
+Aprašymas: Vidurinės grandies vadovų ir specialistų skaitmeninės, analitinės, finansinės ir lyderystės kompetencijų 
+mokymo paslaugos
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 440 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atsižvelgiant į tai, kad perkamos tik nematerialaus pobūdžio intelektinės paslaugos, nesusijusios 
+su materialaus objekto sukūrimu, kurių teikimo metu nebus sukurtas neigiamas poveikis aplinkai, taip pat nebus 
+sukuriamas taršos šaltinis ar generuojamos atliekos, vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. 
+įsakymu Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 
+patvirtinimo“, 4.4.3 p., Pirkimas laikomas žaliuoju.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina, Eur
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 82
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Duomenų analitikos eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Viešųjų finansų eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešojo valdymo agentūra
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešojo valdymo agentūra
+Organizacija, atliekanti mokėjimus: Viešojo valdymo agentūra
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Vidurinės grandies vadovų ir specialistų lyderystės kompetencijos mokymų paslaugos
+Aprašymas: Vidurinės grandies vadovų ir specialistų skaitmeninės, analitinės, finansinės ir lyderystės kompetencijų 
+mokymo paslaugos
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 440 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atsižvelgiant į tai, kad perkamos tik nematerialaus pobūdžio intelektinės paslaugos, nesusijusios 
+su materialaus objekto sukūrimu, kurių teikimo metu nebus sukurtas neigiamas poveikis aplinkai, taip pat nebus 
+sukuriamas taršos šaltinis ar generuojamos atliekos, vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. 
+įsakymu Nr. D1-508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 
+patvirtinimo“, 4.4.3 p., Pirkimas laikomas žaliuoju.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina, Eur
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 76
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Darbo su komandomis eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 6
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Konfliktų valdymo eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 6
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Pokyčių valdymo eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 6
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Derybų valdymo eksperto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 6
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešojo valdymo agentūra
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešojo valdymo agentūra
+Organizacija, atliekanti mokėjimus: Viešojo valdymo agentūra
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 58 976,06 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Ekonominės konsultacijos ir tyrimai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000068330
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 58 976,06 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31403
+Data, kurią buvo pasirinktas laimėtojas: 26/08/2025
+Sutarties sudarymo data: 12/09/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 11-003-P-0001
+Išsamesnė informacija apie ES fondus: Europos Sąjungos lėšomis bendrai finansuojamo projekto Nr. 
+11-003-P-0001, pavadinimas „Strateginių kompetencijų nustatymo, ugdymo ir palaikymo sistemos 
+sukūrimas ir diegimas viešajame sektoriuje“.
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Patikrinti ir priimtini pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešojo valdymo agentūra
+Registracijos numeris: 188784211
+Pašto adresas: Šventaragio g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vva.gov.lt
+Telefono numeris: +370 647 39443
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Ekonominės konsultacijos ir tyrimai"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123398443
+Pašto adresas: J.Jasinskio g. 16b 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vaiva.g@ekt.lt
+Telefono numeris: +37065577097
+Interneto adresas: www.ekt.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: bfb44280-6561-4dcc-b15e-bed00df3d6c6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/09/2025 17:40 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

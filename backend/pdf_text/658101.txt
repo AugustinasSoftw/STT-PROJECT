@@ -1,0 +1,166 @@
+Lietuva: Programinės įrangos paketai ir informacinės sistemos
+739523 - Microsoft arba lygiavertės programinės įrangos licencijų nuoma
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 739523 - Microsoft arba lygiavertės programinės įrangos licencijų nuoma
+Aprašymas: Microsoft arba lygiavertės programinės įrangos licencijos
+Procedūros identifikatorius: 0ed7abdd-70b7-4c19-b53e-cd48ed5b9889
+Ankstesnis skelbimas: 691854-2024
+Vidaus identifikatorius: 739523
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: Balio Karvelio g. 25 02184 
+Miestas: Vilnius
+Pašto kodas: 02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 570 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 739523 - Microsoft arba lygiavertės programinės įrangos licencijų nuoma
+Aprašymas: Microsoft arba lygiavertės programinės įrangos licencijų nuoma
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48000000 Programinės įrangos paketai ir informacinės sistemos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 30/12/2024
+Trukmės pabaigos data: 29/12/2027
+5.1.5 Vertė
+Numatoma vertė be PVM: 570 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos kriterijus
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, iš kurios biudžeto mokama pagal sutartį: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė „Oro navigacija“ (PV)
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 689 700 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymo teikėjo pavadinimas: UAB Fortevento
+Oficialus pavadinimas: UAB Fortevento
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas Nr. 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 627 789,14 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-236
+Data, kurią buvo pasirinktas laimėtojas: 12/12/2024
+Sutarties sudarymo data: 30/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 627 789,14 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 627 789,14 Euro
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Kita paslaugų teikimo 
+sutartis
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 210060460
+Pašto adresas: Balio Karvelio g. 25, LT-02184, Vilnius 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalis: Lietuva
+E. paštas: info@ans.lt
+Telefono numeris: +370706 94502
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Fortevento
+Registracijos numeris: 302327313
+Pašto adresas: Lvivo g. 105A, 08104 Vilnius 
+Miestas: Vilnius
+Pašto kodas: 08104
+Šalis: Lietuva
+E. paštas: info@fortevento.lt
+Telefono numeris: +37052059895
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: d1ad18a7-914e-43fc-9e7c-ffb70b6dd17c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/01/2025 13:52 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

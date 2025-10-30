@@ -1,0 +1,163 @@
+Lietuva: Duomenų bazės paslaugos
+Elektroninės informacijos iš Vaistų sąveikų duomenų bazės teikimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos Respublikos sveikatos apsaugos ministerija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Elektroninės informacijos iš Vaistų sąveikų duomenų bazės teikimo paslaugos
+Aprašymas: Elektroninės informacijos iš Vaistų sąveikų duomenų bazės teikimo paslaugos, kurią naudoja 
+asmens sveikatos priežiūros specialistai, ESPBI IS elektroninio recepto posistemėje ir sveikatos priežiūros įstaigų 
+informacinėse sistemose.
+Procedūros identifikatorius: 357d311d-32a7-47b1-aaff-077c9b394b0d
+Ankstesnis skelbimas: 88dd4130-f69f-4416-a26c-e90323c3207e-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72320000 Duomenų bazės paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 545 454,55 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Elektroninės informacijos iš Vaistų sąveikų duomenų bazės teikimo paslaugos
+Aprašymas: Elektroninės informacijos iš Vaistų sąveikų duomenų bazės teikimo paslaugos, kurią naudoja 
+asmens sveikatos priežiūros specialistai, ESPBI IS elektroninio recepto posistemėje ir sveikatos priežiūros įstaigų 
+informacinėse sistemose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72320000 Duomenų bazės paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 545 454,55 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausios kainos kriterijus
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Kaina
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 30
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 30
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos Respublikos sveikatos apsaugos 
+ministerija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos Respublikos sveikatos apsaugos 
+ministerija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 644 688 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: OU Synbase
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016467
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 644 688 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: ne
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4605
+Pavadinimas: OÜ Synbase
+Data, kurią buvo pasirinktas laimėtojas: 04/02/2025
+Sutarties sudarymo data: 21/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 0 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 644 688 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos Respublikos sveikatos apsaugos ministerija
+Registracijos numeris: 188603472
+Pašto adresas: Vilniaus g. 33 
+Miestas: Vilnius
+Pašto kodas: 01402
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: gediminas.sirvinskas@sam.lt
+Telefono numeris: +37052661408
+Interneto adresas: www.sam.lt
+Pirkėjo profilis: www.sam.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: OU Synbase
+Registracijos numeris: 14011154
+Pašto adresas: Tiigi tn 61b 
+Miestas: Tartu linn
+Pašto kodas: 50410
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Estija
+E. paštas: siim.nahkur@synbase.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: ba223cc5-fb7c-4a08-9ec7-b7f6503004b9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/02/2025 13:29 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

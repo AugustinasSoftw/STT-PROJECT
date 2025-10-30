@@ -1,0 +1,131 @@
+Lietuva: Programinės įrangos priežiūros ir tvarkymo paslaugos
+(PU-13872/25) [IITP25] Dokumentų valdymo sistemos „Kontora“ plėtra
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (PU-13872/25) [IITP25] Dokumentų valdymo sistemos „Kontora“ plėtra
+Aprašymas: Dokumentų valdymo sistemos „Kontora“ plėtra
+Procedūros identifikatorius: c2590ec6-d4b7-4c99-9424-e6de38109e61
+Vidaus identifikatorius: 4133537
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Dokumentų valdymo sistemos „Kontora“ plėtra
+Aprašymas: Dokumentų valdymo sistemos „Kontora“ plėtra
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 57 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Perkančioji organizacija siekia išlaikyti stabilų veiklos procesų tęstinumą ir užtikrinti veiksmingą 
+dokumentų valdymą, todėl planuoja įsigyti dokumentų valdymo sistemos „KONTORA“ diegimo, vystymo ir 
+priežiūros paslaugas. Šiuo atveju pirkimo objektas yra specifinis - susijęs su konkrečia dokumentų valdymo 
+sistema, kuri jau yra įdiegta perkančiosios organizacijos aplinkoje nuo 2016 metų, kai buvo įvykdytas pirmasis 
+pirkimas (pirkimo Nr. 300643). Tą kartą buvo gauti trys tiekėjų pasiūlymai, o konkurso būdu buvo pasirinktas 
+ekonomiškai naudingiausias pasiūlymas pagal mažiausios kainos kriterijų - paslaugų teikėju tapo UAB „NEVDA“. 
+Svarbu pažymėti, kad UAB „NEVDA“ yra vienintelė dokumentų valdymo sistemos „KONTORA“ gamintoja bei 
+visų su šia sistema susijusių autoriaus turtinių ir kitų intelektinės nuosavybės teisių - įskaitant teises į visus 
+sistemos modulius, papildinius, dokumentaciją ir išeities kodus - turėtoja. Šios teisės UAB „NEVDA“ priklauso 
+nuo 2013 m. spalio 14 d. visam galiojimo laikotarpiui ir neribotoje teritorijoje, ir nėra nei perleistos, nei suteiktos 
+jokiems kitiems juridiniams ar fiziniams asmenims. Atsižvelgiant į aplinkybes, jog: 1. Perkančioji organizacija 
+jau naudoja dokumentų valdymo sistemą „KONTORA“, kuri yra integruota į vidinius procesus; 2. Dokumentų 
+valdymo sistemos „KONTORA“ intelektinės nuosavybės teisės priklauso tik UAB „NEVDA“, todėl tik šis tiekėjas turi 
+teisę vykdyti sistemos modifikavimą, plėtrą, integraciją ir techninę priežiūrą; 3. Paslaugų įsigijimas iš kito tiekėjo 
+nėra įmanomas dėl išimtinės UAB „NEVDA“ turimos teisės disponuoti sistema bei jos komponentais, taip pat dėl 
+galimų rizikų veiklos sutrikimui ar duomenų saugumui; 4. Sistemos pakeitimas kitu produktu reikštų reikšmingas 
+papildomas išlaidas, naujų vartotojų mokymus, migracijos iššūkius bei galimą laikiną veiklos neefektyvumą, 
+bei vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2 punktu, kuris numato 
+galimybę taikyti neskelbiamų derybų procedūrą, kai konkurencija objektyviai negalima dėl techninių priežasčių ar 
+išimtinių teisių apsaugos (įskaitant intelektinę nuosavybę), paslaugų įsigijimas nurodytu būdu iš vienintelio tiekėjo 
+UAB „NEVDA“ yra teisėtas, pagrįstas ir būtinas. Tokiu būdu bus užtikrintas nepertraukiamas sistemos „KONTORA“ 
+funkcionavimas, veiklos efektyvumas bei išvengta nereikalingo lėšų naudojimo ar veiklos sutrikdymo rizikų.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kelių priežiūra“ (PV)
+Registracijos numeris: 232112130
+Pašto adresas: Savanorių pr. 321C 
+Miestas: Kaunas
+Pašto kodas: 50120
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vaida.trasikiene@keliuprieziura.lt
+Telefono numeris: +37069630366
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 374 90941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB NEVDA
+Registracijos numeris: 121931451
+Pašto adresas: Savanorių pr. 178F 
+Miestas: Vilnius
+Pašto kodas: 03154
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@nevda.lt
+Telefono numeris: 052355800
+Šios organizacijos vaidmenys:
+Dalyvis
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 35bfb76d-9734-4686-b9f3-a79f23522661 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 27/08/2025 15:58 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

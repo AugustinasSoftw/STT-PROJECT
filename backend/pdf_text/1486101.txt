@@ -1,0 +1,163 @@
+Lietuva: Telemetrinė stebėjimo sistema
+Daugiaprotokoliai ir M - Bus protokolo rodmenų nuskaitymo ir perdavimo įrenginiai su 
+montavimo bei kitomis jų parengimo naudoti paslaugomis
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kauno energija“
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Daugiaprotokoliai ir M - Bus protokolo rodmenų nuskaitymo ir perdavimo įrenginiai su montavimo bei 
+kitomis jų parengimo naudoti paslaugomis
+Aprašymas: Perkantysis subjektas, vykdydamas pirkimą, siekia sudaryti Prekių pirkimo - pardavimo sutartį (toliau 
+- Sutartis), vadovaujantis Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto 
+paslaugų srities perkančiųjų subjektų, įstatymo 2 straipsnio 22 dalimi. Pirkimui taikoma fiksuoto įkainio kainodara. 
+Perkantysis subjektas numato įsigyti prekes pagal faktinį poreikį, neviršijant maksimalios Sutarties kainos per visą 
+Sutarties galiojimo laikotarpį. Perkantysis subjektas neįsipareigoja įsigyti Prekių už visą maksimalią Sutarties kainą.
+Procedūros identifikatorius: dc626667-f453-418b-84b2-9acbfb843c7f
+Ankstesnis skelbimas: 90c3d86c-e570-4053-bc68-e98baf8c84c4-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32441100 Telemetrinė stebėjimo sistema
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 810 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Daugiaprotokoliai ir M - Bus protokolo rodmenų nuskaitymo ir perdavimo įrenginiai su montavimo bei 
+kitomis jų parengimo naudoti paslaugomis
+Aprašymas: Perkantysis subjektas, vykdydamas pirkimą, siekia sudaryti Prekių pirkimo - pardavimo sutartį (toliau 
+- Sutartis), vadovaujantis Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto 
+paslaugų srities perkančiųjų subjektų, įstatymo 2 straipsnio 22 dalimi. Pirkimui taikoma fiksuoto įkainio kainodara. 
+Perkantysis subjektas numato įsigyti prekes pagal faktinį poreikį, neviršijant maksimalios Sutarties kainos per visą 
+Sutarties galiojimo laikotarpį. Perkantysis subjektas neįsipareigoja įsigyti Prekių už visą maksimalią Sutarties kainą.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32441100 Telemetrinė stebėjimo sistema
+Pasirinkimo galimybės:
+Galimybių aprašymas: Sutartis gali būti pratęsta ne daugiau kaip 5 (penkis) kartus ir ne ilgesniems kaip 6 (šešių) 
+mėnesių laikotarpiams
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 7 Mėnuo
+5.1.4 Atnaujinimas
+Daugiausiai atnaujinimų: 5
+5.1.5 Vertė
+Numatoma vertė be PVM: 810 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: -
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB „Kauno energija“ -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kauno energija“ -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 810 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „GO Energy LT“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000017157
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 97 595 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 5556
+Sutarties sudarymo data: 26/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kauno energija“
+Registracijos numeris: 235014830
+Pašto adresas: Raudondvario pl. 84, LT-47179 Kaunas 
+Miestas: Kaunas
+Pašto kodas: 47179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@kaunoenergija.lt
+Telefono numeris: +37080011011
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „GO Energy LT“
+Registracijos numeris: 303042623
+Pašto adresas: Raudondvario pl. 84 
+Miestas: Kaunas
+Pašto kodas: LT-47179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@goenergy.lt
+Telefono numeris: +370 656 08183
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g.18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 1dd872ec-f14b-45f7-9e97-0beab3002dd5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/03/2025 10:05 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

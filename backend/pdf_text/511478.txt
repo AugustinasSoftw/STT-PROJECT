@@ -1,0 +1,164 @@
+Lietuva: Architektūros ir susijusios paslaugos
+742576 PASTATO VENTOS. G. 15, KURŠĖNAI, ŠIAULIŲ R., PASKIRTIES KEITIMO, TVARKYBOS 
+IR REKONSTRAVIMO TECHNINIO PROJEKTO PARENGIMO PASLAUGOS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 742576 PASTATO VENTOS. G. 15, KURŠĖNAI, ŠIAULIŲ R., PASKIRTIES KEITIMO, TVARKYBOS IR 
+REKONSTRAVIMO TECHNINIO PROJEKTO PARENGIMO PASLAUGOS
+Aprašymas: PASTATO VENTOS. G. 15, KURŠĖNAI, ŠIAULIŲ R., PASKIRTIES KEITIMO, TVARKYBOS IR 
+REKONSTRAVIMO TECHNINIO PROJEKTO PARENGIMO PASLAUGOS
+Procedūros identifikatorius: 858543c4-9e6d-4f67-9dd8-18a2d367542f
+Ankstesnis skelbimas: 624669-2024
+Vidaus identifikatorius: 742576
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71200000 Architektūros ir susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 110 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: PASTATO VENTOS. G. 15, KURŠĖNAI, ŠIAULIŲ R., PASKIRTIES KEITIMO, TVARKYBOS IR 
+REKONSTRAVIMO TECHNINIO PROJEKTO PARENGIMO PASLAUGOS
+Aprašymas: PASTATO VENTOS. G. 15, KURŠĖNAI, ŠIAULIŲ R., PASKIRTIES KEITIMO, TVARKYBOS IR 
+REKONSTRAVIMO TECHNINIO PROJEKTO PARENGIMO PASLAUGOS
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71200000 Architektūros ir susijusios paslaugos
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 110 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kokybė
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 127 050 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Aplan
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS-1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT1
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 10/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: UAB Aplan
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS-1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT1
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 10/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: UAB Aplan
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS-1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT1
+Data, kurią buvo pasirinktas laimėtojas: 29/11/2024
+Sutarties sudarymo data: 10/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šiaulių rajono savivaldybės administracija
+Registracijos numeris: 188726051
+Pašto adresas: Vilniaus g. 263 
+Miestas: Šiauliai
+Pašto kodas: 76337
+Šalis: Lietuva
+E. paštas: viktor.bakanov@siauliuraj.lt
+Telefono numeris: +37065925957
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 83 
+Miestas: Šiauliai
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +37065216037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Aplan
+Registracijos numeris: 302638855
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@aplan.lt
+Telefono numeris: +37060979272
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 4ad699d1-ca40-4be7-8bac-41c671fc1df4 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/01/2025 09:50 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

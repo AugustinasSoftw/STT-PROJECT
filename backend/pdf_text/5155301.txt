@@ -1,0 +1,177 @@
+Lietuva: Administravimo paslaugos
+Klientų aptarnavimo užsienyje paslaugos (PPR-601)
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Klientų aptarnavimo užsienyje paslaugos (PPR-601)
+Aprašymas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos šiuo pirkimu ketina įsigyti 
+klientų aptarnavimo užsienyje paslaugas, susijusias su leidimų laikinai gyventi, e. rezidento kortelių ir nacionalinių vizų 
+išdavimu.
+Procedūros identifikatorius: 32cb6d03-3b02-4121-b0fd-b035c3a58bc3
+Ankstesnis skelbimas: 6604f64c-eb8a-40b0-a1b7-1c452f2a106f-01
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 75100000 Administravimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: Paslaugų teikėjas paslaugas turės teikti techninėje specifikacijoje (dokumente "3 IA PD TS") 
+nurodytų užsienio valstybių miestuose.
+2.1.4 Bendra informacija
+Papildoma informacija: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos pirkimo procedūras 
+vykdė kaip vidaus reikalų sistemos centrinė perkančioji organizacija. Pirkimo sutartį su nustatytu laimėtoju sudarė 
+Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos. Sudaromos sutarties vertė yra 0 Eur, 
+nes Išorės paslaugų teikėjas negauna jokio atlygio iš Migracijos departamento. Tiekėjo gaunama ekonominė nauda 
+pagal sutartį yra iš pasiūlyme nurodyto Klientų aptarnavimo mokesčio dydžio (įkainio), kurį Tiekėjas nurodė pasiūlyme, 
+ir gauna tiesiogiai iš Migracijos departamento prie VRM klientų sutarties galiojimo laikotarpiu priklausomai nuo faktinių 
+Migracijos departamento prie VRM klientų skaičiaus.
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Klientų aptarnavimo užsienyje paslaugos (PPR-601)
+Aprašymas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos šiuo pirkimu ketina įsigyti 
+klientų aptarnavimo užsienyje paslaugas, susijusias su leidimų laikinai gyventi, e. rezidento kortelių ir nacionalinių vizų 
+išdavimu.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 75100000 Administravimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur
+Papildoma informacija: Paslaugų teikėjas paslaugas turės teikti techninėje specifikacijoje (dokumente "3 IA PD TS") 
+nurodytų užsienio valstybių miestuose.
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Paslaugų (leidimų laikinai gyventi ir nacionalinių vizų) teikimo pradžia techninėje specifikacijoje 
+nurodytų valstybių miestuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Paslaugų (e. rezidento kortelių) teikimo pradžia techninėje specifikacijoje nurodytų valstybių miestuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 1
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Išteklių agentūra prie Lietuvos Respublikos vidaus 
+reikalų ministerijos
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Išteklių agentūra prie Lietuvos Respublikos 
+vidaus reikalų ministerijos
+Organizacija, pasirašanti sutartį: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 0 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: VF Worldwide Holdings Ltd.
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092114
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 0 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6K-893
+Sutarties sudarymo data: 23/09/2025
+Organizacija, pasirašanti sutartį: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Išteklių agentūra prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188729923
+Pašto adresas: Šventaragio g. 2, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01510
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: evaldas.stadalius@vrm.lt
+Telefono numeris: +370 52717230
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: VF Worldwide Holdings Ltd.
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: DMCC-353188
+Pašto adresas: Unit No: 3101-A JBC1 Plot No: JLT-PH1-G2A Jumeirah Lakes Towers 
+Miestas: Dubai
+Pašto kodas: 114100
+Šalis: Jungtiniai Arabų Emyratai
+E. paštas: merielr@vfsglobal.com
+Telefono numeris: +971553434374
+Interneto adresas: www.vfsglobal.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos
+Registracijos numeris: 188610666
+Pašto adresas: L. Sapiegos g. 1 
+Miestas: Vilnius
+Pašto kodas: 10312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 59002e5d-9701-40d5-844f-04654285725b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 28/10/2025 09:49 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

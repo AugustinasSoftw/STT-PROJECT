@@ -1,0 +1,201 @@
+Lietuva: Medelynų produktai
+Dekoratyvinių krūmų su jų pasodinimu pirkimas (Atviras)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Dekoratyvinių krūmų su jų pasodinimu pirkimas (Atviras)
+Aprašymas: Vykdant Sutartį Tiekėjas privalės Sutartyje numatytomis sąlygomis pristatyti Pirkėjui prekes - augalus 
+(dekoratyvinius krūmus), nurodytus Sutarties 1 priede „Dekoratyvinių krūmų su pasodinimu techninė specifikacija“, 
+atitinkančias jame nustatytus reikalavimus (toliau - Prekės), įskaitant Prekių atvežimą, pasodinimą nurodytose vietose 
+pagal Tiekėjo parengtus, el. paštu pateiktus ir su Pirkėju suderintus augalų išdėstymo planus, schemas ar projektus.
+Procedūros identifikatorius: e70978d7-0602-49b5-bf9b-16f8ddd51822
+Ankstesnis skelbimas: 622643e1-1a90-4471-8756-b034a9067d6f-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 03450000 Medelynų produktai
+Kiti klasifikacijos kodai (cpv): 77310000 Žaliųjų zonų sodinimo ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Dekoratyvinių krūmų su jų pasodinimu pirkimas (Atviras)
+Aprašymas: Vykdant Sutartį Tiekėjas privalės Sutartyje numatytomis sąlygomis pristatyti Pirkėjui prekes - augalus 
+(dekoratyvinius krūmus), nurodytus Sutarties 1 priede „Dekoratyvinių krūmų su pasodinimu techninė specifikacija“, 
+atitinkančias jame nustatytus reikalavimus (toliau - Prekės), įskaitant Prekių atvežimą, pasodinimą nurodytose vietose 
+pagal Tiekėjo parengtus, el. paštu pateiktus ir su Pirkėju suderintus augalų išdėstymo planus, schemas ar projektus.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 03450000 Medelynų produktai
+Kiti klasifikacijos kodai (cpv): 77310000 Žaliųjų zonų sodinimo ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: perkamas aplinkosauginis ir aplinkai palankus produktas, kaip numatyta Aplinkos apsaugos kriterijų, 
+kuriuos perkančiosios organizacijos ir perkantieji subjektai turi taikyti pirkdami prekes, paslaugas ar darbus, 
+taikymo tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. 
+D1-508 (Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymas Nr. D1-401) (aktuali redakcija; 
+toliau - Tvarkos aprašas) 4.4.1 papunktyje, t. y. perkami krūmų sodinukai, kurie yra aplinkosauginis ir aplinkai 
+palankus produktas, nes skirtas ne tik miestui puošti, bet ir miesto oro ekologinei būklei gerinti. Aprašo 4.4.1 
+papunktyje nurodyta, kad pirkimas laikomas žaliuoju, jeigu „perkamas aplinkosauginis ir aplinkai palankus 
+produktas, kuris patenka į orientacinį aplinkosauginių ir aplinkai palankių prekių bei paslaugų sąrašą pagal 
+2015 m. lapkričio 24 d. Komisijos įgyvendinimo reglamentą (ES) 2015/2174 dėl orientacinio aplinkosauginių 
+ir aplinkai palankių prekių bei paslaugų rinkinio, Europos aplinkos ekonominėms sąskaitoms skirtų duomenų 
+perdavimo formato ir kokybės ataskaitų teikimo sąlygų, struktūros ir periodiškumo pagal Europos Parlamento 
+ir Tarybos reglamentą (ES) Nr. 691/2011 dėl Europos aplinkos ekonominių sąskaitų“. Minėtame reglamente 
+nurodyta, kad „Orientacinis rinkinys nėra baigtinis ir juo neatmetama galimybė, kad yra ir kitų nacionalinės svarbos 
+aplinkosauginių ir aplinkai palankių prekių bei paslaugų ir kitos ekonominės veiklos“, todėl nors perkamos prekės 
+- dekoratyvinių krūmų sodinukai į Sąrašą neįrašyti, tačiau jie yra aplinkai palankios prekės ir dėl šios priežasties 
+pirkimas laikomas žaliuoju. Be to, Vadovaujantis Aprašo 4.4.4.3 p., siekiant nenaudoti pavojingųjų cheminių 
+medžiagų, neteršti aplinkos ir nekelti pavojaus sveikatai, Perkančioji organizacija Sutarties specialiųjų sąlygų 
+12.3 ir 12.4 punktuose savarankiškai nustato aplinkos apsaugos kriterijus: - užtikrinti, kad tiekiamoms prekėms 
+(dekoratyviniams krūmams su pasodinimu) bus naudojamos dirvožemio savybes gerinančios medžiagos: trąšos ir 
+dirvožemį gerinančios priemonės turi būti įsigyjamos pagal Valstybinės augalininkystės tarnybos patvirtintą trąšų 
+ir dirvožemio gerinimo priemonių, tinkamų naudoti ekologinėje gamyboje, sąrašą, trąšos ir dirvožemį gerinančios 
+priemonės turi būti įsigyjamos pagal Valstybinės augalininkystės tarnybos patvirtintą trąšų ir dirvožemio gerinimo 
+priemonių, tinkamų naudoti ekologinėje gamyboje, sąrašą, paskelbtą Valstybinės augalininkystės tarnybos 
+interneto svetainėje www.vatzum.lt; - užtikrinti, kad vykdant sutartį (sodinant dekoratyvinius krūmus), naudojama 
+motorinė technika atitiktų bent vieną iš šių aplinkos apsaugos kriterijų: - ne mažesnį kaip „Euro 6“ standartą, 
+nustatytą Reglamentu (EB) Nr. 715/2007; - standartą „Euro VI“, nustatytą 2009 m. birželio 18 d. Europos 
+Parlamento ir Tarybos reglamentu (EB) Nr. 595/2009 dėl motorinių transporto priemonių ir variklių tipo patvirtinimo 
+atsižvelgiant į sunkiųjų transporto priemonių išmetamų teršalų kiekį („Euro VI“) ir dėl galimybės naudotis transporto 
+priemonių remonto ir priežiūros informacija, iš dalies keičiantis Reglamentą (EB) Nr. 715/2007 ir Direktyvą 2007/46/
+EB, panaikinantis Direktyvas 80/1269/EEB, 2005/55/EB ir 2005/78/EB. - V etapo variklių tipo reikalavimus, 
+nustatytus 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/1628 dėl reikalavimų, 
+susijusių su ne keliais judančių mechanizmų vidaus degimo variklių dujinių ir kietųjų dalelių išmetamųjų teršalų 
+ribinėmis vertėmis ir tipo patvirtinimu, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1024/2012 ir (ES) Nr. 167/2013 
+ir iš dalies keičiama bei panaikinama Direktyva 97/68/EB; - akumuliatoriumi ar elektra varoma technika, kuri 
+neišmeta teršalų; - užtikrinti, kad vykdant sutartį (tiekiant prekes), naudojamos transporto priemonės atitiktų, M ir 
+N kategorijų kelių transporto priemonėms taikomus minimalius aplinkos apsaugos kriterijus, nustatytus Tvarkos 
+aprašo 2 priedo X skyriuje „M ir N kategorijų kelių transporto priemonės;
+Strateginio viešojo pirkimo tikslas: Socialinių tikslų įgyvendinimas
+Aprašymas: Šiame pirkime taikomas socialinis kriterijus - sąžiningo darbo užmokesčio mokėjimas, kuris nustatytas 
+specialiųjų pirkimo sąlygų 5 priede
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: sąžiningo darbo užmokesčio mokėjimas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros terminai numatyti Viešųjų pirkimų įstatymo VII skyriuje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno miesto savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kauno miesto savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 247 933,88 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB"Josvainių gėlės"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000058166
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 167 437,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24908
+Data, kurią buvo pasirinktas laimėtojas: 29/05/2025
+Sutarties sudarymo data: 12/06/2025
+Organizacija, pasirašanti sutartį: Kauno miesto savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: UAB"Josvainių gėlės"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 161174988
+Pašto adresas: Kėdainių g. 38, Josvainiai 
+Miestas: Kėdainių raj.
+Pašto kodas: LT-58190
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: irenamarmiene@gmail.com
+Telefono numeris: +37061110896
+Interneto adresas: www.josvainiugeles.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 69b5ae56-d6e8-41bf-aa84-c90576f5c138 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/07/2025 13:24 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

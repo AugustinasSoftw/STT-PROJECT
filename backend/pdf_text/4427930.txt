@@ -1,0 +1,153 @@
+Lietuva: Stalo reikmenys
+Plastikiniai indai ir įrankiai (tarptautinis atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos kalėjimų tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Viešoji tvarka ir saugumas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Plastikiniai indai ir įrankiai (tarptautinis atviras konkursas)
+Aprašymas: Plastikinių indų rinkinys, puodeliai, šaukšteliai, peiliai ir šakutės
+Procedūros identifikatorius: fcdb90e6-8934-428d-a09f-7bfc9d788e61
+Ankstesnis skelbimas: b8bc95d0-bafe-455f-baed-2920f9bd0237-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39221200 Stalo reikmenys
+Kiti klasifikacijos kodai (cpv): 39221220 Indai
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 99 540 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Plastikiniai indai ir įrankiai (tarptautinis atviras konkursas)
+Aprašymas: Plastikinių indų rinkinys, puodeliai, šaukšteliai, peiliai ir šakutės
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39221200 Stalo reikmenys
+Kiti klasifikacijos kodai (cpv): 39221220 Indai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 99 540 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Aplinkosauginiai kriterijai Prekėms nustatomi vadovaujantis Aplinkos apsaugos kriterijų taikymo, 
+vykdant žaliuosius pirkimus, tvarkos aprašo, patvirtinto 2011 m. birželio 28 d. įsakymu D1-508 „Dėl Aplinkos 
+apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ (toliau - Tvarkos 
+aprašas), 4.4.4 papunkčiu. Jeigu prekės supakuojamos į antrinę pakuotę, antrinės pakuotės turi būti laikytinos 
+perdirbamosiomis pakuotėmis pagal Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nuostatas ir 
+(ar) turi būti vienalytės (homogeniškos) pakuotės, pagamintos iš vienos rūšies medžiagos. Tiekėjas pristatydamas 
+Prekes Pirkėjui turės pateikti prekės antrinės pakuotės tinkamumą perdirbti (perdirbamumą) patvirtinančius 
+dokumentus (pavyzdžiui, pakuotės aprašymo dokumentą, techninį dokumentą, dokumentą iš akredituotų 
+laboratorijų ar pakuočių atliekų perdirbėjų, ar eksportuotojų iš tvarkytojų sąrašo, ar kitus lygiaverčius objektyvius 
+įrodymus).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos kalėjimų tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos kalėjimų tarnyba
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 99 540 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: SIA LUBETEK
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000063868
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 89 928 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29334
+Sutarties sudarymo data: 14/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos kalėjimų tarnyba
+Registracijos numeris: 288697120
+Pašto adresas: L. Sapiegos g. 1 
+Miestas: Vilnius
+Pašto kodas: 10312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@kalejimai.lt
+Telefono numeris: +370 602 15704
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: SIA LUBETEK
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 40003666264
+Pašto adresas: Audeju iela 15-4, Riga 
+Miestas: Riga
+Pašto kodas: 1050
+Šalies administracinis vienetas (NUTS): Rīga (LV00A)
+Šalis: Latvija
+E. paštas: Ingrida.business@gmail.com
+Telefono numeris: +37069823294
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 521606eb-5d87-4e13-be9d-a576e552e647 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/09/2025 11:08 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

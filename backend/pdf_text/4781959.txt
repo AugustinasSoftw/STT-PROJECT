@@ -1,0 +1,240 @@
+Lietuva: Elektromobiliai
+Elektromobiliai (M1 kategorija) (Atviras (tarptautinis) konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Elektromobiliai (M1 kategorija) (Atviras (tarptautinis) konkursas)
+Aprašymas: Pirkimo objektas - elektromobiliai (M1 kategorija), iš viso 7 (septyni) vnt. Pirkimo objektas skaidomas 
+į 2 (dvi) pirkimo dalis (pagal kiekį): I pirkimo dalis - elektromobiliai (M1 kategorija), 3 (trys) vnt., II pirkimo dalis - 
+elektromobiliai (M1 kategorija), 4 (keturi) vnt., (toliau - Prekės).
+Procedūros identifikatorius: baf5be32-96ee-4325-bf83-f1dcd4efb533
+Ankstesnis skelbimas: 9e9da04f-2358-4108-8223-ca4c9b24c812-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo dalis - elektromobiliai (M1 kategorija), 3 (trys) vnt.
+Aprašymas: Pirkimo objektas - elektromobiliai (M1 kategorija), iš viso 7 (septyni) vnt. Pirkimo objektas skaidomas 
+į 2 (dvi) pirkimo dalis (pagal kiekį): I pirkimo dalis - elektromobiliai (M1 kategorija), 3 (trys) vnt., II pirkimo dalis - 
+elektromobiliai (M1 kategorija), 4 (keturi) vnt., (toliau - Prekės).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas laikomas žaliuoju pirkimu pagal Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 
+(aktuali redakcija) (toliau - Aprašas) 4.1 punktą (taikomi minimalūs aplinkos apsaugos reikalavimai pagal Aprašo 2 
+priedo X skyriaus „M ir N kategorijų kelių transporto priemonės“ 10.1.1 papunkčio (perkamos netaršios transporto 
+priemonės) reikalavimus (reikalavimai nurodyti techninės specifikacijos (pirkimo sąlygų 2 priedas) 26 punkte).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Keleivinio kelių transporto 
+paslaugos
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 62,67
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 37,33
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo dalis - elektromobiliai (M1 kategorija), 4 (keturi) vnt.
+Aprašymas: Pirkimo objektas - elektromobiliai (M1 kategorija), iš viso 7 (septyni) vnt. Pirkimo objektas skaidomas 
+į 2 (dvi) pirkimo dalis (pagal kiekį): I pirkimo dalis - elektromobiliai (M1 kategorija), 3 (trys) vnt., II pirkimo dalis - 
+elektromobiliai (M1 kategorija), 4 (keturi) vnt., (toliau - Prekės).
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144900 Elektromobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimas laikomas žaliuoju pirkimu pagal Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 
+d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 
+(aktuali redakcija) (toliau - Aprašas) 4.1 punktą (taikomi minimalūs aplinkos apsaugos reikalavimai pagal Aprašo 2 
+priedo X skyriaus „M ir N kategorijų kelių transporto priemonės“ 10.1.1 papunkčio (perkamos netaršios transporto 
+priemonės) reikalavimus (reikalavimai nurodyti techninės specifikacijos (pirkimo sąlygų 2 priedas) 26 punkte).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Pirkimui taikoma Europos Parlamento ir Tarybos direktyva 2009/33/EB (Netaršių transporto priemonių direktyva 
+(NTPD))
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma Keleivinio kelių transporto 
+paslaugos
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 63,43
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentuose.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 36,57
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kauno rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kauno rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 146 930 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AF motors
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000085315
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 62 970 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30519
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Keleivinio kelių transporto 
+paslaugos
+Transporto priemonės kategorija: M1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AF motors
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000085315
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 83 960 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 30520
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+Strateginio viešojo pirkimo statistika:
+NTPD teisinis pagrindas, siekiant nustatyti, kuri pirkimo procedūros kategorija taikoma: Keleivinio kelių transporto 
+paslaugos
+Transporto priemonės kategorija: M1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno rajono savivaldybės administracija
+Registracijos numeris: 188756386
+Pašto adresas: Savanorių pr. 371 
+Miestas: Kaunas
+Pašto kodas: 49386
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: dovile.kekstiene@krs.lt
+Telefono numeris: +370 37 30 55 53
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: AF motors
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306284980
+Pašto adresas: Kuršių g. 7A 
+Miestas: Kaunas
+Pašto kodas: 48107
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: gintaras.dambrauskas@afmotors.lt
+Telefono numeris: +37063800317
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: a7cf856b-f5aa-4999-a2bf-ad8859c279ef - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/10/2025 11:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

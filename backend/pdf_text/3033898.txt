@@ -1,0 +1,133 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+A. Vienuolio-Žukausko paminklo teritorijos sklypo dalies sutvarkymo techninio darbo projekto 
+A laidos parengimo ir statinio projekto vykdymo priežiūros paslaugos
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Anykščių rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: A. Vienuolio-Žukausko paminklo teritorijos sklypo dalies sutvarkymo techninio darbo projekto A laidos 
+parengimo ir statinio projekto vykdymo priežiūros paslaugos
+Aprašymas: A. Vienuolio-Žukausko paminklo teritorijos sklypo dalies sutvarkymo techninio darbo projekto A laidos 
+parengimo ir statinio projekto vykdymo priežiūros paslaugos
+Procedūros identifikatorius: 84cf27db-92df-4d54-8631-09245e5a0c42
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Anykščiai
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: A. Vienuolio-Žukausko paminklo teritorijos sklypo dalies sutvarkymo techninio darbo projekto A laidos 
+parengimo ir statinio projekto vykdymo priežiūros paslaugos
+Aprašymas: A. Vienuolio-Žukausko paminklo teritorijos sklypo dalies sutvarkymo techninio darbo projekto A laidos 
+parengimo ir statinio projekto vykdymo priežiūros paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Papildoma informacija: A. Vienuolio-Žukausko paminklo teritorija
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Anykščių rajono savivaldybės administracija -
+Organizacija, pasirašanti sutartį: Anykščių rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 55 660 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: poreikis užtikrinti išimtinių teisių, įskaitant intelektinės nuosavybės teises, apsaugą
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB NOARCHITECTS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000060590
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 20589
+Data, kurią buvo pasirinktas laimėtojas: 26/05/2025
+Organizacija, pasirašanti sutartį: Anykščių rajono savivaldybės administracija
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Anykščių rajono savivaldybės administracija
+Registracijos numeris: 188774637
+Pašto adresas: J.Biliūno g. 23 
+Miestas: Anykščiai
+Pašto kodas: 29000
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: Vilma.vilkickaite@anyksciai.lt
+Telefono numeris: +37068734341
+Pirkėjo profilis: www.anyksciai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: UAB NOARCHITECTS
+Registracijos numeris: 302806477
+Pašto adresas: Kalvarijų g. 1 
+Miestas: Vilnius
+Pašto kodas: 09310
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@noarchitects.lt
+Telefono numeris: +37060415920
+Interneto adresas: www.noarchitects.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ac4454d6-67f8-4119-b151-98ad54d662ff - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 04/06/2025 10:13 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

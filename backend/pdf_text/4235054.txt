@@ -1,0 +1,302 @@
+Lietuva: Elektros įrenginių montavimo paslaugos
+Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Aprašymas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Procedūros identifikatorius: c89c6f61-88df-4754-a4cb-61bc7c18da9b
+Ankstesnis skelbimas: 720b782e-3b93-43ba-ab83-ef987da1320c-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51110000 Elektros įrenginių montavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Pastaba. Darbai bus vykdomi visoje Lietuvoje.
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos Vakarų Lietuvos regione
+Aprašymas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51110000 Elektros įrenginių montavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: Pastaba. Darbai bus vykdomi Klaipėdos, Telšių ir Tauragės apskrityse.
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai buvo vertinami pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Lietuvos Respublikos viešųjų pirkimų įstatymo VII skyrius.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos Pietų Lietuvos regione
+Aprašymas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51110000 Elektros įrenginių montavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos bus teikiamos Kauno, 
+Marijampolės ir Alytaus apskrityse.
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai buvo vertinami pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Lietuvos Respublikos viešųjų pirkimų įstatymo VII skyrius
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos Rytų Lietuvos regione
+Aprašymas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51110000 Elektros įrenginių montavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos bus teikiamos Vilniaus 
+ir Utenos apskrityse.
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai buvo vertinami pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Lietuvos Respublikos viešųjų pirkimų įstatymo VII skyrius.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos Šiaurės Lietuvos regione
+Aprašymas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 51110000 Elektros įrenginių montavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos bus teikiamos 
+Panevėžio ir Šiaulių apskrityse.
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymai buvo vertinami pagal kainą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Lietuvos Respublikos viešųjų pirkimų įstatymo VII skyrius.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva
+Organizacija, atliekanti mokėjimus: AB Via Lietuva
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 884 297,52 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Druskininkų komunalinis ūkis
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000065798
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 165 289,26 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 28125
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos Pietų Lietuvos regione 
+(Kauno, Marijampolės ir Alytaus apskrityse)
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2025
+Sutarties sudarymo data: 13/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Druskininkų komunalinis ūkis
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000065798
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 264 462,81 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 28126
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos šiaurės Lietuvos regione 
+(Panevėžio ir Šiaulių apskrityse)
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2025
+Sutarties sudarymo data: 13/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Druskininkų komunalinis ūkis
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000065798
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 247 933,88 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 28127
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos vakarų Lietuvos regione 
+(Klaipėdos, Telšių ir Tauragės apskrityse)
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2025
+Sutarties sudarymo data: 13/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Druskininkų komunalinis ūkis
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000065798
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 206 611,57 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 28128
+Pavadinimas: Valstybinės reikšmės kelių elektros tinklo ir įrangos remonto paslaugos rytų Lietuvos regione 
+(Vilniaus ir Utenos apskrityse)
+Data, kurią buvo pasirinktas laimėtojas: 24/07/2025
+Sutarties sudarymo data: 13/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: antanas.narbutas@vialietuva.lt
+Telefono numeris: +37052329600
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Druskininkų komunalinis ūkis
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 152010096
+Pašto adresas: Pramonės g. 4 
+Miestas: Druskininkai
+Pašto kodas: LT- 66181
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+E. paštas: pavaduotojas@dku.lt
+Telefono numeris: 37068248536
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003, LOT-0004
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b6d76012-4206-4a4b-8fc5-0d9c7aa6d018 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 26/08/2025 08:58 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

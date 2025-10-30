@@ -1,0 +1,183 @@
+Lietuva: Negyvenamojo nekilojamojo turto nuomos ar lizingo paslaugos
+28834 Krovos paslaugos GPĮ
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 28834 Krovos paslaugos GPĮ
+Aprašymas: Perkamos krovos paslaugos geležinkelių įrenginiuose
+Procedūros identifikatorius: 1ff323b3-5ef8-434c-9fa7-af4e1d18ab9e
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 70220000 Negyvenamojo nekilojamojo turto nuomos ar lizingo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 480 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 28834 Krovos paslaugos GPĮ
+Aprašymas: Perkamos krovos paslaugos geležinkelių paslaugų įrenginiuose.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 70220000 Negyvenamojo nekilojamojo turto nuomos ar lizingo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Lietuvos geležinkeliai (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: AB Lietuvos geležinkeliai (PV) -
+Organizacija, pasirašanti sutartį: AB Lietuvos geležinkeliai (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 480 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: GPĮ Krovos terminalai (Krovos paslaugos) - prieiga prie krovai skirtos teritorijos, kurioje 
+yra speciali įranga, skirta kroviniams krauti į vagonus ar iškrauti iš jų ar (ir) kuri sujungta su kitomis transporto 
+(kelių, jūrų, upių, oro) rūšimis ar (ir) vieta, pritaikyta krovininiams sąstatams formuoti, performuoti arba vieta, 
+pritaikyta sienos kontrolei pasienyje su trečiosiomis šalimis atlikti. Krovos terminalas yra GPĮ, priskirta prie kitų 
+techninių įrenginių pagal Lietuvos Respublikos geležinkelių transporto kodekso (toliau - GTK) 301 straipsnio 6 
+punktą. Krovos paslaugos, vadovaujantis GTK 301 straipsnio 2 punktu ir 302 straipsnio 1 dalimi, yra laikomos 
+su geležinkelių transportu susijusiomis pagrindinėmis paslaugomis, kurios teikiamos GPĮ krovos terminaluose. 
+Atsižvelgiant į LTG Cargo krovinių vežimo geležinkelių transportu veiklos vykdymo teritoriją (visas Lietuvos 
+geležinkelio tinklas), buvo nustatytos vietovės, kuriose, pagal Bendrovės klientų vykdomą veiklą ir poreikius yra 
+numatomi krovos darbai. LTG Cargo išnagrinėjo viešai paskelbtus GPĮ operatorių, teikiančių prieigą prie krovos 
+terminalų, tinkamų veiklos vykdymui, aprašus ir nustatė reikalingą prieigą prie GPĮ Krovos terminalų (Krovos 
+paslaugos), esančių LTG Infra paskelbtame GPĮ apraše . Siekiamos įsigyti paslaugos yra skirtos LTG Cargo 
+krovinių vežimo geležinkelių transportu veiklos įgyvendinimui. GPĮ paslaugos gali būti teikiamos geležinkelio 
+viešojoje infrastruktūroje, kuri šiuo metu GTK ir vidinių teisės aktų pagrindu valdoma išimtinai LTG Infra. Atitinkamai 
+siekiamos įsigyti GPĮ paslaugos turi būti perkamos iš vienintelio paslaugų teikėjo, turinčio technines galimybes 
+teikti nurodytas GPĮ paslaugas LR teritorijoje. Pažymėtina, kad pagrįstų alternatyvų, t. y. viešojo ar privataus 
+sektoriaus paslaugų teikėjų, galinčių teikti šias GPĮ paslaugas LTG Cargo naudojamų sąstatų dydžiui ir kiekiui, 
+nėra. Kaip yra nurodyta aukščiau visi GPĮ operatoriai yra įpareigoti viešinti informaciją apie jų valdomus GPĮ 
+ir juose teikiamas paslaugas. Lietuvoje ši informacija yra skelbiama viešosios geležinkelių infrastruktūros 
+tinklapyje ( ir Ryšių reguliavimo tarnybos tinklapyje (https://
+www.rrt.lt/gelezinkeliai/pajegumu-skyrimas/prieiga-prie-gelezinkeliu-paslaugu-irenginiu/ ). Išanalizavus šiuose 
+šaltiniuose 2024-2025 tarnybinio tvarkaraščio galiojimo laikotarpiui paskelbtus GPĮ aprašus, darytina išvada, 
+kad visų, Lentelėje Nr. 1 išvardytų, GPĮ operatorius, kuris teikia prieigos prie šių GPĮ paslaugą, yra LTG Infra. 
+Vadovaujantis išviešinta informacija, kitų tokių GPĮ nėra, taigi nėra ir kitų paslaugų tiekėjų, kaip tik LTG Infra. 
+Konkurencijos nebuvimas nėra sukurtas dirbtinai, o yra kilęs iš krovinių vežimo geležinkelių transportu veiklą 
+reglamentuojančių teisės aktų ir juose numatytų reikalavimų. Šių GPĮ naudojimas yra pagrindžiamas objektyviomis 
+priežastimis: krovinių vežimo geležinkelių transportu saugos reikalavimais, ekonomiškumu, efektyvumu bei 
+AB „LTG CARGO“ Krovinių vežimo geležinkelių transportu technologija, patvirtinta AB „LTG Cargo“ Pajėgumų 
+planavimo departamento direktoriaus 2020-12-07 įsakymu Nr. ĮS(CARGO)-158. Ši technologija yra pagrindinis 
+LTG Cargo veiklos technologinis dokumentas, sukurtas remiantis ilgalaike krovinių vežimo geležinkelių transportu, 
+geležinkelių riedmenų techninės patikros bei parangos, krovos darbų vykdymo patirtimi, atsižvelgiant į šių procesų 
+saugumo ir ekonominio naudingumo kriterijus. Šis dokumentas nustato visų pagrindinių procesų visumą bei LTG 
+Cargo darbuotojų atliekamų procesų (technologinių operacijų) nuoseklumą ir trukmę, organizuojant krovinių vežimą 
+geležinkelių transportu ir užtikrinant operatyvinės veiklos vykdymą.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB LTG Infra
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pasiūlymas
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 379 838,05 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SC-270/2024
+Data, kurią buvo pasirinktas laimėtojas: 27/11/2024
+Sutarties sudarymo data: 15/12/2024
+Organizacija, pasirašanti sutartį: AB Lietuvos geležinkeliai (PV)
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Lietuvos geležinkeliai (PV)
+Registracijos numeris: 110053842
+Pašto adresas: Geležinkelio g. 16 
+Miestas: Vilnius
+Pašto kodas: LT-02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, įsigyjanti kitiems pirkėjams skirtas prekes ir (arba) paslaugas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01107
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: AB LTG Infra
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 305202934
+Miestas: Vilnius
+Pašto kodas: 02100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Telefono numeris: +370 269 3353
+Interneto adresas: www.ltg.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1bc05dda-e43d-48c4-8e44-ca41dc35c22d - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/05/2025 16:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

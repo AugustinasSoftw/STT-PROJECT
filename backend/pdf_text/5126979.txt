@@ -1,0 +1,200 @@
+Lietuva: Anestezijos ir reanimacijos prietaisai
+ID 3320453 Centrinės monitoravimo sistemos diegimas priėmimo - skubios pagalbos, 
+intensyvios terapijos, dienos chirurgijos skyriuje (tarptautinis atviras)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kaišiadorių bendrųjų funkcijų tarnyba
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ID 3320453 Centrinės monitoravimo sistemos diegimas priėmimo - skubios pagalbos, intensyvios 
+terapijos, dienos chirurgijos skyriuje (tarptautinis atviras)
+Aprašymas: Perkančioji organizacija numato įsigyti centrinės monitoravimo sistemos diegimą priėmimo -skubios 
+pagalbos, intensyvios terapijos, dienos chirurgijos skyriuje (BVŽP kodas - 33172000-6). Pirkimas finansuojamas 
+pagal pažangos priemonės Nr. 05-001-01-05-07 „Sukurti nuoseklią inovacinės veiklos skatinimo sistemą“ 2 veiklą 
+„Padidinti inovacijų paklausą Lietuvoje išnaudojant viešųjų pirkimų potencialą. Pirkimo objektas į dalis neskaidomas. 
+Numatoma pirkimo vertė grafoje nurodyta „0“ reikšmė reiškia, kad numatoma pirkimo vertė neviešinama. Pirkimą 
+perkančiosios organizacijos vardu atlieka savivaldybės centrinė perkančioji organizacija Kaišiadorių bendrųjų funkcijų 
+tarnyba.
+Procedūros identifikatorius: e0809c31-4d6e-4b76-9deb-6d16f9fade99
+Ankstesnis skelbimas: 474621-2025
+Vidaus identifikatorius: ID 3320453
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33172000 Anestezijos ir reanimacijos prietaisai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Centrinės monitoravimo sistemos diegimas priėmimo - skubios pagalbos, intensyvios terapijos, dienos 
+chirurgijos skyriuje (tarptautinis atviras)
+Aprašymas: Perkančioji organizacija numato įsigyti centrinės monitoravimo sistemos diegimą priėmimo -skubios 
+pagalbos, intensyvios terapijos, dienos chirurgijos skyriuje (BVŽP kodas - 33172000-6). Pirkimas finansuojamas 
+pagal pažangos priemonės Nr. 05-001-01-05-07 „Sukurti nuoseklią inovacinės veiklos skatinimo sistemą“ 2 veiklą 
+„Padidinti inovacijų paklausą Lietuvoje išnaudojant viešųjų pirkimų potencialą. Pirkimo objektas į dalis neskaidomas. 
+Numatoma pirkimo vertė grafoje nurodyta „0“ reikšmė reiškia, kad numatoma pirkimo vertė neviešinama. Pirkimą 
+perkančiosios organizacijos vardu atlieka savivaldybės centrinė perkančioji organizacija Kaišiadorių bendrųjų funkcijų 
+tarnyba.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33172000 Anestezijos ir reanimacijos prietaisai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas.
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Vykdomas inovatyvus pirkimas.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su procesų inovacijomis.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija pasiūlymus vertins pagal kainos ir kokybės santykio kriterijų. Numatytų 
+vertinimo kriterijų lyginamieji svoriai: 1) kaina (K) - 60; 2) techniniai reikalavimai (T) - 40; Pasiūlymo ekonominio 
+naudingumo (kainos ir kokybės santykio) apskaičiavimo tvarka (formulė) yra pateikiama žemiau: Pasiūlymo 
+ekonominis naudingumas apskaičiuojamas pasinaudojus Telgen (absoliutine) formule: #Q_i x W#_Kokybė+ 
+W_Kaina x (#(P#_SetMax-P_i))/(#(P#_SetMax-P_SetMin)), kur PSetMax ≠ PSetMin Pasiūlymo ekonominis 
+naudingumas (E) skaičiuojamas sudedant tiekėjo pasiūlymo kainos (K) ir techninių kriterijų (T) balus: E= Y x (L_1 
+(T_1-20)/20+L_2 (T_2-20)/20+ ∑_(i=2)^3▒#L_i T_i #)+X x ((93400- K_i))/40000 kur i - vertinama kainos vertė su 
+PVM.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: 1. Perkančioji organizacija pasiūlymus vertins pagal kainos ir kokybės santykio kriterijų. Numatytų 
+vertinimo kriterijų lyginamieji svoriai: 1) kaina (K) - 60; 2) techniniai reikalavimai (T) - 40; Pasiūlymo ekonominio 
+naudingumo (kainos ir kokybės santykio) apskaičiavimo tvarka (formulė) yra pateikiama žemiau: Pasiūlymo 
+ekonominis naudingumas apskaičiuojamas pasinaudojus Telgen (absoliutine) formule: #Q_i x W#_Kokybė+ 
+W_Kaina x (#(P#_SetMax-P_i))/(#(P#_SetMax-P_SetMin)), kur PSetMax ≠ PSetMin Pasiūlymo ekonominis 
+naudingumas (E) skaičiuojamas sudedant tiekėjo pasiūlymo kainos (K) ir techninių kriterijų (T) balus: E= Y x (L_1 
+(T_1-20)/20+L_2 (T_2-20)/20+ ∑_(i=2)^3▒#L_i T_i #)+X x ((93400- K_i))/40000 kur i - vertinama kainos vertė su 
+PVM.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kaišiadorių bendrųjų funkcijų tarnyba
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kaišiadorių bendrųjų funkcijų tarnyba
+Organizacija, pasirašanti sutartį: VšĮ Kaišiadorių rajono savivaldybės sveikatos centras
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 90 884,3 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB MedUS Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 90 884,3 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: MP25-87//SUT-368/2025
+Sutarties sudarymo data: 10/10/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Nr. 05-001-01-05-07
+Išsamesnė informacija apie ES fondus: Pirkimas finansuojamas pagal pažangos priemonės Nr. 
+05-001-01-05-07 „Sukurti nuoseklią inovacinės veiklos skatinimo sistemą“ 2 veiklą „Padidinti inovacijų 
+paklausą Lietuvoje išnaudojant viešųjų pirkimų potencialą”.
+Organizacija, pasirašanti sutartį: VšĮ Kaišiadorių rajono savivaldybės sveikatos centras
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kaišiadorių bendrųjų funkcijų tarnyba
+Registracijos numeris: 306139700
+Pašto adresas: Gedimino g. 118 
+Miestas: Kaišiadorys
+Pašto kodas: 56166
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: aiste.bagdonaite-cesniene@kaisiadorysbft.lt
+Telefono numeris: +37063799813
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB MedUS Medical
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306252616
+Pašto adresas: Veiverių g. 153 
+Miestas: Kaunas
+Pašto kodas: LT-46417
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: egle.gelbudiene@med-us.eu
+Telefono numeris: +37064361987
+Interneto adresas: www.med-us.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: 037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: VšĮ Kaišiadorių rajono savivaldybės sveikatos centras
+Registracijos numeris: 158971835
+Pašto adresas: Beržyno g. 27 
+Miestas: Kaišiadorys
+Pašto kodas: 56172
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 6ff22347-6d9e-4962-bfd0-b53cd63f9a41 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/10/2025 23:33 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

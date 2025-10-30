@@ -1,0 +1,197 @@
+Lietuva: Spausdinimo ir pristatymo paslaugos
+Knygų, meno albumų, katalogų, brošiūrų spausdinimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos nacionalinis dailės muziejus (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Knygų, meno albumų, katalogų, brošiūrų spausdinimo paslaugos
+Aprašymas: Perkamos knygų, meno albumų, katalogų, brošiūrų spausdinimo paslaugas pagal preliminariąją sutartį, 
+atliekant atnaujintą tiekėjų varžymąsi CVP IS priemonėmis
+Procedūros identifikatorius: 5a136f8d-9037-44b5-8812-7e9d172f7da1
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79823000 Spausdinimo ir pristatymo paslaugos
+Kiti klasifikacijos kodai (cpv): 22458000 Pagal užsakymą pagaminti spaudiniai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 202 066,12 Euro
+Preliminariosios sutarties didžiausioji vertė: 202 066,12 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Knygų, meno albumų, katalogų, brošiūrų spausdinimo paslaugos
+Aprašymas: Perkamos knygų, meno albumų, katalogų, brošiūrų spausdinimo paslaugas pagal preliminariąją sutartį, 
+atliekant atnaujintą tiekėjų varžymąsi CVP IS priemonėmis.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79823000 Spausdinimo ir pristatymo paslaugos
+Kiti klasifikacijos kodai (cpv): 22458000 Pagal užsakymą pagaminti spaudiniai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Kainos ir kokybės santykis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Pasiūlymai vertinami remiantis 
+šiais kriterijais: Pirmas kriterijus - Kaina (C). Kriterijaus lyginamasis svoris (X) yra 65. Antras kriterijus - (T2). Diplomai 
+už LR KM organizuojamų konkursų geriausioms poligrafinio atlikimo požiūriu knygoms išrinkti. Kriterijaus lyginamasis 
+svoris (Y2) yra 35. Balų apskaičiavimas: pasiūlymo kainos (C) balas apskaičiuojamas mažiausios pasiūlytos kainos 
+(Cmin) ir vertinamo pasiūlymo kainos (Cp) santykį padauginus iš kainos lyginamojo svorio (X). Pasiūlymo kainos 
+balo apskaičiavimui taikoma formulė C=(Cmin/Cp)xX. KM diplomų skaičius (T2) apskaičiavimo tvarka: Pasiūlymo T2 
+balas apskaičiuojamas pasiūlymui suteiktą balą T2p padalinus iš geriausios tarp visų tiekėjų analogiško balo reikšmės 
+T2maks. ir padauginus iš vertinamo kriterijaus lyginamojo svorio Y2. Balo apskaičiavimui taikoma formulė T2=(T2p/
+T2maks.) xY2.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Vilniaus apygardos teismas
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminarioji sutartis, skelbiant naują konkursą
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Vilniaus apygardos teismas
+6 Rezultatai
+Didžiausioji šios skelbimo preliminariųjų sutarčių vertė: 202 066,12 Euro
+Preliminariųjų sutarčių apytikslė vertė: 202 066,12 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+Preliminarioji sutartis:
+Preliminariosios sutarties didžiausia vertė: 202 066,12 Euro
+Preliminariosios sutarties iš naujo įvertinta vertė: 202 066,12 Euro
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Petro ofsetas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: P-38/2025(4.89)A
+Data, kurią buvo pasirinktas laimėtojas: 05/03/2025
+Sutarties sudarymo data: 21/03/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: UAB BALTO print
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: P-38/2025(4.89)B
+Data, kurią buvo pasirinktas laimėtojas: 05/03/2025
+Sutarties sudarymo data: 21/03/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Laimėtojas:
+Oficialus pavadinimas: UAB "Standart Impressa"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: P-38/2025(4.89)C
+Data, kurią buvo pasirinktas laimėtojas: 05/03/2025
+Sutarties sudarymo data: 21/03/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos nacionalinis dailės muziejus (PV)
+Registracijos numeris: 190756087
+Pašto adresas: Didžioji g. 4, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 01128
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ausrine.maceniene@lndm.lt
+Telefono numeris: 861247976
+Interneto adresas: www.lndm.lt
+Pirkėjo profilis: www.lndm.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Petro ofsetas
+Registracijos numeris: 222555490
+Miestas: Vilnius
+Pašto kodas: 03153
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB BALTO print
+Registracijos numeris: 125408740
+Miestas: Vilnius
+Pašto kodas: 08217
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: UAB "Standart Impressa"
+Registracijos numeris: 305648452
+Miestas: Vilnius
+Pašto kodas: 02188
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 862b0c82-584b-44a7-8fa3-86f24c9499ca - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/03/2025 16:58 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,148 @@
+Lietuva: Krovininiai automobiliai
+N2 klasės krovininio sunkvežimio su bortine platforma pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Kauno gatvių apšvietimas"
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: N2 klasės krovininio sunkvežimio su bortine platforma pirkimas
+Aprašymas: Pirkimo objektas - naujas N2 klasės krovininis sunkvežimis (1 vnt.), skirtas vežti kitas transporto 
+priemones, su bortine platforma
+Procedūros identifikatorius: f3600bf7-e5fd-4614-9e9b-9660b8e5dfed
+Vidaus identifikatorius: 3661022
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144750 Krovininiai automobiliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: N2 klasės krovininio sunkvežimio su bortine platforma pirkimas
+Aprašymas: Pirkimo objektas - naujas N2 klasės krovininis sunkvežimis (1 vnt.), skirtas vežti kitas transporto 
+priemones, su bortine platforma
+Vidaus identifikatorius: 3661022
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34144750 Krovininiai automobiliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Detaliau žiūrėti pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pirmasis kriterijus - Kaina (C). Kriterijaus lyginamasis svoris ekonominio naudingumo įvertinime (X) 
+yra 95.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 95
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Antrasis kriterijus - papildoma garantija Prekei (nurodomas tik papildomas terminas prie techninėje 
+specifikacijoje nurodytos garantijos) (T2). Kriterijaus lyginamasis svoris ekonominio naudingumo įvertinime (Y2) yra 
+5.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: UAB "Kauno gatvių apšvietimas"
+Organizacija, pasirašanti sutartį: UAB "Kauno gatvių apšvietimas"
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 117 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Autojarus hidraulika“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 117 000 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: SUT1
+Data, kurią buvo pasirinktas laimėtojas: 27/08/2025
+Sutarties sudarymo data: 27/08/2025
+Organizacija, pasirašanti sutartį: UAB "Kauno gatvių apšvietimas"
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "Kauno gatvių apšvietimas"
+Registracijos numeris: 132684155
+Pašto adresas: Ringuvos g. 59 
+Miestas: Kaunas
+Pašto kodas: 45243
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: aurimas@kaunosviesa.lt
+Telefono numeris: 0-620-52774
+Interneto adresas: www.kaunosviesa.lt
+Pirkėjo profilis: www.kaunosviesa.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 193312970
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: 037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Autojarus hidraulika“
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 302431689
+Miestas: Kaunas
+Pašto kodas: 46249
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5cacbe4e-b38d-4ea5-a2c8-cda6d3521f40 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/09/2025 12:00 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

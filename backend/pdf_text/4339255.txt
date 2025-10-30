@@ -1,0 +1,224 @@
+Lietuva: Maišeliai kraujui
+Kraujo maišai (1. keturgubų kraujo maišų sistema ir automatiniai kraujo komponentų 
+separatoriai panaudai; 2. trombocitų - leukocitų sluoksnių kaupinių maišų rinkinys) (ATVIRAS)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kraujo maišai (1. keturgubų kraujo maišų sistema ir automatiniai kraujo komponentų separatoriai 
+panaudai; 2. trombocitų - leukocitų sluoksnių kaupinių maišų rinkinys) (ATVIRAS)
+Aprašymas: 1. Keturgubų PVC kraujo maišų sistema TOP - BOTTOM (viršus - apačia) tipo su antikoaguliantu CPD ir 
+pridėtiniu maitinamuoju tirpalu bei su integruotu leukocitų filtru eritrocitų filtravimui, ir automatiniai kraujo komponentų 
+separatoriai panaudai. 2. Trombocitų - leukocitų sluoksnių kaupinių maišų rinkinys, skirtas sukauptųjų trombocitų, 
+gautų iš konservuoto kraujo, be leukocitų, kaupinių ruošimui, sukauptų trombocitų laikymui ir transfuzijai.
+Procedūros identifikatorius: 1b12d709-b043-4f0a-bb98-7e2fb88c01a3
+Ankstesnis skelbimas: cd231898-1e9d-478f-88d5-69f669d17b5f-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33141613 Maišeliai kraujui
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Keturgubų kraujo maišų sistema su automatiniais kraujo komponentų separatoriais panaudai
+Aprašymas: 1. Keturgubų PVC kraujo maišų sistema TOP - BOTTOM (viršus - apačia) tipo su antikoaguliantu CPD ir 
+pridėtiniu maitinamuoju tirpalu bei su integruotu leukocitų filtru eritrocitų filtravimui, ir automatiniai kraujo komponentų 
+separatoriai panaudai. 2. Trombocitų - leukocitų sluoksnių kaupinių maišų rinkinys, skirtas sukauptųjų trombocitų, 
+gautų iš konservuoto kraujo, be leukocitų, kaupinių ruošimui, sukauptų trombocitų laikymui ir transfuzijai.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33141613 Maišeliai kraujui
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Mažinti popieriaus sunaudojimą, atsisakyti nebūtino dokumentų kopijavimo ir spausdinimo. Su 
+Sutarties vykdymu susiję dokumentai Šalims turi būti pateikti tik elektroniniu formatu (nebent Sutartyje ir jos 
+prieduose nenumatyta kitaip).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Trombocitų - leukocitų sluoksnių kaupinių maišų rinkinys
+Aprašymas: 1. Keturgubų PVC kraujo maišų sistema TOP - BOTTOM (viršus - apačia) tipo su antikoaguliantu CPD ir 
+pridėtiniu maitinamuoju tirpalu bei su integruotu leukocitų filtru eritrocitų filtravimui, ir automatiniai kraujo komponentų 
+separatoriai panaudai. 2. Trombocitų - leukocitų sluoksnių kaupinių maišų rinkinys, skirtas sukauptųjų trombocitų, 
+gautų iš konservuoto kraujo, be leukocitų, kaupinių ruošimui, sukauptų trombocitų laikymui ir transfuzijai.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33141613 Maišeliai kraujui
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Mažinti popieriaus sunaudojimą, atsisakyti nebūtino dokumentų kopijavimo ir spausdinimo. Su 
+Sutarties vykdymu susiję dokumentai Šalims turi būti pateikti tik elektroniniu formatu (nebent Sutartyje ir jos 
+prieduose nenumatyta kitaip).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 970 200 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000067501
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 909 200 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28789
+Sutarties sudarymo data: 01/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Sormedica
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000068067
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 61 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28790
+Sutarties sudarymo data: 01/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Registracijos numeris: 126413338
+Pašto adresas: Žolyno g. 34 
+Miestas: Vilnius
+Pašto kodas: LT-10246
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: i.vaitekenaite@kraujodonoryste.lt
+Telefono numeris: +370 5 2392438
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Sormedica
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123961895
+Pašto adresas: Linkmenų g. 28 
+Miestas: Vilnius
+Pašto kodas: 08217
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@sormedica.lt
+Telefono numeris: +370 5 219 5710
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302992398
+Pašto adresas: J. Basanavičiaus 26 
+Miestas: Vilnius
+Pašto kodas: 03224
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info.baltics@fresenius-kabi.com
+Telefono numeris: 85 2505681
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5ea92cb2-a0de-43ec-9a87-8b21a64a9f68 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 03/09/2025 09:54 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

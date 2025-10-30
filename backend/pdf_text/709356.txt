@@ -1,0 +1,434 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+736121 Klaipėdos lopšelių-darželių pastatų remonto techninių projektų parengimo ir projekto 
+vykdymo priežiūros paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 736121 Klaipėdos lopšelių-darželių pastatų remonto techninių projektų parengimo ir projekto vykdymo 
+priežiūros paslaugos
+Aprašymas: Klaipėdos lopšelių-darželių pastatų remonto techninių projektų parengimo ir projekto vykdymo priežiūros 
+paslaugos. Pirkimo objektas skaidomas į penkias pirkimo dalis
+Procedūros identifikatorius: ea23ee53-d50c-4f2d-9f24-f82baf4ea101
+Ankstesnis skelbimas: 623186-2024
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Klaipėdos lopšelio-darželio „Radastėlė“, Galinio Pylimo g. 16 A, pastato remonto techninio projekto 
+parengimo ir projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos lopšelio-darželio „Radastėlė“, Galinio Pylimo g. 16 A, pastato remonto techninio projekto 
+parengimo ir projekto vykdymo priežiūros paslaugos. Išsamesnė perkamų paslaugų informacija ir reikalavimai 
+pateikiami Statinio projektavimo užduotyje su priedais (konkurso sąlygų aprašo 8 priedas).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Inžinieriaus* darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo patirtis teikiant techninės priežiūros paslaugas 
+objektuose, kurie buvo įgyvendinti taikant BIM
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėda apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Klaipėdos lopšelio-darželio „Radastėlė“ skyriaus, Galinio Pylimo g. 5 A, pastato remonto techninio 
+projekto parengimo ir projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos lopšelio-darželio „Radastėlė“ skyriaus, Galinio Pylimo g. 5 A, pastato remonto techninio 
+projekto parengimo ir projekto vykdymo priežiūros paslaugos. Išsamesnė perkamų paslaugų informacija ir reikalavimai 
+pateikiami Statinio projektavimo užduotyje su priedais (konkurso sąlygų aprašo 9 priedas)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Inžinieriaus darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo patirtis teikiant techninės priežiūros paslaugas 
+objektuose, kurie buvo įgyvendinti taikant BIM
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėda apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Klaipėdos lopšelio-darželio „Šaltinėlis“ „Kregždutės“ skyriaus, Butsargių g. 10, pastato remonto 
+techninio projekto parengimo ir projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos lopšelio-darželio „Šaltinėlis“ „Kregždutės“ skyriaus, Butsargių g. 10, pastato remonto techninio 
+projekto parengimo ir projekto vykdymo priežiūros paslaugos. Išsamesnė perkamų paslaugų informacija ir reikalavimai 
+pateikiami Statinio projektavimo užduotyje su priedais (konkurso sąlygų aprašo 10 priedas)
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Inžinieriaus darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo patirtis teikiant techninės priežiūros paslaugas 
+objektuose, kurie buvo įgyvendinti taikant BIM
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėda apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Klaipėdos lopšelio-darželio „Vėtrungėlė“ skyriaus, Sausio 15-osios g. 13A, pastato remonto techninio 
+projekto parengimo ir projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos lopšelio-darželio „Vėtrungėlė“ skyriaus, Sausio 15-osios g. 13A, pastato remonto techninio 
+projekto parengimo ir projekto vykdymo priežiūros paslaugos. Išsamesnė perkamų paslaugų informacija ir reikalavimai 
+pateikiami Statinio projektavimo užduotyje su priedais (konkurso sąlygų aprašo 11 priedas)
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Inžinieriaus darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo patirtis teikiant techninės priežiūros paslaugas 
+objektuose, kurie buvo įgyvendinti taikant BIM
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėda apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Klaipėdos lopšelio-darželio „Eglutė“, Naujakiemio g. 8, pastato remonto techninio projekto parengimo ir 
+projekto vykdymo priežiūros paslaugos
+Aprašymas: Klaipėdos lopšelio-darželio „Eglutė“, Naujakiemio g. 8, pastato remonto techninio projekto parengimo ir 
+projekto vykdymo priežiūros paslaugos. Išsamesnė perkamų paslaugų informacija ir reikalavimai pateikiami Statinio 
+projektavimo užduotyje su priedais (konkurso sąlygų aprašo 12 priedas)
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Inžinieriaus darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo** patirtis teikiant techninės priežiūros paslaugas 
+objektuose, kurie buvo įgyvendinti taikant BIM
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Statinio statybos techninės priežiūros vadovo darbo patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėda apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 891 770 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Aplan
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: J9-3408
+Data, kurią buvo pasirinktas laimėtojas: 25/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Archko“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: J9-3376
+Data, kurią buvo pasirinktas laimėtojas: 25/11/2024
+Sutarties sudarymo data: 27/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Aplan
+Pasiūlymas:
+Pasiūlymo identifikatorius: 3
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: J9-3408
+Data, kurią buvo pasirinktas laimėtojas: 25/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Archko“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 4
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: J9-3376
+Data, kurią buvo pasirinktas laimėtojas: 25/11/2024
+Sutarties sudarymo data: 27/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Aplan
+Pasiūlymas:
+Pasiūlymo identifikatorius: 5
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: J9-3408
+Data, kurią buvo pasirinktas laimėtojas: 25/11/2024
+Sutarties sudarymo data: 03/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Registracijos numeris: 188710823
+Pašto adresas: Liepų g. 11, Klaipėda 
+Miestas: Klaipėda
+Pašto kodas: 92138
+Šalis: Lietuva
+E. paštas: zivile.gocente@klaipeda.lt
+Telefono numeris: +370 46 39 61 04
+Pirkėjo profilis: www.klaipeda.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėda apygardos teismas
+Registracijos numeris: 191844978
+Miestas: Klaipėda
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Archko“
+Registracijos numeris: 302439337
+Pašto adresas: Sukilėlių 16-6, LT-91246 Klaipėda 
+Miestas: Klaipėda
+Šalis: Lietuva
+E. paštas: stanislovas@archko.lt
+Telefono numeris: +37068606110
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0004
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Aplan
+Registracijos numeris: 302638855
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@aplan.lt
+Telefono numeris: +37060979272
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0003, LOT-0005
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 54e58e69-8912-4da9-8ece-d0819fdc4e66 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/01/2025 15:31 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,222 @@
+Lietuva: Draudimo paslaugos
+Veiklos ir produkto, patikėto turto, darbdavio civilinės atsakomybės draudimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Aplinkos apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Veiklos ir produkto, patikėto turto, darbdavio civilinės atsakomybės draudimo paslaugos
+Aprašymas: Veiklos ir produkto civilinės atsakomybės draudimas, įskaitant ir atsakomybės už patikėtą turtą ir 
+darbdavio civilinės atsakomybės draudimas. Pirkimas skaidomas į 2 (dvi) pirkimo objekto dalis.
+Procedūros identifikatorius: 4d0cdeee-ad0c-4243-aa56-2b01abca0714
+Ankstesnis skelbimas: ff0f86a2-bd2c-4062-84e4-56361a908bc0-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 66510000 Draudimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+2.1.3 Vertė
+Numatoma vertė be PVM: 60 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Veiklos ir produkto civilinės atsakomybės draudimas, įskaitant ir atsakomybės už patikėtą turtą 
+draudimą
+Aprašymas: Veiklos ir produkto civilinės atsakomybės draudimas, įskaitant ir atsakomybės už patikėtą turtą ir 
+darbdavio civilinės atsakomybės draudimas. Pirkimas skaidomas į 2 (dvi) pirkimo objekto dalis.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 66510000 Draudimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 60 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žemiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės įmonė Valstybinių miškų urėdija (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybės įmonė Valstybinių miškų urėdija (PV)
+-
+Organizacija, atliekanti mokėjimus: Valstybės įmonė Valstybinių miškų urėdija (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Darbdavio civilinės atsakomybės draudimas
+Aprašymas: Veiklos ir produkto civilinės atsakomybės draudimas, įskaitant ir atsakomybės už patikėtą turtą ir 
+darbdavio civilinės atsakomybės draudimas. Pirkimas skaidomas į 2 (dvi) pirkimo objekto dalis.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 66510000 Draudimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 60 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žemiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybės įmonė Valstybinių miškų urėdija (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Valstybės įmonė Valstybinių miškų urėdija (PV)
+-
+Organizacija, atliekanti mokėjimus: Valstybės įmonė Valstybinių miškų urėdija (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 60 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Lietuvos draudimas AB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027910
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 14 200 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16017
+Data, kurią buvo pasirinktas laimėtojas: 06/03/2025
+Sutarties sudarymo data: 26/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ERGO Insurance SE Lietuvos filialas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000026627
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 33 998 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16018
+Data, kurią buvo pasirinktas laimėtojas: 06/03/2025
+Sutarties sudarymo data: 27/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Valstybinių miškų urėdija (PV)
+Registracijos numeris: 132340880
+Pašto adresas: Pramonės pr. 11 A-9 
+Miestas: Kaunas
+Pašto kodas: 51327
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vmu.lt
+Telefono numeris: +370 5 273 4021
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: ERGO Insurance SE Lietuvos filialas
+Registracijos numeris: 302912288
+Pašto adresas: Geležinio vilko g. 6a 
+Miestas: Vilnius
+Pašto kodas: 03150
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: rima.brazdeikiene@ergo.lt
+Telefono numeris: +37068542560
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Lietuvos draudimas AB
+Registracijos numeris: 110051834
+Pašto adresas: J. Basanavičiaus g. 10 
+Miestas: Vilnius
+Pašto kodas: 01118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: laima.zabarskiene@ld.lt
+Telefono numeris: +37067540376
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: b85c39d7-72c1-40b1-8f52-d9da5b107e0b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/04/2025 11:48 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

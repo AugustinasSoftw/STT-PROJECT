@@ -1,0 +1,1029 @@
+Lietuva: Kuras
+Degalai (benzinas (95-os markės), dyzelinas) degalinėse
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė Lietuvos paštas (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Pašto paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Degalai (benzinas (95-os markės), dyzelinas) degalinėse
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Procedūros identifikatorius: c06eccbe-da5b-4ad5-ad5c-32cef25777fc
+Ankstesnis skelbimas: 306ebad5-6666-4088-9cd1-ac42bb868b79-02
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+2.1.3 Vertė
+Numatoma vertė be PVM: 4 300 000 Euro
+2.1.4 Bendra informacija
+Papildoma informacija: Sistema automatiškai sugeneravo 7 sutartis pildymui, nors faktiškai pasirašytos 5 sutartys 
+- todėl skelbima nurodytos 3 skirtingos sutartys su Cirkle K iš tikro yra viena sutartis dėl trijų pirkimo dalių (Nr. 
+S-2025/3671 ( (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE (V, IX, XI PIRKIMO DALIS))
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 44 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami 
+pagal formulę: C = (Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - 
+mažiausia pasiūlymo bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 
+(kriterijaus lyginamasis svoris)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 39 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 189 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: IV PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 363 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: V PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 228 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: VI PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 194 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: VII PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 291 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: VIII PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 538 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: IX PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 402 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: X PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 1 033 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0011
+Pavadinimas: XI PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 11
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 16 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+5.1 Techninės ID dalies: LOT-0012
+Pavadinimas: XII PD
+Aprašymas: Perkami degalai (benzinas (95-os markės), dyzelinas) (toliau - Prekės) degalinėse. Pirkimo objektas 
+skaidomas į 12 (dvylika) dalių, kurios apibūdintos Pirkimo sąlygose. Prekių tiekimo laikotarpis - 36 mėnesiai nuo 
+Sutarties įsigaliojimo dienos. Pirkimo sąlygose nurodytos kiekvienos pirkimo dalies maksimali sutarties vertė EUR be 
+PVM.
+Vidaus identifikatorius: 12
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09100000 Kuras
+Kiti klasifikacijos kodai (cpv): 09132000 Benzinas
+Kiti klasifikacijos kodai (cpv): 09134200 Dyzelinis kuras
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Žr. Pirkimo sąlygose
+5.1.5 Vertė
+Numatoma vertė be PVM: 963 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. Pirkimo sąlygose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kriterijaus C (Pasiūlymo kaina su nuolaida/ antkainiu) balai bus apskaičiuojami pagal formulę: C = 
+(Cmin/ Cp) * X C Tiekėjui skiriami balai už pasiūlymo kainą su nuolaida/ antkainiu; Cmin - mažiausia pasiūlymo 
+bendra palyginamoji kaina; Cp - vertinamoji pasiūlymo bendra palyginamoji kaina; X= 90 (kriterijaus lyginamasis 
+svoris).
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Atstumas nuo Pirkėjo padalinio (t. y. Pašto) iki Tiekėjo siūlomos prekių tiekimo vietos (T) ir Elektroninė 
+savitarnos sistema (kortelių administravimo platforma) (K). T+ K
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Žr. Pirkimo sąlygose.
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė Lietuvos paštas (PV)
+Organizacija, atliekanti mokėjimus: Akcinė bendrovė Lietuvos paštas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 3 743 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "EMSI"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000082147
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 44 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3498
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS) DEGALINĖSE (I 
+PIRKIMO DALIS))
+Sutarties sudarymo data: 01/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „REGUSA“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000081243
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 39 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3640
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE (II 
+PIRKIMO DALIS))
+Sutarties sudarymo data: 08/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB “Trevena“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000082413
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 189 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Aprašymas: Pagal Po poreikį (UAB „Tomega“, UAB „Alauša“, UAB „Skulas“)
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3670
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS) DEGALINĖSE (III 
+PIRKIMO DALIS))
+Sutarties sudarymo data: 09/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Circle K Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000081677
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 228 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3671/VPD
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE (V, 
+IX, XI PIRKIMO DALIS))VPD
+Sutarties sudarymo data: 09/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Viada LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: ViadaVIIPD
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 291 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Aprašymas: Pagal PO poreikį (UAB „Boost Petrol" ir UAB „Degta“)
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3734
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE 
+( VII, VIII, X, XII PIRKIMO DALYS))
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Viada LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: ViadaVIIIPD
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 538 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3734
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE 
+( VII, VIII, X, XII PIRKIMO DALYS))
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Circle K Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000081677
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Pasiūlymo vertė: 402 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3671/IXPD
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE (V, 
+IX, XI PIRKIMO DALIS))IXPD
+Sutarties sudarymo data: 09/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Viada LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: ViadaXPD
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 1 033 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Aprašymas: Pagal PO poreikį (UAB „Boost Petrol" ir UAB „Degta“)
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3734
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE 
+( VII, VIII, X, XII PIRKIMO DALYS))
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0011
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Circle K Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000081677
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0011
+Pasiūlymo vertė: 16 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3671/XIPD
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE (V, 
+IX, XI PIRKIMO DALIS))XIPD
+Sutarties sudarymo data: 09/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0012
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Viada LT
+Pasiūlymas:
+Pasiūlymo identifikatorius: ViadaXIIPD
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0012
+Pasiūlymo vertė: 963 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Aprašymas: Pagal PO poreikį (UAB „Boost Petrol" ir UAB „Degta“)
+Informacija apie sutartį:
+Sutarties identifikatorius: S-2025/3734
+Pavadinimas: PIRKIMO SUTARTIS (DEGALAI (BENZINAS (95-OS MARKĖS), DYZELINAS DEGALINĖSE 
+( VII, VIII, X, XII PIRKIMO DALYS))
+Sutarties sudarymo data: 11/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė Lietuvos paštas (PV)
+Registracijos numeris: 121215587
+Pašto adresas: J. Balčikonio g. 3 
+Miestas: Vilnius
+Pašto kodas: LT-03500
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@post.lt
+Telefono numeris: +370 700 55 400
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB “Trevena“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 163346671
+Pašto adresas: Laugalių g. 10 
+Miestas: Gargždai
+Pašto kodas: 96157
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: pardavimai@trevena.lt
+Telefono numeris: +37066530142
+Interneto adresas: www.trevena.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Circle K Lietuva
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 211454910
+Pašto adresas: Žalgirio g. 114 
+Miestas: Vilnius
+Pašto kodas: 09300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: lietuva@circlekeurope.com
+Telefono numeris: 37052525002
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0005, LOT-0009, LOT-0011
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „REGUSA“
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 165708724
+Pašto adresas: Medelyno g. 4A, Jūrės k. 
+Miestas: Kazlų Rūdos sav.
+Pašto kodas: LT-69446
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+E. paštas: arnoldas@regusa.lt
+Telefono numeris: +37067843477
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0005
+Oficialus pavadinimas: UAB "EMSI"
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 120643955
+Pašto adresas: Savanorių pr. 225 
+Miestas: Vilnius
+Pašto kodas: LT-02300
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@emsi.lt
+Telefono numeris: 37052159780
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0007
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0008
+Oficialus pavadinimas: UAB Viada LT
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 178715423
+Miestas: Ožiarūčių g. 1a, Avižieniai, Vilniaus r. Miestas: Vilniaus r.
+Pašto kodas: 14185
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Ryšių centras: www.viada.lt
+Telefono numeris: +37052715325
+Interneto adresas: www.viada.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0008, LOT-0007, LOT-0010, LOT-0012
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 178305b6-5053-44ee-bf05-2512761c84dd - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 25/09/2025 11:30 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

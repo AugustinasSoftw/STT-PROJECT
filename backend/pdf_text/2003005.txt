@@ -1,0 +1,150 @@
+Lietuva: Programinės įrangos tikrinimas
+DARBO UŽMOKESČIO APSKAITOS BENDROSIOS INFORMACINĖS SISTEMOS LICENCIJŲ 
+IR MODULIŲ ĮSIGIJIMO BEI DIEGIMO, PALAIKYMO, MOKYMŲ IR UŽSAKOMŲ PAPILDOMŲ 
+PASLAUGOS
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: DARBO UŽMOKESČIO APSKAITOS BENDROSIOS INFORMACINĖS SISTEMOS LICENCIJŲ IR 
+MODULIŲ ĮSIGIJIMO BEI DIEGIMO, PALAIKYMO, MOKYMŲ IR UŽSAKOMŲ PAPILDOMŲ PASLAUGOS
+Aprašymas: Darbo užmokesčio apskaitos bendrosios informacinės sistemos (toliau - DUABIS), kuri realizuota 
+apskaitos programos Stekas-Alga pagrindu, licencijų ir modulių įsigijimo bei diegimo, palaikymo ir papildomai 
+užsakomos paslaugos. Paslaugoms keliami reikalavimai nurodyti Techninės specifikacijos 3 skyriuje.
+Procedūros identifikatorius: eb868fb0-b8cf-482c-a36f-eeaedf5ff259
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72254000 Programinės įrangos tikrinimas
+Kiti klasifikacijos kodai (cpv): 48218000 Licencijų valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 80511000 Darbuotojų mokymo paslaugos
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: DARBO UŽMOKESČIO APSKAITOS BENDROSIOS INFORMACINĖS SISTEMOS LICENCIJŲ IR 
+MODULIŲ ĮSIGIJIMO BEI DIEGIMO, PALAIKYMO, MOKYMŲ IR UŽSAKOMŲ PAPILDOMŲ PASLAUGOS
+Aprašymas: Darbo užmokesčio apskaitos bendrosios informacinės sistemos (toliau - DUABIS), kuri realizuota 
+apskaitos programos Stekas-Alga pagrindu, licencijų ir modulių įsigijimo bei diegimo, palaikymo ir papildomai 
+užsakomos paslaugos. Paslaugoms keliami reikalavimai nurodyti Techninės specifikacijos 3 skyriuje.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72254000 Programinės įrangos tikrinimas
+Kiti klasifikacijos kodai (cpv): 48218000 Licencijų valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 80511000 Darbuotojų mokymo paslaugos
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 1
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinis bendrųjų funkcijų centras -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 147 288,46 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Direktyvos 2014/24/ES 7 str. išvardytos sutartys, nepatenkančios į Direktyvos 
+2014/25/ES taikymo sritį
+Kitas pagrindimas: Nacionalinis bendrųjų funkcijų centras (toliau - NBFC), siekdamas kokybiškai atlikti Lietuvos 
+Respublikos Vyriausybės 2018 m. vasario 7 d. nutarimu Nr. 126 „Dėl finansinės apskaitos tvarkymo ir personalo 
+administravimo funkcijų atlikimo centralizuotai“ (toliau - Nutarimas) jam pavestas atlikti įstaigų finansinės apskaitos 
+tvarkymo ir personalo administravimo funkcijas, ir formuoti vienodą minėtų funkcijų atlikimo praktiką bei taupyti 
+valstybės lėšas, įstaigų (toliau - Įstaigos), kurių funkcijos centralizuotos, jų valdomą darbo užmokesčio apskaitos 
+sistema „Stekas“ buvo perduota NBFC patikėjimo teise. Perdavus NBFC patikėjimo teise „Steką“, NBFC užtikrina 
+šios sistemos priežiūrą, administravimą ir atsiskaitymą už naudojamą programinę įrangą. Atsižvelgiant į tai, 
+kad Paslaugas gali teikti tik UAB „Stekas“ vienintelis tiekėjas, kuris prižiūri ir vysto apskaitos programą „Stekas 
+ALGA“ (pridedamas tai patvirtinamas dokumentas), pirkimą, vadovaujantis Viešųjų pirkimų įstatymo 71 straipsnio 
+1 dalies 2 punkto c papunkčiu (jeigu prekes patiekti, paslaugas teikti ar darbus atlikti gali tik konkretus tiekėjas dėl 
+vienos iš šių priežasčių: <...> dėl išimtinių teisių, įskaitant intelektinės nuosavybės teises, apsaugos)
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "STEKAS"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000039020
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 147 288,46 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Informacija apie sutartį:
+Sutarties identifikatorius: 15056
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Registracijos numeris: 304768872
+Pašto adresas: Geležinio Vilko 12, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Extra-Regio NUTS 3 (ALZZZ)
+Šalis: Lietuva
+E. paštas: edita.filipaviciute@nbfc.lt
+Telefono numeris: +370 675 93 949
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "STEKAS"
+Registracijos numeris: 120625932
+Pašto adresas: Staviškių g. 26 
+Miestas: Vilnius
+Pašto kodas: 10259
+Šalies administracinis vienetas (NUTS): Extra-Regio NUTS 3 (ALZZZ)
+Šalis: Lietuva
+E. paštas: kestas@stekas.lt
+Telefono numeris: +37069814790
+Interneto adresas: www.stekas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Extra-Regio NUTS 3 (ALZZZ)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d22fc52f-073c-429b-bebe-4e9eee0f61c6 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 02/04/2025 23:13 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

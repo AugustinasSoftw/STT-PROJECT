@@ -1,0 +1,175 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Dienos centro įkūrimo Juodupėje techninio darbo projekto parengimo ir projekto vykdymo 
+priežiūros paslaugos (seno CVP IS Nr.747601)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Rokiškio rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Dienos centro įkūrimo Juodupėje techninio darbo projekto parengimo ir projekto vykdymo priežiūros 
+paslaugos (seno CVP IS Nr.747601)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024--11-20 paskelbto pirkimo Nr. 747601 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 20241201 atlikti pirkimo dokumentų patikslinimai
+Procedūros identifikatorius: ee2827ba-1ea1-442c-add9-db5246b83b98
+Ankstesnis skelbimas: eb0ea064-7bc0-48ef-b1d8-21d2ae06d123-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 16 714,05 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Dienos centro įkūrimo Juodupėje techninio darbo projekto parengimo ir projekto vykdymo priežiūros 
+paslaugos (seno CVP IS Nr.747601)
+Aprašymas: Šiame pirkime yra tęsiamos senoje sistemoje 2024--11-20 paskelbto pirkimo Nr. 747601 procedūros. 
+Naujas skelbimas sukurtas tik informavimo tikslais. Pirkimo dokumentai ir skelbimas apie pirkimą yra paskelbti senoje 
+CVP IS, tiesioginė nuoroda: Šioje 
+sistemoje bus skelbiami tik po 20241201 atlikti pirkimo dokumentų patikslinimai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 16 714,05 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliekant projektavimo (projektinių pasiūlymų ir techninio darbo projekto parengimo) paslaugas 
+techniniame darbo projekte turi būti numatyta, kad statyboje naudojamos statybinės medžiagos atitiktų minimalius 
+aplinkos apsaugos kriterijus (Aprašo XIII skyrius „Statybinės medžiagos“) ir kad kiti su pastato projektu susiję 
+produktai atitiktų jiems taikomus minimalius aplinkos apsaugos kriterijus (XIV skyrius „Patalpų apšvietimas“; XV 
+skyrius „Vandens maišytuvai ir dušai“, XVI skyrius „Vandens šildytuvai“) (taikoma, jeigu projektuojant numatomi 
+minėtuose Aprašo skyriuose su pastato projektu susiję produktai).
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Kiti žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: A=A_min/A_p #x
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 40
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: B=Bp#y
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 102 straipsnis. Pretenzijos pateikimo perkančiajai organizacijai, prašymo 
+pateikimo ar ieškinio pareiškimo teismui terminai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 102 straipsnis. Pretenzijos pateikimo perkančiajai organizacijai, prašymo 
+pateikimo ar ieškinio pareiškimo teismui terminai
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Rokiškio rajono savivaldybės administracija -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 19 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Sivesta
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000013669
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 19 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4171
+Data, kurią buvo pasirinktas laimėtojas: 21/01/2025
+Sutarties sudarymo data: 29/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Rokiškio rajono savivaldybės administracija
+Registracijos numeris: 188772248
+Pašto adresas: Sąjūdžio a. 1 
+Miestas: Rokiškis
+Pašto kodas: 42136
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: d.buloviene@rokiskis.lt
+Telefono numeris: +37045871429
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Sivesta
+Registracijos numeris: 302843949
+Padalinys: UAB "A.z.s. Projektai", įmonė kodas 301910537
+Pašto adresas: J. Jasinskio g. 16 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@sivesta.eu
+Telefono numeris: +37066435845
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c11787d8-3a6b-4fa0-b2e0-aa2cdf99974b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/02/2025 12:38 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

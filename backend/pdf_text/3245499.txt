@@ -1,0 +1,117 @@
+Lietuva: Šilumos tiekimas dideliais atstumais
+Šilumos energijos pirkimas Lavėnų socialinės globos namų pastatų šildymui ir karšto 
+vandens ruošimui (neskelbiamos derybos)
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lavėnų socialinės globos namai
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šilumos energijos pirkimas Lavėnų socialinės globos namų pastatų šildymui ir karšto vandens ruošimui 
+(neskelbiamos derybos)
+Aprašymas: Šilumos energijos pirkimas Lavėnų socialinės globos namų pastatų šildymui ir karšto vandens ruošimui
+Procedūros identifikatorius: 5d13cc35-11fc-4f66-94bd-b6a9defa0a3e
+Vidaus identifikatorius: 3033899
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09324000 Šilumos tiekimas dideliais atstumais
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Papildoma informacija: Lavėnai, Pasvalio r.
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šilumos energijos pirkimas Lavėnų socialinės globos namų pastatų šildymui ir karšto vandens ruošimui 
+(neskelbiamos derybos)
+Aprašymas: Šilumos energijos pirkimas Lavėnų socialinės globos namų pastatų šildymui ir karšto vandens ruošimui
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 09324000 Šilumos tiekimas dideliais atstumais
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Papildoma informacija: Lavėnai, Pumpėnų sen., Pasvalio r.
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, iš kurios biudžeto mokama pagal sutartį: Lavėnų socialinės globos namai
+Organizacija, atliekanti mokėjimus: Lavėnų socialinės globos namai
+Organizacija, pasirašanti sutartį: Lavėnų socialinės globos namai
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 380 737 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Vadovaujantis VPĮ 71 str. 1 d. 2 p. b) papunkčiu (konkurencijos nėra dėl techninių priežasčių).
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lavėnų socialinės globos namai
+Registracijos numeris: 190794216
+Pašto adresas: Lavėnų 3, Lavėnų k., Pumpėnų sen., 
+Miestas: Pasvalio r.
+Pašto kodas: 39230
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: info@lavenusgn.lt
+Telefono numeris: +370 451 43 617
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB LENAUDA
+Registracijos numeris: 169267483
+Miestas: Pasvalys
+Pašto kodas: 39148
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+Dalyvis
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 4530ccf5-14b6-4ad1-9f66-282f3372a675 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 16/06/2025 22:38 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

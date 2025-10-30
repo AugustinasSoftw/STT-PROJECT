@@ -1,0 +1,207 @@
+Lietuva: Medicinos įranga
+747796 - Medicinos įranga (vaizdo gastroskopas ir vaizdo kolonoskopas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kelmės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 747796 - Medicinos įranga (vaizdo gastroskopas ir vaizdo kolonoskopas)
+Aprašymas: Šio pirkimo objektas - Medicinos įranga (vaizdo gastroskopas ir vaizdo kolonoskopas), (kodas pagal 
+BVŽP kodas - 33100000-1). Pirkimo objektas skirstomas į dalis. Tiekėjas gali pateikti pasiūlymus tiek vienai, tiek 
+dviem pirkimo dalims. Kiekvienai pirkimo daliai bus sudaroma atskira pirkimo sutartis arba viena bendra sutartis vieno 
+tiekėjo laimėtoms dalims: I pirkimo dalis - Vaizdo gastroskopas (naujas), 1 vnt.; II pirkimo dalis - Vaizdo kolonoskopas 
+(naujas), 1 vnt. Siūloma prekė turi atitikti Techninėje specifikacijoje (priedas Nr. 4 (I, II pirkimo dalis)) nurodytus 
+reikalavimus.
+Procedūros identifikatorius: d298790b-e145-410a-9005-18b2264ef985
+Ankstesnis skelbimas: df7f9256-cfbc-4880-a964-21ab3cccc643-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo dalis - Vaizdo gastroskopas (naujas)
+Aprašymas: Šio pirkimo objektas - Medicinos įranga (vaizdo gastroskopas ir vaizdo kolonoskopas), (kodas pagal 
+BVŽP kodas - 33100000-1). Pirkimo objektas skirstomas į dalis. Tiekėjas gali pateikti pasiūlymus tiek vienai, tiek 
+dviem pirkimo dalims. Kiekvienai pirkimo daliai bus sudaroma atskira pirkimo sutartis arba viena bendra sutartis vieno 
+tiekėjo laimėtoms dalims: I pirkimo dalis - Vaizdo gastroskopas (naujas), 1 vnt.; II pirkimo dalis - Vaizdo kolonoskopas 
+(naujas), 1 vnt. Siūloma prekė turi atitikti Techninėje specifikacijoje (priedas Nr. 4 (I, II pirkimo dalis)) nurodytus 
+reikalavimus.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: ŠIAULIŲ APYGARDOS TEISMAS
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kelmės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kelmės rajono savivaldybės administracija
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo dalis - Vaizdo kolonoskopas (naujas)
+Aprašymas: Šio pirkimo objektas - Medicinos įranga (vaizdo gastroskopas ir vaizdo kolonoskopas), (kodas pagal 
+BVŽP kodas - 33100000-1). Pirkimo objektas skirstomas į dalis. Tiekėjas gali pateikti pasiūlymus tiek vienai, tiek 
+dviem pirkimo dalims. Kiekvienai pirkimo daliai bus sudaroma atskira pirkimo sutartis arba viena bendra sutartis vieno 
+tiekėjo laimėtoms dalims: I pirkimo dalis - Vaizdo gastroskopas (naujas), 1 vnt.; II pirkimo dalis - Vaizdo kolonoskopas 
+(naujas), 1 vnt. Siūloma prekė turi atitikti Techninėje specifikacijoje (priedas Nr. 4 (I, II pirkimo dalis)) nurodytus 
+reikalavimus.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (balai, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: ŠIAULIŲ APYGARDOS TEISMAS
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kelmės rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kelmės rajono savivaldybės administracija
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 41 653,63 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Olympus Sverige Aktiebolag Lietuvos filialas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000010726
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 19 723,4 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2478
+Data, kurią buvo pasirinktas laimėtojas: 07/01/2025
+Sutarties sudarymo data: 13/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 11-002-11-01
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Olympus Sverige Aktiebolag Lietuvos filialas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000010726
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 21 930,23 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2479
+Data, kurią buvo pasirinktas laimėtojas: 07/01/2025
+Sutarties sudarymo data: 13/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 11-002-11-01
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kelmės rajono savivaldybės administracija
+Registracijos numeris: 188768730
+Pašto adresas: Vytauto Didžiojo g. 58, Kelmė 
+Miestas: Kelmė
+Pašto kodas: 86143
+Šalis: Lietuva
+E. paštas: laura.kutkute@gmail.com
+Telefono numeris: +37062828655
+Interneto adresas: www.kelme.lt
+Pirkėjo profilis: www.kelme.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Olympus Sverige Aktiebolag Lietuvos filialas
+Registracijos numeris: 304103972
+Pašto adresas: L. Zamenhofo str. 3, Olympus 
+Miestas: Vilnius
+Pašto kodas: 06332
+Šalis: Lietuva
+E. paštas: andrius.simonaitis@olympus.com
+Telefono numeris: +37068743608
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: ŠIAULIŲ APYGARDOS TEISMAS
+Registracijos numeris: 193343535
+Pašto adresas: Dvaro g. 83 LT-76299 Šiauliai 
+Miestas: Šiauliai
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 65216037
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: b254dc52-4dfa-46ab-b263-1d5a8e01b56e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/01/2025 11:07 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

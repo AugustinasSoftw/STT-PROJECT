@@ -1,0 +1,171 @@
+Lietuva: Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Mikrogardelių skaitytuvo pirkimas, Nr. 7107/2025/GMC
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mikrogardelių skaitytuvo pirkimas, Nr. 7107/2025/GMC
+Aprašymas: Mikrogardelių skaitytuvo pirkimas, Nr. 7107/2025/GMC
+Procedūros identifikatorius: 241f807c-6be9-44ee-a1a7-9743b8b0f880
+Ankstesnis skelbimas: aec4932a-1053-4417-85eb-824843e07690-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Kiti klasifikacijos kodai (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 31600000 Elektros įrenginiai ir aparatai
+Kiti klasifikacijos kodai (cpv): 31700000 Elektroniniai, elektromechaniniai ir elektrotechniniai reikmenys
+Kiti klasifikacijos kodai (cpv): 38100000 Navigaciniai ir meteorologiniai prietaisai
+Kiti klasifikacijos kodai (cpv): 38300000 Matuokliai
+Kiti klasifikacijos kodai (cpv): 38400000 Fizinių savybių nustatymo prietaisai
+Kiti klasifikacijos kodai (cpv): 38500000 Tikrinimo ir bandymo aparatai
+Kiti klasifikacijos kodai (cpv): 38600000 Optiniai prietaisai
+Kiti klasifikacijos kodai (cpv): 38900000 Įvairūs vertinimo arba tyrimo prietaisai
+Kiti klasifikacijos kodai (cpv): 42000000 Pramoninės mašinos
+Kiti klasifikacijos kodai (cpv): 42100000 Mašinos mechaninei jėgai gaminti ir naudoti
+Kiti klasifikacijos kodai (cpv): 42500000 Aušinimo ir vėdinimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 42600000 Staklės
+Kiti klasifikacijos kodai (cpv): 42900000 Įvairios bendrosios ir specialiosios paskirties mašinos
+Kiti klasifikacijos kodai (cpv): 43400000 Mineralų apdorojimo ir liejimo formų gaminimo mašinos
+Kiti klasifikacijos kodai (cpv): 42330000 Metalo lydymo krosnys
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mikrogardelių skaitytuvo pirkimas, Nr. 7107/2025/GMC
+Aprašymas: Mikrogardelių skaitytuvo pirkimas, Nr. 7107/2025/GMC
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38000000 Laboratorinė, optinė ir precizinė įranga (išskyrus akinius)
+Kiti klasifikacijos kodai (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 31600000 Elektros įrenginiai ir aparatai
+Kiti klasifikacijos kodai (cpv): 31700000 Elektroniniai, elektromechaniniai ir elektrotechniniai reikmenys
+Kiti klasifikacijos kodai (cpv): 38100000 Navigaciniai ir meteorologiniai prietaisai
+Kiti klasifikacijos kodai (cpv): 38300000 Matuokliai
+Kiti klasifikacijos kodai (cpv): 38400000 Fizinių savybių nustatymo prietaisai
+Kiti klasifikacijos kodai (cpv): 38500000 Tikrinimo ir bandymo aparatai
+Kiti klasifikacijos kodai (cpv): 38600000 Optiniai prietaisai
+Kiti klasifikacijos kodai (cpv): 38900000 Įvairūs vertinimo arba tyrimo prietaisai
+Kiti klasifikacijos kodai (cpv): 42000000 Pramoninės mašinos
+Kiti klasifikacijos kodai (cpv): 42100000 Mašinos mechaninei jėgai gaminti ir naudoti
+Kiti klasifikacijos kodai (cpv): 42500000 Aušinimo ir vėdinimo įrenginiai
+Kiti klasifikacijos kodai (cpv): 42600000 Staklės
+Kiti klasifikacijos kodai (cpv): 42900000 Įvairios bendrosios ir specialiosios paskirties mašinos
+Kiti klasifikacijos kodai (cpv): 43400000 Mineralų apdorojimo ir liejimo formų gaminimo mašinos
+Kiti klasifikacijos kodai (cpv): 42330000 Metalo lydymo krosnys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 58 385 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB GRIDA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000102725
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 58 385 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34330
+Data, kurią buvo pasirinktas laimėtojas: 20/10/2025
+Sutarties sudarymo data: 27/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB GRIDA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 121464065
+Pašto adresas: Molėtų gatvė 16, Didžioji Riešė 
+Miestas: Didžioji Riešė
+Pašto kodas: 14268
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: labor@grida.lt
+Telefono numeris: +370 5 2469435
+Fakso numeris: +370 5 2469436
+Interneto adresas: www.grida.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: d863c486-8a3c-4a7e-9214-2e60559e7e5d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/10/2025 11:48 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

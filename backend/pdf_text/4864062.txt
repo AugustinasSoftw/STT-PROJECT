@@ -1,0 +1,498 @@
+Lietuva: Aido, ultragarso ir doplerio introskopijos įranga
+Ultragarsinės sistemos (echoskopai)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Ultragarsinės sistemos (echoskopai)
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Procedūros identifikatorius: de714a1d-cf7a-4850-9830-904cc3fad76b
+Ankstesnis skelbimas: f44e8ceb-f7e5-41fc-8d69-8a1edf2ab2f5-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 1 p.o.d. Ultragarsinės diagnostikos sistema Dainavos padaliniui, skirta chirurginiams tyrimams, su 2 
+davikliais (1 vnt.); Pristatymas: Pramonės pr. 31, Kaunas
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žaliojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kainos ir kokybės santykis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 47 489
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: 2 p.o.d. Ultragarsinės diagnostikos sistema Šančių padaliniui, skirta endokrinologijos tyrimams, su 2 
+davikliais (1 vnt.). Pristatymas: Juozapavičiaus pr. 72, Kaunas
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kainos ir kokybės santykis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 50 000
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: 3 p.o.d. Ultragarsinės diagnostikos sistema Dainavos padaliniui, skirta ortopediniams tyrimams, su 2 
+davikliais (1 vnt.). Pristatymas: Pramonės pr. 31, Kaunas
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kainos ir kokybės santykis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 49 387
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: 4 p.o.d. Ultragarsinės diagnostikos sistema Kalniečių padaliniui, skirta ginekologiniams tyrimams, su 2 
+davikliais (1 vnt.). Pristatymas: Savanorių pr. 369, Kaunas
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kainos ir kokybės santykis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 60 000
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: 5 p.o.d. Ultragarsinės diagnostikos sistema Centro padaliniui, skirta diagnostiniams tyrimams, su 2 
+davikliais (1 vnt.). Pristatymas: Mickevičiaus g. 4, Kaunas
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kainos ir kokybės santykis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 49 479,34
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: 6 p.o.d. Ultragarsinės diagnostikos sistema Centro padaliniui, skirta kardiologiniams tyrimams, su 3 
+davikliais (1 vnt.). Pristatymas: Mickevičiaus g. 4, Kaunas
+Aprašymas: Perkamos ultragarsinės sistemos (echoskopai) - 6 vnt.
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33112000 Aido, ultragarso ir doplerio introskopijos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 326 446,28 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pikrimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kainos ir kokybės santykis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 57 751,24
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kauno apygardos teismas
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 314 106,58 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Asanmeda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087727
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 47 489 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: ST-25-351/1
+Sutarties sudarymo data: 06/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Tradintek“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087727
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 50 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: ST-25-353/2
+Sutarties sudarymo data: 06/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Asanmeda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087756
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 49 387 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: ST-25-353/3
+Sutarties sudarymo data: 06/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Tradintek“
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087776
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 60 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: ST-25-353/4
+Sutarties sudarymo data: 06/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB MedUS Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087776
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 49 479,34 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: ST-25-355
+Sutarties sudarymo data: 07/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Almedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000087586
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 57 751,24 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: ST-25-354
+Sutarties sudarymo data: 06/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Registracijos numeris: 135042394
+Pašto adresas: Pramonės pr. 31 
+Miestas: Kaunas
+Pašto kodas: 51270
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@kaunopoliklinika.lt
+Telefono numeris: +370 37 403999
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Tradintek“
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 124942182
+Pašto adresas: J.Jasinskio g. 9 
+Miestas: Vilnius
+Pašto kodas: 01112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tomas.mickunaitis@tradintek.com
+Telefono numeris: +37052685427
+Fakso numeris: +37052496084
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0004
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Asanmeda
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 221906050
+Pašto adresas: V. A. Graičiūno g. 4 
+Miestas: Vilnius
+Pašto kodas: 02241
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilnius@limeta.lt
+Telefono numeris: +37061579335
+Interneto adresas: www.limeta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0003
+8.1 ORG-0004
+Oficialus pavadinimas: Almedika
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 306243147
+Pašto adresas: Seniavos pl. 10J 
+Miestas: Kaunas
+Pašto kodas: 53275
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: Giedrius@almedika.lt
+Telefono numeris: +37068616160
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0006
+8.1 ORG-0005
+Oficialus pavadinimas: UAB MedUS Medical
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 306252616
+Pašto adresas: Veiverių g. 153 
+Miestas: Kaunas
+Pašto kodas: LT-46417
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: egle.gelbudiene@med-us.eu
+Telefono numeris: +37064361987
+Interneto adresas: www.med-us.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0005
+8.1 ORG-0006
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kaunas.apygardos@teismas.lt
+Telefono numeris: +370 737190941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0007
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: befd7e6f-2703-4cd9-acd1-c7e8d03cefe1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/10/2025 09:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

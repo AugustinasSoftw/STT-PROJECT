@@ -1,0 +1,706 @@
+Lietuva: Nuotekų siurbliai
+Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Klaipėdos vanduo
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama vietos valdžios institucijos
+Perkančiojo subjekto veiklos sritis: Su vandeniu susijusi veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone)
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Procedūros identifikatorius: b747011d-ec6d-4634-a58d-fa86c40da0fb
+Ankstesnis skelbimas: 490193-2024
+Vidaus identifikatorius: 734220
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 100 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) I pirkimo dalis techninė specifikacija Nr.1
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 21 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Poveikio aplinkai mažinimo metodas: Kita
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Guradis
+Organizacija, iš kurios biudžeto mokama pagal sutartį: AB Klaipėdos vanduo
+Organizacija, pasirašanti sutartį: UAB Guradis
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) II pirkimo dalis techninė specifikacija Nr.2
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 1 
+5.1.5 Vertė
+Numatoma vertė be PVM: 7 800 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Guradis
+Organizacija, pasirašanti sutartį: UAB Guradis
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) III pirkimo dalis techninė specifikacija Nr.3
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiti klasifikacijos kodai (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 7 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Guradis
+Organizacija, pasirašanti sutartį: UAB Guradis
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) IV pirkimo dalis techninė specifikacija Nr.4
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 6 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl.49 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 10 200 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Guradis
+Organizacija, pasirašanti sutartį: UAB Guradis
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) V pirkimo dalis techninė specifikacija Nr.5
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 8 700 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Guradis
+Organizacija, pasirašanti sutartį: UAB Guradis
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) VI pirkimo dalis techninė specifikacija Nr.6
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 3 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 95111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 16 800 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Guradis
+Organizacija, pasirašanti sutartį: UAB Guradis
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) VII pirkimo dalis techninė specifikacija Nr.7
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 2 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 95111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 14 858 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Wilo Lietuva
+Organizacija, pasirašanti sutartį: UAB Wilo Lietuva
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) VIII pirkimo dalis techninė specifikacija Nr.8
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 95111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 5 582 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Wilo Lietuva
+Organizacija, pasirašanti sutartį: UAB Wilo Lietuva
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: Siurbliai nuotekų siurblinėms (Klaipėdos m. ir rajone) IX pirkimo dalis techninė specifikacija Nr.9
+Aprašymas: Nuotekų siurbliai skirti Klaipėdos m. ir rajono nuotekų siurblinėms
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 42122220 Nuotekų siurbliai
+Kiekis: 2 
+5.1.2 Sutarties vykdymo vieta
+Pašto adresas: Šilutės pl. 49 
+Miestas: Klaipėda
+Pašto kodas: 95111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 3 500 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Prekių kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 60
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio darbo ratas
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Siurblio elektros variklio efektyvumo klasė IE4
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB Klaipėdos vanduo
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Wilo Lietuva
+Pirkimo paslaugų teikėjas: Klaipėdos apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 100 000 Euro
+Preliminariųjų sutarčių apytikslė vertė: 0 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Subrangos vertė: 0 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-99
+Sutarties sudarymo data: 31/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Guradis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0002
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-103
+Sutarties sudarymo data: 31/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Guradis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0003
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-101
+Sutarties sudarymo data: 11/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Guradis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LO-0004
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Subranga: Ne
+Subrangos vertė žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-97
+Sutarties sudarymo data: 31/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Guradis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0005
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-98
+Sutarties sudarymo data: 31/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Guradis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0006
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-102
+Sutarties sudarymo data: 11/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Guradis
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0007
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-109
+Sutarties sudarymo data: 26/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Wilo Lietuva
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0008
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024?SUT.8-27.E.02-111
+Sutarties sudarymo data: 26/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Organizacija, pasirašanti sutartį: UAB Wilo Lietuva
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pasiūlymas:
+Pasiūlymo identifikatorius: LOT-0009
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0009
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 2024/SUT.8-27.E.02-110
+Sutarties sudarymo data: 26/11/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Klaipėdos vanduo
+Registracijos numeris: 140089260
+Pašto adresas: Ryšininkų g.11 
+Miestas: Klaipėda
+Pašto kodas: 91116
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info@vanduo.lt
+Telefono numeris: +37046466171
+Pirkėjo profilis: www.vanduo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +37046390960
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Guradis
+Registracijos numeris: 304141510
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: marius@guradis.lt
+Telefono numeris: +37068743683
+Šios organizacijos vaidmenys:
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Wilo Lietuva
+Registracijos numeris: 125645593
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: mail.lt@wilo.com
+Telefono numeris: +37052337760
+Šios organizacijos vaidmenys:
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: bab16308-8174-4579-aa7e-e6b8b8ad1a33 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 31/12/2024 11:26 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

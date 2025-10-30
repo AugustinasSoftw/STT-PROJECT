@@ -1,0 +1,163 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Šventupės dvaro teritorijos pritaikymo lankyti projektavimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Ukmergės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šventupės dvaro teritorijos pritaikymo lankyti projektavimo paslaugos
+Aprašymas: Pirkimo objektas - Šventupės dvaro turizmo infrastruktūros įrengimo (pritaikymas lankyti) projektavimo 
+paslaugų pirkimas (projektinių pasiūlymų parengimas; techninio darbo projekto parengimas; Projekto vykdymo 
+priežiūros paslaugos).
+Procedūros identifikatorius: 8f79fd41-0c68-4e80-8a39-17be53c8c3d1
+Ankstesnis skelbimas: 9754e8e2-b0cb-4237-bff5-3b46bb1f97b2-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 80 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šventupės dvaro teritorijos pritaikymo lankyti projektavimo paslaugos
+Aprašymas: Pirkimo objektas - Šventupės dvaro turizmo infrastruktūros įrengimo (pritaikymas lankyti) projektavimo 
+paslaugų pirkimas (projektinių pasiūlymų parengimas; techninio darbo projekto parengimas; Projekto vykdymo 
+priežiūros paslaugos).
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 80 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Vertinama specialistų patirtis
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Vertinama specialistų patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Pasiūlymo vertinimo formulė: 
+ENtiekėjo = Kaina tiekėjo - PV ENtiekėjo - kiekvieno pasiūlymo ekonominis naudingumas; Kaina tiekėjo - tiekėjo 
+pasiūlyme nurodyta bendra kaina eurais; PV - tai piniginė vertė eurais, kuri bus skaičiuojama tiesiogiai už šias 
+reikšmes: PV - 0 Eurų, jei tiekėjo siūlomas vadovas per pastaruosius 3 metus nėra parengęs ir vadovavęs nei vienam 
+projektui, PV - 1000 Eurų, jei tiekėjo siūlomas vadovas per pastaruosius 3 metus yra parengęs ir vadovavęs vienam 
+projektui ; PV - 2000 Eurų, jei tiekėjo siūlomas vadovas per pastaruosius 3 metus yra parengęs ir vadovavęs dviem 
+projektams, ; PV - 3000 Eurų, jei tiekėjo siūlomas vadovas per pastaruosius 3 metus yra parengęs ir vadovavęs trims 
+ir daugiau projektams,
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Ukmergės rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Ukmergės rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 67 854 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ENERO
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077096
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 82 103,34 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24813
+Data, kurią buvo pasirinktas laimėtojas: 15/07/2025
+Sutarties sudarymo data: 17/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Ukmergės rajono savivaldybės administracija
+Registracijos numeris: 188752174
+Pašto adresas: Kęstučio a.3 
+Miestas: Ukmergė
+Pašto kodas: 20114
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: r.kumetaitiene@ukmerge.lt
+Telefono numeris: +37064299347
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: ENERO
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 302521962
+Pašto adresas: Trakų g. 3 
+Miestas: Vilnius
+Pašto kodas: 01132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: T.Ulinauskas@enero.lt
+Telefono numeris: +0 686 48426
+Interneto adresas: www.enero.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 69e30743-52de-46d1-a4fd-7c09a090db71 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/07/2025 14:10 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,177 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Žagarės žydų religinių pastatų komplekso žieminės sinagogos pastato projektavimo paslaugų 
+pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Joniškio rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Žagarės žydų religinių pastatų komplekso žieminės sinagogos pastato projektavimo paslaugų pirkimas
+Aprašymas: Perkančioji organizacija perka negyvenamosios (sporto) paskirties pastato (Žagarės žydų religinių 
+pastatų komplekso žieminės sinagogos, u.k. kvr.: 45961) paskirties keitimo į negyvenamosios (visuomeninę, kultūros) 
+ir kapitalinio remonto techninio darbo projekto rengimo bei projekto vykdymo priežiūros paslaugos į kurias įeina: - 
+Specialiųjų reikalavimų gavimas; - Taikomųjų tyrimų atlikimas; - Projektinių pasiūlymų rengimas; - Statybą leidžiančio 
+dokumento gavimas; - Techninės projektavimo užduoties rengimas bei prisijungimo sąlygoms gauti dokumentų 
+rengimas; - Techninio darbo projekto ir pastato paskirties keitimo projekto rengimas; - Tvarkybos darbų projekto 
+rengimas; Projekto vykdymo priežiūros paslaugų vykdymas.
+Procedūros identifikatorius: e7062653-6a06-47ba-998e-e8a92aa24641
+Ankstesnis skelbimas: fbe0f58c-969a-45a2-90dc-bb83f8259ef5-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Žagarės žydų religinių pastatų komplekso žieminės sinagogos pastato projektavimo paslaugų pirkimas
+Aprašymas: Perkančioji organizacija perka negyvenamosios (sporto) paskirties pastato (Žagarės žydų religinių 
+pastatų komplekso žieminės sinagogos, u.k. kvr.: 45961) paskirties keitimo į negyvenamosios (visuomeninę, kultūros) 
+ir kapitalinio remonto techninio darbo projekto rengimo bei projekto vykdymo priežiūros paslaugos į kurias įeina: - 
+Specialiųjų reikalavimų gavimas; - Taikomųjų tyrimų atlikimas; - Projektinių pasiūlymų rengimas; - Statybą leidžiančio 
+dokumento gavimas; - Techninės projektavimo užduoties rengimas bei prisijungimo sąlygoms gauti dokumentų 
+rengimas; - Techninio darbo projekto ir pastato paskirties keitimo projekto rengimas; - Tvarkybos darbų projekto 
+rengimas; Projekto vykdymo priežiūros paslaugų vykdymas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 2 priedo 12 skyriaus, 
+15 p
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Projekto vadovo patirtis (T1)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Architektūrinės dalies projekto dalies vadovo patirtis (T2)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulų apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Joniškio rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šiaulų apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 98 010 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Projektavimo ir restauravimo institutas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027324
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 98 010 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 20969
+Sutarties sudarymo data: 04/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Joniškio rajono savivaldybės administracija
+Registracijos numeris: 288712070
+Pašto adresas: Livonijos 4-1 
+Miestas: Joniškis
+Pašto kodas: 84124
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: vita.karaliute@joniskis.lt
+Telefono numeris: +37069012395
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Projektavimo ir restauravimo institutas"
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 124563175
+Pašto adresas: Gedimino pr. 21-101 
+Miestas: Vilnius
+Pašto kodas: LT01102
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ofisas@pri.lt
+Telefono numeris: 068600514
+Interneto adresas: www.pri.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulų apygardos teismas
+Registracijos numeris: 193343535
+Miestas: Šiauliai
+Pašto kodas: 76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: bd38cca9-d619-40d4-b1c0-2c42381d18a8 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/06/2025 09:35 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

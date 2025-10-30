@@ -1,0 +1,144 @@
+Lietuva: Remonto, priežiūros ir kitos paslaugos, susijusios su orlaiviais ir kitais įrenginiais
+728581_Skrydžių valdymo sistemos Innova priežiūros ir tobulinimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Oro uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 728581_Skrydžių valdymo sistemos Innova priežiūros ir tobulinimo paslaugos
+Aprašymas: Neskelbiamos derybos _ Skrydžių valdymo sistemos Innova priežiūros ir tobulinimo paslaugos
+Procedūros identifikatorius: 475dd02c-7ea5-4d78-8ebb-db4051581dc4
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50210000 Remonto, priežiūros ir kitos paslaugos, susijusios su orlaiviais ir kitais 
+įrenginiais
+Kiti klasifikacijos kodai (cpv): 50312000 Kompiuterių įrangos priežiūra ir remontas
+Kiti klasifikacijos kodai (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+Kiti klasifikacijos kodai (cpv): 80511000 Darbuotojų mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Skrydžių valdymo sistemos Innova priežiūros ir tobulinimo paslaugos
+Aprašymas: Skrydžių valdymo sistemos Innova priežiūros ir tobulinimo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50210000 Remonto, priežiūros ir kitos paslaugos, susijusios su orlaiviais ir kitais 
+įrenginiais
+Kiti klasifikacijos kodai (cpv): 50312000 Kompiuterių įrangos priežiūra ir remontas
+Kiti klasifikacijos kodai (cpv): 72261000 Programinės įrangos palaikymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 740 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Akcinė bendrovė „Oro navigacija“ (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 740 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių teisių, įskaitant 
+intelektinės nuosavybės teises
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Indra Sistemas S.A.
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 717 029,15 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: S-201
+Data, kurią buvo pasirinktas laimėtojas: 10/10/2024
+Sutarties sudarymo data: 30/10/2024
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Registracijos numeris: 210060460
+Pašto adresas: 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ans.lt
+Telefono numeris: +370 706 94 502
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Indra Sistemas S.A.
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: M-11.339
+Pašto adresas: info@inda.es 
+Miestas: Madridas
+Pašto kodas: 28108
+Šalies administracinis vienetas (NUTS): Madrid (ES300)
+Šalis: Ispanija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: f9f837d8-2a4f-48f2-ba9e-d1f37f921da1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/07/2025 10:15 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,151 @@
+Lietuva: Statybos darbai
+731878 - Vilniaus universiteto Chemijos ir geomokslų fakulteto pastato statybos darbai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 731878 - Vilniaus universiteto Chemijos ir geomokslų fakulteto pastato statybos darbai
+Aprašymas: Vilniaus universiteto Chemijos ir geomokslų fakulteto pastato nauja statyba adresu Saulėtekio al. 9, 
+Vilnius, įskaitant dalies darbo projekto ir BIM modelio parengimą. Pastato bendras plotas 12 000 m2.
+Procedūros identifikatorius: b0e426b3-89d2-42b6-b0b5-7b4a7815d6c8
+Ankstesnis skelbimas: 492054-2024
+Vidaus identifikatorius: 731878
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+Kiti klasifikacijos kodai (cpv): 71000000 Architektūros, statybų, inžinerijos ir inspektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Saulėtekio al. 9, Vilnius, Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 731878 - Vilniaus universiteto Chemijos ir geomokslų fakulteto pastato statybos darbai
+Aprašymas: Vilniaus universiteto Chemijos ir geomokslų fakulteto pastato nauja statyba adresu Saulėtekio al. 9, 
+Vilnius, įskaitant dalies darbo projekto ir BIM modelio parengimą. Pastato bendras plotas 12 000 m2.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45000000 Statybos darbai
+Kiti klasifikacijos kodai (cpv): 71000000 Architektūros, statybų, inžinerijos ir inspektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina = Tiekėjo pasiūlyme nurodyta bendra pasiūlymo kaina su PVM (Eur)
+Lyginamasis svoris (balai, tikslus skaičius): 95,5
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: EN=K-T1-T2-T3-T4 Siūlomo specialisto objektų skaičius (Y1) yra tiekėjo siūlomo specialisto, 
+kuris atitinka pirkimo sąlygų priede „Kvalifikacijos ir kiti reikalavimai tiekėjui“ atitinkamam specialistui keliamą 
+kvalifikacinį reikalavimą, patirties, kuri atitinka kvalifikaciniame reikalavime nurodytą patirtį, skaičius (objektų 
+skaičius). Kartu su pasiūlymu turi būti pateikta: a) užpildytas ir siūlomo specialisto pasirašytas pirkimo sąlygų 
+priedas „Specialisto deklaracija“; b) užsakovo (statytojo) atstovo pasirašyta pažyma pagal pirkimo sąlygų priede 
+„Užsakovo pažyma specialistams“ pateiktą formą arba kitos formos dokumentas(-ai), kuriame(-iuose) yra visi 
+pirkimo sąlygų priede reikalaujami duomenys patvirtinti trečiosios šalies (ne rangovo). T1 = 100 000 * Y1; Y1 - 
+Siūlomo specialisto objektų skaičius. Ne mažiau nei 2 ir ne daugiau nei 5. Jei Y1 = 1, T1 = 0 (t. y. vienas objektas 
+nevertinamas). Jei Y1 = 2, T1 = 200 000. Jei Y1 = 6, T1 = 500 000 (t. y. daugiau nei 5 objektai nevertinami). 
+Nepateikus išvardintų dokumentų kartu su pasiūlymu šis kriterijus nevertinamas. T1=Rangovo atstovas (papildoma 
+patirtis), T2=Statinio statybos vadovas (papildoma patirtis) , T3=Elektrotechnikos darbų koordinatorius (papildoma 
+patirtis) , T4=Mechanikos darbų koordinatorius (papildoma patirtis) T2, T3 ir T4 taikoma T1 kriterijaus vertinimo 
+tvarka.
+Lyginamasis svoris (balai, tikslus skaičius): 4,5
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: Kainos ir kokybės santykis vertintas 
+pinigine išraiška.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 27 140 467,15 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Veikmės statyba“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: (5.74 Mr) SU-3378
+Sutarties sudarymo data: 30/10/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalis: Lietuva
+E. paštas: marija.binkauskiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Veikmės statyba“
+Registracijos numeris: 300510465
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: info@vstatyba.lt
+Telefono numeris: +370 686 51 850
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: cac5da5e-5714-4d40-b3bc-f4ca03b5c468 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/12/2024 19:20 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

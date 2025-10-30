@@ -1,0 +1,151 @@
+Lietuva: Aprūpinimo personalu, įskaitant laikinus darbuotojus, paslaugos
+Kibernetinio saugumo pareigūno ir saugos įvykius bei incidentų valdymo paslaugų pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Savivaldybės įmonė Šiaulių oro uostas
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Oro uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kibernetinio saugumo pareigūno ir saugos įvykius bei incidentų valdymo paslaugų pirkimas
+Aprašymas: Perkantysis subjektas numato įsigyti Kibernetinio saugumo pareigūno/informacijos saugos įgaliotinio /
+ISO/CISO, kuris turės rūpintis Perkančiojo subjekto reguliaciniais informacijos saugumo reikalavimais, gerųjų praktikų 
+diegimu, reikalingų technologijų diegimu ir kitais su kibernetiniu saugumu susijusiais klausimais, paslaugą ir TIS2 SOC 
+paslaugą, skirtą padėti Perkančiajam subjektui identifikuoti bei efektyviai valdyti saugos įvykius bei incidentus, kaip 
+to reikalauja pagal TIS2 direktyvą atnaujintas Lietuvos kibernetinio saugumo įstatymas (toliau - LKSĮ), įskaitant LKSĮ 
+minimos dokumentacijos parengimą.
+Procedūros identifikatorius: d136e46c-2c7f-45e5-a2ee-3cd89757fedf
+Ankstesnis skelbimas: 0a4aaf23-2f68-4155-9ee3-0658b7ba5246-03
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79620000 Aprūpinimo personalu, įskaitant laikinus darbuotojus, paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 68 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kibernetinio saugumo pareigūno ir saugos įvykius bei incidentų valdymo paslaugų pirkimas
+Aprašymas: Perkantysis subjektas numato įsigyti Kibernetinio saugumo pareigūno/informacijos saugos įgaliotinio /
+ISO/CISO, kuris turės rūpintis Perkančiojo subjekto reguliaciniais informacijos saugumo reikalavimais, gerųjų praktikų 
+diegimu, reikalingų technologijų diegimu ir kitais su kibernetiniu saugumu susijusiais klausimais, paslaugą ir TIS2 SOC 
+paslaugą, skirtą padėti Perkančiajam subjektui identifikuoti bei efektyviai valdyti saugos įvykius bei incidentus, kaip 
+to reikalauja pagal TIS2 direktyvą atnaujintas Lietuvos kibernetinio saugumo įstatymas (toliau - LKSĮ), įskaitant LKSĮ 
+minimos dokumentacijos parengimą.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79620000 Aprūpinimo personalu, įskaitant laikinus darbuotojus, paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 68 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Šiaulių apygardos teismas
+Informacija apie peržiūros terminus: Pirkimo sutarties sąlygos
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Savivaldybės įmonė Šiaulių oro uostas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Savivaldybės įmonė Šiaulių oro uostas
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 56 160 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB NRD CS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000077371
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 56 160 Euro
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 25615
+Data, kurią buvo pasirinktas laimėtojas: 15/07/2025
+Sutarties sudarymo data: 28/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Savivaldybės įmonė Šiaulių oro uostas
+Registracijos numeris: 145907544
+Pašto adresas: Lakūnų g. 4 
+Miestas: Šiauliai
+Pašto kodas: LT-77103
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: airport@siauliai-airport.lt
+Telefono numeris: +37065593146
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB NRD CS
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 303115085
+Pašto adresas: Gynėjų g. 14, 
+Miestas: Vilnius
+Pašto kodas: 01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: dd@nrdcs.lt
+Telefono numeris: 861544612
+Interneto adresas: www.nrdcs.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Šiaulių apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Dvaro g. 83 
+Miestas: Šiauliai
+Pašto kodas: LT-76299
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+E. paštas: siauliu.apygardos@teismas.lt
+Telefono numeris: +370 41524758
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7a85a3c5-a83b-4b7d-a0ff-d8c86aa5b5f5 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/07/2025 15:20 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

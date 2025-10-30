@@ -1,0 +1,255 @@
+Lietuva: Žemės ūkio paslaugos
+Parodomųjų bandymų įgyvendinimo paslauga
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos inžinerijos kolegija
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Parodomųjų bandymų įgyvendinimo paslauga
+Aprašymas: Perkančioji organizacija numato įsigyti parodomųjų bandymų įgyvendinimo paslaugą
+Procedūros identifikatorius: 6943b697-24ae-4c4d-a23a-3b42022f26a9
+Ankstesnis skelbimas: 0e894ed6-0fff-48b0-a299-7e7c667a6c79-01
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 77100000 Žemės ūkio paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 189 951,36 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pirma pirkimo dalis
+Aprašymas: Perkančioji organizacija numato įsigyti parodomųjų bandymų įgyvendinimo paslaugą
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 77100000 Žemės ūkio paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 189 951,36 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos aplinkos 
+ministro 2022 m. gruodžio 13 d. įsakymu Nr. D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 
+28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos 
+kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos 
+ir perkantieji subjektai turi taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ 
+pakeitimo“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos inžinerijos kolegija
+Organizacija, atliekanti mokėjimus: Lietuvos inžinerijos kolegija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Antra pirkimo dalis
+Aprašymas: Perkančioji organizacija numato įsigyti parodomųjų bandymų įgyvendinimo paslaugą
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 77100000 Žemės ūkio paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 189 951,36 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos aplinkos 
+ministro 2022 m. gruodžio 13 d. įsakymu Nr. D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 
+28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos 
+kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos 
+ir perkantieji subjektai turi taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ 
+pakeitimo“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos inžinerijos kolegija
+Organizacija, atliekanti mokėjimus: Lietuvos inžinerijos kolegija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Trečia pirkimo dalis
+Aprašymas: Perkančioji organizacija numato įsigyti parodomųjų bandymų įgyvendinimo paslaugą
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 77100000 Žemės ūkio paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 189 951,36 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos aplinkos 
+ministro 2022 m. gruodžio 13 d. įsakymu Nr. D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 
+28 d. įsakymo Nr. D1-508 „Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos 
+kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos 
+ir perkantieji subjektai turi taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ 
+pakeitimo“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos inžinerijos kolegija
+Organizacija, atliekanti mokėjimus: Lietuvos inžinerijos kolegija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 188 741,5 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: T OPTIMUS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000079132
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 68 060 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 26046
+Sutarties sudarymo data: 29/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos žemės ūkio fondas kaimo plėtrai 
+(EŽŪFKP) (2021/2027)
+ES fondų identifikatorius: 23PAKK24107949PR001 „Pažangių technologijų taikymas užmirkusių žemių 
+vertinimui skatinant ūkininkų kooperaciją Lietuvoje“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: T OPTIMUS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000079132
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 55 534 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 26047
+Sutarties sudarymo data: 29/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos žemės ūkio fondas kaimo plėtrai 
+(EŽŪFKP) (2021/2027)
+ES fondų identifikatorius: 23PAKK24107949PR001 „Pažangių technologijų taikymas užmirkusių žemių 
+vertinimui skatinant ūkininkų kooperaciją Lietuvoje“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: T OPTIMUS
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000079132
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 65 147,5 Euro
+Informacija apie sutartį:
+Sutarties identifikatorius: 26048
+Sutarties sudarymo data: 29/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos žemės ūkio fondas kaimo plėtrai 
+(EŽŪFKP) (2021/2027)
+ES fondų identifikatorius: 23PAKK24107949PR001 „Pažangių technologijų taikymas užmirkusių žemių 
+vertinimui skatinant ūkininkų kooperaciją Lietuvoje“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos inžinerijos kolegija
+Registracijos numeris: 111967869
+Pašto adresas: Tvirtovės al.35, Kaunas 
+Miestas: Kaunas
+Pašto kodas: 50155
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@lik.tech
+Telefono numeris: 0 37 308620
+Interneto adresas: www.lik.tech
+Pirkėjo profilis: www.lik.tech
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: T OPTIMUS
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300050433
+Pašto adresas: Sakalų g. 17-1, Ringaudai, LT-53339 Kauno r. 
+Miestas: Ringaudai
+Pašto kodas: LT-53339
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: romas@toptimus.lt
+Telefono numeris: +37065630779
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 0f2e5b71-e83e-48a3-abba-c5c1d77f39b4 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 31/07/2025 14:34 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,146 @@
+Lietuva: Su programine įranga susijusios paslaugos
+Pirkimo Nr. 736909 _Mobiliojo ir stacionariojo kvalifikuoto elektroninio parašo sudarymo bei 
+asmenų autentifikavimo tinklinės paslaugos veikimo stebėjimo, priežiūros ir modifikavimo 
+paslaugų pirkimas. Pildomas skelbimas apie sutartį seno CVP IS pirkimui
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pirkimo Nr. 736909 _Mobiliojo ir stacionariojo kvalifikuoto elektroninio parašo sudarymo bei asmenų 
+autentifikavimo tinklinės paslaugos veikimo stebėjimo, priežiūros ir modifikavimo paslaugų pirkimas. Pildomas 
+skelbimas apie sutartį seno CVP IS pirkimui
+Aprašymas: Pirkimo Nr. 736909 _Mobiliojo ir stacionariojo kvalifikuoto elektroninio parašo sudarymo bei asmenų 
+autentifikavimo tinklinės paslaugos veikimo stebėjimo, priežiūros ir modifikavimo paslaugų pirkimas. Pildomas 
+skelbimas apie sutartį seno CVP IS pirkimui
+Procedūros identifikatorius: c3b5e3d6-77cd-4c27-afa3-05ed73d58a33
+Ankstesnis skelbimas: 620564-2024
+Vidaus identifikatorius: 736909
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mobiliojo ir stacionariojo kvalifikuoto elektroninio parašo sudarymo bei asmenų autentifikavimo tinklinės 
+paslaugos veikimo stebėjimo, priežiūros ir modifikavimo paslaugos
+Aprašymas: Mobiliojo ir stacionariojo kvalifikuoto elektroninio parašo sudarymo bei asmenų autentifikavimo tinklinės 
+paslaugos veikimo stebėjimo, priežiūros ir modifikavimo paslaugos
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 406 800 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „MIT-SOFT“
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pas1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 406 800 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: F1-0-189
+Sutarties sudarymo data: 13/12/2024
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos
+Registracijos numeris: 191630223
+Pašto adresas: Konstitucijos pr. 12-101 
+Miestas: Vilnius
+Pašto kodas: 09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: agniete.laukaviciene@sodra.lt
+Telefono numeris: +37064510445
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „MIT-SOFT“
+Registracijos numeris: 120792080
+Pašto adresas: Kalvarijų 276-100 
+Miestas: Vilnius
+Pašto kodas: LT-08316
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 0c1f3ea0-f5cc-4b9c-91ff-fca42cab79a0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/02/2025 17:18 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

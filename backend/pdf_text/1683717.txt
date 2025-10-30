@@ -1,0 +1,182 @@
+Lietuva: Įvairios inžinerijos paslaugos
+Nuotolinių ir automatizuotų metodų platesnio naudojimo, vykdant Ignalinos atominės 
+elektrinės eksploatavimo nutraukimą, įvertinimo paslaugos pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Nuotolinių ir automatizuotų metodų platesnio naudojimo, vykdant Ignalinos atominės elektrinės 
+eksploatavimo nutraukimą, įvertinimo paslaugos pirkimas
+Aprašymas: Nuotolinių ir automatizuotų metodų platesnio naudojimo, vykdant Ignalinos atominės elektrinės 
+eksploatavimo nutraukimą, įvertinimo paslaugos pirkimas
+Procedūros identifikatorius: a0bea8be-89f9-401c-b94f-fb2e47b9e575
+Vidaus identifikatorius: 713132
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71330000 Įvairios inžinerijos paslaugos
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: Elektrinės g. 4, K47 
+Miestas: Drūkšinių k., Visagino sav.
+Pašto kodas: 31152
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 198 050 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Nuotolinių ir automatizuotų metodų platesnio naudojimo, vykdant Ignalinos atominės elektrinės 
+eksploatavimo nutraukimą, įvertinimo paslaugos pirkimas.
+Aprašymas: Nuotolinių ir automatizuotų metodų platesnio naudojimo, vykdant Ignalinos atominės elektrinės 
+eksploatavimo nutraukimą, įvertinimo paslaugos pirkimas.
+Vidaus identifikatorius: 713132
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71330000 Įvairios inžinerijos paslaugos
+Kiekis: 1 vienetas
+Pasirinkimo galimybės:
+Galimybių aprašymas: Paslaugų suteikimo terminas: per 180 kalendorinių dienų nuo sutarties įsigaliojimo dienos. 
+Tiekėjas turi teisę į Paslaugų suteikimo termino pratęsimą, tačiau tik tuo atveju, jei atsiranda įrodymais pagrįstų 
+kliūčių ar trukdymų, kurių atsiradimui tiekėjas neturi įtakos ir už kuriuos jis neatsako ir kurie sukelti ir priskirtini 
+tretiesiems asmenims, ar kitų aplinkybių, kurių tiekėjas negalėjo iš anksto numatyti. Nurodytas aplinkybes vertina 
+pirkėjas. Pirkėjui sutikus, Paslaugų suteikimo terminas gali būti pratęsiamas tik minėtų aplinkybių egzistavimo 
+laikotarpiui, bet ne ilgiau nei 120 kalendorinių dienų laikotarpiui.
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: Sutartyje numatyta veikla vykdoma Konsultanto (tiekėjo) patalpose.
+5.1.3 Numatomas galiojimas
+Pradžios data: 04/03/2025
+Galiojimas: 330 Diena
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+Informacija apie ankstesnius skelbimus:
+Ankstesnio skelbimo identifikatorius: 445713-2024
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Poveikio aplinkai mažinimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Priežiūros procedūra nustatyta LR Viešųjų pirkimų įstatyto VII skyriuje.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: Priežiūros procedūra nustatyta LR Viešųjų pirkimų įstatyto VII skyriuje.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 198 050 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Bureau Veritas Exploitation SAS
+Pasiūlymas:
+Pasiūlymo identifikatorius: Bureau Veritas Exploitation SAS
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 198 050 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PSt-51(13.67E)/2025
+Pavadinimas: Nuotolinių ir automatizuotų metodų platesnio naudojimo, vykdant Ignalinos atominės elektrinės 
+eksploatavimo nutraukimą, įvertinimo paslaugos viešojo pirkimo-pardavimo sutartis.
+Data, kurią buvo pasirinktas laimėtojas: 24/01/2025
+Sutarties sudarymo data: 04/03/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Atominės elektrinės eksploatacijos nutraukimas 
+(Lietuva) (2021/2027)
+ES fondų identifikatorius: 1A.23/05/ADA.25
+Išsamesnė informacija apie ES fondus: Europos Sąjungos Ignalinos Programos dotacijos paraiška Nr. 
+1A.23/05/ADA.25
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 198 050 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 198 050 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Registracijos numeris: 255450080
+Pašto adresas: Elektrinės g. 4, K 47, Drūkšinių k. 
+Miestas: Visagino sav.
+Pašto kodas: 31152
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: iae@iae.lt
+Telefono numeris: +37065853249
+Fakso numeris: +370 386 28985
+Interneto adresas: www.iae.lt
+Pirkėjo profilis: www.iae.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: Bureau Veritas Exploitation SAS
+Registracijos numeris: 790 184 675
+Pašto adresas: 4 Place des Saisons 
+Miestas: Courbevoie
+Pašto kodas: 92400
+Šalies administracinis vienetas (NUTS): Hauts-de-Seine (FR105)
+Šalis: Prancūzija
+Šios organizacijos vaidmenys:
+Pirkimo paslaugų teikėjas
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: eab5668f-5a6c-4e3f-9e72-481abecfea8b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/03/2025 10:46 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

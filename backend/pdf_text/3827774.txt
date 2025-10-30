@@ -1,0 +1,459 @@
+Lietuva: Programinės įrangos programavimo ir konsultacinės paslaugos
+ESPBI IS optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų 
+optimizavimą, PowerBI ataskaitų sukūrimą ir Audit Trail sprendimo įgyvendinimą)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: ESPBI IS optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų optimizavimą, 
+PowerBI ataskaitų sukūrimą ir Audit Trail sprendimo įgyvendinimą)
+Aprašymas: Elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (ESPBI IS) 
+optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų optimizavimą, PowerBI ataskaitų sukūrimą ir 
+AuditTrail sprendimo įgyvendinimą). Pirkimas skaidomas į 4 pirkimo dalis.
+Procedūros identifikatorius: 810f65eb-4e2f-4479-8f11-a0d3713811bb
+Ankstesnis skelbimas: dd3d0638-e0c6-4a2a-9788-eb3430b7b45a-05
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72212610 Duomenų bazių programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I pirkimo objekto dalis - Išankstinės pacientų registracijos informacinės sistemos (IPR IS) duomenų 
+bazės atskyrimo nuo Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos 
+(ESPBI IS) duomenų bazės paslaugos
+Aprašymas: Elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (ESPBI IS) 
+optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų optimizavimą, PowerBI ataskaitų sukūrimą ir 
+AuditTrail sprendimo įgyvendinimą). Pirkimas skaidomas į 4 pirkimo dalis.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72212610 Duomenų bazių programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Bus sukurti nauji funkcionalumai arba realizuota naujo tipo architektūra ESPBI informacinėje 
+sistemoje, kurių iki šiol nebuvo.
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su produktų inovacijomis.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 75
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo informacinių sistemų architekto papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo papildomai siūlomas duomenų bazės programuotojas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Projekto vadovo kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo informacinių sistemų architekto kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo informacinių sistemų duomenų bazių programuotojo kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II pirkimo objekto dalis - Portalų veikimo optimizavimo ir kitos paslaugos
+Aprašymas: Elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (ESPBI IS) 
+optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų optimizavimą, PowerBI ataskaitų sukūrimą ir 
+AuditTrail sprendimo įgyvendinimą). Pirkimas skaidomas į 4 pirkimo dalis.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72212610 Duomenų bazių programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Bus sukurti nauji funkcionalumai arba realizuota naujo tipo architektūra ESPBI informacinėje 
+sistemoje, kurių iki šiol nebuvo
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su produktų inovacijomis.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 72
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo informacinių sistemų architekto papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo FHIR eksperto papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 9
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo informacinių sistemų analitiko papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Projekto vadovo kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo sistemos architekto kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III pirkimo objekto dalis - ESPBI IS PowerBI ataskaitų sukūrimo paslaugos
+Aprašymas: Elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (ESPBI IS) 
+optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų optimizavimą, PowerBI ataskaitų sukūrimą ir 
+AuditTrail sprendimo įgyvendinimą). Pirkimas skaidomas į 4 pirkimo dalis.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72212610 Duomenų bazių programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Bus sukurti nauji funkcionalumai arba realizuota naujo tipo architektūra ESPBI informacinėje 
+sistemoje, kurių iki šiol nebuvo
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su produktų inovacijomis.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo papildomai siūlomas duomenų analizės specialistas
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 16
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Projekto vadovo kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: IV pirkimo objekto dalis - Centralizuoto žurnalinių įrašų rinkimo apie atliekamus pakeitimus ESPBI IS 
+(angl. Audit trail) programinė įranga, konfigūravimo ir programavimo paslaugos
+Aprašymas: Elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (ESPBI IS) 
+optimizavimo paslaugos (įskaitant IPR duomenų bazės atskyrimą, portalų optimizavimą, PowerBI ataskaitų sukūrimą ir 
+AuditTrail sprendimo įgyvendinimą). Pirkimas skaidomas į 4 pirkimo dalis.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72200000 Programinės įrangos programavimo ir konsultacinės paslaugos
+Kiti klasifikacijos kodai (cpv): 72243000 Programavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72212610 Duomenų bazių programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Bus sukurti nauji funkcionalumai arba realizuota naujo tipo architektūra ESPBI informacinėje 
+sistemoje, kurių iki šiol nebuvo
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su produktų inovacijomis.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 81
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo žurnalinių įrašų rinkimo (angl. audit trail) specialisto papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 5
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo informacinių sistemų analitiko papildoma patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Tiekėjo siūlomo Projekto vadovo kvalifikacija
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 507 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB CGI Lithuania
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000055989
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 470 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 25487
+Sutarties sudarymo data: 23/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: RRF
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl pasikeitusių poreikių
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 9
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: UAB Varutis
+Oficialus pavadinimas: Laimėtojas 3 p.d. JVG antras partneris UAB Solitera, Laimėtojas 3 p.d. JVG trečias 
+partneris MB 64 bitės
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000054955
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 720 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 25488
+Sutarties sudarymo data: 23/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: RRF
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB CGI Lithuania
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000055989
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 317 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 25489
+Sutarties sudarymo data: 23/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: RRF
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: 124110246
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: ruta.lisauskiene@registrucentras.lt
+Telefono numeris: +370 633 36307
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB CGI Lithuania
+Ekonominės veiklos vykdytojo dydis: Vidutinis
+Registracijos numeris: 210316340
+Pašto adresas: Ukmergės g. 126 
+Miestas: Vilnius
+Pašto kodas: LT-08100
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: iveta.jankute@cgi.com
+Telefono numeris: +37067444935
+Interneto adresas: www.cgi.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0004
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Varutis
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 300658357
+Pašto adresas: Papilėnų g. 17 
+Miestas: Vilnius
+Pašto kodas: 06222
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: e.dobravolskas@varutis.lt
+Telefono numeris: 068636540
+Interneto adresas: www.varutis.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0004
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0006
+Oficialus pavadinimas: Laimėtojas 3 p.d. JVG antras partneris UAB Solitera
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 304281003
+Miestas: Kaunas
+Pašto kodas: 15185
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0007
+Oficialus pavadinimas: Laimėtojas 3 p.d. JVG trečias partneris MB 64 bitės
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 306204347
+Miestas: Jūrė, Kazlų Rūdos sav.
+Pašto kodas: 69393
+Šalies administracinis vienetas (NUTS): Marijampolės apskritis (LT024)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 597cc722-4763-448d-997a-d7bc4d0a112d - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 24/07/2025 22:06 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

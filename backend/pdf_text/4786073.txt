@@ -1,0 +1,138 @@
+Lietuva: Reklamos ir rinkodaros paslaugos
+Kūrybinės agentūros paslaugos integruotos rinkodaros ir komunikacijos kampanijoms 
+įgyvendinti (atviras projekto konkursas)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kūrybinės agentūros paslaugos integruotos rinkodaros ir komunikacijos kampanijoms įgyvendinti 
+(atviras projekto konkursas)
+Aprašymas: Konkurso tikslas: įsigyti kūrybinės agentūros paslaugas Vilniaus turizmo ir verslo rinkodaros ir 
+komunikacijos kampanijoms sukurti (toliau - pirkimo objektas, paslaugos). Reikalavimai pirkimo objektui ir privalomi 
+paslaugų parametrai nustatyti techninėje specifikacijoje. Numatoma vertė be PVM nurodyta pirkimo dokumentuose.
+Procedūros identifikatorius: 8d85846d-fc08-40db-ac3d-b4b3b8b170db
+Ankstesnis skelbimas: 7cc0e369-4f5f-4da2-b694-641094364cfb-02
+Pirkimo būdas: Atviras
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79340000 Reklamos ir rinkodaros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kūrybinės agentūros paslaugos integruotos rinkodaros ir komunikacijos kampanijoms įgyvendinti 
+(atviras projekto konkursas)
+Aprašymas: Konkurso tikslas: įsigyti kūrybinės agentūros paslaugas Vilniaus turizmo ir verslo rinkodaros ir 
+komunikacijos kampanijoms sukurti (toliau - pirkimo objektas, paslaugos). Reikalavimai pirkimo objektui ir privalomi 
+paslaugų parametrai nustatyti techninėje specifikacijoje. Numatoma vertė be PVM nurodyta pirkimo dokumentuose.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79340000 Reklamos ir rinkodaros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VILNIAUS MIESTO SAVIVALDYBĖS 
+ADMINISTRACIJA
+Organizacija, pasirašanti sutartį: VŠĮ Go Vilnius
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: INK agency
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000044734
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Data, kurią buvo pasirinktas laimėtojas: 30/05/2025
+Organizacija, pasirašanti sutartį: VŠĮ Go Vilnius
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 11
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VILNIAUS MIESTO SAVIVALDYBĖS ADMINISTRACIJA
+Registracijos numeris: 188710061
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: VILNIUS
+Pašto kodas: LT-09601
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.vaitiekunaite@vilnius.lt
+Telefono numeris: +37052112693
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: INK agency
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300122046
+Pašto adresas: Paupio g. 50, Paupio darboteka 
+Miestas: Vilnius
+Pašto kodas: LT11341
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@inkagency.lt
+Telefono numeris: 867749088
+Interneto adresas: www.inkagency.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: VŠĮ Go Vilnius
+Registracijos numeris: 123641468
+Miestas: Vilnius
+Pašto kodas: LT-01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 2be2a173-4165-4b2f-9bf2-05b3db1b8c72 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 02/10/2025 12:28 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

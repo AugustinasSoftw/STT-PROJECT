@@ -1,0 +1,214 @@
+Lietuva: Lokomotyvų ir riedmenų dalys
+30862 Vagonų autosankabos dalys
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Geležinkelio paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 30862 Vagonų autosankabos dalys
+Aprašymas: Vagonų autosankabos dalys
+Procedūros identifikatorius: 5552a218-3b88-410b-9139-0df0464228b3
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+Kiti klasifikacijos kodai (cpv): 14811000 Girnakmeniai, tekėlai ir šlifavimo diskai
+Kiti klasifikacijos kodai (cpv): 14812000 Abrazyviniai milteliai arba grūdeliai
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 19510000 Guminiai gaminiai
+Kiti klasifikacijos kodai (cpv): 24910000 Klijai
+Kiti klasifikacijos kodai (cpv): 24960000 Įvairūs chemijos produktai
+Kiti klasifikacijos kodai (cpv): 30192125 Žymekliai
+Kiti klasifikacijos kodai (cpv): 31122000 Generavimo (generatorių) įrenginiai
+Kiti klasifikacijos kodai (cpv): 31211300 Saugikliai
+Kiti klasifikacijos kodai (cpv): 31214100 Jungikliai
+Kiti klasifikacijos kodai (cpv): 31221000 Elektros relės
+Kiti klasifikacijos kodai (cpv): 31300000 Izoliuoti laidai ir kabeliai
+Kiti klasifikacijos kodai (cpv): 31520000 Šviestuvai ir apšvietimo įranga
+Kiti klasifikacijos kodai (cpv): 31531000 Elektros lemputės
+Kiti klasifikacijos kodai (cpv): 31532400 Kištukiniai lempų lizdai
+Kiti klasifikacijos kodai (cpv): 31681410 Elektros medžiagos
+Kiti klasifikacijos kodai (cpv): 39717000 Ventiliatoriai ir oro kondicionavimo prietaisai
+Kiti klasifikacijos kodai (cpv): 39812500 Sandarikliai
+Kiti klasifikacijos kodai (cpv): 42132130 Pneumatinės vožtuvo pavaros
+Kiti klasifikacijos kodai (cpv): 42512500 Oro kondicionavimo įrenginių dalys
+Kiti klasifikacijos kodai (cpv): 42514310 Oro filtrai
+Kiti klasifikacijos kodai (cpv): 42913300 Alyvos filtrai
+Kiti klasifikacijos kodai (cpv): 42913400 Degalų filtrai
+Kiti klasifikacijos kodai (cpv): 44164310 Vamzdeliai ir jungiamosios detalės
+Kiti klasifikacijos kodai (cpv): 44165100 Žarnos
+Kiti klasifikacijos kodai (cpv): 44315200 Suvirinimo medžiagos
+Kiti klasifikacijos kodai (cpv): 44322200 Kabelių jungtys
+Kiti klasifikacijos kodai (cpv): 44333000 Viela
+Kiti klasifikacijos kodai (cpv): 44440000 Guoliai
+Kiti klasifikacijos kodai (cpv): 44510000 Įrankiai
+Kiti klasifikacijos kodai (cpv): 44511000 Rankiniai įrankiai
+Kiti klasifikacijos kodai (cpv): 44521100 Spynos
+Kiti klasifikacijos kodai (cpv): 44530000 Tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44531000 Srieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44532000 Nesrieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44533000 Varinės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 50222000 Riedmenų remonto ir priežiūros paslaugos
+2.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: Žr. pirkimo dokumentuose
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 30862 Vagonų autosankabos dalys
+Aprašymas: Vagonų autosankabos dalys
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34631000 Lokomotyvų ir riedmenų dalys
+Kiti klasifikacijos kodai (cpv): 14811000 Girnakmeniai, tekėlai ir šlifavimo diskai
+Kiti klasifikacijos kodai (cpv): 14812000 Abrazyviniai milteliai arba grūdeliai
+Kiti klasifikacijos kodai (cpv): 19500000 Gumos ir plastiko reikmenys
+Kiti klasifikacijos kodai (cpv): 19510000 Guminiai gaminiai
+Kiti klasifikacijos kodai (cpv): 24910000 Klijai
+Kiti klasifikacijos kodai (cpv): 24960000 Įvairūs chemijos produktai
+Kiti klasifikacijos kodai (cpv): 30192125 Žymekliai
+Kiti klasifikacijos kodai (cpv): 31122000 Generavimo (generatorių) įrenginiai
+Kiti klasifikacijos kodai (cpv): 31211300 Saugikliai
+Kiti klasifikacijos kodai (cpv): 31214100 Jungikliai
+Kiti klasifikacijos kodai (cpv): 31221000 Elektros relės
+Kiti klasifikacijos kodai (cpv): 31300000 Izoliuoti laidai ir kabeliai
+Kiti klasifikacijos kodai (cpv): 31520000 Šviestuvai ir apšvietimo įranga
+Kiti klasifikacijos kodai (cpv): 31531000 Elektros lemputės
+Kiti klasifikacijos kodai (cpv): 31532400 Kištukiniai lempų lizdai
+Kiti klasifikacijos kodai (cpv): 31681410 Elektros medžiagos
+Kiti klasifikacijos kodai (cpv): 39717000 Ventiliatoriai ir oro kondicionavimo prietaisai
+Kiti klasifikacijos kodai (cpv): 39812500 Sandarikliai
+Kiti klasifikacijos kodai (cpv): 42132130 Pneumatinės vožtuvo pavaros
+Kiti klasifikacijos kodai (cpv): 42512500 Oro kondicionavimo įrenginių dalys
+Kiti klasifikacijos kodai (cpv): 42514310 Oro filtrai
+Kiti klasifikacijos kodai (cpv): 42913300 Alyvos filtrai
+Kiti klasifikacijos kodai (cpv): 42913400 Degalų filtrai
+Kiti klasifikacijos kodai (cpv): 44164310 Vamzdeliai ir jungiamosios detalės
+Kiti klasifikacijos kodai (cpv): 44165100 Žarnos
+Kiti klasifikacijos kodai (cpv): 44315200 Suvirinimo medžiagos
+Kiti klasifikacijos kodai (cpv): 44322200 Kabelių jungtys
+Kiti klasifikacijos kodai (cpv): 44333000 Viela
+Kiti klasifikacijos kodai (cpv): 44440000 Guoliai
+Kiti klasifikacijos kodai (cpv): 44510000 Įrankiai
+Kiti klasifikacijos kodai (cpv): 44511000 Rankiniai įrankiai
+Kiti klasifikacijos kodai (cpv): 44521100 Spynos
+Kiti klasifikacijos kodai (cpv): 44530000 Tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44531000 Srieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44532000 Nesrieginės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 44533000 Varinės tvirtinimo detalės
+Kiti klasifikacijos kodai (cpv): 50222000 Riedmenų remonto ir priežiūros paslaugos
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: Žr. pirkimo dokumentuose
+5.1.5 Vertė
+Numatoma vertė be PVM: 45 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+Informacija apie ankstesnius skelbimus:
+Ankstesnio skelbimo identifikatorius: 69956-2022
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: LTG Kompetencijų centras UAB (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LTG Kompetencijų centras UAB (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: LTG Kompetencijų centras UAB (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 45 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Vagoneta"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000080106
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 45 000 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 34227
+Sutarties sudarymo data: 22/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 10
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LTG Kompetencijų centras UAB (PV)
+Registracijos numeris: 307037118
+Pašto adresas: Pelesos g. 10-102 
+Miestas: Vilnius
+Pašto kodas: LT-02111
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: infopirkimai@ltg.lt
+Telefono numeris: +370 61979266
+Pirkėjo profilis: www.litrail.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Vagoneta"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302836488
+Pašto adresas: Vilkpedės g. 22 
+Miestas: Vilnius
+Pašto kodas: 03151
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: raimundas@vagoneta.lt
+Telefono numeris: +37060294648
+Interneto adresas: www.vagoneta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 895b5201-53f9-4c63-96d4-a1218e8869f9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/10/2025 12:07 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

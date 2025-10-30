@@ -1,0 +1,166 @@
+Lietuva: Informacinės sistemos ir serveriai
+738074 Techninė įranga dirbtinio intelekto (DI) sprendimų diegimui (9259)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Vilniaus universiteto ligoninė Santaros klinikos (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 738074 Techninė įranga dirbtinio intelekto (DI) sprendimų diegimui (9259)
+Aprašymas: Perkamas serveris su grafiniais spartintuvais (vaizdo plokštėmis) skirtais dirbtinio intelekto (DI) modulių 
+apmokymui klinikų reikmėms“ su įrengimu - 1 komplektas
+Procedūros identifikatorius: 0d4ad6d6-b844-4ff8-8b77-917278105c8f
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48800000 Informacinės sistemos ir serveriai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Serveris su grafiniais spartintuvais (vaizdo plokštėmis) skirtais dirbtinio intelekto (DI) modulių 
+apmokymui klinikų reikmėms“ su įrengimu
+Aprašymas: Kiekis - 1 komplektas
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48800000 Informacinės sistemos ir serveriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Aplinkosauginiai reikalavimai nustatyti, vadovaujantis Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo, patvirtinto Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. 
+įsakymu Nr. D1-508 (Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 d. įsakymo Nr. D1-401 redakcija) 
+(toliau - Aprašas) 4.1 punktu: pirkimo objektas yra Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini 
+minimalūs aplinkos apsaugos kriterijai, sąraše, nurodytame Tvarkos aprašo 1 priede (toliau - produktų sąrašas) 
+ir atitinka visus produktui nustatytus ir aplinkos ministro įsakymu patvirtintus minimalius aplinkos apsaugos 
+kriterijus, nurodytus Tvarkos aprašo 2 priede. Aprašo 2 priedo 3 skyriuje „Biuro įranga ir buitinė technika“ 3 
+p. numato, kad: 3. Biuro įranga ir buitinė technika: vadovaujantis Lietuvos Respublikos Vyriausybės 2015 m. 
+birželio 17 d. nutarimu Nr. 621 „Dėl Perkančiosioms organizacijoms taikomų energijos vartojimo efektyvumo 
+reikalavimų prekėms, paslaugoms ir pastatams“, prekės, kurios įtrauktos į Lietuvos Respublikos energetikos 
+ministro 2015 m. birželio 18 d. įsakymu Nr. 1-154 „Dėl Prekių, išskyrus kelių transporto priemones, kurioms 
+viešųjų pirkimų metu taikomi energijos vartojimo efektyvumo reikalavimai, sąrašo patvirtinimo“ (toliau - Įsakymas) 
+patvirtintą Prekių, išskyrus kelių transporto priemones, kurioms viešųjų pirkimų metu taikomi energijos vartojimo 
+efektyvumo reikalavimai, sąrašą, turi atitikti aukščiausio energinio efektyvumo klasę, nustatytą Europos Komisijos 
+reglamentuose dėl gaminių energijos vartojimo efektyvumo ženklinimo reikalavimų. Jeigu minėti reikalavimai 
+prekėms netaikomi, prekės turi atitikti Europos Komisijos reglamentuose dėl gaminių ekologinio projektavimo 
+nustatytus efektyvaus energijos vartojimo kriterijus. Įsakymo 16 p. nustatyti teisės aktai reglamentuojantys 
+energijos vartojimo efektyvumo reikalavimai (Tiekėjas kartu su pasiūlymu turi pateikti dokumentus (deklaracijas, 
+sertifikatus ar kitus lygiaverčius dokumentus), įrodančius prekių atitikimą ne žemiau išvardintiems reikalavimams: 
+2013 m. birželio 26 d. Komisijos reglamentas (ES) Nr. 617/2013, kuriuo įgyvendinant Europos Parlamento ir 
+Tarybos direktyvą 2009/125/EB nustatomi kompiuterių ir serverių ekologinio projektavimo reikalavimai su visais 
+pakeitimais, ir 2019 m. kovo 15 d. Komisijos reglamentas (ES) 2019/424 kuriuo pagal Europos Parlamento 
+ir Tarybos direktyvą 2009/125/EB nustatomi serveriams ir duomenų saugojimo gaminiams keliami ekologinio 
+projektavimo reikalavimai ir iš dalies keičiamas Komisijos reglamentas (ES) Nr. 617/2013 su visais pakeitimais.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Vadovaujantis VPĮ VII skyriasu nuostatomis
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Vadovaujantis VPĮ VII skyriasu nuostatomis
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 63 470 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "NBCS"
+Pasiūlymas:
+Pasiūlymo identifikatorius: NBCS_pasiulymas
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 63 470 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 25-C-584
+Sutarties sudarymo data: 20/02/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Vilniaus universiteto ligoninė Santaros klinikos (PV)
+Registracijos numeris: 124364561
+Pašto adresas: Santariškių g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-08406
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@santa.lt
+Telefono numeris: +370 5 236 5000
+Fakso numeris: +370 5 236 5111
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "NBCS"
+Registracijos numeris: 301817848
+Miestas: Vilnius
+Pašto kodas: 08343
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 24ae5a91-4d49-4e72-872d-39a67956c508 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/02/2025 09:29 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

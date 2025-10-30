@@ -1,0 +1,121 @@
+Lietuva: Detektoriai
+Inovatyvių produktų komplektas, skirtas radiacinio pavojaus stebėjimui ir ankstyvajam 
+perspėjimui
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Radiacinės saugos centras
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Inovatyvių produktų komplektas, skirtas radiacinio pavojaus stebėjimui ir ankstyvajam perspėjimui
+Aprašymas: Inovatyvių produktų komplektas, skirtas radiacinio pavojaus stebėjimui ir ankstyvajam perspėjimui
+Procedūros identifikatorius: 8615c790-6243-41d5-8e12-9a804dd2687b
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38431000 Detektoriai
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Inovatyvių produktų komplektas, skirtas radiacinio pavojaus stebėjimui ir ankstyvajam perspėjimui
+Aprašymas: Inovatyvių produktų komplektas, skirtas radiacinio pavojaus stebėjimui ir ankstyvajam perspėjimui
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38431000 Detektoriai
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 92 620,9 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas, nes 
+konkurencijos nėra dėl techninių priežasčių
+Kitas pagrindimas: Įsigijimas inovatyvios įrangos komplektas perkamas su jo integravimo į Ankstyvojo radiacinio 
+pavojaus perspėjimo tinklo (RADIS) (toliau - RADIS) valdymo centrą paslauga, siekiant išplėsti RADIS galimybes 
+įdiegiant pažangius, dirbtiniu intelektu grįstus, šiuolaikinius saugumo iššūkius atliepiančius sprendimus, leisiančius 
+radiacinį pavojų stebėti ne tik stacionariuose taškuose, bet ir prireikus greitai ištirti radiacinės saugos požiūriu 
+kritinę vietą, dislokuoti joje įrangą laikinai stebėsenai. RADIS tinklas sudarytas iš 49 Vokietijos įmonės ENVINET 
+GmbH pagamintų stočių, kurios matuoja aplinkos dozės galią, ir kurios yra sujungtos į vieną centralizuotai valdomą 
+tinklą ir kurio duomenys pagal turimus šalies įsipareigojimus automatiškai teikiami į Europos Komisijos radiologinio 
+monitoringo platformą EURDEP. RADIS duomenų saugos nuostatuose, patvirtintuose Lietuvos Respublikos 
+sveikatos apsaugos ministro 2021 m. gruodžio 27 d. įsakymu Nr. V-2943 „Dėl Ankstyvojo radiacinio pavojaus 
+perspėjimo sistemos (RADIS) duomenų saugos nuostatų patvirtinimo“, RADIS yra įteisinta kaip sistema, sudaryta 
+iš RADIS sistemos stebėsenos centro programinės įrangos NMC (angl. Network Monitoring Center) ir RADIS 
+sistemos automatizuotos radiologinio aplinkos monitoringo matavimo stočių ir yra uždara ir nedaloma. Nešdamas 
+tiesioginę atsakomybę už RADIS sistemos saugumą bei saugodamas autorines teises, įrangos gamintojas 
+nenumato galimybių jungti į tinklą ne jo pagamintus įrenginius už kurių saugumą neatsako. RSC šiuo metu 
+taip pat turi galiojančias sutartis su gamintoju dėl techninio ir programinio palaikymo bei duomenų perdavimo 
+RADIS tinkle. Tokiu būdu jie atsako už tinklo veikimą, trukdžių šalinimą ir programinės įrangos atnaujinimą ir 
+atitikimą iškeltiems kibernetinio saugumo reikalavimams. Už kitų gamintojų įrenginius jie negali atsakyti. Taigi, 
+pasirenkant kitą gamintoją, reikėtų kurti atskirą tinklą, dėl ko neįmanoma būtų išlaikyti ankstyvojo radiacinio 
+pavojaus perspėjimo integralumo ir centralizuoto duomenų valdymo. Tai taip pat pareikalautų papildomų lėšų 
+įrangos programinio ir techninio palaikymo sutartims sudaryti (tai gali atlikti tik jos gamintojas ar jo atstovas, 
+kitaip neveikia jokie garantiniai įsipareigojimai ir pan.)), naujoms integracijoms su valstybės institucijomis, kurios 
+gauna šiuos duomenis, sukruti ir prižiūrėti ir pan. Atsižvelgiant į išdėstytą aukščiau, pirkimas bus vykdomas pagal 
+Lietuvos Respublikos viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2 punkto b papunktį (konkurencijos nėra dėl 
+techninių priežasčių) iš vieno tiekėjo (RADIS tinklą sudarančios įrangos gamintojo) neskelbiamų derybų būdu, 
+paskelbiant savanoriško Ex ante skaidrumo skelbimą ir informaciją apie tai nurodant pirkimo dokumentuose.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Radiacinės saugos centras
+Registracijos numeris: 193288633
+Pašto adresas: Kalvarijų g. 153 
+Miestas: Vilnius
+Pašto kodas: 08352
+Šalis: Lietuva
+E. paštas: ricardas.stundzia@rsc.lt
+Telefono numeris: +37061017280
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: ENVINET GmbH
+Pašto adresas: Hans-Pinsel-Str. 4 
+Miestas: Munich
+Pašto kodas: 85540
+Šalis: Vokietija
+E. paštas: info@scientaenvinet.com
+Telefono numeris: +49 (89) 45 66 57-800
+Šios organizacijos vaidmenys:
+Dalyvis
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 47691bde-8122-4774-ae96-e05a10644d97 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 27/12/2024 14:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,177 @@
+Lietuva: Programinės įrangos kūrimo paslaugos
+Darbo užmokesčio ir personalo administravimo informacinės sistemos (DUPA IS) sukūrimo ir 
+diegimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Darbo užmokesčio ir personalo administravimo informacinės sistemos (DUPA IS) sukūrimo ir diegimo 
+paslaugos
+Aprašymas: Siekiama įsigyti Darbo užmokesčio ir personalo administravimo informacinės sistemos (DUPA IS) kūrimo 
+ir diegimo, garantinės priežiūros ir papildomas vystymo paslaugas
+Procedūros identifikatorius: 9855dcfa-c891-487e-ac32-1a0c3eeb1832
+Ankstesnis skelbimas: 8b09c389-7027-4f2e-9cd5-b3146702a7d7-05
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 3 084 243 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Darbo užmokesčio ir personalo administravimo informacinės sistemos (DUPA IS) sukūrimo ir diegimo 
+paslaugos
+Aprašymas: Siekiama įsigyti Darbo užmokesčio ir personalo administravimo informacinės sistemos (DUPA IS) kūrimo 
+ir diegimo, garantinės priežiūros ir papildomas vystymo paslaugas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 3 084 243 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Pirkimo metu įsigyjamos nematerialaus pobūdžio paslaugos. Nustatyti socialiniai kriterijai. Pirkimu 
+siekiama įsigyti inovatyvų produktą: informacinę sistemą, leisiančią optimizuoti perkančiosios organizacijos 
+procesus.
+Strateginio viešojo pirkimo tikslas: Socialinių tikslų įgyvendinimas
+Aprašymas: Šeimos ir darbo įsipareigojimų derinimo priemonių taikymas sutarties vykdymo metu.
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkama nematerialaus pobūdžio paslauga
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Socialinis tikslas, kurio raginama siekti: Tinkamos darbo sąlygos
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra susiję su procesų inovacijomis.
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai neįtraukti dėl šių priežasčių
+Pagrindimas: numatyti kiti socialiniai kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Pasiūlymo kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 30
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Paslaugų kokybė. Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinis bendrųjų funkcijų centras -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Nacionalinis bendrųjų funkcijų centras -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 555 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: NEVDA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000027728
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 555 000 Euro
+Subranga: Dar nežinoma
+Informacija apie sutartį:
+Sutarties identifikatorius: 21746
+Sutarties sudarymo data: 11/06/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Projekto „Pažangios viešojo sektoriaus žmogiškųjų išteklių valdymo sistemos 
+sukūrimas ir įdiegimas“ poveiklė: „Įdiegti ir pateikti naudojimui centralizuotą darbo užmokesčio 
+apskaičiavimo ir išmokėjimo procesų sprendimą“. Projekto kodas 11-004-P-0001
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Registracijos numeris: 304768872
+Pašto adresas: Geležinio Vilko 12, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: edita.filipaviciute@nbfc.lt
+Telefono numeris: +370 675 93 949
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: NEVDA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 121931451
+Pašto adresas: Savanorių pr. 178F 
+Miestas: Vilnius
+Pašto kodas: 03154
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: paulius@nevda.lt
+Telefono numeris: +37068515007
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 26fda490-5bef-4e80-9ddc-2d2da39dccd6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 16/06/2025 15:52 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

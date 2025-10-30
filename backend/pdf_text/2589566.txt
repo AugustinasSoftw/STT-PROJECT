@@ -1,0 +1,124 @@
+Lietuva: Ekspertų paslaugos
+VIEŠOS ERDVĖS PERKŪNKIEMIO G. 22, VILNIUJE, ATVIRO ARCHITEKTŪRINIO PROJEKTO 
+KONKURSAS APK
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VIEŠOS ERDVĖS PERKŪNKIEMIO G. 22, VILNIUJE, ATVIRO ARCHITEKTŪRINIO PROJEKTO 
+KONKURSAS APK
+Aprašymas: VIEŠOS ERDVĖS PERKŪNKIEMIO G. 22, VILNIUJE, ATVIRO ARCHITEKTŪRINIO PROJEKTO 
+KONKURSAS
+Procedūros identifikatorius: 1a3d42e0-f5f7-4d78-bb8d-f75bd16855a6
+Ankstesnis skelbimas: d7e1101a-d36e-44ca-9905-28f6008bf3ec-01
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: Perkūnkiemio g. 22
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: VIEŠOS ERDVĖS PERKŪNKIEMIO G. 22, VILNIUJE, ATVIRO ARCHITEKTŪRINIO PROJEKTO 
+KONKURSAS APK
+Aprašymas: VIEŠOS ERDVĖS PERKŪNKIEMIO G. 22, VILNIUJE, ATVIRO ARCHITEKTŪRINIO PROJEKTO 
+KONKURSAS
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71319000 Ekspertų paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Uždaroji akcinė bendrovė „Vilniaus vystymo 
+kompanija“ -
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: MB Bauland
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016220
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Data, kurią buvo pasirinktas laimėtojas: 07/04/2025
+Sutarties sudarymo data: 02/05/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Registracijos numeris: 120750163
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: Vilnius
+Pašto kodas: LT-09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vilniausvystymas.lt
+Telefono numeris: 068766000
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: MB Bauland
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 305622646
+Pašto adresas: Miglos g. 33-3 
+Miestas: Vilnius
+Pašto kodas: LT-08101
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: donatas@bauland.lt
+Telefono numeris: +37067256744
+Interneto adresas: www.bauland.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 05105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 939671b1-47e2-424d-abac-fe0499d91b9f - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 08/05/2025 16:52 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

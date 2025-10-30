@@ -1,0 +1,229 @@
+Lietuva: Duomenų bazių valdymo sistema
+Oracle duomenų bazių sprendimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Oracle duomenų bazių sprendimo paslaugos
+Aprašymas: Perkama Oracle duomenų bazių sprendimo nuoma
+Procedūros identifikatorius: 046047e2-a064-473a-9803-8a0247bebc6e
+Ankstesnis skelbimas: 1553770a-f4ae-4cc8-b5de-58d23e786f90-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48612000 Duomenų bazių valdymo sistema
+Kiti klasifikacijos kodai (cpv): 48600000 Duomenų bazių ir operacinių sistemų programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48820000 Serveriai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Techninės įrangos užtikrinančios perkančiosios organizacijos turimų Oracle duomenų bazių veikimą 
+nuoma
+Aprašymas: Perkama Oracle duomenų bazių sprendimo nuoma
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48612000 Duomenų bazių valdymo sistema
+Kiti klasifikacijos kodai (cpv): 48600000 Duomenų bazių ir operacinių sistemų programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48820000 Serveriai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: Prekių pristatymo vieta - Valstybės įmonė Registrų centras Vilniuje, Studentų g. 39. Pristatymo 
+vieta gali būti keičiama Lietuvos teritorijos ribose
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkamos prekės sudedamosios dalys tinka naudoti daug kartų ir (ar) lengvai pataisomos, ir (ar) 
+pakeičiamos.
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Perkama moderni ir inovatyvi duomenų bazių sistema, kuri automatizuos ir paspartins informacinių 
+sistemų veikimo procesus
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra novatoriški arba labai patobulinti, palyginti su kitais 
+darbais, prekėmis ar paslaugomis, kurie jau yra rinkoje.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Sąnaudos
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal sąnaudas. Sąnaudas 
+sudaro: 1. pasiūlymo kaina eurais už visą pirkimo objektą, įskaitant visus mokesčius (taip pat ir PVM, jei taikoma) 
+ir visas tiekėjo išlaidas, susijusias su sutarties vykdymu, ir 2. elektros energijos sąnaudos, kurias patirs Perkančioji 
+organizacija naudodama tiekėjo siūlomą įrangą.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Programinės įrangos užtikrinančios perkančiosios organizacijos turimų Oracle duomenų bazių veikimą 
+nuoma
+Aprašymas: Perkama Oracle duomenų bazių sprendimo nuoma
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48612000 Duomenų bazių valdymo sistema
+Kiti klasifikacijos kodai (cpv): 48600000 Duomenų bazių ir operacinių sistemų programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 48820000 Serveriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkamos nematerialaus pobūdžio prekės (licencijos), todėl nesukuriamas materialus taršos šaltinis, 
+atliekos.
+Strateginio viešojo pirkimo tikslas: Inovacinių sprendimų pirkimas
+Aprašymas: Perkama moderni ir inovatyvi duomenų bazių sistemos programinė įranga, kuri automatizuos ir 
+paspartins informacinių sistemų veikimo procesus
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Inovatyvumo tikslas: Perkami darbai, prekės ar paslaugos yra novatoriški arba labai patobulinti, palyginti su kitais 
+darbais, prekėmis ar paslaugomis, kurie jau yra rinkoje.
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Vertinama pasiūlymo kaina eurais, įskaitant visus mokesčius (taip pat ir PVM, jei taikoma) ir visas 
+tiekėjo išlaidas, susijusias su sutarties vykdymu.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VĮ Registrų centras (PV)
+Organizacija, atliekanti mokėjimus: VĮ Registrų centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 5 086 380 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Telia Lietuva AB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061561
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 086 380 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24972
+Sutarties sudarymo data: 08/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Telia Lietuva AB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061561
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 3 000 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 24973
+Sutarties sudarymo data: 08/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: 124110246
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Rima.Rackauskiene@registrucentras.lt
+Telefono numeris: +370 649 49430
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Telia Lietuva AB
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 121215434
+Pašto adresas: Saltoniškių g. 7A 
+Miestas: Vilnius
+Pašto kodas: LT-03501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Daiva.nariuniene@telia.lt
+Telefono numeris: +37069839415
+Interneto adresas: www.telia.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01400
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: fdf5d78b-1a56-4595-921c-f2aca489451e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 21/07/2025 16:27 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

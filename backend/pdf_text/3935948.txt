@@ -1,0 +1,243 @@
+Lietuva: Programavimo paslaugos
+Valstybinės duomenų apsaugos inspekcijos informacinės sistemos kūrimo, diegimo ir 
+palaikymo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VALSTYBINĖ DUOMENŲ APSAUGOS INSPEKCIJA
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Valstybinės duomenų apsaugos inspekcijos informacinės sistemos kūrimo, diegimo ir palaikymo 
+paslaugos
+Aprašymas: Valstybinė duomenų apsaugos inspekcija, įgyvendindama 2021-2030 metų Lietuvos Respublikos 
+ekonomikos ir inovacijų ministerijos valstybės skaitmeninimo plėtros programos pažangos priemonę Nr. 
+05-002-01-07-08-07-02 „Kurti technologinius sprendimus ir įrankius, leidžiančius saugiai ir patogiai naudotis 
+paslaugomis“ veiklos „Viešųjų institucijų teikiamų elektroninių paslaugų brandos lygio kėlimas“ projektą, siekia 
+įgyvendinti VDAI informacinių sistemų pritaikymą Bendrojo duomenų apsaugos reglamento (BDAR) reikalavimams. 
+Šio projekto tikslas yra optimizuoti VDAI vykdomas funkcijas, pertvarkant naudojamas ir įdiegiant naujas informacinių 
+technologijų (IT) priemones, siekiant pagerinti duomenų subjektų, duomenų valdytojų ir duomenų tvarkytojų 
+aptarnavimo kokybę, jiems teikiamas paslaugas, duomenų apsaugos kontrolę, taip pat sudaryti geresnes sąlygas 
+pakartotiniam duomenų naudojimui. Siekiant šio tikslo, bus kuriama nauja informacinė sistema, kuri automatizuos 
+pagrindinius VDAI veiklos procesus.
+Procedūros identifikatorius: 7d62ecb9-c5c2-4feb-b378-003a98f0ec2f
+Ankstesnis skelbimas: 3bf09f1b-f16f-4f6d-8978-7b0e480b6488-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I Pirkimo dalis - Informacinės sistemos sukūrimo paslaugos
+Aprašymas: Valstybinė duomenų apsaugos inspekcija, įgyvendindama 2021-2030 metų Lietuvos Respublikos 
+ekonomikos ir inovacijų ministerijos valstybės skaitmeninimo plėtros programos pažangos priemonę Nr. 
+05-002-01-07-08-07-02 „Kurti technologinius sprendimus ir įrankius, leidžiančius saugiai ir patogiai naudotis 
+paslaugomis“ veiklos „Viešųjų institucijų teikiamų elektroninių paslaugų brandos lygio kėlimas“ projektą, siekia 
+įgyvendinti VDAI informacinių sistemų pritaikymą Bendrojo duomenų apsaugos reglamento (BDAR) reikalavimams. 
+Šio projekto tikslas yra optimizuoti VDAI vykdomas funkcijas, pertvarkant naudojamas ir įdiegiant naujas informacinių 
+technologijų (IT) priemones, siekiant pagerinti duomenų subjektų, duomenų valdytojų ir duomenų tvarkytojų 
+aptarnavimo kokybę, jiems teikiamas paslaugas, duomenų apsaugos kontrolę, taip pat sudaryti geresnes sąlygas 
+pakartotiniam duomenų naudojimui. Siekiant šio tikslo, bus kuriama nauja informacinė sistema, kuri automatizuos 
+pagrindinius VDAI veiklos procesus.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: 6 mėnesiai
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VALSTYBINĖ DUOMENŲ APSAUGOS 
+INSPEKCIJA
+Organizacija, atliekanti mokėjimus: VALSTYBINĖ DUOMENŲ APSAUGOS INSPEKCIJA
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II Pirkimo dalis - Statistikos įrankio sukūrimo paslaugos
+Aprašymas: Valstybinė duomenų apsaugos inspekcija, įgyvendindama 2021-2030 metų Lietuvos Respublikos 
+ekonomikos ir inovacijų ministerijos valstybės skaitmeninimo plėtros programos pažangos priemonę Nr. 
+05-002-01-07-08-07-02 „Kurti technologinius sprendimus ir įrankius, leidžiančius saugiai ir patogiai naudotis 
+paslaugomis“ veiklos „Viešųjų institucijų teikiamų elektroninių paslaugų brandos lygio kėlimas“ projektą, siekia 
+įgyvendinti VDAI informacinių sistemų pritaikymą Bendrojo duomenų apsaugos reglamento (BDAR) reikalavimams. 
+Šio projekto tikslas yra optimizuoti VDAI vykdomas funkcijas, pertvarkant naudojamas ir įdiegiant naujas informacinių 
+technologijų (IT) priemones, siekiant pagerinti duomenų subjektų, duomenų valdytojų ir duomenų tvarkytojų 
+aptarnavimo kokybę, jiems teikiamas paslaugas, duomenų apsaugos kontrolę, taip pat sudaryti geresnes sąlygas 
+pakartotiniam duomenų naudojimui. Siekiant šio tikslo, bus kuriama nauja informacinė sistema, kuri automatizuos 
+pagrindinius VDAI veiklos procesus.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72243000 Programavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 86
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 14
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: 6 mėnesiai
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VALSTYBINĖ DUOMENŲ APSAUGOS 
+INSPEKCIJA
+Organizacija, atliekanti mokėjimus: VALSTYBINĖ DUOMENŲ APSAUGOS INSPEKCIJA
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 375 022,21 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Lexita"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000063305
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 265 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26147
+Data, kurią buvo pasirinktas laimėtojas: 04/07/2025
+Sutarties sudarymo data: 31/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Skaitmeninės Europos programa (2021/2027)
+ES fondų identifikatorius: 05-002-01-07-08
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Lexita"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000063305
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 53 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26148
+Data, kurią buvo pasirinktas laimėtojas: 04/07/2025
+Sutarties sudarymo data: 31/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Skaitmeninės Europos programa (2021/2027)
+ES fondų identifikatorius: 05-002-01-07-08
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VALSTYBINĖ DUOMENŲ APSAUGOS INSPEKCIJA
+Registracijos numeris: 188607912
+Pašto adresas: L. Sapiegos g. 17 
+Miestas: Vilnius
+Pašto kodas: 10312
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.kupciuniene@ada.lt
+Telefono numeris: +370 645 72 019
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Lexita"
+Ekonominės veiklos vykdytojo dydis: Mažasis
+Registracijos numeris: 302342831
+Pašto adresas: Lukiškių g. 9 
+Miestas: Vilnius
+Pašto kodas: LT-01108
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vp@lexita.lt
+Telefono numeris: +37065758415
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: c8ad780f-ef22-4fc3-8fdd-90fcad849783 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 11/08/2025 14:48 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

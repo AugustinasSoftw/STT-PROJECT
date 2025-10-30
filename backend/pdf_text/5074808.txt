@@ -1,0 +1,150 @@
+Lithuania: Public relations services
+(VPP-144) Komunikacijos ir suinteresuotų šalių įtraukimo paslaugų Šiaurės ir Baltijos šalių 
+vandenilio koridoriaus projekte pirkimas
+Contract or concession award notice - standard regime
+1 Buyer
+1.1 Buyer
+Official name: AB "Amber Grid"
+Legal type of the buyer: Public undertaking
+Activity of the contracting authority: General public services
+2 Procedure
+2.1 Procedure
+Title: (VPP-144) Komunikacijos ir suinteresuotų šalių įtraukimo paslaugų Šiaurės ir Baltijos šalių vandenilio koridoriaus 
+projekte pirkimas
+Description: Komunikacijos ir suinteresuotų šalių įtraukimo paslaugų Šiaurės ir Baltijos šalių vandenilio koridoriaus 
+projekte pirkimas
+Procedure identifier: 6ddef4d4-0dce-4c98-9d28-52153e8988e9
+Previous notice: f8817d36-cd2a-4064-a3e9-713055c322e7-03
+Type of procedure: Negotiated with prior publication of a call for competition / competitive with negotiation
+The procedure is accelerated: no
+2.1.1 Purpose
+Main nature of the contract: Services
+Main classification (cpv): 79416000 Public relations services
+2.1.2 Place of performance
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+2.1.4 General information
+Legal basis:
+Directive 2014/24/EU
+5 Lot
+5.1 Lot technical ID: LOT-0001
+Title: (VPP-144) Komunikacijos ir suinteresuotų šalių įtraukimo paslaugų Šiaurės ir Baltijos šalių vandenilio koridoriaus 
+projekte pirkimas
+Description: Komunikacijos ir suinteresuotų šalių įtraukimo paslaugų Šiaurės ir Baltijos šalių vandenilio koridoriaus 
+projekte pirkimas
+Internal identifier: 0
+5.1.1 Purpose
+Main nature of the contract: Services
+Main classification (cpv): 79416000 Public relations services
+5.1.2 Place of performance
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Additional information: 
+5.1.6 General information
+Procurement Project fully or partially financed with EU Funds.
+The procurement is covered by the Government Procurement Agreement (GPA): yes
+5.1.7 Strategic procurement
+Aim of strategic procurement: No strategic procurement
+5.1.10 Award criteria
+Criterion:
+Type: Quality
+Description: I kriterijus: kaina - X30; II kriterijus: užduočių parengimas (T) - Y=40; III kriterijus: sutarties vykdymui 
+pasitelkiamų specialistų patirtis - Z=30
+Category of award threshold criterion: Weight (points, exact)
+Award criterion number: 70
+5.1.15 Techniques
+Framework agreement:
+No framework agreement
+Information about the dynamic purchasing system:
+No dynamic purchase system
+5.1.16 Further information, mediation and review
+Review organisation: Vilnius district court
+Information about review deadlines: Žiūrėti pirkimo dokumentuose
+Organisation providing offline access to the procurement documents: AB "Amber Grid"
+6 Results
+Value of all contracts awarded in this notice: 249 996 Euro
+6.1 Result lot ldentifier: LOT-0001
+At least one winner was chosen.
+6.1.2 Information about winners
+Winner:
+Official name: Publicum
+Tender:
+Tender identifier: 000081164
+Identifier of lot or group of lots: LOT-0001
+Value of the tender: 143 600 Euro
+Subcontracting: Yes
+Subcontracting value is known: no
+Subcontracting percentage is known: yes
+Percentage of subcontracting: 3
+Contract information:
+Identifier of the contract: 34058
+Date on which the winner was chosen: 08/08/2025
+Date of the conclusion of the contract: 30/09/2025
+Information about European Union funds
+Name of EU-financed project or programme: Programme for the Environment and Climate Action (LIFE) 
+(2021/2027)
+Identifier of EU funds: Project 11.2FIEESM24NBHC Feasibility Phase of NordicBaltic Hydrogen Corridor
+6.1.4 Statistical information
+Received tenders or requests to participate:
+Type of received submissions: Tenders
+Number of tenders or requests to participate received: 3
+8 Organisations
+8.1 ORG-0001
+Official name: AB "Amber Grid"
+Registration number: 303090867
+Postal address: Laisvės pr. 10 
+Town: Vilnius
+Postcode: LT-04215
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Email: pirkimai@ambergrid.lt
+Telephone: 066190146
+Internet address: 
+Buyer profile: 
+Roles of this organisation:
+Buyer
+Organisation providing offline access to the procurement documents
+8.1 ORG-0002
+Official name: Publicum
+Size of the economic operator: Large
+Registration number: 125671759
+Postal address: Jogailos g. 4 
+Town: Vilnius
+Postcode: 01116
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Email: gintare.kyburyte@publicum.lt
+Telephone: +37068613321
+Roles of this organisation:
+Tenderer
+Winner of these lots: LOT-0001
+8.1 ORG-0003
+Official name: Vilnius district court
+Registration number: 193312970
+Postal address: Gedimino pr. 40 
+Town: Vilnius
+Postcode: 01501
+Country subdivision (NUTS): Vilniaus apskritis (LT011)
+Country: Lithuania
+Email: vilniaus.apygardos@teismas.lt
+Telephone: +370 70668369
+Roles of this organisation:
+Review organisation
+8.1 ORG-0004
+Official name: European Dynamics S.A.
+Registration number: 002024901000
+Department: European Dynamics S.A.
+Town: Athens
+Postcode: 15125
+Country subdivision (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Country: Greece
+Email: eproc-esender@eurodyn.com
+Telephone: +30 2108094500
+Roles of this organisation:
+TED eSender
+Notice information
+Notice identifier/version: 4f7bebf0-130f-4b29-8b6e-719b252bec9f - 01
+Form type: Result
+Notice type: Contract or concession award notice - standard regime
+Notice dispatch date: 22/10/2025 13:46 +03:00
+Languages in which this notice is officially available: English 

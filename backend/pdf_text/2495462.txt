@@ -1,0 +1,172 @@
+Lietuva: Programinės įrangos priežiūros ir tvarkymo paslaugos
+Pagalbos tarnybos programinės įrangos IVANTI vystymo paslaugos
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Pagalbos tarnybos programinės įrangos IVANTI vystymo paslaugos
+Aprašymas: 2.1. Pirkimo objektas - Nacionalinio bendrųjų funkcijų centro (toliau - Perkančioji organizacija) Pagalbos 
+tarnybos programinės įrangos Ivanti Neurons for ITSM (toliau - PĮ) vystymo paslaugos. 2.2. Vystymo paslaugos apima 
+Perkančiosios organizacijos Pagalbos tarnybos PĮ naujų funkcionalumų projektavimą, programavimą, dokumentavimą, 
+diegimą, atsakingų asmenų apmokymą dirbti su įdiegtais funkcionalumais, nustatytų trūkumų taisymą garantiniu 
+laikotarpiu. Naujiems funkcionalumams turi galioti 12 mėn. trūkumų taisymo garantija. 2.3. Vystymo paslaugų teikimo 
+laikotarpis - 12 mėn. nuo sutarties įsigaliojimo dienos su galimybe pratęsti dar 6 mėn. arba kol bus išnaudota visa 
+šiam pirkimui numatyta maksimali sutarties vertė, priklausomai nuo to kas baigsis anksčiau. 2.4. Vystymo paslaugų 
+apimtis sutarties galiojimo laikotarpiu - 165 paslaugų teikimo darbo valandų. 2.5. Vystymo paslaugos užsakomos 
+pagal poreikį. Perkančioji organizacija neįsipareigoja užsakyti viso sutartyje nurodyto paslaugų teikimo darbo valandų.
+Procedūros identifikatorius: 31c1fa0c-960a-4191-9128-7a3e8dd92a73
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Pašto adresas: 03163 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Pagalbos tarnybos programinės įrangos IVANTI vystymo paslaugos
+Aprašymas: 2.1. Pirkimo objektas - Nacionalinio bendrųjų funkcijų centro (toliau - Perkančioji organizacija) Pagalbos 
+tarnybos programinės įrangos Ivanti Neurons for ITSM (toliau - PĮ) vystymo paslaugos. 2.2. Vystymo paslaugos apima 
+Perkančiosios organizacijos Pagalbos tarnybos PĮ naujų funkcionalumų projektavimą, programavimą, dokumentavimą, 
+diegimą, atsakingų asmenų apmokymą dirbti su įdiegtais funkcionalumais, nustatytų trūkumų taisymą garantiniu 
+laikotarpiu. Naujiems funkcionalumams turi galioti 12 mėn. trūkumų taisymo garantija. 2.3. Vystymo paslaugų teikimo 
+laikotarpis - 12 mėn. nuo sutarties įsigaliojimo dienos su galimybe pratęsti dar 6 mėn. arba kol bus išnaudota visa 
+šiam pirkimui numatyta maksimali sutarties vertė, priklausomai nuo to kas baigsis anksčiau. 2.4. Vystymo paslaugų 
+apimtis sutarties galiojimo laikotarpiu - 165 paslaugų teikimo darbo valandų. 2.5. Vystymo paslaugos užsakomos 
+pagal poreikį. Perkančioji organizacija neįsipareigoja užsakyti viso sutartyje nurodyto paslaugų teikimo darbo valandų.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+Kiekis: 165 valanda
+Pasirinkimo galimybės:
+Galimybių aprašymas: Vystymo paslaugų teikimo laikotarpis - 12 mėn. nuo sutarties įsigaliojimo dienos su 
+galimybe pratęsti dar 6 mėn. arba kol bus išnaudota visa šiam pirkimui numatyta maksimali sutarties vertė, 
+priklausomai nuo to kas baigsis anksčiau
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.8 Prieinamumo kriterijai
+Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 1
+Aprašymas: ekonomiškai naudingiausias pasiūlymas išrenkamas pagal kainą
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinis bendrųjų funkcijų centras -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 18 966,75 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Direktyvos 2014/24/ES 7 str. išvardytos sutartys, nepatenkančios į Direktyvos 
+2014/25/ES taikymo sritį
+Kitas pagrindimas: Ivanti Neurons for ITSM“ yra specializuotas IT paslaugų valdymo sprendimas, priklausantis 
+tik „Ivanti“. Dėl autorinių teisių ir licencijavimo politikos jokia kita įmonė neturi teisės modifikuoti ar platinti šios 
+programinės įrangos. Šaltinis Todėl, tiekėjas turi būti oficialus Ivanti Neurons 
+for ITSM atstovas Lietuvoje. Taip pat, esamos sistemos integralumas - NBFC jau naudoja „Ivanti Neurons for 
+ITSM“ sprendimą, todėl tiekimo tęstinumas yra būtinas siekiant išvengti papildomų kaštų, susijusių su perėjimu prie 
+kitos sistemos (duomenų migracija, naujų sistemų integracija, darbuotojų apmokymai). Sąveikos užtikrinimas - 
+„Ivanti“ sprendimai yra suderinti su esama IT infrastruktūra, todėl alternatyvaus tiekėjo pasirinkimas galėtų sukelti 
+veiklos trikdžių ar papildomų saugumo rizikų. Atsižvelgiant į tai, kad Paslaugas gali teikti tik, tiekėjas, kuris turi būti 
+oficialus Ivanti Neurons for ITSM atstovas Lietuvoje - Synergy Consulting UAB, pirkimą, vadovaujantis Viešųjų 
+pirkimų įstatymo 71 straipsnio 1 dalies 2 punkto c papunkčiu (jeigu prekes patiekti, paslaugas teikti ar darbus atlikti 
+gali tik konkretus tiekėjas dėl vienos iš šių priežasčių: <...> dėl išimtinių teisių, įskaitant intelektinės nuosavybės 
+teises, apsaugos) siūloma Pagalbos tarnybos programinės įrangos IVANTI vystymo paslaugų pirkimą vykdyti 
+neskelbiamų derybų (tarptautinių) būdu.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Synergy Consulting
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000050105
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Informacija apie sutartį:
+Sutarties identifikatorius: 17514
+Data, kurią buvo pasirinktas laimėtojas: 02/05/2025
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinis bendrųjų funkcijų centras
+Registracijos numeris: 304768872
+Pašto adresas: Geležinio Vilko 12, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 03163
+Šalies administracinis vienetas (NUTS): Extra-Regio NUTS 3 (ALZZZ)
+Šalis: Lietuva
+E. paštas: edita.filipaviciute@nbfc.lt
+Telefono numeris: +370 675 93 949
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Synergy Consulting
+Registracijos numeris: 300129699
+Pašto adresas: Laisvės pr. 78B - 221 
+Miestas: Vilnius
+Pašto kodas: 05263
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tyrunasj@synergy.eu
+Telefono numeris: +37065298200
+Interneto adresas: www.synergy.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ddf56bdb-c8c3-47ad-9285-afaa4b116fe7 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 02/05/2025 22:25 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

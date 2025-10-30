@@ -1,0 +1,177 @@
+Lietuva: Užterštumo stebėsenos prietaisai
+703431 B10 komplekso Sąlyginai neradioaktyviųjų atliekų pakuočių radiologinio apibūdinimo 
+įrenginio pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 703431 B10 komplekso Sąlyginai neradioaktyviųjų atliekų pakuočių radiologinio apibūdinimo įrenginio 
+pirkimas
+Aprašymas: Perkamas Sąlyginai neradioaktyviųjų atliekų pakuočių radiologinio apibūdinimo įrenginys
+Procedūros identifikatorius: f6b38a5c-68bc-497b-baac-0fe5d9f6207f
+Ankstesnis skelbimas: 127645-2024
+Vidaus identifikatorius: 703431
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38341500 Užterštumo stebėsenos prietaisai
+Kiti klasifikacijos kodai (cpv): 80500000 Apmokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: B10 komplekso Sąlyginai neradioaktyviųjų atliekų pakuočių radiologinio apibūdinimo įrenginio pirkimas
+Aprašymas: Perkamas Sąlyginai neradioaktyviųjų atliekų pakuočių radiologinio apibūdinimo įrenginys
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 38341500 Užterštumo stebėsenos prietaisai
+Kiekis: 1 vienetas
+5.1.2 Sutarties vykdymo vieta
+Miestas: Visaginas
+Pašto kodas: 31152
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Pradžios data: 16/12/2024
+Trukmės pabaigos data: 20/01/2026
+5.1.5 Vertė
+Numatoma vertė be PVM: 239 500 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: 239500.00
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Panevėžio apygardos teismas
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: Panevėžio apygardos teismas
+Organizacija, iš kurios biudžeto mokama pagal sutartį: Valstybės įmonė Ignalinos atominė elektrinė
+Organizacija, pasirašanti sutartį: Valstybės įmonė Ignalinos atominė elektrinė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 239 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: HELGESON SCIENTIFIC SERVICES SA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 239 500 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PSt-348(13.66E)
+Pavadinimas: B10 komplekso Sąlyginai neradioaktyviųjų atliekų pakuočių radiologinio apibūdinimo įrenginio 
+pirkimas
+Data, kurią buvo pasirinktas laimėtojas: 06/08/2024
+Sutarties sudarymo data: 16/12/2024
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Atominės elektrinės eksploatacijos nutraukimas 
+(Lietuva) (2021/2027)
+ES fondų identifikatorius: 1A.23/01/ADA.24
+Išsamesnė informacija apie ES fondus: Pirkimas vykdomas Ignalinos programos projekto 1A.23/01/ADA.24 
+lėšomis
+Organizacija, pasirašanti sutartį: Valstybės įmonė Ignalinos atominė elektrinė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Dalyvių, įregistruotų kitose nei pirkėjo šalis Europos ekonominės erdvės šalyse, pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 239 500 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 799 950 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Registracijos numeris: 255450080
+Pašto adresas: Elektrinės g. 4, K 47, Drūkšinių k. 
+Miestas: Visagino sav.
+Pašto kodas: 31152
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: iae@iae.lt
+Telefono numeris: +37065853249
+Fakso numeris: +370 386 28985
+Interneto adresas: www.iae.lt
+Pirkėjo profilis: www.iae.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, pasirašanti sutartį
+Organizacija, iš kurios biudžeto mokama pagal sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: HELGESON SCIENTIFIC SERVICES SA
+Registracijos numeris: A78052560
+Miestas: MADRIDAS
+Pašto kodas: 28925
+Šalies administracinis vienetas (NUTS): Madrid (ES300)
+Šalis: Ispanija
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 433105b3-0943-4008-962d-f0bd376a70b8 - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/02/2025 15:13 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

@@ -1,0 +1,155 @@
+Lietuva: Įvairūs programinės įrangos paketai ir kompiuterių sistemos
+Donorų registravimo ir kraujo komponentų ruošimo, apskaitos ir valdymo programos licencija 
+(ATVIRAS KONKURSAS))
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Donorų registravimo ir kraujo komponentų ruošimo, apskaitos ir valdymo programos licencija (ATVIRAS 
+KONKURSAS))
+Aprašymas: Donorų registravimo ir kraujo komponentų ruošimo, apskaitos ir valdymo programos licencija
+Procedūros identifikatorius: 29dfe97c-f8f3-4cb3-b5d1-32ab67386e1b
+Ankstesnis skelbimas: 89d538d5-8bd6-4262-a4a4-667528482b5d-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48900000 Įvairūs programinės įrangos paketai ir kompiuterių sistemos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 578 512,4 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Donorų registravimo ir kraujo komponentų ruošimo, apskaitos ir valdymo programos licencija (ATVIRAS 
+KONKURSAS))
+Aprašymas: Donorų registravimo ir kraujo komponentų ruošimo, apskaitos ir valdymo programos licencija
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48900000 Įvairūs programinės įrangos paketai ir kompiuterių sistemos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 578 512,4 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: mažinti popieriaus sunaudojimą, atsisakyti nebūtino dokumentų kopijavimo ir spausdinimo. Su 
+Sutarties vykdymu susiję dokumentai Klientui turi būti pateikti tik elektroniniu formatu (nebent Sutartyje ir jos 
+prieduose nenumatyta kitaip). Išimtiniais atvejais su Sutarties vykdymu susiję dokumentai, turi (gali) būti pateikiami 
+popieriniu formatu, jeigu toks formatas privalomas pagal teisės aktus arba Klientas nurodo tokį būtinumą - 
+tokiu atveju turi būti naudojamas perdirbtas popierius, kuris atitinka minimaliuosius aplinkos apsaugos kriterijus, 
+patvirtintus Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 „Dėl Produktų, 
+kurių viešiesiems pirkimams taikytini aplinkos 2 apsaugos kriterijai, sąrašo, Aplinkos apsaugos kriterijų ir Aplinkos 
+apsaugos kriterijų, kuriuos perkančiosios organizacijos turi taikyti pirkdamos prekes, paslaugas ar darbus, taikymo 
+tvarkos aprašo patvirtinimo“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 487 860 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: GPI Iberia Health Solutions SL
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000072035
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 487 860 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 26531
+Sutarties sudarymo data: 29/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga Nacionalinis kraujo centras (PV)
+Registracijos numeris: 126413338
+Pašto adresas: Žolyno g. 34 
+Miestas: Vilnius
+Pašto kodas: LT-10246
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: i.vaitekenaite@kraujodonoryste.lt
+Telefono numeris: +370 5 2392438
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: GPI Iberia Health Solutions SL
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: B82874173
+Pašto adresas: C/ Antonio López, 249 
+Miestas: Madrid
+Pašto kodas: 28041
+Šalies administracinis vienetas (NUTS): Madrid (ES300)
+Šalis: Ispanija
+E. paštas: gisele.mporanyi@gpi-iberia.com
+Telefono numeris: +34 910557628
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 1eab4e1d-f764-4627-8e6b-a4c8ae7da759 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 06/08/2025 11:31 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

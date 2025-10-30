@@ -1,0 +1,363 @@
+Lietuva: Maisto mokykloms paslaugos
+Kretingos rajono savivaldybės bendrojo ugdymo mokyklų mokinių maitinimo paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kretingos rajono savivaldybės bendrojo ugdymo mokyklų mokinių maitinimo paslaugos
+Aprašymas: Perkančioji organizacija numato įsigyti Kretingos rajono savivaldybės bendrojo ugdymo mokyklų mokinių 
+maitinimo paslaugas. Pirkimo objektas skaidomas į dalis: I pirkimo dalis - I zona (Kretingos Simono Daukanto 
+progimnazija, Kretingos Simono Daukanto progimnazijos Rūdaičių skyrius, Kretingos r. Vydmantų gimnazija, Kretingos 
+r. Jokūbavo Aleksandro Stulginskio mokykla-daugiafunkcis centras, Kretingos r. Jokūbavo Aleksandro Stulginskio 
+mokyklos-daugiafunkcio centro Baublių skyrius); II pirkimo dalis - II zona (Kretingos Jurgio Pabrėžos universitetinė 
+gimnazija, Kretingos Marijos Tiškevičiūtės mokykla; Kretingos rajono Kartenos mokykla-daugiafunkcis centras; 
+Kretingos r. Kūlupėnų Motiejaus Valančiaus pagrindinė mokykla; Kretingos rajono Kurmaičių pradinė mokykla); III 
+pirkimo dalis - III zona (Kretingos Marijono Daujoto progimnazija, Kretingos r. Salantų gimnazija). Pirkimo apimtys, 
+reikalavimai ir techninė specifikacija apibrėžti specialiųjų pirkimo sąlygų 2 priede.
+Procedūros identifikatorius: 60f672c0-d875-4fca-8f3a-5205d8e77f67
+Ankstesnis skelbimas: 97b38c4a-4623-46dc-9fc8-e414aaa86c7c-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 55523100 Maisto mokykloms paslaugos
+2.1.2 Sutarties vykdymo vieta
+Miestas: Kretinga
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: I zona (Kretingos Simono Daukanto progimnazija, Kretingos Simono Daukanto progimnazijos Rūdaičių 
+skyrius, Kretingos r. Vydmantų gimnazija, Kretingos r. Jokūbavo Aleksandro Stulginskio mokykla-daugiafunkcis 
+centras, Kretingos r. Jokūbavo Aleksandro Stulginskio mokyklos-daugiafunkcio centro Baublių skyrius)
+Aprašymas: Perkančioji organizacija numato įsigyti Kretingos rajono savivaldybės bendrojo ugdymo mokyklų mokinių 
+maitinimo paslaugas. Pirkimo apimtys, reikalavimai ir techninė specifikacija apibrėžti specialiųjų pirkimo sąlygų 2 
+priede.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 55523100 Maisto mokykloms paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kretinga
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami mažiausios pasiūlytos kainos (Cmin) ir vertinamo 
+pasiūlymo kainos (Cp) santykį padauginant iš kainos lyginamojo svorio (X)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Maisto gamyboje ir maisto produktų tiekime naudojamos ekologiškos produkcijos ir / ar maisto 
+produktus atitinkančius „Nacionalinės žemės ūkio ir maisto produktų kokybės sistemos“ (toliau - NKP) reikalavimus 
+kiekis (T1) Pasiūlymo antro kriterijaus (T1) balai apskaičiuojami pasiūlymo parametro reikšmę (Tp) padalinant iš 10 
+ir padauginant iš antro kriterijaus lyginamojo svorio (Y1)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Šviežių daržovių įvairovė (T2). Pasiūlymo trečio kriterijaus (T2) balai apskaičiuojami pasiūlymo 
+parametro reikšmę (Tp) padalinant iš 10 ir padauginant iš trečio kriterijaus lyginamojo svorio (Y2)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Šviežių vaisių įvairovė (T3). Pasiūlymo ketvirto kriterijaus (T3) balai apskaičiuojami pasiūlymo 
+parametro reikšmę (Tp) padalinant iš 10 ir padauginant iš ketvirto kriterijaus lyginamojo svorio (Y3)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kretingos rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kretingos rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kretingos rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: II zona (Kretingos Jurgio Pabrėžos universitetinė gimnazija, Kretingos Marijos Tiškevičiūtės mokykla; 
+Kretingos rajono Kartenos mokykla-daugiafunkcis centras; Kretingos r. Kūlupėnų Motiejaus Valančiaus pagrindinė 
+mokykla; Kretingos rajono Kurmaičių pradinė mokykla)
+Aprašymas: Perkančioji organizacija numato įsigyti Kretingos rajono savivaldybės bendrojo ugdymo mokyklų mokinių 
+maitinimo paslaugas. Pirkimo apimtys, reikalavimai ir techninė specifikacija apibrėžti specialiųjų pirkimo sąlygų 2 
+priede.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 55523100 Maisto mokykloms paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kretinga
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami mažiausios pasiūlytos kainos (Cmin) ir vertinamo 
+pasiūlymo kainos (Cp) santykį padauginant iš kainos lyginamojo svorio (X)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Maisto gamyboje ir maisto produktų tiekime naudojamos ekologiškos produkcijos ir / ar maisto 
+produktus atitinkančius „Nacionalinės žemės ūkio ir maisto produktų kokybės sistemos“ (toliau - NKP) reikalavimus 
+kiekis (T1). Pasiūlymo antro kriterijaus (T1) balai apskaičiuojami pasiūlymo parametro reikšmę (Tp) padalinant iš 
+10 ir padauginant iš antro kriterijaus lyginamojo svorio (Y1)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Šviežių daržovių įvairovė (T2). Pasiūlymo trečio kriterijaus (T2) balai apskaičiuojami pasiūlymo 
+parametro reikšmę (Tp) padalinant iš 10 ir padauginant iš trečio kriterijaus lyginamojo svorio (Y2)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Šviežių vaisių įvairovė (T3). Pasiūlymo ketvirto kriterijaus (T3) balai apskaičiuojami pasiūlymo 
+parametro reikšmę (Tp) padalinant iš 10 ir padauginant iš ketvirto kriterijaus lyginamojo svorio (Y3)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kretingos rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kretingos rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kretingos rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: III zona (Kretingos Marijono Daujoto progimnazija, Kretingos r. Salantų gimnazija)
+Aprašymas: Perkančioji organizacija numato įsigyti Kretingos rajono savivaldybės bendrojo ugdymo mokyklų mokinių 
+maitinimo paslaugas. Pirkimo apimtys, reikalavimai ir techninė specifikacija apibrėžti specialiųjų pirkimo sąlygų 2 
+priede.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 55523100 Maisto mokykloms paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Kretinga
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami mažiausios pasiūlytos kainos (Cmin) ir vertinamo 
+pasiūlymo kainos (Cp) santykį padauginant iš kainos lyginamojo svorio (X)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 70
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Maisto gamyboje ir maisto produktų tiekime naudojamos ekologiškos produkcijos ir / ar maisto 
+produktus atitinkančius „Nacionalinės žemės ūkio ir maisto produktų kokybės sistemos“ (toliau - NKP) reikalavimus 
+kiekis (T1). Pasiūlymo antro kriterijaus (T1) balai apskaičiuojami pasiūlymo parametro reikšmę (Tp) padalinant iš 
+10 ir padauginant iš antro kriterijaus lyginamojo svorio (Y1)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Šviežių daržovių įvairovė (T2). Pasiūlymo trečio kriterijaus (T2) balai apskaičiuojami pasiūlymo 
+parametro reikšmę (Tp) padalinant iš 10 ir padauginant iš trečio kriterijaus lyginamojo svorio (Y2)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Šviežių vaisių įvairovė (T3). Pasiūlymo ketvirto kriterijaus (T3) balai apskaičiuojami pasiūlymo 
+parametro reikšmę (Tp) padalinant iš 10 ir padauginant iš ketvirto kriterijaus lyginamojo svorio (Y3)
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Kretingos rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Kretingos rajono savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Kretingos rajono savivaldybės administracija
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 4 546 081 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "CNC catering"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033899
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 657 780,17 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23804
+Sutarties sudarymo data: 20/06/2025
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "CNC catering"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033899
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 1 416 580,17 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23805
+Sutarties sudarymo data: 20/06/2025
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "CNC catering"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000033899
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 1 471 720,66 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23806
+Sutarties sudarymo data: 20/06/2025
+Organizacija, pasirašanti sutartį: Kretingos rajono savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kretingos rajono savivaldybės administracija
+Registracijos numeris: 188715222
+Pašto adresas: Savanorių g. 29A 
+Miestas: Kretinga
+Pašto kodas: 97111
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: ausra.margeviciene@kretinga.lt
+Telefono numeris: +37044570308
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "CNC catering"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 305481583
+Pašto adresas: Palangos g. 30 C 
+Miestas: Kretinga
+Pašto kodas: LT-97123
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: viesiejipirkimai@cnc-catering.lt
+Telefono numeris: +37062036148
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 79ff8fad-e80a-4cb7-80c1-68cdc360d577 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/07/2025 13:29 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

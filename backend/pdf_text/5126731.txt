@@ -1,0 +1,348 @@
+Lietuva: Generatoriai
+Generatoriai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Generatoriai
+Aprašymas: Elektros generatoriai: nešiojamas 7,5 kW elektros generatorius (15 vnt.), mobilus 20 kW elektros 
+generatorius su priekaba (32 vnt), mobilus 100 kW elektros generatorius su priekaba (9 vnt.), mobilus 200 kW elektros 
+generatorius su priekaba (4 vnt.).
+Procedūros identifikatorius: e97dc6af-d7ef-4f52-8740-e8edc5d8b623
+Ankstesnis skelbimas: 41d5121b-cd97-4d73-b7db-5fd06aec4ad1-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31120000 Generatoriai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mobilus 20 kw elektros generatorius su priekaba
+Aprašymas: Elektros generatoriai: nešiojamas 7,5 kW elektros generatorius (15 vnt.), mobilus 20 kW elektros 
+generatorius su priekaba (32 vnt), mobilus 100 kW elektros generatorius su priekaba (9 vnt.), mobilus 200 kW elektros 
+generatorius su priekaba (4 vnt.).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31120000 Generatoriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, atliekanti mokėjimus: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Mobilus 100 kw elektros generatorius su priekaba
+Aprašymas: Elektros generatoriai: nešiojamas 7,5 kW elektros generatorius (15 vnt.), mobilus 20 kW elektros 
+generatorius su priekaba (32 vnt), mobilus 100 kW elektros generatorius su priekaba (9 vnt.), mobilus 200 kW elektros 
+generatorius su priekaba (4 vnt.).
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31120000 Generatoriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, atliekanti mokėjimus: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Mobilus 200 kw elektros generatorius su priekaba
+Aprašymas: Elektros generatoriai: nešiojamas 7,5 kW elektros generatorius (15 vnt.), mobilus 20 kW elektros 
+generatorius su priekaba (32 vnt), mobilus 100 kW elektros generatorius su priekaba (9 vnt.), mobilus 200 kW elektros 
+generatorius su priekaba (4 vnt.).
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31120000 Generatoriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, atliekanti mokėjimus: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Nešiojamas 7,5 kw elektros generatorius
+Aprašymas: Elektros generatoriai: nešiojamas 7,5 kW elektros generatorius (15 vnt.), mobilus 20 kW elektros 
+generatorius su priekaba (32 vnt), mobilus 100 kW elektros generatorius su priekaba (9 vnt.), mobilus 200 kW elektros 
+generatorius su priekaba (4 vnt.).
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 31120000 Generatoriai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 36 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Perkančioji organizacija ekonomiškai naudingiausią pasiūlymą išrenka pagal kainą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Peržiūros procedūra nustatyta Viešųjų pirkimų įstatymo VII skyriaus nustatyta 
+tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Organizacija, atliekanti mokėjimus: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 846 930 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Automatikos sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000067433
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 171 876 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: DPS-424
+Sutarties sudarymo data: 09/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 7
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: RĪGAS DĪZELIS DG
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000067286
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 413 760 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: DPS-411
+Sutarties sudarymo data: 28/08/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 9
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: RĪGAS DĪZELIS DG
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000067286
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 39 300 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: DPS-480
+Sutarties sudarymo data: 07/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 8
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Ekobana"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000066511
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 221 994 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: DPS-456
+Sutarties sudarymo data: 24/09/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: GYNYBOS RESURSŲ AGENTŪRA PRIE KAM
+Registracijos numeris: 304740061
+Pašto adresas: Giedraičių g. 41 09303 
+Miestas: Vilnius
+Pašto kodas: 09303
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vygantas.martisiunas@kam.lt
+Telefono numeris: +370 680 65 613
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Ekobana"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 121193272
+Pašto adresas: Pergalės g. 33B 
+Miestas: Vilnius
+Pašto kodas: 11202
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ekobana.lt
+Telefono numeris: +37052672937
+Fakso numeris: +37052678721
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004
+8.1 ORG-0003
+Oficialus pavadinimas: RĪGAS DĪZELIS DG
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 40003270270
+Pašto adresas: Ganību dambis 36 
+Miestas: Riga
+Pašto kodas: LV-1005
+Šalies administracinis vienetas (NUTS): Vidzeme (LV00C)
+Šalis: Latvija
+E. paštas: edgars.dz@rigasdizelis.com
+Telefono numeris: +37129337021
+Interneto adresas: www.rigasdizelis.lv
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002, LOT-0003
+8.1 ORG-0004
+Oficialus pavadinimas: Automatikos sistemos
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 148363514
+Pašto adresas: Pušaloto g. 108A 
+Miestas: Panevėžys
+Pašto kodas: 35101
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: grazina.baltruniene@asistemos.lt
+Telefono numeris: +37069815310
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b903ab91-3b2d-42bb-b5a9-692ac4067b9a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/10/2025 07:36 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

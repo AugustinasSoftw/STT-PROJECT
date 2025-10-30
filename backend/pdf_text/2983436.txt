@@ -1,0 +1,125 @@
+Lietuva: Mokyklų statybos darbai
+(2418094) Laikinų modulinių pastatų Ateities g. 44, Vilniuje projektavimo ir statybos darbai
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "Adapteo"
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (2418094) Laikinų modulinių pastatų Ateities g. 44, Vilniuje projektavimo ir statybos darbai
+Aprašymas: Laikinų modulinių pastatų Ateities g. 44, Vilniuje projektavimo ir statybos darbai
+Procedūros identifikatorius: 354fdb89-7d6b-43db-989e-3289fea4628c
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45214200 Mokyklų statybos darbai
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: rangos darbai
+2.1.4 Bendra informacija
+Papildoma informacija: Neskelbiamos derybos (supaprastintos).
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (2418094) Laikinų modulinių pastatų Ateities g. 44, Vilniuje projektavimo ir statybos darbai
+Aprašymas: Laikinų modulinių pastatų Ateities g. 44, Vilniuje projektavimo ir statybos darbai
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45214200 Mokyklų statybos darbai
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Papildoma informacija: Vilnius
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 933 847 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Ypatinga skuba dėl įvykių, kurių pirkėjas negalėjo numatyti
+Kitas pagrindimas: Atsižvelgiant į reikiamo įrengti objekto svarbą visuomenei bei itin trumpą ugdymo infrastruktūros 
+sukūrimui skirtą terminą (2025 m. rugsėjo 1 d.), tokio trumpo termino laikymasis ir įgyvendinimas įmanomas tik 
+viešuosius pirkimus vykdant nestandartiniu ir išimtiniu viešųjų pirkimų būdu, t.y. VPĮ 71 str. 1 d. 3 p. numatytu 
+neskelbiamų derybų būdu (esant didelei skubai ir kad perkančioji organizacija poreikio anksčiau numatyti 
+objektyviai negalėjo). Vokietijos Federacinės Respublikos ginkluotųjų pajėgų karių ir šeimų atvykimo ir įsikūrimo 
+poreikių užtikrinimas Lietuvoje yra ne tik VMSA tiesioginis poreikis. Šis pirkimo poreikis yra dalis Lietuvos valstybės 
+prisiimtų įsipareigojimų, kurių savalaikis įgyvendinimas yra itin reikšmingas visos šalies gynybai ir saugumui. 
+Vertinant tai, kad tiekėjas turės suprojektuoti ir pastatyti pastatus iš modulių, pirkimas būtų vykdomas kaip darbų 
+pirkimas, skaičiuojant pagal pirkimų vertes - būtų vykdomos supaprastintos neskelbiamos derybos, kurioms VPT 
+sutikimas nereikalingas.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Uždaroji akcinė bendrovė „Vilniaus vystymo kompanija“
+Registracijos numeris: 120750163
+Padalinys: Viešųjų pirkimų skyrius
+Pašto adresas: Konstitucijos pr. 3 
+Miestas: Vilnius
+Pašto kodas: LT-09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@vilniausvystymas.lt
+Telefono numeris: +370 687 66 000
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Adapteo"
+Miestas: Vilnius
+Pašto kodas: 09308
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tadas.piekus@adapteo.com
+Telefono numeris: +370 687 47000
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Skelbimo informacija
+Skelbimo identifikatorius / versija: e7e7fe23-4bc4-49db-8353-bf18b07f3df0 - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 20/06/2025 17:19 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

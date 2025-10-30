@@ -1,0 +1,150 @@
+Lietuva: Baziniai neorganiniai chemikalai
+734946 - Cheminių medžiagų pirkimo - III kategorijos - Testavimo priemonių, standartų ir 
+indikatorinio popieriaus pirkimas Nr. 2
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 734946 - Cheminių medžiagų pirkimo - III kategorijos - Testavimo priemonių, standartų ir indikatorinio 
+popieriaus pirkimas Nr. 2
+Aprašymas: Cheminių medžiagų pirkimo - III kategorijos - Testavimo priemonių, standartų ir indikatorinio popieriaus 
+pirkimas Nr. 2 (konkretaus pirk. Nr. 734946), atliktas sukurtos „Cheminių medžiagų pirkimas“ (pirk. Nr. 599070) 
+dinaminės pirkimo sistemos pagrindu
+Procedūros identifikatorius: 290bd4b0-c488-4f73-bff2-6e8ce07a967b
+Ankstesnis skelbimas: 352390-2022
+Vidaus identifikatorius: 734946
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 24310000 Baziniai neorganiniai chemikalai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Cheminių medžiagų pirkimas - III kategorija - Testavimo priemonių, standartų ir indikatorinio popieriaus 
+pirkimas Nr. 2
+Aprašymas: Cheminių medžiagų pirkimo - III kategorijos - Testavimo priemonių, standartų ir indikatorinio popieriaus 
+pirkimas Nr. 2“ (pirk. Nr. 734946), atliktas sukurtos „Cheminių medžiagų pirkimas“ (pirk. Nr. 599070) dinaminės pirkimo 
+sistemos pagrindu.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 24310000 Baziniai neorganiniai chemikalai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina.
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 1 127,02 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Avsista“
+Pasiūlymas:
+Pasiūlymo identifikatorius: P1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PSt-367(13.66E)
+Sutarties sudarymo data: 10/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Atominės elektrinės eksploatacijos nutraukimas 
+(Lietuva) (2021/2027)
+ES fondų identifikatorius: Pirkimas finansuojamas Ignalinos programos dotacijos Nr. ADA.24 sutarį Nr. 
+2022/4-7-35/St-182
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Registracijos numeris: 255450080
+Registracijos numeris: 255450080
+Pašto adresas: Elektrinės g. 4, K 47, Drūkšinių k. 
+Miestas: Visagino sav.
+Pašto kodas: 31152
+Šalis: Lietuva
+E. paštas: iae@iae.lt
+Telefono numeris: +37065853249
+Fakso numeris: +370 386 28985
+Interneto adresas: www.iae.lt
+Pirkėjo profilis: www.iae.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9, LT-35175 
+Miestas: Panevėžys
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: 37045468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „Avsista“
+Registracijos numeris: 155525379
+Miestas: Visagino sav.
+Šalis: Lietuva
+E. paštas: visaginas1@avsista.lt
+Telefono numeris: 861114693
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 4ea2344d-d368-4771-876d-0028ad8df255 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/12/2024 06:37 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

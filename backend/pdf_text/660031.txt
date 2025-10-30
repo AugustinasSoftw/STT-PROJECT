@@ -1,0 +1,168 @@
+Lietuva: Siuntinių vežimo paslaugos
+Mėginių surinkimo ir gabenimo paslaugos (supaprastintas atviras pirkimas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybinė maisto ir veterinarijos tarnyba
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mėginių surinkimo ir gabenimo paslaugos (supaprastintas atviras pirkimas)
+Aprašymas: Valstybinė maisto ir veterinarijos tarnyba (toliau - VMVT) siekia įsigyti mėginių surinkimo ir gabenimo 
+paslaugas iki Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto (toliau - NMVRVI), adresu J. Kairiūkščio g. 
+10, Vilniuje. Ši paslauga suprantama kaip VMVT surinktų mėginių paėmimas perkančiosios organizacijos nurodytais 
+adresais, grafiku Lietuvoje ir pristatymas į NMVRVI.
+Procedūros identifikatorius: 278f97ed-f612-4398-9152-e625fdf1ed99
+Ankstesnis skelbimas: 303b85a7-984f-4a97-9d9a-57ccccf97bd4-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 60161000 Siuntinių vežimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mėginių surinkimo ir gabenimo paslaugos (supaprastintas atviras pirkimas)
+Aprašymas: Valstybinė maisto ir veterinarijos tarnyba (toliau - VMVT) siekia įsigyti mėginių surinkimo ir gabenimo 
+paslaugas iki Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto (toliau - NMVRVI), adresu J. Kairiūkščio g. 
+10, Vilniuje. Ši paslauga suprantama kaip VMVT surinktų mėginių paėmimas perkančiosios organizacijos nurodytais 
+adresais, grafiku Lietuvoje ir pristatymas į NMVRVI.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 60161000 Siuntinių vežimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: 1.1. Pirkimas laikomas žaliuoju pagal Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 13 
+d. įsakymu Nr. D1-401 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. birželio 28 d. įsakymo Nr. D1-508 
+„Dėl Produktų, kurių viešiesiems pirkimams ir pirkimams taikytini Aplinkos apsaugos kriterijai, sąrašo, Aplinkos 
+apsaugos kriterijų ir aplinkos apsaugos kriterijų, kuriuos perkančiosios organizacijos ir perkantieji subjektai turi 
+taikyti pirkdami prekes, paslaugas ar darbus, taikymo tvarkos aprašo patvirtinimo“ pakeitimo“ patvirtinto Aplinkos 
+apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo 4.4. p.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas laikomas mažiausios kainos pasiūlymas.
+Eilės tvarka pagal svarbą: 1
+Fiksuota vertė (iš viso): 1
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Valstybinė maisto ir veterinarijos tarnyba
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 88 717,2 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Pieno tyrimai"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000007202
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 1872
+Sutarties sudarymo data: 19/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybinė maisto ir veterinarijos tarnyba
+Registracijos numeris: 188601279
+Pašto adresas: Siesikų g. 19 
+Miestas: Vilnius
+Pašto kodas: LT-07170
+Šalis: Lietuva
+E. paštas: agne.kavoliene@vmvt.lt
+Telefono numeris: +37065024212
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Pieno tyrimai"
+Registracijos numeris: 233816290
+Pašto adresas: Radvilų Dvaro g. 31 
+Miestas: Kaunas
+Pašto kodas: LT-48331
+Šalis: Lietuva
+E. paštas: info@pieno-tyrimai.lt
+Telefono numeris: +370 37 361181
+Interneto adresas: www.pieno-tyrimai.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: de802733-8d60-484e-bcc0-7b42e53ef77a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/01/2025 15:04 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

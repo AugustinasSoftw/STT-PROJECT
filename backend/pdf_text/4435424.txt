@@ -1,0 +1,153 @@
+Lietuva: Duomenų tinklo valdymo ir palaikymo paslaugos
+DVS Kontora, VIPIS ir STRAPIS priežiūra bei vystymas, savivaldybės administracijai ir 
+biudžetinėms įstaigoms, IS PARAMA biometrinių ir elektroninių parašų transakcijų teikimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Klaipėdos rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: DVS Kontora, VIPIS ir STRAPIS priežiūra bei vystymas, savivaldybės administracijai ir biudžetinėms 
+įstaigoms, IS PARAMA biometrinių ir elektroninių parašų transakcijų teikimas
+Aprašymas: DVS Kontora, VIPIS ir STRAPIS priežiūra bei vystymas, savivaldybės administracijai ir biudžetinėms 
+įstaigoms, IS PARAMA biometrinių ir elektroninių parašų transakcijų teikimas
+Procedūros identifikatorius: a6c6c80f-83b5-41da-9704-706bbbb20e9a
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72315000 Duomenų tinklo valdymo ir palaikymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: DVS Kontora, VIPIS ir STRAPIS priežiūra bei vystymas, savivaldybės administracijai ir biudžetinėms 
+įstaigoms, IS PARAMA biometrinių ir elektroninių parašų transakcijų teikimas
+Aprašymas: DVS Kontora, VIPIS ir STRAPIS priežiūra bei vystymas, savivaldybės administracijai ir biudžetinėms 
+įstaigoms, IS PARAMA biometrinių ir elektroninių parašų transakcijų teikimas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72315000 Duomenų tinklo valdymo ir palaikymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 37 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Ekonomiškai naudingiausias 
+pasiūlymas
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Klaipėdos rajono savivaldybės administracija
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos rajono savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 358 000 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Paslaugų pirkimo sutartis, skiriama remiantis išimtine teise
+Kitas pagrindimas: Vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo (toliau - VPĮ) 95 str. 2 dalies 7 
+p., 71 straipsnio 1 dalies 2 punkto b ir c papunkčiais pirkimas vykdomas neskelbiamų derybų būdu kreipiantis į 
+nurodytų informacinių sistemų autoriaus turtinių ir kitų intelektinės nuosavybės teisių turėtoją konkretų tiekėją UAB 
+„Nevda“.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: NEVDA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000093614
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 357 571,94 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 29384
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Klaipėdos rajono savivaldybės administracija
+Registracijos numeris: 188773688
+Pašto adresas: Klaipėdos g. 2 
+Miestas: Gargždai
+Pašto kodas: LT-96130
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: savivaldybe@klaipedos-r.lt
+Telefono numeris: +37046211116
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: NEVDA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 121931451
+Pašto adresas: Savanorių pr. 178F 
+Miestas: Vilnius
+Pašto kodas: 03154
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: paulius@nevda.lt
+Telefono numeris: +37068515007
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: H. Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46390960
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5f7ce889-4884-48d4-a242-9f1e52536a90 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/09/2025 14:26 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

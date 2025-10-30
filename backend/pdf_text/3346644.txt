@@ -1,0 +1,163 @@
+Lietuva: Kelių dangos darbai
+Valstybinės reikšmės krašto kelio Nr. 221 Vievis-Aukštadvaris ruožo nuo 29,198 iki 32,663 km 
+paprastojo remonto aprašo parengimas ir darbų atlikimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB Via Lietuva
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Valstybinės reikšmės krašto kelio Nr. 221 Vievis-Aukštadvaris ruožo nuo 29,198 iki 32,663 km 
+paprastojo remonto aprašo parengimas ir darbų atlikimas
+Aprašymas: Valstybinės reikšmės krašto kelio Nr. 221 Vievis-Aukštadvaris ruožo nuo 29,198 iki 32,663 km paprastojo 
+remonto aprašo parengimas ir darbų atlikimas
+Procedūros identifikatorius: 09d5b52a-4bf5-4837-9db5-cc693f7b6fce
+Pirkimo būdas: Kita vieno etapo procedūra
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: Konkretus pirkimas DPS pagrindu
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233220 Kelių dangos darbai
+Kiti klasifikacijos kodai (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Valstybinės reikšmės krašto kelio Nr. 221 Vievis-Aukštadvaris ruožo nuo 29,198 iki 32,663 km 
+paprastojo remonto aprašo parengimas ir darbų atlikimas
+Aprašymas: Valstybinės reikšmės krašto kelio Nr. 221 Vievis-Aukštadvaris ruožo nuo 29,198 iki 32,663 km paprastojo 
+remonto aprašo parengimas ir darbų atlikimas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233220 Kelių dangos darbai
+Kiti klasifikacijos kodai (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: taikomi aplinkos apsaugos vadybos sistemos reikalavimai
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 70
+Aprašymas: Pasiūlymo kainos (C) balai apskaičiuojami mažiausios pasiūlytos kainos (Cmin) ir vertinamo 
+pasiūlymo kainos (Cp) santykį padauginant iš kainos lyginamojo svorio (X):
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 30
+Aprašymas: Antrojo kriterijaus, t. y. darbų atlikimo termino, išreikšto mėnesiais, (T) balai apskaičiuojami mažiausio 
+pasiūlyto termino mėnesiais (Pmin) ir vertinamo pasiūlymo termino (Pp) santykį padauginant iš šio kriterijaus 
+lyginamojo svorio (Y):
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Informacija apie peržiūros terminus nurodyta VPĮ VII skyriuje
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB Via Lietuva -
+Organizacija, pasirašanti sutartį: AB Via Lietuva
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 498 765,44 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: AB Kauno tiltai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000051712
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 498 765,44 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21590
+Pavadinimas: Valstybinės reikšmės krašto kelio Nr. 221 Vievis-Aukštadvaris ruožo nuo 29,198 iki 32,663 km 
+paprastojo remonto aprašo parengimas ir darbų atlikimas
+Data, kurią buvo pasirinktas laimėtojas: 20/05/2025
+Sutarties sudarymo data: 05/06/2025
+Organizacija, pasirašanti sutartį: AB Via Lietuva
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB Via Lietuva
+Registracijos numeris: 188710638
+Pašto adresas: Kauno g. 22 
+Miestas: Vilnius
+Pašto kodas: 03212
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: danguole.zavarziniene@vielietuva.lt
+Telefono numeris: 065033945
+Interneto adresas: www.vialietuva.lt
+Pirkėjo profilis: www.vialietuva.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: AB Kauno tiltai
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: 133729589
+Pašto adresas: Ateities pl. 46 
+Miestas: Kaunas
+Pašto kodas: 52502
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: rimantas.giedraitis@kaunotiltai.lt
+Telefono numeris: +37061529874
+Interneto adresas: www.kaunotiltai.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 73acfc69-9913-42eb-9f12-816bd6cc9b6b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/06/2025 14:22 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

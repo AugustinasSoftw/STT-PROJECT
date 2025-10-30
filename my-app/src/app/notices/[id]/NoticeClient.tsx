@@ -9,6 +9,8 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import Link from "next/link";
+import { FaRegFile } from "react-icons/fa";
 
 type Props = {
   rowValue: CVPRow;
@@ -52,7 +54,17 @@ export default function NoticeClient({
 
       {/* Summary grid */}
       <section className="grid md:grid-cols-2 gap-6">
-        <Field label="Pranešimo ID" value={rowValue.notice_id} />
+        <div className="rounded-lg border border-zinc-800 p-4">
+          <div className="text-xs dark:text-zinc-500">Pranešimo ID</div>
+          <div className="text-sm dark:text-zinc-300">
+            <Link
+              className="text-blue-400 underline hover:opacity-80"
+              href={rowValue.pdf_url || ""}
+            >
+              {rowValue.notice_id || "-"}
+            </Link>
+          </div>
+        </div>
         <Field label="Pranešimo tipas" value={rowValue.skelbimo_tipas} />
         <Field label="Pranešimo pavadinimas" value={rowValue.title} />
         <Field label="PV" value={rowValue.buyer_name} />
@@ -79,6 +91,9 @@ export default function NoticeClient({
                   </p>
                   <p>
                     <strong>Šalis:</strong> {lot?.Šalis ?? "—"}
+                  </p>
+                  <p>
+                    <strong>Būsena:</strong> {lot?.Rezultatas.Būsena ?? "—"}
                   </p>
 
                   {/* winners list */}
@@ -113,24 +128,53 @@ export default function NoticeClient({
         )}
       {/* Supplier History */}
       <section className="rounded-xl border border-zinc-800 p-5">
-        <h2 className="text-lg font-semibold mb-3">Supplier History</h2>
+        <h2 className="text-lg font-semibold mb-3">Pirkėjo/Tiekėjo istorija</h2>
         <div className="text-sm dark:text-zinc-400">
           {matches.length > 0 ? (
             <table className="w-full text-left border-collapse">
               <thead>
                 <tr className="border-b border-zinc-800 dark:text-zinc-500">
-                  <th className="pb-2">Year</th>
-                  <th className="pb-2">Contracts</th>
-                  <th className="pb-2">Total Value (€)</th>
+                  <th className="pb-2">Paskelbimo Data</th>
+                  <th className="pb-2">Pranešimo ID</th>
+                  <th className="pb-2">PV</th>
+                  <th className="pb-2">Pavadinimas</th>
+                  <th className="pb-2">Sutartis</th>
+                  <th className="pb-2">Visa sutarčių vertė</th>
                 </tr>
               </thead>
               <tbody>
                 {matches.map((m) => (
                   <tr key={m.notice_id} className="border-b border-zinc-900">
                     <td className="py-1">{m.publish_date}</td>
-                    <td className="py-1">{m.notice_id}</td>
+                    <td className="py-1">
+                      <Link
+                        target="_blank"
+                        href={`/notices/${encodeURIComponent(m.notice_id)}`}
+                        prefetch
+                        className="text-blue-400 underline hover:opacity-80"
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        {m.notice_id}
+                      </Link>
+                    </td>
                     <td className="py-1">{m.buyer_name}</td>
                     <td className="py-1">{m.aprasymas}</td>
+                    <td className="py-1">
+                      {m.pdf_url ? (
+                        <Link href={m.pdf_url}>
+                          <FaRegFile />
+                        </Link>
+                      ) : (
+                        <span>-</span>
+                      )}
+                    </td>
+                    <td className="py-1">
+                      {m.visoSutarciuVerte?.amount
+                        ? `${Number(
+                            m.visoSutarciuVerte.amount
+                          ).toLocaleString()} ${m.visoSutarciuVerte.currency}`
+                        : "—"}
+                    </td>
                   </tr>
                 ))}
               </tbody>

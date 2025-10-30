@@ -1,0 +1,139 @@
+Lietuva: Su programine įranga susijusios paslaugos
+(2025-GSC-10) Automatizuotos elektros energijos apskaitos sistemos „EMCOS“ aptarnavimo 
+paslaugos
+Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (2025-GSC-10) Automatizuotos elektros energijos apskaitos sistemos „EMCOS“ aptarnavimo paslaugos
+Aprašymas: Automatizuotos elektros energijos apskaitos sistemos „EMCOS“ aptarnavimo paslaugos
+Procedūros identifikatorius: d06b1cc9-9069-4b69-9ddf-89f278f05371
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Papildoma informacija: Vilnius
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (2025-GSC-10) Automatizuotos elektros energijos apskaitos sistemos „EMCOS“ aptarnavimo paslaugos
+Aprašymas: Automatizuotos elektros energijos apskaitos sistemos „EMCOS“ aptarnavimo paslaugos
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Papildoma informacija: Vilnius
+5.1.3 Numatomas galiojimas
+Galiojimas: 38 Mėnuo
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: ES žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: UAB Ignitis grupės paslaugų centras (PV)
+6 Rezultatai
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Sutartį vykdyti gali tik konkretus ekonominės veiklos vykdytojas dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises
+Kitas pagrindimas: 2003 m. AB Rytų skirstomieji tinklai ir AB „Vakarų skirstomieji tinklai“ su UAB „Sigma Telas“ 
+pasirašė automatizuotos elektros energijos apskaitos sistemos sukūrimo ir įrengimo sutartis (toliau - sutartys), 
+kurių pagrindu UAB „Sigma Telas“ sukūrė sistemas (sistemos sukurtos licencijuotos programinės įrangos EMCOS 
+pagrindu) (toliau - Sistema). Sistemoje šiuo metu kaupiami ir apdorojami rodmenys bei kiti parametrai iš 22000 
+įvairių modelių ir gamintojų elektros energijos ir dujų apskaitos prietaisų, kurie automatizuotai nuskaitomi ne 
+rečiau kaip kartą per parą. Sistemoje kaupiami apskaitos prietaisų rodmenys, įvykiai bei įvairūs veiklos procesams 
+rodmenų agregatai (balansai) per mėnesį sudaro 300 GB, taip pat Sistemoje veikia automatizuoti archyvinių 
+duomenų valymo ir glaudinimo procesai. Rodmenų įrašymo procesai vykdomi kaip didelė aibė lygiagrečiai aktyvių 
+duomenų bazės sesijų, kurių skaičius gali sudaryti keletą šimtų ir daugiau. Sistema šiuo metu naudojasi 860 
+aktyvių vartotojų, atliekančių įvairias funkcijas, pradedant centrinio biuro darbuotojais, dispečeriais, stebinčiais ir 
+koordinuojančiais energetinio tinklo veiklą ir baigiant regionų apskaitų komandų specialistais. Siekiant užtikrinti 
+tinkamą Sistemos veikimą ir jos priežiūrą būtina įsigyti Sistemos aptarnavimo paslaugas, kurias šiuo atveju gali 
+suteikti tik konkretus tiekėjas - UAB „Sigma Telas“. Pažymėtina, kad prekių ženklas EMCOS yra įrašytas į Lietuvos 
+Respublikos prekių ženklų registrą (prekių ženklo registracijos numeris: 61826) ir priklauso UAB „Sigma Telas“. 
+UAB „Sigma Telas“ raštu patvirtino, kad tiekėjas yra „EMCOS“ sistemos gamintojas ir vienintelis turi teisę parengti 
+„ECMOS“ sistemą naudojimui (įdiegti, konfigūruoti, administruoti), taip pat atlikti „ECMOS“ sistemos garantinę 
+priežiūrą ir techninį aptarnavimą bei teikti „ECMOS“ sistemos tobulinimo ir vystymo paslaugas.
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "SIGMA TELAS"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061729
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: 23294
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB Ignitis grupės paslaugų centras (PV)
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: zivile.kasparaviciene@ignitis.lt
+Telefono numeris: +37069836092
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "SIGMA TELAS"
+Registracijos numeris: 110390133
+Pašto adresas: Kalvarijų 125 
+Miestas: Vilnius
+Pašto kodas: LT-08221
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: p.tarasevicius@sigmatelas.lt
+Telefono numeris: +37068627677
+Interneto adresas: www.sigmatelas.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b7b04490-2499-4b51-a016-f0caef06ec5b - 01
+Formos tipas: Išankstinis skelbimas apie tiesioginį sutarties skyrimą
+Skelbimo rūšis: Savanoriškas ex-ante skelbimas skaidrumo sumetimais
+Skelbimo išsiuntimo data: 01/07/2025 15:17 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

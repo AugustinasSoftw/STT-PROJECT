@@ -1,0 +1,166 @@
+Lietuva: Informacinių technologijų programinės įrangos paketai
+Dirbtiniu intelektu paremto organizacijos informacijos paieškos ir turinio kūrimo 
+pagalbininkas (Atviras) senoji CVP IS Nr. 748311 - 2024
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: LIETUVOS RESPUBLIKOS VALSTYBINĖ DARBO INSPEKCIJA PRIE SADM
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Dirbtiniu intelektu paremto organizacijos informacijos paieškos ir turinio kūrimo pagalbininkas (Atviras) 
+senoji CVP IS Nr. 748311 - 2024
+Aprašymas: Dirbtiniu intelektu paremto organizacijos informacijos paieškos ir turinio kūrimo pagalbininkas (Atviras) 
+senoji CVP IS Nr. 748311 - 2024
+Procedūros identifikatorius: e24c0add-d964-4e41-b9c6-8ab8cb8c54a8
+Ankstesnis skelbimas: 3090be89-ea24-4ab2-b2e6-5c6ea28abced-01
+Vidaus identifikatorius: Nr. 748311 2024
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48517000 Informacinių technologijų programinės įrangos paketai
+2.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+2.1.3 Vertė
+Numatoma vertė be PVM: 50 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Dirbtiniu intelektu paremto organizacijos informacijos paieškos ir turinio kūrimo pagalbininkas (Atviras) 
+senoji CVP IS Nr. 748311 - 2024
+Aprašymas: Dirbtiniu intelektu paremto organizacijos informacijos paieškos ir turinio kūrimo pagalbininkas (Atviras) 
+senoji CVP IS Nr. 748311 - 2024
+Vidaus identifikatorius: Nr. 748311 2024
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 48517000 Informacinių technologijų programinės įrangos paketai
+Kiekis: 1 
+5.1.2 Sutarties vykdymo vieta
+Bet kur Europos ekonominės erdvėje
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 50 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Perkami darbai, prekės ar paslaugos yra novatoriški arba labai patobulinti, palyginti su kitais darbais, 
+prekėmis ar paslaugomis, kurie jau yra rinkoje.
+Poveikio aplinkai mažinimo metodas: Taršos prevencija ir kontrolė
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: 59,4 balų
+Lyginamasis svoris (balai, tikslus skaičius): 0
+Fiksuota vertė (iš viso): 60 500
+Mažiausias balų skaičius: 16
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: LIETUVOS RESPUBLIKOS VALSTYBINĖ 
+DARBO INSPEKCIJA PRIE SADM
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 60 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Tilde informacinės technologijos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000005497
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 60 500 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Subrangos vertė žinoma: ne
+Subrangos vertė: 0 Euro
+Subrangos procentinė dalis žinoma: ne
+Subrangos procentinė dalis: 0
+Informacija apie sutartį:
+Sutarties identifikatorius: 2045
+Data, kurią buvo pasirinktas laimėtojas: 02/01/2025
+Sutarties sudarymo data: 07/01/2025
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos socialinis fondas (ESF) (2014/2020)
+ES fondų identifikatorius: programa: „Europos socialinis fondas +“ (ESF+) (2021/2027)
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: LIETUVOS RESPUBLIKOS VALSTYBINĖ DARBO INSPEKCIJA PRIE SADM
+Registracijos numeris: 188711163
+Pašto adresas: Algirdo g. 19 LT-03219 
+Miestas: Vilnius
+Pašto kodas: LT-03219
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: laima.minkeviciene@vdi.lt
+Telefono numeris: 861407717
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Tilde informacinės technologijos
+Registracijos numeris: 111687721
+Pašto adresas: J. Jasinskio g. 12 
+Miestas: Vilnius
+Pašto kodas: LT-01112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: renata.spukiene@tilde.com
+Telefono numeris: +37052740373
+Fakso numeris: +37052740373
+Interneto adresas: www.tilde.ai
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: c04db597-dc23-4382-bff8-aae38722f759 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/01/2025 10:56 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

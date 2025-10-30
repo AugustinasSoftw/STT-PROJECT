@@ -1,0 +1,124 @@
+Lietuva: Vertybinių popierių maklerių paslaugos
+(2024-PS-041) Uždarosios akcinės bendrovės VP savininkų asmeninių VP sąskaitų tvarkymas 
+(skelbiama apklausa)
+Skelbimas apie projekto konkurso rezultatus
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: UAB "EPSO-G" (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Ekonomikos ir finansų reikalai
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: (2024-PS-041) Uždarosios akcinės bendrovės VP savininkų asmeninių VP sąskaitų tvarkymas 
+(skelbiama apklausa)
+Aprašymas: Pardavėjas, kaip Pirkėjo įgaliotas vertybinių popierių (toliau - VP) asmeninių sąskaitų tvarkytojas, 
+įsipareigoja tvarkyti Pirkėjo išleistų VP asmenines sąskaitas žemesniajame apskaitos lygyje bei atstovauti Pirkėją 
+santykiuose su Nasdaq CSD SE.
+Procedūros identifikatorius: 91a55f32-8446-4d6a-8335-bc34dba6bca0
+Ankstesnis skelbimas: a709d2fc-50fb-4af9-bf22-6c94653738b3-01
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 66131000 Vertybinių popierių maklerių paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: sabis
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: (2024-PS-041) Uždarosios akcinės bendrovės VP savininkų asmeninių VP sąskaitų tvarkymas 
+(skelbiama apklausa)
+Aprašymas: Pardavėjas, kaip Pirkėjo įgaliotas vertybinių popierių (toliau - VP) asmeninių sąskaitų tvarkytojas, 
+įsipareigoja tvarkyti Pirkėjo išleistų VP asmenines sąskaitas žemesniajame apskaitos lygyje bei atstovauti Pirkėją 
+santykiuose su Nasdaq CSD SE.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 66131000 Vertybinių popierių maklerių paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: sabis
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB FMĮ "Orion securities"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000004442
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Data, kurią buvo pasirinktas laimėtojas: 31/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: UAB "EPSO-G" (PV)
+Registracijos numeris: UAB EPSO - G
+Pašto adresas: Laisvės pr. 10 
+Miestas: Vilnius
+Pašto kodas: LT-04215
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: neringa.paulauskaite@epsog.lt
+Telefono numeris: +37068116564
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB FMĮ "Orion securities"
+Registracijos numeris: 122033915
+Pašto adresas: Tumeno 4 
+Miestas: Vilnius
+Pašto kodas: 01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: bo@orion.lt
+Telefono numeris: +37052313833
+Interneto adresas: www.orion.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01104
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: a453c141-3c52-4b43-9aba-ffef7e2f3965 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie projekto konkurso rezultatus
+Skelbimo išsiuntimo data: 11/02/2025 16:29 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

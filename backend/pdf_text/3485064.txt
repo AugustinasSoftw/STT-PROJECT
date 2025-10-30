@@ -1,0 +1,149 @@
+Lietuva: Kompiuterių ekranai ir pultai
+HIBRIDINIAM MOKYMUI SKIRTA ĮRANGA SU MONTAVIMU, Nr.6454/2024/MIF
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: HIBRIDINIAM MOKYMUI SKIRTA ĮRANGA SU MONTAVIMU, Nr.6454/2024/MIF
+Aprašymas: Vilniaus universitetas (toliau - pirkimo vykdytojas arba perkančioji organizacija) atlieka konkretaus 
+pirkimo hibridiniam mokymui skirta įranga su montavimu, Nr. 6454/2024/MIF (toliau - konkretus pirkimas) procedūras, 
+anksčiau sukurtos DPS pagrindu.
+Procedūros identifikatorius: 857c35c8-c458-44f8-9799-95c19f24f0b7
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30231000 Kompiuterių ekranai ir pultai
+Kiti klasifikacijos kodai (cpv): 38652100 Projektoriai
+Kiti klasifikacijos kodai (cpv): 30231320 Jutiklinių ekranų monitoriai
+Kiti klasifikacijos kodai (cpv): 30237240 Tinklo kameros
+Kiti klasifikacijos kodai (cpv): 32300000 Televizijos ir radijo imtuvai ir garso ar vaizdo įrašymo arba atkūrimo aparatai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: HIBRIDINIAM MOKYMUI SKIRTA ĮRANGA SU MONTAVIMU, Nr.6454/2024/MIF
+Aprašymas: Vilniaus universitetas (toliau - pirkimo vykdytojas arba perkančioji organizacija) atlieka konkretaus 
+pirkimo hibridiniam mokymui skirta įranga su montavimu, Nr. 6454/2024/MIF (toliau - konkretus pirkimas) procedūras, 
+anksčiau sukurtos DPS pagrindu.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 30231000 Kompiuterių ekranai ir pultai
+Kiti klasifikacijos kodai (cpv): 38652100 Projektoriai
+Kiti klasifikacijos kodai (cpv): 30231320 Jutiklinių ekranų monitoriai
+Kiti klasifikacijos kodai (cpv): 30237240 Tinklo kameros
+Kiti klasifikacijos kodai (cpv): 32300000 Televizijos ir radijo imtuvai ir garso ar vaizdo įrašymo arba atkūrimo aparatai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 0
+Aprašymas: Mažiausia kaina
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Mažiausia kaina
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Vilniaus universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 12 359,71 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Novakopa
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000008472
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 12 359,71 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 16412
+Data, kurią buvo pasirinktas laimėtojas: 18/12/2024
+Sutarties sudarymo data: 23/12/2024
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vilniaus universitetas (PV)
+Registracijos numeris: 211950810
+Pašto adresas: Universiteto g. 3 
+Miestas: Vilnius
+Pašto kodas: 01131
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: diana.sugintiene@cr.vu.lt
+Telefono numeris: +37061409416
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Novakopa
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 135592370
+Pašto adresas: A. Juozapavičiaus pr. 7M, 
+Miestas: Kaunas
+Pašto kodas: LT-45251
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: arunas@novakopa.lt
+Telefono numeris: +37037200896
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 97c90f16-e00e-40b7-a56b-899d669642f6 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 02/07/2025 15:29 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

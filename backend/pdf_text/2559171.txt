@@ -1,0 +1,284 @@
+Lietuva: Vadovavimo, valdymo, ryšių ir kompiuterinės sistemos
+Eilių valdymo sistemos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Eilių valdymo sistemos
+Aprašymas: Eilių valdymo sistemos: 1 pirkimo dalis. VšĮ Kauno miesto poliklinikos Dainavos padalinio II ir III aukšto 
+eilių valdymo sistema; 2 pirkimo dalis. VšĮ Kauno miesto poliklinikos Šilainių padalinio Aleksoto poskyrio eilių valdymo 
+sistema; 3 pirkimo dalis. VšĮ Kauno miesto poliklinikos Darbo medicinos centro eilių valdymo sistema; 4 pirkimo dalis. 
+VšĮ Kauno miesto poliklinikos Kalniečių padalinio eilių valdymo sistema.
+Procedūros identifikatorius: b3361aa0-fdf8-475d-993d-2bfb02122a53
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35710000 Vadovavimo, valdymo, ryšių ir kompiuterinės sistemos
+Kiti klasifikacijos kodai (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos produktų 
+paketais
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: VšĮ Kauno miesto poliklinikos Dainavos padalinio II ir III aukšto eilių valdymo sistema
+Aprašymas: 1 pirkimo dalis. VšĮ Kauno miesto poliklinikos Dainavos padalinio II ir III aukšto eilių valdymo sistema;
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35710000 Vadovavimo, valdymo, ryšių ir kompiuterinės sistemos
+Kiti klasifikacijos kodai (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos produktų 
+paketais
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Kitas galiojimas: Nežinomas
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: VšĮ Kauno miesto poliklinikos Šilainių padalinio Aleksoto poskyrio eilių valdymo sistema
+Aprašymas: Eilių valdymo sistemos: 1 pirkimo dalis. VšĮ Kauno miesto poliklinikos Dainavos padalinio II ir III aukšto 
+eilių valdymo sistema; 2 pirkimo dalis. VšĮ Kauno miesto poliklinikos Šilainių padalinio Aleksoto poskyrio eilių valdymo 
+sistema; 3 pirkimo dalis. VšĮ Kauno miesto poliklinikos Darbo medicinos centro eilių valdymo sistema; 4 pirkimo dalis. 
+VšĮ Kauno miesto poliklinikos Kalniečių padalinio eilių valdymo sistema.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35710000 Vadovavimo, valdymo, ryšių ir kompiuterinės sistemos
+Kiti klasifikacijos kodai (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos produktų 
+paketais
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: VšĮ Kauno miesto poliklinikos Darbo medicinos centro eilių valdymo sistema
+Aprašymas: Eilių valdymo sistemos: 1 pirkimo dalis. VšĮ Kauno miesto poliklinikos Dainavos padalinio II ir III aukšto 
+eilių valdymo sistema; 2 pirkimo dalis. VšĮ Kauno miesto poliklinikos Šilainių padalinio Aleksoto poskyrio eilių valdymo 
+sistema; 3 pirkimo dalis. VšĮ Kauno miesto poliklinikos Darbo medicinos centro eilių valdymo sistema; 4 pirkimo dalis. 
+VšĮ Kauno miesto poliklinikos Kalniečių padalinio eilių valdymo sistema.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35710000 Vadovavimo, valdymo, ryšių ir kompiuterinės sistemos
+Kiti klasifikacijos kodai (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos produktų 
+paketais
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: VšĮ Kauno miesto poliklinikos Kalniečių padalinio eilių valdymo sistema
+Aprašymas: Eilių valdymo sistemos: 1 pirkimo dalis. VšĮ Kauno miesto poliklinikos Dainavos padalinio II ir III aukšto 
+eilių valdymo sistema; 2 pirkimo dalis. VšĮ Kauno miesto poliklinikos Šilainių padalinio Aleksoto poskyrio eilių valdymo 
+sistema; 3 pirkimo dalis. VšĮ Kauno miesto poliklinikos Darbo medicinos centro eilių valdymo sistema; 4 pirkimo dalis. 
+VšĮ Kauno miesto poliklinikos Kalniečių padalinio eilių valdymo sistema.
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 35710000 Vadovavimo, valdymo, ryšių ir kompiuterinės sistemos
+Kiti klasifikacijos kodai (cpv): 72210000 Programavimo paslaugos, susijusios su programinės įrangos produktų 
+paketais
+Kiti klasifikacijos kodai (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Taikomi žalieji kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: VšĮ Kauno miesto poliklinika (PV) -
+Organizacija, atliekanti mokėjimus: VšĮ Kauno miesto poliklinika (PV)
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pirkėjo sprendimas dėl nepakankamų lėšų
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Labai mažų, mažųjų ar vidutinių dalyvių pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Kauno miesto poliklinika (PV)
+Registracijos numeris: 135042394
+Pašto adresas: Pramonės pr. 31 
+Miestas: Kaunas
+Pašto kodas: 51270
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@kaunopoliklinika.lt
+Telefono numeris: +370 37 403999
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 22da8ca9-2abf-459a-bcfd-d5604fce1fc3 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 08/05/2025 09:31 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

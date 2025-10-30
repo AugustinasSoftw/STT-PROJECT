@@ -1,0 +1,156 @@
+Lietuva: Tūpimo pagal prietaisus sistema (ILS)
+Kauno ILS/DME ir Vilniaus DVOR/DME
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Oro uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Kauno ILS/DME ir Vilniaus DVOR/DME
+Aprašymas: Kauno tūpimo pagal prietaisus sistema su toliamačio įranga (ILS/DME) ir Vilniaus doplerio visakryptis 
+radijo švyturys su toliamačio įranga (DVOR/DME)
+Procedūros identifikatorius: 38de636a-6ed6-44fc-a630-ddb888d42d50
+Ankstesnis skelbimas: 1989f3e4-1fd7-4f7c-bd02-8d191700b6e2-01
+Pirkimo būdas: Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34963000 Tūpimo pagal prietaisus sistema (ILS)
+Kiti klasifikacijos kodai (cpv): 51210000 Matavimo įrenginių montavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 50210000 Remonto, priežiūros ir kitos paslaugos, susijusios su orlaiviais ir kitais 
+įrenginiais
+Kiti klasifikacijos kodai (cpv): 34965000 Atstumo matavimo įranga (DME)
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Kauno ILS/DME ir Vilniaus DVOR/DME
+Aprašymas: Kauno tūpimo pagal prietaisus sistema su toliamačio įranga (ILS/DME) ir Vilniaus doplerio visakryptis 
+radijo švyturys su toliamačio įranga (DVOR/DME)
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34963000 Tūpimo pagal prietaisus sistema (ILS)
+Kiti klasifikacijos kodai (cpv): 51210000 Matavimo įrenginių montavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 50210000 Remonto, priežiūros ir kitos paslaugos, susijusios su orlaiviais ir kitais 
+įrenginiais
+Kiti klasifikacijos kodai (cpv): 34965000 Atstumo matavimo įranga (DME)
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: PĮ nustatyta tvarka
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV)
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 3 214 318 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Elsis TS"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000068958
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 410 878 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33289
+Pavadinimas: Kauno tūpimo pagal prietaisus sistema su toliamačio įranga (ILS/DME) ir Vilniaus doplerio 
+visakryptis radijo švyturys su toliamačio įranga (DVOR/DME)
+Data, kurią buvo pasirinktas laimėtojas: 20/08/2025
+Sutarties sudarymo data: 13/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Registracijos numeris: 210060460
+Pašto adresas: 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ans.lt
+Telefono numeris: +370 706 94502
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Elsis TS"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 226245770
+Pašto adresas: Taikos pr. 106C 
+Miestas: Kaunas
+Pašto kodas: 51169
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: tomas.vrubliauskas@elsis.lt
+Telefono numeris: +37068686827
+Interneto adresas: www.elsists.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 4f879902-89f4-4008-ad3b-fd54b2555687 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 15/10/2025 13:33 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

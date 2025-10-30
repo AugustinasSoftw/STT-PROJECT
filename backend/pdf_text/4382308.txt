@@ -1,0 +1,434 @@
+Lietuva: Suolai
+Viešųjų erdvių mažosios architektūros elementai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Viešųjų erdvių mažosios architektūros elementai
+Aprašymas: Viešųjų erdvių mažosios architektūros elementai (toliau - prekės). Pirkimo objektas skaidomas į 5 
+atskiras dalis.
+Procedūros identifikatorius: fab543aa-b9ff-4911-911a-309cb36a8f17
+Ankstesnis skelbimas: 4588cf1f-1351-4be1-9b40-9e766bec86bd-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39113600 Suolai
+Kiti klasifikacijos kodai (cpv): 39224340 Šiukšliadėžės
+Kiti klasifikacijos kodai (cpv): 42214110 Griliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 99 173,55 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Perdirbto plastiko suolai be atlošo
+Aprašymas: Perdirbto plastiko suolai be atlošo. Preliminarūs prekių kiekiai nurodyti konkurso sąlygų aprašo 1 priede, 
+jie sutarties vykdymo metu, pagal Perkančiosios organizacijos poreikį, gali būti mažinami arba didinami, maksimaliai 
+prekių bus perkama už ne daugiau kaip 8 000,00 Eur su PVM (arba 6 611,57 Eur be PVM, jei tiekėjas yra ne PVM 
+mokėtojas ar prekės neapmokestinamos PVM, ar dėl kitų priežasčių Perkančiosios organizacijos galutinė tiekėjui 
+mokėtina suma bus be PVM).
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39113600 Suolai
+Kiti klasifikacijos kodai (cpv): 39224340 Šiukšliadėžės
+Kiti klasifikacijos kodai (cpv): 42214110 Griliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 611,57 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Klaipėdos miesto savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Gėlinės
+Aprašymas: Gėlinės. Preliminarūs prekių kiekiai nurodyti konkurso sąlygų aprašo 1 priede, jie sutarties vykdymo 
+metu, pagal Perkančiosios organizacijos poreikį, gali būti mažinami arba didinami, maksimaliai prekių bus perkama 
+už ne daugiau kaip 23 000,00 Eur su PVM (arba 19 008,26 Eur be PVM, jei tiekėjas yra ne PVM mokėtojas ar prekės 
+neapmokestinamos PVM, ar dėl kitų priežasčių Perkančiosios organizacijos galutinė tiekėjui mokėtina suma bus be 
+PVM).
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39113600 Suolai
+Kiti klasifikacijos kodai (cpv): 39224340 Šiukšliadėžės
+Kiti klasifikacijos kodai (cpv): 42214110 Griliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 19 008,26 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Klaipėdos miesto savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Suolai
+Aprašymas: Suolai. Preliminarūs prekių kiekiai nurodyti konkurso sąlygų aprašo 1 priede, jie sutarties vykdymo metu, 
+pagal Perkančiosios organizacijos poreikį, gali būti mažinami arba didinami, maksimaliai prekių bus perkama už 
+ne daugiau kaip 45 000,00 Eur su PVM (arba 37 190,08 Eur be PVM, jei tiekėjas yra ne PVM mokėtojas ar prekės 
+neapmokestinamos PVM, ar dėl kitų priežasčių Perkančiosios organizacijos galutinė tiekėjui mokėtina suma bus be 
+PVM).
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39113600 Suolai
+Kiti klasifikacijos kodai (cpv): 39224340 Šiukšliadėžės
+Kiti klasifikacijos kodai (cpv): 42214110 Griliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 37 190,08 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Klaipėdos miesto savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Šunų ekskrementų šiukšliadėžės, dviračių stovai ir atitvėrimo stulpeliai
+Aprašymas: Šunų ekskrementų šiukšliadėžės, dviračių stovai ir atitvėrimo stulpeliai. Preliminarūs prekių kiekiai 
+nurodyti konkurso sąlygų aprašo 1 priede, jie sutarties vykdymo metu, pagal Perkančiosios organizacijos poreikį, 
+gali būti mažinami arba didinami, maksimaliai prekių bus perkama už ne daugiau kaip 36 000,00 Eur su PVM (arba 
+29 752,07 Eur be PVM, jei tiekėjas yra ne PVM mokėtojas ar prekės neapmokestinamos PVM, ar dėl kitų priežasčių 
+Perkančiosios organizacijos galutinė tiekėjui mokėtina suma bus be PVM).
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39113600 Suolai
+Kiti klasifikacijos kodai (cpv): 39224340 Šiukšliadėžės
+Kiti klasifikacijos kodai (cpv): 42214110 Griliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 29 752,07 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Klaipėdos miesto savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Lauko grilius
+Aprašymas: Lauko grilius. Preliminarūs prekių kiekiai nurodyti konkurso sąlygų aprašo 1 priede, jie sutarties vykdymo 
+metu, pagal Perkančiosios organizacijos poreikį, gali būti mažinami arba didinami, maksimaliai prekių bus perkama 
+už ne daugiau kaip 8 000,00 Eur su PVM (arba 6 611,57 Eur be PVM, jei tiekėjas yra ne PVM mokėtojas ar prekės 
+neapmokestinamos PVM, ar dėl kitų priežasčių Perkančiosios organizacijos galutinė tiekėjui mokėtina suma bus be 
+PVM).
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39113600 Suolai
+Kiti klasifikacijos kodai (cpv): 39224340 Šiukšliadėžės
+Kiti klasifikacijos kodai (cpv): 42214110 Griliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 5 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 6 611,57 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Klaipėdos miesto savivaldybės administracija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Klaipėdos miesto savivaldybės administracija
+Organizacija, atliekanti mokėjimus: Klaipėdos miesto savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 99 173,55 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Traida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064083
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 37 190,08 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28154
+Sutarties sudarymo data: 15/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Naujieji ženklai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000063673
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 19 008,26 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28155
+Sutarties sudarymo data: 15/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Traida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064083
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 29 752,07 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28156
+Sutarties sudarymo data: 16/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Taiklu
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064034
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 6 611,57 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28157
+Sutarties sudarymo data: 15/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Traida
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000064083
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 6 611,57 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 28158
+Sutarties sudarymo data: 15/07/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Klaipėdos miesto savivaldybės administracija
+Registracijos numeris: 188710823
+Pašto adresas: Liepų g. 11, Klaipėda 
+Miestas: Klaipėda
+Pašto kodas: 92138
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: gitana.marciene@klaipeda.lt
+Telefono numeris: +370 46 39 61 18
+Pirkėjo profilis: www.klaipeda.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Taiklu
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304437662
+Pašto adresas: Marvelės g. 106A 
+Miestas: Kaunas
+Pašto kodas: 46205
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@taiklu.lt
+Telefono numeris: +37060996170
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0004
+8.1 ORG-0003
+Oficialus pavadinimas: Naujieji ženklai
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124385018
+Pašto adresas: Laisvės pr. 125 
+Miestas: Vilnius
+Pašto kodas: LT-06118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@nzenklai.lt
+Telefono numeris: +37052789578
+Interneto adresas: www.darom.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Traida
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302621293
+Pašto adresas: RINKTINES STR. 55 Vilnius Lithuania, Rinktinės 55 
+Miestas: Vilnius
+Pašto kodas: 08337
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@miestui.com
+Telefono numeris: +37067843243
+Interneto adresas: www.miestui.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0003, LOT-0005
+8.1 ORG-0005
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Gedimino pr. 40 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Telefono numeris: +370 46 39 09 60
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5a217aa3-e9d8-46e4-8b8c-4fae1dd8d3d9 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 04/09/2025 17:18 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

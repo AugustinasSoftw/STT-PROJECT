@@ -1,0 +1,316 @@
+Lietuva: Farmacijos produktai
+Vaistai, tvarsliava, švirkštai (SKELBIAMA APKLAUSA)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Strėvininkų socialinės globos namai
+Pirkėjo teisinė forma: Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vaistai, tvarsliava, švirkštai (SKELBIAMA APKLAUSA)
+Aprašymas: Strėvininkų socialinės globos namų Specializuotos slaugos ir socialinės globos padalinys (toliau 
+vadinama - perkančioji organizacija) numato įsigyti farmacijos produktų. produktų (BVPŽ -33600000-6, 33141110-4, 
+3141310-6). Pirkimas yra suskirstytas į 3 dalis. Pasiūlymą galima pateikti vienai, kelioms ar visoms pirkimo dalims. 
+Perkamų prekių savybės ir preliminarūs kiekiai nustatyti pateiktoje techninėje specifikacijoje.
+Procedūros identifikatorius: a903e581-94e7-4abc-980e-a1fe7a9c1574
+Ankstesnis skelbimas: a341db05-a2e5-4865-814d-e90499d5ccb2-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+Kiti klasifikacijos kodai (cpv): 33141110 Tvarsliava
+Kiti klasifikacijos kodai (cpv): 33141310 Švirkštai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vaistai
+Aprašymas: Strėvininkų socialinės globos namų Specializuotos slaugos ir socialinės globos padalinys (toliau 
+vadinama - perkančioji organizacija) numato įsigyti farmacijos produktų. produktų (BVPŽ -33600000-6, 33141110-4, 
+3141310-6). Pirkimas yra suskirstytas į 3 dalis. Pasiūlymą galima pateikti vienai, kelioms ar visoms pirkimo dalims. 
+Perkamų prekių savybės ir preliminarūs kiekiai nustatyti pateiktoje techninėje specifikacijoje.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+Kiti klasifikacijos kodai (cpv): 33141110 Tvarsliava
+Kiti klasifikacijos kodai (cpv): 33141310 Švirkštai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas pagal kainą.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Ekonomiškai naudingiausias 
+pasiūlymas pagal kainą.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 0
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 0
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Strėvininkų socialinės globos namai -
+Organizacija, pasirašanti sutartį: Strėvininkų socialinės globos namai
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Švirkštai
+Aprašymas: Strėvininkų socialinės globos namų Specializuotos slaugos ir socialinės globos padalinys (toliau 
+vadinama - perkančioji organizacija) numato įsigyti farmacijos produktų. produktų (BVPŽ -33600000-6, 33141110-4, 
+3141310-6). Pirkimas yra suskirstytas į 3 dalis. Pasiūlymą galima pateikti vienai, kelioms ar visoms pirkimo dalims. 
+Perkamų prekių savybės ir preliminarūs kiekiai nustatyti pateiktoje techninėje specifikacijoje.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+Kiti klasifikacijos kodai (cpv): 33141110 Tvarsliava
+Kiti klasifikacijos kodai (cpv): 33141310 Švirkštai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas pagal kainą.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Ekonomiškai naudingiausias 
+pasiūlymas pagal kainą.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 0
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 0
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Strėvininkų socialinės globos namai -
+Organizacija, pasirašanti sutartį: Strėvininkų socialinės globos namai
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Tvarsliava
+Aprašymas: Strėvininkų socialinės globos namų Specializuotos slaugos ir socialinės globos padalinys (toliau 
+vadinama - perkančioji organizacija) numato įsigyti farmacijos produktų. produktų (BVPŽ -33600000-6, 33141110-4, 
+3141310-6). Pirkimas yra suskirstytas į 3 dalis. Pasiūlymą galima pateikti vienai, kelioms ar visoms pirkimo dalims. 
+Perkamų prekių savybės ir preliminarūs kiekiai nustatyti pateiktoje techninėje specifikacijoje.
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+Kiti klasifikacijos kodai (cpv): 33141110 Tvarsliava
+Kiti klasifikacijos kodai (cpv): 33141310 Švirkštai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Ekonomiškai naudingiausias pasiūlymas pagal kainą.
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Ekonomiškai naudingiausias 
+pasiūlymas pagal kainą.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: 0
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: 0
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Strėvininkų socialinės globos namai -
+Organizacija, pasirašanti sutartį: Strėvininkų socialinės globos namai
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 14 753,6 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Armila
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000021451
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 4 082,02 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4139
+Pavadinimas: Vaistai
+Data, kurią buvo pasirinktas laimėtojas: 06/02/2025
+Sutarties sudarymo data: 13/02/2025
+Organizacija, pasirašanti sutartį: Strėvininkų socialinės globos namai
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: A.Zapalskio IĮ "Azas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000021730
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 25,41 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4140
+Pavadinimas: Švirkštai
+Data, kurią buvo pasirinktas laimėtojas: 06/02/2025
+Sutarties sudarymo data: 12/02/2025
+Organizacija, pasirašanti sutartį: Strėvininkų socialinės globos namai
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB NEMUNO VAISTINĖ
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000021931
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 10 646,17 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 4141
+Pavadinimas: Tvarsliava
+Data, kurią buvo pasirinktas laimėtojas: 06/02/2025
+Sutarties sudarymo data: 18/02/2025
+Organizacija, pasirašanti sutartį: Strėvininkų socialinės globos namai
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Strėvininkų socialinės globos namai
+Registracijos numeris: 290796410
+Pašto adresas: Mokyklos g. 46 
+Miestas: Mūro Strėvininkų k.
+Pašto kodas: 56202
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: strevininkup@gmail.com
+Telefono numeris: +37034653538
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: A.Zapalskio IĮ "Azas"
+Registracijos numeris: 147838431
+Pašto adresas: Tiekimo g. 2A 
+Miestas: Panevėžys
+Pašto kodas: 35289
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: juozas@azas.lt
+Telefono numeris: +370 68655121
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Armila
+Registracijos numeris: 123813957
+Pašto adresas: Molėtų pl. 75 
+Miestas: Vilnius
+Pašto kodas: 14259
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@armila.com
+Telefono numeris: +37052777596
+Fakso numeris: +370 5 2737381
+Interneto adresas: www.armila.com
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: UAB NEMUNO VAISTINĖ
+Registracijos numeris: 134778482
+Pašto adresas: Kaunas, 9-ojo Forto g. 70, LT-48179 
+Miestas: Kauno m.
+Pašto kodas: LT-48179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@camelia.lt
+Telefono numeris: +37037751200
+Interneto adresas: www.camelia.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0003
+8.1 ORG-0005
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: d9cc0a7e-9d8a-4dd0-9eac-1ec313ca537e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 20/02/2025 11:47 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

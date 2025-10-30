@@ -1,0 +1,168 @@
+Lietuva: Duomenų bazės paslaugos
+Rokiškio rajono laidojimo duomenų informacinės sistemos prenumeratos, skaitmeninės 
+kapinių duomenų bazės sukūrimo bei duomenų administravimo procesų skaitmeninimo 
+paslaugos
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Rokiškio rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Rokiškio rajono laidojimo duomenų informacinės sistemos prenumeratos, skaitmeninės kapinių 
+duomenų bazės sukūrimo bei duomenų administravimo procesų skaitmeninimo paslaugos
+Aprašymas: Rokiškio rajono laidojimo duomenų informacinės sistemos prenumeratos, skaitmeninės kapinių duomenų 
+bazės sukūrimo, jos atvėrimo gyventojams ir laidojimo viešųjų paslaugų bei duomenų administravimo procesų 
+skaitmeninimo paslaugos. Paslaugos perkamos įgyvendinant projektą Nr. 02-111-P-0005 „Rokiškio rajono unikalios 
+skaitmeninės kapinių duomenų bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų bei 
+duomenų administravimo procesų skaitmeninimas“. Perkamų paslaugų aprašymas pateiktas 2 priede "Techninė 
+specifikacija".
+Procedūros identifikatorius: bae30dc6-ef6d-41cd-8a8a-8688c02d6c9e
+Ankstesnis skelbimas: 51e3b36a-9f3d-4459-ba02-e25cb97e61d4-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72320000 Duomenų bazės paslaugos
+Kiti klasifikacijos kodai (cpv): 72310000 Duomenų apdorojimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Rokiškio rajono laidojimo duomenų informacinės sistemos prenumeratos, skaitmeninės kapinių 
+duomenų bazės sukūrimo bei duomenų administravimo procesų skaitmeninimo paslaugos
+Aprašymas: Rokiškio rajono laidojimo duomenų informacinės sistemos prenumeratos, skaitmeninės kapinių duomenų 
+bazės sukūrimo, jos atvėrimo gyventojams ir laidojimo viešųjų paslaugų bei duomenų administravimo procesų 
+skaitmeninimo paslaugos. Paslaugos perkamos įgyvendinant projektą Nr. 02-111-P-0005 „Rokiškio rajono unikalios 
+skaitmeninės kapinių duomenų bazės sukūrimas, jos atvėrimas gyventojams ir laidojimo viešųjų paslaugų bei 
+duomenų administravimo procesų skaitmeninimas“. Perkamų paslaugų aprašymas pateiktas 2 priede "Techninė 
+specifikacija".
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72320000 Duomenų bazės paslaugos
+Kiti klasifikacijos kodai (cpv): 72310000 Duomenų apdorojimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Galiojimas: 11 Mėnuo
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Atliekamas žaliasis pirkimas. Pirkimas vykdomas vadovaujantis Lietuvos Respublikos aplinkos 
+ministro 2011 m. birželio 28 d. įsakymo Nr. D1508 „Dėl Aplinkos apsaugos kriterijų taikymo, vykdant žaliuosius 
+pirkimus, tvarkos aprašo patvirtinimo“ 4.4.3 papunkčiu.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Informacija apie peržiūros terminus: Informacija apie peržiūros procedūrų terminus nurodyta Lietuvos Respublikos 
+viešųjų pirkimų įstatymo VII skyriuje.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Rokiškio rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 183 307,87 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Kapinių valdymo sprendimai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000062594
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 151 494,11 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 23551
+Sutarties sudarymo data: 03/07/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: Nr. 02-111-P-0005
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Rokiškio rajono savivaldybės administracija
+Registracijos numeris: 188772248
+Pašto adresas: Sąjūdžio a. 1 
+Miestas: Rokiškis
+Pašto kodas: 42136
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: s.matiukas@rokiskis.lt
+Telefono numeris: +370 615 26 749
+Pirkėjo profilis: www.rokiskis.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Kapinių valdymo sprendimai
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304241197
+Pašto adresas: Eigulių g. 8 
+Miestas: Kaunas
+Pašto kodas: LT-44136
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: andrius@cemety.lt
+Telefono numeris: +37060226962
+Interneto adresas: www.cemety.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45 46 87 65
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 96c455a6-634f-4480-a169-d7dc8643055c - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 09/07/2025 14:28 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,115 @@
+Lietuva: Su vandens tarša susijusios paslaugos
+Nuotekų, paviršinio vandens mėginių paėmimo bei cheminio tyrimo atlikimo paslauga 
+(Skelbiama apklausa)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: AB „Kauno energija“
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+Perkančiojo subjekto veiklos sritis: Dujų arba šilumos gamyba, transportavimas ar paskirstymas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Nuotekų, paviršinio vandens mėginių paėmimo bei cheminio tyrimo atlikimo paslauga (Skelbiama 
+apklausa)
+Aprašymas: Perkamos bendragamyklinių, lietaus nuotekų ir paviršinio vandens mėginių ėmimO iš užsakovo objektų 
+teritorijų bei ėminių cheminės sudėties tyrimo atlikimo akredituotoje srityje paslaugos, analitėms, nurodytoms pirkimo 
+techninės specifikacijos III skyriuje. Paslaugos tiekėjas turi būti akredituotas ir turi atitikti veiklai keliamus reikalavimus, 
+nurodytus darniajame standarte LST EN ISO /IEC 17025.
+Procedūros identifikatorius: b05f696d-e82b-473b-a330-206598bdc768
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90733000 Su vandens tarša susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 15 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Nuotekų, paviršinio vandens mėginių paėmimo bei cheminio tyrimo atlikimo paslauga (Skelbiama 
+apklausa)
+Aprašymas: Perkamos bendragamyklinių, lietaus nuotekų ir paviršinio vandens mėginių ėmimO iš užsakovo objektų 
+teritorijų bei ėminių cheminės sudėties tyrimo atlikimo akredituotoje srityje paslaugos, analitėms, nurodytoms pirkimo 
+techninės specifikacijos III skyriuje. Paslaugos tiekėjas turi būti akredituotas ir turi atitikti veiklai keliamus reikalavimus, 
+nurodytus darniajame standarte LST EN ISO /IEC 17025.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 90733000 Su vandens tarša susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 15 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: AB „Kauno energija“
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: AB „Kauno energija“
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: AB „Kauno energija“
+Registracijos numeris: 235014830
+Pašto adresas: Raudondvario pl. 84, LT-47179 Kaunas 
+Miestas: Kaunas
+Pašto kodas: 47179
+Šalis: Lietuva
+E. paštas: info@kaunoenergija.lt
+Telefono numeris: +37080011011
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +37037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 9f4d05bd-a912-405d-adfc-8c9ad748079a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/01/2025 10:54 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

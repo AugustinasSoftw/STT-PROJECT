@@ -1,0 +1,325 @@
+Lietuva: Medicinos įranga
+Vienkartinės medicinos priemonės
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vienkartinės medicinos priemonės
+Aprašymas: Perkamos vienkartinės medicinos priemonės VšĮ Respublikinei Šiaulių ligoninei. Pirkimas skaidomas į 19 
+pirkimo dalis. Pasiūlymų vertinimo kriterijus - kaina.
+Procedūros identifikatorius: a05899c9-19e2-45f7-be5b-68d105d207d1
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33141100 Tvarsliava; kabutės, žaizdų siuvimo ir ligatūros reikmenys
+Kiti klasifikacijos kodai (cpv): 33141200 Kateteriai
+Kiti klasifikacijos kodai (cpv): 33141300 Venų punkcijų, kraujo ėmimo prietaisai
+Kiti klasifikacijos kodai (cpv): 33141400 Vielos žirklės ir mažapjūviai skalpeliai, chirurginės pirštinės
+Kiti klasifikacijos kodai (cpv): 33141600 Rinktuvai, rinkimo maišai, drenai ir rinkiniai
+Kiti klasifikacijos kodai (cpv): 33141770 Įtaisai lūžiams gydyti, osteosintezės vinys ir plokštelės
+Kiti klasifikacijos kodai (cpv): 33180000 Funkcinio pobūdžio palaikymas
+Kiti klasifikacijos kodai (cpv): 33196000 Pagalbinės medicininės priemonės
+Kiti klasifikacijos kodai (cpv): 33140000 Medicinos reikmenys
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vienkartinės medicinos priemonės
+Aprašymas: Perkamos vienkartinės medicinos priemonės VšĮ Respublikinei Šiaulių ligoninei. Pirkimas skaidomas į 19 
+pirkimo dalis. Pasiūlymų vertinimo kriterijus - kaina.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33141100 Tvarsliava; kabutės, žaizdų siuvimo ir ligatūros reikmenys
+Kiti klasifikacijos kodai (cpv): 33141200 Kateteriai
+Kiti klasifikacijos kodai (cpv): 33141300 Venų punkcijų, kraujo ėmimo prietaisai
+Kiti klasifikacijos kodai (cpv): 33141400 Vielos žirklės ir mažapjūviai skalpeliai, chirurginės pirštinės
+Kiti klasifikacijos kodai (cpv): 33141600 Rinktuvai, rinkimo maišai, drenai ir rinkiniai
+Kiti klasifikacijos kodai (cpv): 33141770 Įtaisai lūžiams gydyti, osteosintezės vinys ir plokštelės
+Kiti klasifikacijos kodai (cpv): 33180000 Funkcinio pobūdžio palaikymas
+Kiti klasifikacijos kodai (cpv): 33196000 Pagalbinės medicininės priemonės
+Kiti klasifikacijos kodai (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 78 180,8 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Septeka"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000039860
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 8 974 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34127
+Sutarties sudarymo data: 16/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: AmberCell Solutions UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000042037
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 520 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34133
+Sutarties sudarymo data: 16/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: Olympus Sverige Aktiebolag Lietuvos filialas
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000042265
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 34 480,4 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34132
+Sutarties sudarymo data: 16/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB Ilsanta
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000042996
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 865 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34131
+Sutarties sudarymo data: 17/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: MB Meda Baltic
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000039905
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 7 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34130
+Sutarties sudarymo data: 17/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: Valdmedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000041452
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 1 660 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34129
+Sutarties sudarymo data: 17/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB "Formedics"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000042770
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 5 458,5 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34128
+Sutarties sudarymo data: 18/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Šiaulių ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 11
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.valakeviciute@cpo.lt
+Telefono numeris: 066721158
+Pirkėjo profilis: www.cpo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB "Septeka"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 301501622
+Pašto adresas: Druskininkų g. 6-27 
+Miestas: Kaunas
+Pašto kodas: 44288
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@septeka.lt
+Telefono numeris: +37065553812
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: AmberCell Solutions UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302591590
+Pašto adresas: Sendvario g. 12, Sudmantai 
+Miestas: Klaipėdos raj.
+Pašto kodas: 96327
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: lina.rusteikiene@ambercell.eu
+Telefono numeris: +370 640 52910
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Olympus Sverige Aktiebolag Lietuvos filialas
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304103972
+Pašto adresas: L. Zamenhofo str. 3, Olympus 
+Miestas: Vilnius
+Pašto kodas: 06332
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: andrius.simonaitis@olympus.com
+Telefono numeris: +37068743608
+Interneto adresas: www.olympus.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Ilsanta
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110498671
+Pašto adresas: Saltoniškių g. 29 
+Miestas: Vilnius
+Pašto kodas: 08105
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ilsanta.lt
+Telefono numeris: 052691610
+Interneto adresas: www.ilsanta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: MB Meda Baltic
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306322242
+Pašto adresas: A. Paškevič-Ciotkos g. 3-1 
+Miestas: Vilnius
+Pašto kodas: 11201
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: medabaltic@gmail.com
+Telefono numeris: 065219471
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0007
+Oficialus pavadinimas: Valdmedika
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 304148483
+Pašto adresas: S Stanevičiaus g 96A 
+Miestas: Vilnius
+Pašto kodas: 07103
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@valdmedika.lt
+Telefono numeris: +37061516055
+Interneto adresas: www.valdmedika.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0008
+Oficialus pavadinimas: UAB "Formedics"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124980311
+Pašto adresas: Senosios Pilaitės kl. 1 
+Miestas: Vilnius
+Pašto kodas: 06229
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@formedics.lt
+Telefono numeris: +37052623070
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0009
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0010
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0011
+Oficialus pavadinimas: VšĮ Respublikinė Šiaulių ligoninė
+Registracijos numeris: 245386220
+Miestas: Šiauliai
+Pašto kodas: 76231
+Šalies administracinis vienetas (NUTS): Šiaulių apskritis (LT026)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 581e544e-9efe-4312-8ec1-c751283ae166 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 23/10/2025 01:06 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

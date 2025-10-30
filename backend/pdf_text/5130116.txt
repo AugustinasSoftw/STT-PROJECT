@@ -1,0 +1,231 @@
+Lietuva: Farmacijos produktai
+Medikamentai (kiti farmacijos produktai) LSMUKL
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medikamentai (kiti farmacijos produktai) LSMUKL
+Aprašymas: perkami maisto papiuldai, specialūs maisto produktai ir kiti farmacijos produktai VšĮ Lietuvos sveikatos 
+mokslų universiteto Kauno ligoninei. Pirkimo objektas skaidomas į 12 pirkimo dalių
+Procedūros identifikatorius: 566832d2-369f-44b8-b7e6-624e21fd70ff
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: KITOS MEDICINOS PRIEMONĖS (kvalifikacijos reikalavimai nekeliami)
+Aprašymas: perkami maisto papiuldai, specialūs maisto produktai ir kiti farmacijos produktai VšĮ Lietuvos sveikatos 
+mokslų universiteto Kauno ligoninei. Pirkimo objektas skaidomas į 12 pirkimo dalių
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33600000 Farmacijos produktai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, atliekanti mokėjimus: Viešoji įstaiga CPO LT
+Organizacija, pasirašanti sutartį: VŠĮ Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 10 584,7 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: ALLIUM UPI UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000083826
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 360 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31386
+Sutarties sudarymo data: 26/09/2025
+Organizacija, pasirašanti sutartį: VŠĮ Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB Limedika
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000084001
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 682 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31396
+Sutarties sudarymo data: 30/09/2025
+Organizacija, pasirašanti sutartį: VŠĮ Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Laimėtojas:
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000083686
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 4 770 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31398
+Sutarties sudarymo data: 26/09/2025
+Organizacija, pasirašanti sutartį: VŠĮ Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB NEMUNO VAISTINĖ
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000082833
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 2 772,7 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 31397
+Sutarties sudarymo data: 26/09/2025
+Organizacija, pasirašanti sutartį: VŠĮ Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 5
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.valakeviciute@cpo.lt
+Telefono numeris: 066721158
+Pirkėjo profilis: www.cpo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: ALLIUM UPI UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110849177
+Pašto adresas: Kintų g. 11 
+Miestas: Vilnius
+Pašto kodas: 09301
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@allium.lt
+Telefono numeris: 0 526 99 217
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: UAB Limedika
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 134056779
+Pašto adresas: Erdvės g. 2 
+Miestas: Ramučiai, Kauno rajonas
+Pašto kodas: LT-52114
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: rasa.valiuliene@limedika.lt
+Telefono numeris: +370 37 321093
+Interneto adresas: www.limedika.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: Fresenius Kabi Baltics UAB
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302992398
+Pašto adresas: J. Basanavičiaus 26 
+Miestas: Vilnius
+Pašto kodas: 03224
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info.baltics@fresenius-kabi.com
+Telefono numeris: 85 2505681
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB NEMUNO VAISTINĖ
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 134778482
+Pašto adresas: Kaunas, 9-ojo Forto g. 70, LT-48179 
+Miestas: Kauno m.
+Pašto kodas: LT-48179
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@camelia.lt
+Telefono numeris: +37037751200
+Interneto adresas: www.camelia.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0007
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0008
+Oficialus pavadinimas: VŠĮ Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+Registracijos numeris: 302583800
+Miestas: Kaunas
+Pašto kodas: 47144
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 2c2b57d2-05a8-4b9d-a231-6e28921c312e - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 27/10/2025 01:16 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

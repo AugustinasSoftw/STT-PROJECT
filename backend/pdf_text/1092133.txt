@@ -1,0 +1,200 @@
+Lietuva: Skalbiniai kūno priežiūrai ir virtuvės skalbiniai
+Medvilninių rankšluosčių pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medvilninių rankšluosčių pirkimas
+Aprašymas: Medvilninių rankšluosčių pirkimas
+Procedūros identifikatorius: 83924c26-b0d4-4013-9a21-c47bab50233f
+Ankstesnis skelbimas: 375884-2024
+Vidaus identifikatorius: 714986
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39514000 Skalbiniai kūno priežiūrai ir virtuvės skalbiniai
+2.1.2 Sutarties vykdymo vieta
+Miestas: : Visagino sav.
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Medvilninių rankšluosčių pirkimas
+Aprašymas: Medvilniniai rankšluosčiai 64992 vnt.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 39514000 Skalbiniai kūno priežiūrai ir virtuvės skalbiniai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Prekes turi turėti I tipo ir/ arba II tipo ekologinį ženklinimą, arba atitikti Lietuvos Respublikos aplinkos 
+ministro 2011 m. birželio 28 d. įsakymu Nr. D1-508 patvirtinto Aplinkos apsaugos kriterijų taikymo, vykdant 
+žaliuosius pirkimus, tvarkos aprašo priedo, 9.1 ir 9.2.2 punktuose nustatytus reikalavimus.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Žiūrėti pirkimo dokumentuose
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas -
+Informacija apie peržiūros terminus: Žiūrėti pirkimo dokumentuose
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 55 243,2 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Nostra
+Pasiūlymas:
+Pasiūlymo identifikatorius: UAB Nostra
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 55 243,2 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: PSt-3(13.66E)
+Data, kurią buvo pasirinktas laimėtojas: 04/11/2024
+Sutarties sudarymo data: 08/01/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Atominės elektrinės eksploatacijos nutraukimas 
+(Lietuva) (2021/2027)
+ES fondų identifikatorius: 1A.23/01/ADA.24
+6.1.3 Nelaimėję dalyviai:
+Dalyvis:
+Oficialus pavadinimas: UAB „Taiklu“
+Dalyvis:
+Oficialus pavadinimas: UAB „VV projektai“
+Dalyvis:
+Oficialus pavadinimas: UAB „IMLITEX TEXTILE“
+Dalyvis:
+Oficialus pavadinimas: UAB „WIN sale“
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 10
+Pasiūlymų intervalas:
+Priimtino pasiūlymo, kurio vertė mažiausia, vertė: 55 243,2 Euro
+Priimtino pasiūlymo, kurio vertė didžiausia, vertė: 93 588,48 Euro
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Valstybės įmonė Ignalinos atominė elektrinė
+Registracijos numeris: 255450080
+Pašto adresas: Elektrinės g. 4, K 47, Drūkšinių k. 
+Miestas: Visagino sav.
+Pašto kodas: 31152
+Šalies administracinis vienetas (NUTS): Utenos apskritis (LT029)
+Šalis: Lietuva
+E. paštas: iae@iae.lt
+Telefono numeris: +37065853249
+Interneto adresas: www.iae.lt
+Pirkėjo profilis: www.iae.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+8.1 ORG-0002
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 35175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Nostra
+Registracijos numeris: 120897213
+Miestas: Sausių g. 44, Sausių k., Trakų r.
+Pašto kodas: 21401
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB „Taiklu“
+Registracijos numeris: 304437662
+Miestas: Kaunas
+Pašto kodas: 45234
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+8.1 ORG-0006
+Oficialus pavadinimas: UAB „VV projektai“
+Registracijos numeris: 300666927
+Miestas: Vilnius
+Pašto kodas: 08247
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+8.1 ORG-0007
+Oficialus pavadinimas: UAB „IMLITEX TEXTILE“
+Registracijos numeris: 125774079
+Miestas: Kaunas
+Pašto kodas: 46351
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+8.1 ORG-0008
+Oficialus pavadinimas: UAB „WIN sale“
+Registracijos numeris: 305672599
+Miestas: Kaunas
+Pašto kodas: 44172
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 13d3ec8a-f243-4c72-a5fd-b032f29ebf3d - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 18/03/2025 15:50 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

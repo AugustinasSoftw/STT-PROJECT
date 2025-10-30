@@ -1,0 +1,210 @@
+Lietuva: Medicinos įranga
+Medicinos priemonės ir įranga (laparoskopinė įranga)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Medicinos priemonės ir įranga (laparoskopinė įranga)
+Aprašymas: Medicinos priemonės ir įranga (laparoskopinė įranga). CPO LT pirkimą atlieka kitai perkančiajai 
+organizacijai Regioninei Mažeikių ligoninei, VŠĮ (kodas: 166913899).
+Procedūros identifikatorius: ebaaf9c1-6a3e-4942-b00f-018efc284ccf
+Ankstesnis skelbimas: fd66e8b3-a361-42fa-9f93-c052b75e1933-01
+Vidaus identifikatorius: 524303
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: Viešoji įstaiga Regioninė Mažeikių ligoninė
+2.1.3 Vertė
+Numatoma vertė be PVM: 125 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Medicinos priemonės ir įranga (laparoskopinė įranga)
+Aprašymas: Medicinos priemonės ir įranga (laparoskopinė įranga). CPO LT pirkimą atlieka kitai perkančiajai 
+organizacijai Regioninei Mažeikių ligoninei, VŠĮ (kodas: 166913899).
+Vidaus identifikatorius: 524303
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Miestas: Mažeikiai
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Papildoma informacija: Viešoji įstaiga Regioninė Mažeikių ligoninė
+5.1.5 Vertė
+Numatoma vertė be PVM: 125 000 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis viešas pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vaizdo apdorojimo įrenginys (techninės specifikacijos 1.1.3 punktas) suderinamas su 4K (3840 x 2160 
+taškų) raiškos 3D vaizdo endoskopais su ICG funkcija.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 3
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vaizdo apdorojimo įrenginyje (techninės specifikacijos 1.1.3 punktas) įdiegtas režimas vienu metu, 
+šalia vienas kito (angl. side by side) monitoriuje vaizduojantis ir paprastą, ir susiaurinto šviesos spektro vaizdą
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 2
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vaizdo apdorojimo įrenginyje (techninės specifikacijos 1.1.3 punktas) įdiegtas režimas suvienodinantis 
+viso lauko apšviestumą - apšviestumo padidinimas tik tamsiose vaizdo srityse
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Aukštos raiškos (4K) monitoriaus (techninės specifikacijos 1.1.1 punktas) Apšviestumas ≥ 800 cd/m2
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 4
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vaizdo apdorojimo įrenginys (techninės specifikacijos 1.1.3 punktas) skaitmeninis vaizdo didinimas ≥ 3 
+kartai.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 7
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Viešoji įstaiga CPO LT -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT -
+Organizacija, pasirašanti sutartį: Viešoji įstaiga Regioninė Mažeikių ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 108 700 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB „Tradintek“
+Pasiūlymas:
+Pasiūlymo identifikatorius: Pas1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 108 700 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: F8-059/25
+Sutarties sudarymo data: 01/04/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: „Europos socialinis fondas +“ (ESF+) (2021/2027)
+ES fondų identifikatorius: 09-022-P-0058
+Išsamesnė informacija apie ES fondus: Sveikatos centro sudėtyje teikiamų sveikatos priežiūros paslaugų 
+infrastruktūros modernizavimas
+Organizacija, pasirašanti sutartį: Viešoji įstaiga Regioninė Mažeikių ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@cpo.lt
+Telefono numeris: +37066629090
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB „Tradintek“
+Registracijos numeris: 124942182
+Pašto adresas: J.Jasinskio g. 9 
+Miestas: Vilnius
+Pašto kodas: 01112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: tomas.mickunaitis@tradintek.com
+Telefono numeris: +37052685427
+Fakso numeris: +37052496084
+Interneto adresas: 
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 0150
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: Viešoji įstaiga Regioninė Mažeikių ligoninė
+Registracijos numeris: 166913899
+Miestas: Mažeikiai
+Pašto kodas: 89217
+Šalies administracinis vienetas (NUTS): Telšių apskritis (LT028)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 7c36aaf1-4029-4a11-9c7a-d34e0b660ed0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 07/04/2025 11:57 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

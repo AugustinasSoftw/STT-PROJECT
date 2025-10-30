@@ -1,0 +1,187 @@
+Lietuva: Matavimo aparatų remonto ir priežiūros paslaugos
+4 kategorija. Realaus laiko PGR sistemos techninio aptarnavimo paslaugos IV
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Nacionalinis maisto ir veterinarijos rizikos vertinimo institutas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 4 kategorija. Realaus laiko PGR sistemos techninio aptarnavimo paslaugos IV
+Aprašymas: Realaus laiko PGR sistemos techninio aptarnavimo paslaugos IV
+Procedūros identifikatorius: 8ef210bf-81e7-4ce7-a244-eaf31f709b1e
+Pirkimo būdas: Ribotas
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50411000 Matavimo aparatų remonto ir priežiūros paslaugos
+Kiti klasifikacijos kodai (cpv): 39714100 Ventiliacijos įrenginiai
+Kiti klasifikacijos kodai (cpv): 30124150 Kaitintuvų filtrai
+Kiti klasifikacijos kodai (cpv): 30231000 Kompiuterių ekranai ir pultai
+Kiti klasifikacijos kodai (cpv): 31110000 Elektros varikliai
+Kiti klasifikacijos kodai (cpv): 30233190 Disko valdiklis
+Kiti klasifikacijos kodai (cpv): 31680000 Elektriniai maitinimo šaltiniai ir priedai
+Kiti klasifikacijos kodai (cpv): 30233150 Optinių diskų skaitliai
+Kiti klasifikacijos kodai (cpv): 33194110 Infuzinės pompos
+Kiti klasifikacijos kodai (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+Kiti klasifikacijos kodai (cpv): 30231300 Displėjaus ekranai
+Kiti klasifikacijos kodai (cpv): 50433000 Kalibravimo paslaugos
+Kiti klasifikacijos kodai (cpv): 19520000 Plastikiniai gaminiai
+Kiti klasifikacijos kodai (cpv): 31700000 Elektroniniai, elektromechaniniai ir elektrotechniniai reikmenys
+Kiti klasifikacijos kodai (cpv): 30216100 Optiniai skaitymo įrenginiai
+Kiti klasifikacijos kodai (cpv): 31512000 Kaitrinės volframohalogeninės lempos
+Kiti klasifikacijos kodai (cpv): 19510000 Guminiai gaminiai
+Kiti klasifikacijos kodai (cpv): 30237251 Kompiuterių valymo rinkiniai
+Kiti klasifikacijos kodai (cpv): 31000000 Elektrinės mašinos, aparatai, įranga ir reikmenys. Apšvietimas
+Kiti klasifikacijos kodai (cpv): 31731100 Moduliai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 4 kategorija. Realaus laiko PGR sistemos techninio aptarnavimo paslaugos IV
+Aprašymas: Realaus laiko PGR sistemos techninio aptarnavimo paslaugos IV
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 50411000 Matavimo aparatų remonto ir priežiūros paslaugos
+Kiti klasifikacijos kodai (cpv): 39714100 Ventiliacijos įrenginiai
+Kiti klasifikacijos kodai (cpv): 30124150 Kaitintuvų filtrai
+Kiti klasifikacijos kodai (cpv): 30231000 Kompiuterių ekranai ir pultai
+Kiti klasifikacijos kodai (cpv): 31110000 Elektros varikliai
+Kiti klasifikacijos kodai (cpv): 30233190 Disko valdiklis
+Kiti klasifikacijos kodai (cpv): 31680000 Elektriniai maitinimo šaltiniai ir priedai
+Kiti klasifikacijos kodai (cpv): 30233150 Optinių diskų skaitliai
+Kiti klasifikacijos kodai (cpv): 33194110 Infuzinės pompos
+Kiti klasifikacijos kodai (cpv): 30200000 Kompiuterinė įranga ir reikmenys
+Kiti klasifikacijos kodai (cpv): 30231300 Displėjaus ekranai
+Kiti klasifikacijos kodai (cpv): 50433000 Kalibravimo paslaugos
+Kiti klasifikacijos kodai (cpv): 19520000 Plastikiniai gaminiai
+Kiti klasifikacijos kodai (cpv): 31700000 Elektroniniai, elektromechaniniai ir elektrotechniniai reikmenys
+Kiti klasifikacijos kodai (cpv): 30216100 Optiniai skaitymo įrenginiai
+Kiti klasifikacijos kodai (cpv): 31512000 Kaitrinės volframohalogeninės lempos
+Kiti klasifikacijos kodai (cpv): 19510000 Guminiai gaminiai
+Kiti klasifikacijos kodai (cpv): 30237251 Kompiuterių valymo rinkiniai
+Kiti klasifikacijos kodai (cpv): 31000000 Elektrinės mašinos, aparatai, įranga ir reikmenys. Apšvietimas
+Kiti klasifikacijos kodai (cpv): 31731100 Moduliai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 80 354 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 80
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: neplaninio aptarnavimo paslaugų teikimo terminai nuo pranešimo pateikimo tiekėjui dienos
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (balai, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 20
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti tik šiame skelbime išvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Nacionalinis maisto ir veterinarijos rizikos 
+vertinimo institutas (PV) -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 93 091 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Linea libera
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000029555
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 93 091 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 15612
+Sutarties sudarymo data: 16/04/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Nacionalinis maisto ir veterinarijos rizikos vertinimo institutas (PV)
+Registracijos numeris: 190781293_PV
+Pašto adresas: J. Kairiūkščio g. 10, Vilnius 
+Miestas: Vilnius
+Pašto kodas: 08411
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@nmvrvi.lt
+Telefono numeris: +370652780470
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Linea libera
+Registracijos numeris: 122145775
+Pašto adresas: Akademijos g. 2 
+Miestas: Vilnius
+Pašto kodas: 08412
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@linealibera.lt
+Telefono numeris: +37052638748
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 457e1249-f4e5-49ba-82e0-f164e5a0bf92 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 17/04/2025 09:16 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

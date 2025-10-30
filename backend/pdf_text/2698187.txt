@@ -1,0 +1,166 @@
+Lietuva: Skrydžių valdymo sistemos
+748696 - Improvement of iTEC air traffic control system product for ensuring new architecture 
+functionalities and related equipment interfaces and development services
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiojo subjekto veiklos sritis: Oro uostų veikla
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 748696 - Improvement of iTEC air traffic control system product for ensuring new architecture 
+functionalities and related equipment interfaces and development services
+Aprašymas: 748696 - Skrydžių valdymo sistemos iTEC produkto išplėtimas naujos architektūros funkcionalumais 
+bei susijusios įrangos sąsajoms užtikrinti ir vystymo paslaugos. 2024 m. pirkimas. Dėl techninių priežasčių turi būti iš 
+naujo sukurta CVP IS pirkimo kortelė, bet pats pirkimas šiuo metu vykdomas, nėra nutrauktas.
+Procedūros identifikatorius: 8df8a2af-b61b-4dc5-a4ff-7e30346331ea
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34962220 Skrydžių valdymo sistemos
+Kiti klasifikacijos kodai (cpv): 48120000 Skrydžių valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72263000 Programinės įrangos diegimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/25/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: 748696 - Improvement of iTEC air traffic control system product for ensuring new architecture 
+functionalities and related equipment interfaces and development services
+Aprašymas: 748696 - Skrydžių valdymo sistemos iTEC produkto išplėtimas naujos architektūros funkcionalumais 
+bei susijusios įrangos sąsajoms užtikrinti ir vystymo paslaugos. 2024 m. pirkimas. Dėl techninių priežasčių turi būti iš 
+naujo sukurta CVP IS pirkimo kortelė, bet pats pirkimas šiuo metu vykdomas, nėra nutrauktas.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 34962220 Skrydžių valdymo sistemos
+Kiti klasifikacijos kodai (cpv): 48120000 Skrydžių valdymo programinės įrangos paketai
+Kiti klasifikacijos kodai (cpv): 72262000 Programinės įrangos kūrimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72263000 Programinės įrangos diegimo paslaugos
+Kiti klasifikacijos kodai (cpv): 72267000 Programinės įrangos priežiūros ir tvarkymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Pirkimo objektas yra novatoriškas. Vystomas naujos kartos skrydžių valdymo sistema
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Nežinoma
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą: Akcinė bendrovė „Oro navigacija“ (PV) -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Akcinė bendrovė „Oro navigacija“ (PV) -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 13 693 245,67 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Paslaugų pirkimo sutartis, skiriama remiantis išimtine teise
+Kitas pagrindimas: Pirkimu siekiama vystyti jau perkančiojo subjekto naudojamą skrydžių valdymo sistemą, kurios 
+gamintojas yra Indra Sistemas S.A, todėl perkantysis subjektas, vadovaudamasis Lietuvos Respublikos pirkimų, 
+atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 79 
+straipsnio 1 dalies 3 punkto b papunkčiu (konkurencijos nėra dėl techninių priežasčių) ir c papunkčiu (dėl išimtinių 
+teisių, įskaitant intelektinės nuosavybės teises, apsaugos), vykdo pirkimą iš vienintelio tiekėjo (Indra Sistemas S.A)
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Indra Sistemas S.A
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000040123
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 13 693 245,67 Euro
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Taip
+Subrangos vertė žinoma: ne
+Subrangos procentinė dalis žinoma: ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 14628
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos infrastruktūros tinklų priemonė (EITP) 
+(2021/2027)
+ES fondų identifikatorius: Europos infrastruktūros tinklų priemonė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Akcinė bendrovė „Oro navigacija“ (PV)
+Registracijos numeris: 210060460
+Pašto adresas: 
+Miestas: Vilnius
+Pašto kodas: LT-02184
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@ans.lt
+Telefono numeris: +37070694502
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Indra Sistemas S.A
+Ekonominės veiklos vykdytojo dydis: Didelis
+Registracijos numeris: A-28599033
+Pašto adresas: Avenida de Castilla 2, Edificio Kenia Kudos Innovation Campus. San Fernando de Henares, 
+Miestas: Madrid
+Pašto kodas: 28830
+Šalies administracinis vienetas (NUTS): Madrid (ES300)
+Šalis: Ispanija
+E. paštas: smorenoc@indra.es
+Telefono numeris: +34699991905
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 194dc5b7-8b30-4ba6-8d1b-636d2b50f946 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/05/2025 16:33 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

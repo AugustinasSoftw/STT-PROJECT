@@ -1,0 +1,171 @@
+Lietuva: Su renginiais susijusios paslaugos
+Jaunimo reikalų agentūros vykdomų edukacinių ir (ar) kitų renginių Lietuvoje organizavimo 
+paslaugos (tarptautinis atviras pirkimas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Jaunimo reikalų agentūra
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Socialinė apsauga
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Jaunimo reikalų agentūros vykdomų edukacinių ir (ar) kitų renginių Lietuvoje organizavimo paslaugos 
+(tarptautinis atviras pirkimas)
+Aprašymas: Šias paslaugas apima: 1.1.1. apgyvendinimo viešbučiuose ar kitose apgyvendinimo vietose Lietuvoje 
+organizavimo paslaugos. Preliminari 12 (dvylikos) mėnesių paslaugų teikimo laikotarpio apimtis - 120 užsakymų; 
+1.1.2. įvairių tipų maitinimo organizavimo ir (ar) jo aptarnavimo paslaugų Lietuvoje organizavimo paslaugos. 
+Preliminari 12 (dvylikos) mėnesių paslaugų teikimo laikotarpio apimtis - 120 užsakymų; 1.1.3. edukaciniams ir (ar) 
+kitiems renginiams skirtų vietų ir (ar) patalpų organizavimo paslaugos. Preliminari 12 (dvylikos) mėnesių paslaugų 
+teikimo laikotarpio apimtis - 120 užsakymų; 1.1.4. renginių dalyvių ir (ar) kitų asmenų pervežimo organizavimo 
+paslaugos. Preliminari 12 (dvylikos) mėnesių paslaugų teikimo laikotarpio apimtis - 70 užsakymų; 1.1.5. edukaciniams 
+ir (ar) kitiems renginiams skirtų kultūrinių programų organizavimo paslaugos.
+Procedūros identifikatorius: f0c0ed1d-d07d-4c92-916f-e77aca9258b9
+Ankstesnis skelbimas: 7c4debda-168e-4558-9a07-533eceb53a7a-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79952000 Su renginiais susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 0 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Jaunimo reikalų agentūros vykdomų edukacinių ir (ar) kitų renginių Lietuvoje organizavimo paslaugos 
+(tarptautinis atviras pirkimas)
+Aprašymas: Šias paslaugas apima: 1.1.1. apgyvendinimo viešbučiuose ar kitose apgyvendinimo vietose Lietuvoje 
+organizavimo paslaugos. Preliminari 12 (dvylikos) mėnesių paslaugų teikimo laikotarpio apimtis - 120 užsakymų; 
+1.1.2. įvairių tipų maitinimo organizavimo ir (ar) jo aptarnavimo paslaugų Lietuvoje organizavimo paslaugos. 
+Preliminari 12 (dvylikos) mėnesių paslaugų teikimo laikotarpio apimtis - 120 užsakymų; 1.1.3. edukaciniams ir (ar) 
+kitiems renginiams skirtų vietų ir (ar) patalpų organizavimo paslaugos. Preliminari 12 (dvylikos) mėnesių paslaugų 
+teikimo laikotarpio apimtis - 120 užsakymų; 1.1.4. renginių dalyvių ir (ar) kitų asmenų pervežimo organizavimo 
+paslaugos. Preliminari 12 (dvylikos) mėnesių paslaugų teikimo laikotarpio apimtis - 70 užsakymų; 1.1.5. edukaciniams 
+ir (ar) kitiems renginiams skirtų kultūrinių programų organizavimo paslaugos.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 79952000 Su renginiais susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 0 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Žr. pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 85
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Renginių organizavimo specialisto patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 15
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Jaunimo reikalų agentūra -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vilniaus apygardos teismas -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 665 499,99 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Propeller
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000016526
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 0,01 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 6265
+Data, kurią buvo pasirinktas laimėtojas: 25/02/2025
+Sutarties sudarymo data: 13/03/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 8
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Jaunimo reikalų agentūra
+Registracijos numeris: 188681478
+Pašto adresas: Vytenio g. 6 
+Miestas: Vilnius
+Pašto kodas: 03113
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: janina.skoda@jra.lt
+Telefono numeris: +37063408299
+Interneto adresas: www.jra.lt
+Pirkėjo profilis: www.jra.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Propeller
+Registracijos numeris: 300091483
+Pašto adresas: J. Jasinskio g. 12 
+Miestas: Vilnius
+Pašto kodas: 01112
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: audrius.m@propeller.lt
+Telefono numeris: +37068686007
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 03aca251-f557-40ea-a611-5a84e822a43b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 14/03/2025 10:30 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

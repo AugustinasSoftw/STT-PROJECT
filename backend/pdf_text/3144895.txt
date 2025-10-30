@@ -1,0 +1,169 @@
+Lietuva: Su programine įranga susijusios paslaugos
+Lietuvos integralios bibliotekų informacinės sistemos (LIBIS) ir Virtualios elektroninio paveldo 
+informacinės sistemos (VEPIS) priežiūros, konsultacinės ir programavimo paslaugos (atviras 
+konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos
+Perkančiosios organizacijos veiklos sritis: Laisvalaikis, kultūra ir religija
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Lietuvos integralios bibliotekų informacinės sistemos (LIBIS) ir Virtualios elektroninio paveldo 
+informacinės sistemos (VEPIS) priežiūros, konsultacinės ir programavimo paslaugos (atviras konkursas)
+Aprašymas: Perkamos Lietuvos integralios bibliotekų informacinės sistemos (LIBIS) ir Virtualios elektroninio paveldo 
+informacinės sistemos (VEPIS) priežiūros, konsultacinės ir programavimo paslaugos. Detalus pirkimo objekto 
+aprašymas pateikiamas techninėje specifikacijoje.
+Procedūros identifikatorius: 1ca01e70-0848-491b-b4b3-d236769227d7
+Ankstesnis skelbimas: 168c4645-636f-482f-ad35-c713cb4b7b3a-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Lietuvos integralios bibliotekų informacinės sistemos (LIBIS) ir Virtualios elektroninio paveldo 
+informacinės sistemos (VEPIS) priežiūros, konsultacinės ir programavimo paslaugos (atviras konkursas)
+Aprašymas: Perkamos Lietuvos integralios bibliotekų informacinės sistemos (LIBIS) ir Virtualios elektroninio paveldo 
+informacinės sistemos (VEPIS) priežiūros, konsultacinės ir programavimo paslaugos. Detalus pirkimo objekto 
+aprašymas pateikiamas techninėje specifikacijoje.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 72260000 Su programine įranga susijusios paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žr. pirkimo dokumentuose
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+-
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos nacionalinė Martyno Mažvydo 
+biblioteka -
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 24 793,39 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: UAB Asseco Lietuva (JVG partneris)
+Oficialus pavadinimas: UAB "Insoft" (JVG partneris)
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000059596
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 24 700 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 21272
+Sutarties sudarymo data: 10/06/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos nacionalinė Martyno Mažvydo biblioteka
+Registracijos numeris: 290757560
+Pašto adresas: Gedimino pr. 51 
+Miestas: Vilnius
+Pašto kodas: 01109
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vaiva.biliukeviciene@lnb.lt
+Telefono numeris: +37052398574
+Interneto adresas: www.lnb.lt
+Pirkėjo profilis: www.lnb.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Asseco Lietuva (JVG partneris)
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302631095
+Pašto adresas: V. Gerulaičio 10 
+Miestas: Vilnius
+Pašto kodas: 08200
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: giedrius.daugiala@asseco.lt
+Telefono numeris: +37068634690
+Interneto adresas: www.asseco.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0005
+Oficialus pavadinimas: UAB "Insoft" (JVG partneris)
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302294870
+Miestas: Vilnius
+Pašto kodas: 05132
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 18cbb74c-4b17-463e-b733-5e56d3cd0905 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/06/2025 15:38 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

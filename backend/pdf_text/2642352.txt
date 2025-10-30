@@ -1,0 +1,208 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Projektų parengimo paslaugų pirkimas (Atviras konkursas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Ukmergės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Projektų parengimo paslaugų pirkimas (Atviras konkursas)
+Aprašymas: Perkamos techninių darbo projektų parengimo paslaugos Pirkimo objektas skaidomas į 2 dalis: I pirkimo 
+dalis - techninio darbo projekto „Susisiekimo komunikacijų paskirties statinio - Gedimino gatvės, Ukmergės mieste 
+rekonstravimo projektas“ parengimas; II pirkimo dalis - techninio darbo projekto „Susisiekimo komunikacijų paskirties 
+statinių, privažiuojamųjų gatvių prie Deltuvos g. 18A, 18B, 18C, 20, Kauno g. 45A, Žiedo g. 3A, 5, 5A, 5B, 7, 9, 11, 
+Ukmergės mieste, statybos projektas“ parengimas.
+Procedūros identifikatorius: 7bbac148-cec9-4414-873c-a6807ae857d1
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 78 512,4 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Techninio darbo projekto „Susisiekimo komunikacijų paskirties statinio - Gedimino gatvės, Ukmergės 
+mieste rekonstravimo projektas“ parengimas
+Aprašymas: Perkamos techninių darbo projektų parengimo paslaugos Pirkimo objektas skaidomas į 2 dalis: I pirkimo 
+dalis - techninio darbo projekto „Susisiekimo komunikacijų paskirties statinio - Gedimino gatvės, Ukmergės mieste 
+rekonstravimo projektas“ parengimas; II pirkimo dalis - techninio darbo projekto „Susisiekimo komunikacijų paskirties 
+statinių, privažiuojamųjų gatvių prie Deltuvos g. 18A, 18B, 18C, 20, Kauno g. 45A, Žiedo g. 3A, 5, 5A, 5B, 7, 9, 11, 
+Ukmergės mieste, statybos projektas“ parengimas.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 78 512,4 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinama pasiūlymo kaina
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vertinama specialistų patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Ekonomiškai naudingiausio 
+pasiūlymo vertinimo formulė: ENtiekėjo = Kaina tiekėjo - PV ENtiekėjo - kiekvieno pasiūlymo ekonominis 
+naudingumas; Kaina tiekėjo - tiekėjo pasiūlyme nurodyta bendra kaina eurais; PV - tai piniginė vertė eurais, kuri bus 
+skaičiuojama tiesiogiai už šias reikšmes: PV - 0 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 m. 
+iki pasiūlymo pateikimo termino pabaigos nėra vadovavęs nei vienam projektui; PV - 1000 Eurų, jei tiekėjo siūlomas 
+projekto vadovas per pastaruosius 3 metus iki pasiūlymo pateikimo termino pabaigos yra vadovavęs vienam projektui; 
+PV - 2000 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 metus iki pasiūlymo pateikimo termino 
+pabaigos yra vadovavęs dviems projektams; PV - 3000 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 
+metus iki pasiūlymo pateikimo termino pabaigos yra vadovavęs trims ir daugiau projektams.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Ukmergės rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Ukmergės rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Ukmergės rajono savivaldybės administracija
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Techninio darbo projekto „Susisiekimo komunikacijų paskirties statinių, privažiuojamųjų gatvių prie 
+Deltuvos g. 18A, 18B, 18C, 20, Kauno g. 45A, Žiedo g. 3A, 5, 5A, 5B, 7, 9, 11, Ukmergės mieste, statybos projektas“ 
+parengimas
+Aprašymas: Perkamos techninių darbo projektų parengimo paslaugos Pirkimo objektas skaidomas į 2 dalis: I pirkimo 
+dalis - techninio darbo projekto „Susisiekimo komunikacijų paskirties statinio - Gedimino gatvės, Ukmergės mieste 
+rekonstravimo projektas“ parengimas; II pirkimo dalis - techninio darbo projekto „Susisiekimo komunikacijų paskirties 
+statinių, privažiuojamųjų gatvių prie Deltuvos g. 18A, 18B, 18C, 20, Kauno g. 45A, Žiedo g. 3A, 5, 5A, 5B, 7, 9, 11, 
+Ukmergės mieste, statybos projektas“ parengimas.
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 78 512,4 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Vertinama pasiūlymo kaina
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Vertinama specialistų patirtis
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: Ekonomiškai naudingiausio 
+pasiūlymo vertinimo formulė: ENtiekėjo = Kaina tiekėjo - PV ENtiekėjo - kiekvieno pasiūlymo ekonominis 
+naudingumas; Kaina tiekėjo - tiekėjo pasiūlyme nurodyta bendra kaina eurais; PV - tai piniginė vertė eurais, kuri bus 
+skaičiuojama tiesiogiai už šias reikšmes: PV - 0 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 m. 
+iki pasiūlymo pateikimo termino pabaigos nėra vadovavęs nei vienam projektui; PV - 1000 Eurų, jei tiekėjo siūlomas 
+projekto vadovas per pastaruosius 3 metus iki pasiūlymo pateikimo termino pabaigos yra vadovavęs vienam projektui; 
+PV - 2000 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 metus iki pasiūlymo pateikimo termino 
+pabaigos yra vadovavęs dviems projektams; PV - 3000 Eurų, jei tiekėjo siūlomas projekto vadovas per pastaruosius 3 
+metus iki pasiūlymo pateikimo termino pabaigos yra vadovavęs trims ir daugiau projektams.
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Ukmergės rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Ukmergės rajono savivaldybės administracija -
+Organizacija, atliekanti mokėjimus: Ukmergės rajono savivaldybės administracija
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Visi pasiūlymai, dalyvavimo prašymai ar projektai atšaukti arba 
+nepriimtini
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Ukmergės rajono savivaldybės administracija
+Registracijos numeris: 188752174
+Pašto adresas: Kęstučio a.3 
+Miestas: Ukmergė
+Pašto kodas: 20114
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: r.kumetaitiene@ukmerge.lt
+Telefono numeris: +37064299347
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: aeeb9bad-24c3-4422-b538-8a9296910582 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/05/2025 08:28 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

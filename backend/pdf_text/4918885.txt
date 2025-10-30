@@ -1,0 +1,154 @@
+Lietuva: Mobilieji telefonai
+Mobilieji telefonai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Pirkėjo teisinė forma: Valstybinė įmonė
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Mobilieji telefonai
+Aprašymas: Pirkimo objektas skaidomas į 2 Pirkimo objekto dalis: I Pirkimo objekto dalis - I tipo mobilieji telefonai, 
+II Pirkimo objekto dalis - II tipo mobilieji telefonai, III tipo mobilieji telefonai. Tiekėjas gali pateikti pasiūlymą vienai, 
+kelioms ar visoms Pirkimo objekto dalims.
+Procedūros identifikatorius: b5e165fe-df61-4efb-ac30-09e1feb11a21
+Ankstesnis skelbimas: 6078abfd-2811-4352-b5c7-d0b36a83d10f-01
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32250000 Mobilieji telefonai
+Kiti klasifikacijos kodai (cpv): 32251100 Laisvų rankų įrangos komplektas
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Mobilieji telefonai
+Aprašymas: Pirkimo objektas skaidomas į 2 Pirkimo objekto dalis: I Pirkimo objekto dalis - I tipo mobilieji telefonai, 
+II Pirkimo objekto dalis - II tipo mobilieji telefonai, III tipo mobilieji telefonai. Tiekėjas gali pateikti pasiūlymą vienai, 
+kelioms ar visoms Pirkimo objekto dalims.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32250000 Mobilieji telefonai
+Kiti klasifikacijos kodai (cpv): 32251100 Laisvų rankų įrangos komplektas
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Aplinkosauginiai kriterijai Prekėms nustatomi vadovaujantis Aplinkos apsaugos kriterijų taikymo, 
+vykdant žaliuosius pirkimus, tvarkos aprašo, patvirtinto 2011 m. birželio 28 d. įsakymu D1-508 „Dėl Aplinkos 
+apsaugos kriterijų taikymo, vykdant žaliuosius pirkimus, tvarkos aprašo patvirtinimo“ (toliau - Tvarkos aprašas) 2 
+priedo 5 skyriumi „Mobilieji telefonai“.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 98
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: Vertinama tiekėjo pasiūlyta papildoma (viršijanti pirkimo sąlygose nustatytą: 6.15. Kartu su telefonu 
+turi būti pateikiamas originalus krovimo laidas) komplektacija.
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 2
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros 
+terminus: Pretenzijų ir ieškinių pateikimo tvarka ir terminai nurodyti motininio DPS pirkimo sąlygų 13 dalyje.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VĮ Registrų centras (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 240 039,61 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Bitė Lietuva
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000085188
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 240 039,61 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32945
+Sutarties sudarymo data: 03/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VĮ Registrų centras (PV)
+Registracijos numeris: ST-281 (5.7 Mr) ir ST-282 (5.7 Mr)
+Pašto adresas: Studentų g. 39 
+Miestas: Vilnius
+Pašto kodas: 08106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: Valda.Darguziene@registrucentras.lt
+Telefono numeris: +370 669 90409
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Bitė Lietuva
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110688998
+Pašto adresas: Žemaitės g. 15 
+Miestas: Vilnius
+Pašto kodas: LT-03118
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: grigalius.kalvaitis@bite.lt
+Telefono numeris: +370 699 23071
+Interneto adresas: www.bite.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 8690fd63-10f6-448e-abdf-73cdfcea6cdd - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 10/10/2025 19:17 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

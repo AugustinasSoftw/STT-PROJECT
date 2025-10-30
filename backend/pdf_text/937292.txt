@@ -1,0 +1,702 @@
+Lietuva: Medicinos reikmenys
+745166 Medicinos reikmenys
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Elektrėnų savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 745166 Medicinos reikmenys
+Aprašymas: Perkamos medicinos reikmenys VšĮ Elektrėnų ligoninei
+Procedūros identifikatorius: 4951fd67-7087-4361-8715-05b5c929be3a
+Ankstesnis skelbimas: 692195-2024
+Vidaus identifikatorius: 745166
+Pirkimo būdas: Atviras
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0010
+Pavadinimas: Vienkartiniai antgaliai spirometrui
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 10
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vienkartinės apsaugos priemonės
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Tvarsliava
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0003
+Pavadinimas: Švirkštai, adatos ir intraveninės med. priemonės
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 3
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0004
+Pavadinimas: Anesteziologinės priemonės
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 4
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0005
+Pavadinimas: Kateteriai, zondai, drenavimo priemonės ir sistemos
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 5
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0006
+Pavadinimas: Įvairios medicinos priemonės
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 6
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0007
+Pavadinimas: Chirurginiai siūlai
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 7
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0008
+Pavadinimas: Medžiagos sterilizacijai
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 8
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1 Techninės ID dalies: LOT-0009
+Pavadinimas: EKG popierius
+Aprašymas: Perkami medicinos reikmenys VšĮ Elektrėnų ligoninė
+Vidaus identifikatorius: 9
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33140000 Medicinos reikmenys
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.12 Pirkimo sąlygos
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas -
+Informacija apie peržiūros terminus: Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos 
+pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo dienos, kurią perkančioji 
+organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems 
+kandidatams ir suinteresuotiems dalyviams.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 48 550 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0010
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0010
+Pasiūlymo vertė: 64 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-1-10
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 3 355 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-1-1
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 1 709 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-1-2
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0003
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0003
+Pasiūlymo vertė: 7 163 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-1-3
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0004
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0004
+Pasiūlymo vertė: 4 334 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-3
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 27/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0005
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0005
+Pasiūlymo vertė: 3 440 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-1-5
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0006
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0006
+Pasiūlymo vertė: 11 697 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-1-6
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+6.1 Rezultatai: pirkimo dalies ID: LOT-0007
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: A. Tamošiūno įmonė
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS2
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0007
+Pasiūlymo vertė: 6 820 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-4
+Data, kurią buvo pasirinktas laimėtojas: 06/01/2025
+Sutarties sudarymo data: 23/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0008
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Skirgesa
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0008
+Pasiūlymo vertė: 1 412 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VPS-2
+Data, kurią buvo pasirinktas laimėtojas: 31/12/2024
+Sutarties sudarymo data: 14/01/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0009
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Elektrėnų savivaldybės administracija
+Registracijos numeris: 188756190
+Pašto adresas: Rungos g. 5 
+Miestas: Elektrėnai
+Pašto kodas: LT-26110
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: daina.pranckeviciene@elektrenai.lt
+Telefono numeris: +370 52858007
+Interneto adresas: www.elektrenai.lt
+Pirkėjo profilis: www.elektrenai.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: LT-01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB Skirgesa
+Registracijos numeris: 234449420
+Miestas: Kaunas
+Pašto kodas: LT-52461
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@skirgesa.lt
+Telefono numeris: +370 37452168
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001, LOT-0002, LOT-0003, LOT-0004, LOT-0005, LOT-0006, LOT-0008, 
+LOT-0010
+8.1 ORG-0005
+Oficialus pavadinimas: A. Tamošiūno įmonė
+Registracijos numeris: 147316390
+Miestas: Panevėžys
+Pašto kodas: LT-32125
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: info@atamosiunas.lt
+Telefono numeris: +37045581193
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0007
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 9e4c734d-721d-48af-9660-f290dec0d6bc - 02
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 30/01/2025 10:51 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

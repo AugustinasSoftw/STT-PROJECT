@@ -1,0 +1,176 @@
+Lietuva: Mokymo paslaugos
+738812 Praktinių mokymų mokyklų vadovams, specialistams dėl našumo rodiklių (LEAN / 
+KPI / OCR) mokyklose taikymo paslaugos pirkimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: 738812 Praktinių mokymų mokyklų vadovams, specialistams dėl našumo rodiklių (LEAN / KPI / OCR) 
+mokyklose taikymo paslaugos pirkimas
+Aprašymas: Perkamos praktinių mokymų mokyklų vadovams, mokytojams (ir klasių auklėtojams), specialistams 
+dėl našumo rodiklių (LEAN / KPI / OCR) mokyklose taikymo paslaugos, atitinkančios techninės specifikacijos 
+reikalavimus. Perkamų paslaugų apimtys ir reikalavimai nurodyti Sutarties projekte, įskaitant jos priedus, tarp kurių ir 
+techninė specifikacija.
+Procedūros identifikatorius: c19fd41e-cbfb-4dc9-8335-4f7bf10635e3
+Ankstesnis skelbimas: 570822-2024
+Vidaus identifikatorius: 738812
+Pirkimo būdas: Atviras
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 345 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Praktinių mokymų mokyklų vadovams, specialistams dėl našumo rodiklių (LEAN / KPI / OCR) 
+mokyklose taikymo paslaugos pirkimas
+Aprašymas: Perkamos praktinių mokymų mokyklų vadovams, mokytojams (ir klasių auklėtojams), specialistams 
+dėl našumo rodiklių (LEAN / KPI / OCR) mokyklose taikymo paslaugos, atitinkančios techninės specifikacijos 
+reikalavimus. Perkamų paslaugų apimtys ir reikalavimai nurodyti Sutarties projekte, įskaitant jos priedus, tarp kurių ir 
+techninė specifikacija.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 80590000 Mokymo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: Mažiausia kaina
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 75
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Projekto vadovo aukštesnė projektų valdymo kvalifikacija
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 10
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Lektoriaus didesnė patirtis
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 9
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: Socialinis kriterijus - siūlomos mokėti darbo užmokesčio mėnesio medianos
+Lyginamasis svoris (procentinė dalis, tikslus skaičius): 6
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+TED eSender: European Dynamics S.A.
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 345 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Pirkimų procedūros dalyvio vadovas: UAB „EUROINTEGRACIJOS PROJEKTAI“
+Oficialus pavadinimas: Kauno švietimo inovacijų centras
+Pasiūlymas:
+Pasiūlymo identifikatorius: PAS1
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Informacija apie sutartį:
+Sutarties identifikatorius: SR-----
+Data, kurią buvo pasirinktas laimėtojas: 04/12/2024
+Sutarties sudarymo data: 19/12/2024
+Sutartis skiriama pagal preliminariąją sutartį: ne
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: Europos Sąjungos ekonomikos gaivinimo 
+priemonė (EURI) finansavimo išlaidos (2021/2027)
+ES fondų identifikatorius: 10-012-P-0001
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+6.1.3 Nelaimėję dalyviai:
+Dalyvis:
+Pirkimų procedūros dalyvio vadovas: UAB „EUROINTEGRACIJOS PROJEKTAI“
+Oficialus pavadinimas: 
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Kauno miesto savivaldybės administracija
+Registracijos numeris: 188764867
+Pašto adresas: Laisvės al. 96 
+Miestas: Kaunas
+Pašto kodas: 44251
+Šalis: Lietuva
+E. paštas: daiva.ceponiene@kaunas.lt
+Telefono numeris: +370 37422793
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB „EUROINTEGRACIJOS PROJEKTAI“
+Registracijos numeris: 142122047
+Miestas: Vilnius
+Šalis: Lietuva
+E. paštas: j.pociukone@eip.lt
+Telefono numeris: +37063391488
+Šios organizacijos vaidmenys:
+Dalyvis
+Grupės vadovas
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Kauno švietimo inovacijų centras
+Registracijos numeris: 193043096
+Miestas: Kaunas
+Šalis: Lietuva
+E. paštas: info@kaunosic.lt
+Telefono numeris: +370 37 324157
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+11 Skelbimo informacija
+11.1 Skelbimo informacija
+Skelbimo identifikatorius / versija: 17a80d78-b7e5-4c91-98a2-4ad8fafd6465 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas
+Skelbimo išsiuntimo data: 20/12/2024 13:43 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
+11.2 Paskelbimo informacija

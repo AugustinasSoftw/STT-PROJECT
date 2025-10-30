@@ -1,0 +1,182 @@
+Lietuva: Inžinerinio projektavimo paslaugos
+Šilutės M. Jankaus pagrindinės mokyklos Sodų g. 7, Šilutėje pritaikymo įtraukiajam ugdymui 
+kapitalinio remonto darbų techninio darbo projekto parengimas
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šilutės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Šilutės M. Jankaus pagrindinės mokyklos Sodų g. 7, Šilutėje pritaikymo įtraukiajam ugdymui kapitalinio 
+remonto darbų techninio darbo projekto parengimas
+Aprašymas: Tiekėjas turės: 1. parengti Šilutės Martyno Jankaus pagrindinės mokyklos (unikalus Nr. 8897-3007-4017), 
+esančios Sodų g. 7, Šilutėje techninį darbo projektą, pagal projektavimo užduotį ir Techninę specifikaciją; 2. vykdyti 
+projekto vykdymo priežiūrą rangos darbų vykdymo metu, nuo darbų pradžios iki statybos užbaigimą patvirtinančio 
+dokumento gavimo dienos. Techninis darbo projektas turi būti parengtas per 6 (šešis) mėnesius nuo sutarties 
+pasirašymo dienos. Projekto vykdymo priežiūros paslaugos turės būti teikiamos nuo darbų pradžios iki statybos 
+užbaigimą patvirtinančio dokumento gavimo, bet ne ilgiau kaip 36 mėn. Paslaugų teikimo pradžia bus nustatoma 
+atskiru užsakovo ir paslaugų teikėjo rašytiniu susitarimu.
+Procedūros identifikatorius: 7b51e104-0b0e-414c-aa7d-531bde8d538e
+Ankstesnis skelbimas: ab09c938-4d3c-4c3b-b8e4-48adf9d8d534-01
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+Pagreitintos procedūros pagrindimas: 
+Pagrindiniai procedūros ypatumai: 
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+2.1.2 Sutarties vykdymo vieta
+Miestas: Šilutė
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Šilutės M. Jankaus pagrindinės mokyklos Sodų g. 7, Šilutėje pritaikymo įtraukiajam ugdymui kapitalinio 
+remonto darbų techninio darbo projekto parengimas
+Aprašymas: Tiekėjas turės: 1. parengti Šilutės Martyno Jankaus pagrindinės mokyklos (unikalus Nr. 8897-3007-4017), 
+esančios Sodų g. 7, Šilutėje techninį darbo projektą, pagal projektavimo užduotį ir Techninę specifikaciją; 2. vykdyti 
+projekto vykdymo priežiūrą rangos darbų vykdymo metu, nuo darbų pradžios iki statybos užbaigimą patvirtinančio 
+dokumento gavimo dienos. Techninis darbo projektas turi būti parengtas per 6 (šešis) mėnesius nuo sutarties 
+pasirašymo dienos. Projekto vykdymo priežiūros paslaugos turės būti teikiamos nuo darbų pradžios iki statybos 
+užbaigimą patvirtinančio dokumento gavimo, bet ne ilgiau kaip 36 mėn. Paslaugų teikimo pradžia bus nustatoma 
+atskiru užsakovo ir paslaugų teikėjo rašytiniu susitarimu.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71320000 Inžinerinio projektavimo paslaugos
+Kiti klasifikacijos kodai (cpv): 71248000 Projektų ir dokumentacijos priežiūra
+5.1.2 Sutarties vykdymo vieta
+Miestas: Šilutė
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Pirkimo projektas, visiškai arba iš dalies finansuojamas iš ES fondų
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Pavadinimas: 
+Aprašymas: vertinama kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Pavadinimas: 
+Aprašymas: vertinama projekto vadovo patirtis
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 
+Pagrindimas, kodėl nenurodomas sutarties skyrimo kriterijų lyginamasis svoris: 
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Klaipėdos apygardos teismas -
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Šilutės rajono savivaldybės administracija -
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Šilutės rajono savivaldybės administracija -
+Organizacija, pasirašanti sutartį: Šilutės rajono savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 26 000 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: TS Projects
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000047940
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 26 000 Euro
+Nustatyta pasiūlymo vieta vertinimo skalėje: taip
+Vieta laimėtojų sąraše: 1
+Šis pasiūlymas yra alternatyvus: ne
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 18532
+Sutarties sudarymo data: 08/05/2025
+Informacija apie Europos Sąjungos fondus
+ES finansuojamo projekto arba programos pavadinimas: „Europos socialinis fondas +“ (ESF+) (2021/2027)
+ES fondų identifikatorius: 23-007-P-0001
+Išsamesnė informacija apie ES fondus: Šilutės rajono bendrojo ugdymo mokyklų aplinkos pritaikymas 
+įtraukiajam ugdymui
+Organizacija, pasirašanti sutartį: Šilutės rajono savivaldybės administracija
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Šilutės rajono savivaldybės administracija
+Registracijos numeris: 188723322
+Pašto adresas: Dariaus ir Girėno g. 1 
+Miestas: Šilutė
+Pašto kodas: 99133
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: egle.limbiene@silute.lt
+Telefono numeris: +37065635198
+Interneto adresas: www.silute.lt
+Pirkėjo profilis: www.silute.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, pasirašanti sutartį
+8.1 ORG-0002
+Oficialus pavadinimas: TS Projects
+Ekonominės veiklos vykdytojo dydis: Labai mažas
+Registracijos numeris: 300021780
+Pašto adresas: Lietuvininkų g. 61-8, 
+Miestas: Šilutė
+Pašto kodas: 99135
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: tsprojektai@gmail.com
+Telefono numeris: +37061441649
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Klaipėdos apygardos teismas
+Registracijos numeris: 191844978
+Pašto adresas: Herkaus Manto g. 26 
+Miestas: Klaipėda
+Pašto kodas: 92131
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: klaipedos.apygardos@teismas.lt
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: b98e2585-5e98-4829-a4f3-774b9cad33e0 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 13/05/2025 16:06 +03:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
