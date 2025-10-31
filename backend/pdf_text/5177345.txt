@@ -1,0 +1,147 @@
+Lietuva: Laboratoriniai reagentai
+Reagentai ir pagalbinės priemonės kraujo krešėjimo tyrimams atlikti kartu su analizatoraisu 
+įsigijimu panaudai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: VšĮ Alytaus poliklinika
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Sveikata
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Reagentai ir pagalbinės priemonės kraujo krešėjimo tyrimams atlikti kartu su analizatoraisu įsigijimu 
+panaudai
+Aprašymas: Perkančioji organizacija numato įsigyti reagentus ir pagalbines priemones kraujo krešėjimo tyrimams 
+atlikti kartu su analizatoriaus įsigijimu panaudai
+Procedūros identifikatorius: d52b655b-d7d4-4f4a-939f-643830bc6e8f
+Ankstesnis skelbimas: c087c0d0-0c3a-472f-8b35-d901e7f65185-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 66 115,7 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Reagentai ir pagalbinės priemonės kraujo krešėjimo tyrimams atlikti kartu su analizatoraisu įsigijimu 
+panaudai
+Aprašymas: Perkančioji organizacija numato įsigyti reagentus ir pagalbines priemones kraujo krešėjimo tyrimams 
+atlikti kartu su analizatoriaus įsigijimu panaudai
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696500 Laboratoriniai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 66 115,7 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: pirkimo dokumentus
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: VPĮ VII sk. nustatyta tvarka
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: VšĮ Alytaus poliklinika
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 69 343,69 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000101957
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 69 343,69 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34763
+Data, kurią buvo pasirinktas laimėtojas: 27/10/2025
+Sutarties sudarymo data: 29/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: VšĮ Alytaus poliklinika
+Registracijos numeris: 190272218
+Pašto adresas: Naujoji, 48 
+Miestas: Alytus
+Pašto kodas: LT-62381
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+E. paštas: jurgita.struckiene@apoliklinika.lt
+Telefono numeris: +37061547225
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Uždaroji akcinė bendrovė Diagnostinės sistemos
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 122263421
+Pašto adresas: Kalvarijų sodų 1-oji g. 2 
+Miestas: Vilnius
+Pašto kodas: LT-08315
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: dalia.vilkelyte@diagsis.com
+Telefono numeris: 052740497
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 8ea80919-97e9-46aa-9562-9b30cf66287b - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/10/2025 12:27 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

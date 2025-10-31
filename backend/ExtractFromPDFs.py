@@ -271,10 +271,22 @@ def parse_date_lt(s: str) -> Optional[str]:
     if not s:
         return None
     s = s.strip()
+    # DD.MM.YYYY
+    m = re.search(r"\b(\d{2})\.(\d{2})\.(\d{4})\b", s)
+    if m:
+        d, M, y = m.groups()
+        return f"{y}-{M}-{d}"
+    # DD/MM/YYYY
     m = re.search(r"\b(\d{2})/(\d{2})/(\d{4})\b", s)
     if m:
         d, M, y = m.groups()
         return f"{y}-{M}-{d}"
+    # YYYY.MM.DD
+    m = re.search(r"\b(\d{4})\.(\d{2})\.(\d{2})\b", s)
+    if m:
+        y, M, d = m.groups()
+        return f"{y}-{M}-{d}"
+    # ISO
     m = re.search(r"\b(\d{4})-(\d{2})-(\d{2})\b", s)
     if m:
         return m.group(0)
@@ -535,6 +547,284 @@ def parse_bendra_informacija(lot_block: str) -> dict:
     }
 
 
+def _merge_orphan_winner_items(items: list[dict]) -> list[dict]:
+    merged: list[dict] = []
+    for it in items:
+        has_identity = any(
+            it.get(k)
+            for k in (
+                "Oficialus pavadinimas",
+                "Pasiūlymo identifikatorius",
+                "Sutarties identifikatorius",
+                "Pasiūlymo vertė (EUR)",
+            )
+        )
+        has_dates = any(
+            k in it
+            for k in (
+                "Laimėtojo pasirinkimo data",
+                "Sutarties sudarymo data",
+                "Sutarties sudarymo datos",
+            )
+        )
+        is_orphan = (not has_identity) and has_dates
+
+        if is_orphan and merged:
+            for k, v in it.items():
+                if v is not None and k not in merged[-1]:
+                    merged[-1][k] = v
+        else:
+            merged.append(it)
+    return merged
+
+
+def parse_strateginis_vp(lot_block: str) -> dict:
+    """
+    Parse 5.1.7 Strateginis viešasis pirkimas.
+    Returns dict with keys: tikslas, aprasymas, metodas, zvp_kriterijai (any may be None).
+    """
+    sec = re.search(
+        r"5\.\s*1\.\s*7\s+Strateginis\s+viešasis\s+pirkimas(.*?)(?=\n5\.\s*1\.\s*(?:8|9|10|11|12|13|14|15|16|\d)|\n5\.\s*2|\n6\b|\Z)",
+        lot_block,
+        re.IGNORECASE | re.DOTALL,
+    )
+    if not sec:
+        return {
+            "tikslas": None,
+            "aprasymas": None,
+            "metodas": None,
+            "zvp_kriterijai": None,
+        }
+
+    t = sec.group(1)
+
+    def grab_line(pat: str):
+        m = re.search(pat, t, re.IGNORECASE)
+        return m.group(1).strip() if m else None
+
+    # Stop when another labeled field/section begins
+    STOP = (
+        r"(?=\n(?:Poveikio\s+aplinkai\s+mažinimo\s+metodas\s*:|"
+        r"Žaliasis\s+viešasis\s+pirkimas\s*:\s*kriterijai\s*:|"
+        r"Kriterijus\s*:|5\.\s*1\.|5\.\s*2|6\b|$))"
+    )
+
+    # 1) Try explicit label
+    apr = None
+    m_apr = re.search(r"Aprašymas\s*:\s*(.+?)" + STOP, t, re.IGNORECASE | re.DOTALL)
+    if m_apr:
+        apr = re.sub(r"\s*\n\s*", " ", m_apr.group(1))
+        apr = re.sub(r"[ \t]+", " ", apr).strip()
+
+    # 2) Fallback: paragraph after 'tikslas:' up to next labeled field
+    if not apr:
+        m_after_goal = re.search(
+            r"Strateginio\s+viešojo\s+pirkimo\s+tikslas\s*:\s*[^\n]+\n(.+?)" + STOP,
+            t,
+            re.IGNORECASE | re.DOTALL,
+        )
+        if m_after_goal:
+            apr = re.sub(r"\s*\n\s*", " ", m_after_goal.group(1))
+            apr = re.sub(r"[ \t]+", " ", apr).strip()
+
+    # 3) Fallback: first meaningful paragraph inside the section
+    if not apr:
+        for para in re.split(r"\n\s*\n", t.strip()):
+            para = re.sub(r"\s*\n\s*", " ", para).strip()
+            if para and not re.match(
+                r"^(Poveikio|Žaliasis|Kriterijus)\b", para, re.IGNORECASE
+            ):
+                apr = para
+                break
+
+    return {
+        "tikslas": grab_line(
+            r"Strateginio\s+viešojo\s+pirkimo\s+tikslas\s*:\s*([^\n]+)"
+        ),
+        "aprasymas": apr,
+        "metodas": grab_line(
+            r"Poveikio\s+aplinkai\s+mažinimo\s+metodas\s*:\s*([^\n]+)"
+        ),
+        "zvp_kriterijai": grab_line(
+            r"Žaliasis\s+viešasis\s+pirkimas\s*:\s*kriterijai\s*:\s*([^\n]+)"
+        ),
+    }
+
+
+def _bool_taip_ne(s: str) -> Optional[bool]:
+    if not s:
+        return None
+    s = s.strip().lower()
+    if s.startswith("taip"):
+        return True
+    if s.startswith("ne"):
+        return False
+    return None
+
+
+def _parse_percent(s: str) -> Optional[float]:
+    if not s:
+        return None
+    m = re.search(r"(\d+(?:[.,]\d+)?)", s)
+    if not m:
+        return None
+    val = m.group(1).replace(",", ".")
+    try:
+        return float(val)
+    except Exception:
+        return None
+
+
+def _canon_label(s: str) -> str:
+    import unicodedata
+
+    s = "".join(
+        c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn"
+    )
+    s = s.replace("\xa0", " ")
+    s = re.sub(r"\s+", " ", s).strip().lower()
+    return s
+
+
+def parse_winner_block(wb: str) -> dict:
+    """
+    Parse a single 'Laimėtojas' block, including Subranga details.
+    """
+    item: dict = {}
+
+    # Basic winner fields
+    mname = re.search(r"Oficialus\s+pavadinimas:\s*(.+)", wb, re.IGNORECASE)
+    if mname:
+        item["Oficialus pavadinimas"] = norm_one_line(mname.group(1))
+
+    mo = re.search(r"Pasiūlymo\s+identifikatorius:\s*([^\n]+)", wb, re.IGNORECASE)
+    if mo:
+        item["Pasiūlymo identifikatorius"] = norm_one_line(mo.group(1))
+
+    mv = re.search(r"Pasiūlymo\s+vertė:\s*([^\n]+)", wb, re.IGNORECASE)
+    if mv:
+        amt, _cur = parse_money(mv.group(1))
+        if amt is not None:
+            item["Pasiūlymo vertė (EUR)"] = amt
+
+        # --- Contract identifier (keep as you have) ---
+    mcid = re.search(r"Sutarties\s+identifikatorius:\s*([0-9]+)", wb, re.IGNORECASE)
+    if mcid:
+        item["Sutarties identifikatorius"] = mcid.group(1)
+
+        # --- Dates: grab labeled values first, then fallbacks ---
+    dates: list[str] = []
+
+    def _push_date(key: str, raw: str):
+        d = parse_date_lt(raw.strip())
+        if d:
+            item[key] = d
+            dates.append(d)
+
+    # 1) Explicit labels (very tolerant; no ^ anchors; accepts ASCII ':' or full-width '：')
+    # --- Winner chosen date (exactly like "Sutarties sudarymo data") ---
+    pick = re.search(
+        r"Data\s*,?\s*kuri[aą]\s+buvo\s+pasirinkt(?:as|i)\s+laim[ėe]toj[au]s?\s*[: \-\u2013]?\s*"
+        r"(\d{2}[./-]\d{2}[./-]\d{4}|\d{4}[./-]\d{2}[./-]\d{2})",
+        wb,
+        re.IGNORECASE,
+    )
+    if pick:
+        _push_date("Laimėtojo pasirinkimo data", pick.group(1))
+
+    sign = re.search(
+        r"Sutarties\s+sudarymo\s+data\s*[:：]\s*(\d{2}/\d{2}/\d{4}|\d{4}-\d{2}-\d{2})",
+        wb,
+        re.IGNORECASE,
+    )
+    if sign:
+        _push_date("Sutarties sudarymo data", sign.group(1))
+
+    # --- Laimėtojo pasirinkimo data (section-aware, accent/space tolerant) ---
+
+    # 2) one or many "contract signed" dates
+    contract_pat = r"Sutarties\s+sudarymo\s+data[^:\n]*[:：-]\s*([0-9./-]+)"
+    c_dates = []
+    for mcd in re.finditer(contract_pat, wb, re.IGNORECASE):
+        d = parse_date_lt(mcd.group(1))
+        if d:
+            c_dates.append(d)
+
+    if c_dates:
+        c_dates = sorted(set(c_dates))
+        if len(c_dates) == 1:
+            item["Sutarties sudarymo data"] = c_dates[0]
+        else:
+            item["Sutarties sudarymo datos"] = c_dates
+
+    # 3) Fallback (only if we failed to find any labeled date at all)
+    #    Look after the "Informacija apie sutartį" header, then the tail of the block.
+    if (
+        "Laimėtojo parinkimo data" not in item
+        and "Sutarties sudarymo data" not in item
+        and "Sutarties sudarymo datos" not in item
+    ):
+
+        def _find_all_dates(txt: str) -> list[str]:
+            out = []
+            for m in re.finditer(r"\b(\d{2}/\d{2}/\d{4}|\d{4}-\d{2}-\d{2})\b", txt):
+                d = parse_date_lt(m.group(1))
+                if d:
+                    out.append(d)
+            return list(dict.fromkeys(out))  # dedupe, keep order
+
+        mis = re.search(r"Informacija\s+apie\s+sutart[įi]\s*[:：]?", wb, re.IGNORECASE)
+        tail = wb[mis.end() :] if mis else wb
+        dates = _find_all_dates(tail)
+        if dates:
+            if len(dates) == 1:
+                item["Sutarties sudarymo data"] = dates[0]
+            else:
+                item["Sutarties sudarymo datos"] = dates
+
+    # ---------- Subranga ----------
+    msub = re.search(r"\bSubranga\s*:\s*([^\n]+)", wb, re.IGNORECASE)
+    sub = _bool_taip_ne(msub.group(1)) if msub else None
+    if sub is not None:
+        item["Subranga"] = sub
+
+    # Only try detailed fields if Subranga is True (but we still accept if present)
+    m_svz = re.search(r"Subrangos\s+vertė\s+žinoma\s*:\s*([^\n]+)", wb, re.IGNORECASE)
+    if m_svz:
+        item["Subrangos vertė žinoma"] = _bool_taip_ne(m_svz.group(1))
+
+    m_sv = re.search(r"Subrangos\s+vertė\s*:\s*([^\n]+)", wb, re.IGNORECASE)
+    if m_sv:
+        a, _c = parse_money(m_sv.group(1))
+        if a is not None:
+            item["Subrangos vertė (EUR)"] = a
+
+    m_spdz = re.search(
+        r"Subrangos\s+procentinė\s+dalis\s+žinoma\s*:\s*([^\n]+)", wb, re.IGNORECASE
+    )
+    if m_spdz:
+        item["Subrangos % dalis žinoma"] = _bool_taip_ne(m_spdz.group(1))
+
+    m_spd = re.search(
+        r"Subrangos\s+procentinė\s+dalis\s*:\s*([^\n]+)", wb, re.IGNORECASE
+    )
+    if m_spd:
+        p = _parse_percent(m_spd.group(1))
+        if p is not None:
+            item["Subrangos % dalis"] = p
+
+    # Often a line with names of subcontractors
+    # (Use the last 'Aprašymas:' in the winner block to avoid clashing earlier descriptions)
+    all_desc = re.findall(r"\bAprašymas\s*:\s*([^\n]+)", wb, re.IGNORECASE)
+    if all_desc:
+        item["Subrangos aprašymas"] = norm_one_line(all_desc[-1])
+
+    # prune totally empty winner objects
+    if not any(item.values()):
+        return {}
+    return item
+
+
 # -------------------------
 # LOTS PARSER (two-pass)
 # -------------------------
@@ -659,21 +949,15 @@ def extract_lots(text: str) -> Optional[Dict[str, Dict[str, Any]]]:
                 lot["SVP_taikoma"] = bendra["SVP_taikoma"]
 
             # Strategy / GPP criteria (keep short; they can be verbose)
-            strat_m = re.search(
-                r"Strateginio\s+viešojo\s+pirkimo\s+tikslas:\s*([^\n]+)",
-                block,
-                re.IGNORECASE,
-            )
-            if strat_m:
-                lot["Strateginis tikslas"] = strat_m.group(1).strip()
-
-            zvp_m = re.search(
-                r"Žaliasis\s+viešasis\s+pirkimas:\s*kriterijai:\s*([^\n]+)",
-                block,
-                re.IGNORECASE,
-            )
-            if zvp_m:
-                lot["ŽVP: kriterijai"] = zvp_m.group(1).strip()
+            svp = parse_strateginis_vp(block)
+            if svp["tikslas"] is not None:
+                lot["Strateginis tikslas"] = svp["tikslas"]
+            if svp["aprasymas"] is not None:
+                lot["Strateginis aprašymas"] = svp["aprasymas"]
+            if svp["metodas"] is not None:
+                lot["Poveikio aplinkai mažinimo metodas"] = svp["metodas"]
+            if svp["zvp_kriterijai"] is not None:
+                lot["ŽVP: kriterijai"] = svp["zvp_kriterijai"]
 
             # Criteria numeric weights
             crit_list, crit_summary = parse_criteria_section(block)
@@ -717,12 +1001,12 @@ def extract_lots(text: str) -> Optional[Dict[str, Dict[str, Any]]]:
             mreason = re.search(
                 r"Priežastis[^:]*:\s*(.+?)\s*(?="
                 r"\n\s*(?:"
-                    r"Laimėtoja(?:s|i)\b|"                 # winners section
-                    r"pirkimo\s+dalies\s+ID\b|"           # next lot
-                    r"Rezultatai\b|"                      # section header
-                    r"(?:Gauti|Gaut[ųu])\s+pasiūlym|"     # stats lines: Gauti / Gautų pasiūlymai …
-                    r"Statistin[ėe]\s+informacija|"       # 6.1.4 Statistinė informacija
-                    r"^\s*\d+(?:\.\d+){0,3}\s"            # any numbered heading like 6., 6.1, 6.1.4 …
+                r"Laimėtoja(?:s|i)\b|"  # winners section
+                r"pirkimo\s+dalies\s+ID\b|"  # next lot
+                r"Rezultatai\b|"  # section header
+                r"(?:Gauti|Gaut[ųu])\s+pasiūlym|"  # stats lines: Gauti / Gautų pasiūlymai …
+                r"Statistin[ėe]\s+informacija|"  # 6.1.4 Statistinė informacija
+                r"^\s*\d+(?:\.\d+){0,3}\s"  # any numbered heading like 6., 6.1, 6.1.4 …
                 r")|\Z)",
                 block,
                 re.IGNORECASE | re.DOTALL | re.MULTILINE,
@@ -760,51 +1044,30 @@ def extract_lots(text: str) -> Optional[Dict[str, Dict[str, Any]]]:
                 lot["Rezultatas_tekstas"] = " ".join(parts)
 
             # winners (skip if unawarded)
+
             if not lot["Neapdovanota"]:
                 winner_blocks = re.split(
                     r"\bLaimėtoja(?:s|i)\b\s*:\s*", block, flags=re.IGNORECASE
                 )
                 for wb in winner_blocks[1:]:
-                    name = ""
-                    offer_id = ""
-                    amount = None
-                    dates: List[str] = []
+                    item = parse_winner_block(wb)
+                    if not item or not any(
+                        [
+                            item.get("Oficialus pavadinimas"),
+                            item.get("Pasiūlymo identifikatorius"),
+                            item.get("Pasiūlymo vertė (EUR)"),
+                            item.get("Sutarties identifikatorius"),
+                            item.get("Sutarties sudarymo data"),
+                            item.get("Sutarties sudarymo datos"),
+                            item.get("Laimėtojo pasirinkimo data"),
+                        ]
+                    ):
+                        continue
+                    lot["Info_winner"].append(item)
 
-                    mname = re.search(
-                        r"Oficialus\s+pavadinimas:\s*(.+)", wb, re.IGNORECASE
-                    )
-                    if mname:
-                        name = norm_one_line(mname.group(1))
-
-                    mid = re.search(
-                        r"Pasiūlymo\s+identifikatorius:\s*([^\n]+)", wb, re.IGNORECASE
-                    )
-                    if mid:
-                        offer_id = norm_one_line(mid.group(1))
-
-                    mv = re.search(r"Pasiūlymo\s+vertė:\s*([^\n]+)", wb, re.IGNORECASE)
-                    if mv:
-                        amount, _ = parse_money(mv.group(1))
-
-                    mcd = re.search(
-                        r"Sutarties\s+sudarymo\s+data:\s*([^\n]+)", wb, re.IGNORECASE
-                    )
-                    if mcd:
-                        for part in re.split(r"[,\s]+", mcd.group(1).strip()):
-                            d = parse_date_lt(part)
-                            if d:
-                                dates.append(d)
-
-                    lot["Info_winner"].append(
-                        {
-                            "Oficialus pavadinimas": name,
-                            "Pasiūlymo identifikatorius": offer_id,
-                            "Pasiūlymo vertė (EUR)": amount,
-                            "Sutarties sudarymo datos": dates or None,
-                        }
-                    )
-
+                # 👇 merge date-only items into the correct winner
                 if lot["Info_winner"]:
+                    lot["Info_winner"] = _merge_orphan_winner_items(lot["Info_winner"])
                     lot["Rezultatas"]["Būsena"] = "apdovanota"
 
     return lots_map if lots_map else None

@@ -1,0 +1,207 @@
+Lietuva: Ortopediniai implantai
+Endoprotezai
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Endoprotezai
+Aprašymas: Perkami Endoprotezai VšĮ Alytaus apskrities S. Kudirkos ligoninei. Pirkimo objektas skaidomas į 3 pirkimo 
+dalis. Pasiūlymų vertinimo kriterijus - Kaina/sąnaudos.
+Procedūros identifikatorius: 451306d8-d1bd-49f3-8f93-c2a6b5d06eb0
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33183100 Ortopediniai implantai
+Kiti klasifikacijos kodai (cpv): 33184100 Chirurginiai implantai
+Kiti klasifikacijos kodai (cpv): 33184410 Vidiniai krūtų protezai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Endoprotezai
+Aprašymas: Perkami Endoprotezai VšĮ Alytaus apskrities S. Kudirkos ligoninei. Pirkimo objektas skaidomas į 3 pirkimo 
+dalis. Pasiūlymų vertinimo kriterijus - Kaina/sąnaudos.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33183100 Ortopediniai implantai
+Kiti klasifikacijos kodai (cpv): 33184100 Chirurginiai implantai
+Kiti klasifikacijos kodai (cpv): 33184410 Vidiniai krūtų protezai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 99 155,9 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Artrosana
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061725
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 41 100 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34735
+Sutarties sudarymo data: 05/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB OSTECA
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061258
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 45 675 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34734
+Sutarties sudarymo data: 04/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB "Formedics"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000061723
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 12 380,9 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34736
+Sutarties sudarymo data: 18/06/2025
+Organizacija, pasirašanti sutartį: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 3
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.valakeviciute@cpo.lt
+Telefono numeris: 06721158
+Pirkėjo profilis: www.cpo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Artrosana
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306159539
+Pašto adresas: I.Kanto al. 15 
+Miestas: Vilnius
+Pašto kodas: 06214
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: estuopiene@gmail.com
+Telefono numeris: +370 614 56294
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: UAB OSTECA
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 300871049
+Pašto adresas: Danės g, 47 
+Miestas: Klaipėda
+Pašto kodas: LT-92108
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+E. paštas: info@osteca.lt
+Telefono numeris: 8 46 400002
+Fakso numeris: 8 46 314094
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Formedics"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 124980311
+Pašto adresas: Senosios Pilaitės kl. 1 
+Miestas: Vilnius
+Pašto kodas: 06229
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: info@formedics.lt
+Telefono numeris: +37052623070
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0006
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0007
+Oficialus pavadinimas: VšĮ Alytaus apskrities S. Kudirkos ligoninė
+Registracijos numeris: 190272175
+Miestas: Alytus
+Pašto kodas: 62114
+Šalies administracinis vienetas (NUTS): Alytaus apskritis (LT021)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 7025014f-0f7f-4b55-a906-61e24f5b02f1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 28/10/2025 22:20 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

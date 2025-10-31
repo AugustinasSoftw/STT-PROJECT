@@ -1,0 +1,126 @@
+Lietuva: Cheminiai reagentai
+DPS ID: 859289. Konkretaus DPS pirkimo ID: 4535402
+Skelbimas apie sutarties keitimą
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Vytauto Didžiojo universitetas (PV)
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: DPS ID: 859289. Konkretaus DPS pirkimo ID: 4535402
+Aprašymas: DPS buvo vykdomas konkretus pirkimas Reagentai (13). Pirkimo objektas į dalis neskaidomas, detaliau 
+pirkimo dokumentuose.
+Procedūros identifikatorius: 572cc7ab-f1ba-433f-9beb-231400d68be1
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696300 Cheminiai reagentai
+Kiti klasifikacijos kodai (cpv): 33600000 Farmacijos produktai
+Kiti klasifikacijos kodai (cpv): 38437000 Laboratorinės pipetės ir priedai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Reagentai.
+Aprašymas: Reagentai, aprašymas detalesnis pateiktas pirkimo dokumentuose.
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33696300 Cheminiai reagentai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žalias pirkimas, aplinkosauginiai reikalavimai nustatyti pirkimo dokumentuose.
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Vytauto Didžiojo universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 799,46 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB "Labochema LT"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000099020
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 799,46 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: VDU-S-1727
+Data, kurią buvo pasirinktas laimėtojas: 02/10/2025
+Sutarties sudarymo data: 08/10/2025
+7 Keitimas
+7.1 Keitimas
+Ankstesnio sutarties paskelbimo pranešimo identifikatorius: 171991ca-fd42-4f43-8cc2-d98ad61c32f7-01
+Modifikuoto sutarties identifikatorius: CON-0001
+Keitimo priežastis: Neesminiai pakeitimai.
+Aprašymas: Keičiamas pavadinimas. Vietoj: DPS ID: 859289. Konkretaus DPS pirkimo ID: 4642731; turi būti: DPS ID: 
+859289. Konkretaus DPS pirkimo ID: 4535402.
+7.1.1 Pakeitimas
+Keitimų aprašymas: Keičiamas skyriuje "Procedūra" pavadinimas. Vietoj: DPS ID: 859289. Konkretaus DPS pirkimo 
+ID: 4642731; turi būti: DPS ID: 859289. Konkretaus DPS pirkimo ID: 4535402.
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Vytauto Didžiojo universitetas (PV)
+Registracijos numeris: 111950396
+Pašto adresas: K. Donelaičio g. 58, 
+Miestas: Kaunas
+Pašto kodas: 44248
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: vilma.pavloviene@vdu.lt
+Telefono numeris: +37037752246
+Interneto adresas: www.vdu.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A. Mickevičiaus g. 18 
+Miestas: Kaunas
+Pašto kodas: 44312
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +37037490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0004
+Oficialus pavadinimas: UAB "Labochema LT"
+Registracijos numeris: 300670772
+Miestas: Vilnius
+Pašto kodas: 03151
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Skelbimo informacija
+Skelbimo identifikatorius / versija: bae43b43-26be-43f5-96df-95e9ca8f78c4 - 02
+Formos tipas: Sutarties keitimas
+Skelbimo rūšis: Skelbimas apie sutarties keitimą
+Skelbimo išsiuntimo data: 29/10/2025 09:34 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

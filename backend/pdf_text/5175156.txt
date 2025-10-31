@@ -1,0 +1,246 @@
+Lietuva: Medicinos įranga
+Vienkartinės medicininės priemonės hemodializių ir aferezių procedūroms
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Vienkartinės medicininės priemonės hemodializių ir aferezių procedūroms
+Aprašymas: Perkamos vienkartinės medicinos priemonės VšĮ Respublikinei Panevėžio ligoninei. Pirkimas skaidomas į 
+10 pirkimo dalių. Pasiūlymų vertinimo kriterijus - kaina.
+Procedūros identifikatorius: f0782cfb-59bc-4aee-98b4-9d936e3b8195
+Pirkimo būdas: Ribotas
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33141100 Tvarsliava; kabutės, žaizdų siuvimo ir ligatūros reikmenys
+Kiti klasifikacijos kodai (cpv): 33141200 Kateteriai
+Kiti klasifikacijos kodai (cpv): 33141300 Venų punkcijų, kraujo ėmimo prietaisai
+Kiti klasifikacijos kodai (cpv): 33141400 Vielos žirklės ir mažapjūviai skalpeliai, chirurginės pirštinės
+Kiti klasifikacijos kodai (cpv): 33141600 Rinktuvai, rinkimo maišai, drenai ir rinkiniai
+Kiti klasifikacijos kodai (cpv): 33141770 Įtaisai lūžiams gydyti, osteosintezės vinys ir plokštelės
+Kiti klasifikacijos kodai (cpv): 33180000 Funkcinio pobūdžio palaikymas
+Kiti klasifikacijos kodai (cpv): 33196000 Pagalbinės medicininės priemonės
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Vienkartinės medicininės priemonės hemodializių ir aferezių procedūroms
+Aprašymas: Perkamos vienkartinės medicinos priemonės VšĮ Respublikinei Panevėžio ligoninei. Pirkimas skaidomas į 
+10 pirkimo dalių. Pasiūlymų vertinimo kriterijus - kaina.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+Kiti klasifikacijos kodai (cpv): 33141100 Tvarsliava; kabutės, žaizdų siuvimo ir ligatūros reikmenys
+Kiti klasifikacijos kodai (cpv): 33141200 Kateteriai
+Kiti klasifikacijos kodai (cpv): 33141300 Venų punkcijų, kraujo ėmimo prietaisai
+Kiti klasifikacijos kodai (cpv): 33141400 Vielos žirklės ir mažapjūviai skalpeliai, chirurginės pirštinės
+Kiti klasifikacijos kodai (cpv): 33141600 Rinktuvai, rinkimo maišai, drenai ir rinkiniai
+Kiti klasifikacijos kodai (cpv): 33141770 Įtaisai lūžiams gydyti, osteosintezės vinys ir plokštelės
+Kiti klasifikacijos kodai (cpv): 33180000 Funkcinio pobūdžio palaikymas
+Kiti klasifikacijos kodai (cpv): 33196000 Pagalbinės medicininės priemonės
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 238 900 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: mažiausia kaina
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminė pirkimo sistema, kurią gali naudoti ir šiame skelbime neišvardyti pirkėjai
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Viešoji įstaiga CPO LT
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Viešoji įstaiga CPO LT
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Panevėžio ligoninė
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 197 500 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Dameda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092055
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 18 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33258
+Sutarties sudarymo data: 09/10/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Panevėžio ligoninė
+Laimėtojas:
+Oficialus pavadinimas: Unihealth
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000092245
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 139 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33256
+Sutarties sudarymo data: 13/10/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Panevėžio ligoninė
+Laimėtojas:
+Oficialus pavadinimas: A.Zapalskio IĮ "Azas"
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000091968
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 7 000 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33259
+Sutarties sudarymo data: 09/10/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Panevėžio ligoninė
+Laimėtojas:
+Oficialus pavadinimas: UAB Medita
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000091778
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 33 500 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 33257
+Sutarties sudarymo data: 09/10/2025
+Organizacija, pasirašanti sutartį: VšĮ Respublikinė Panevėžio ligoninė
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 6
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Viešoji įstaiga CPO LT
+Registracijos numeris: 302913276
+Pašto adresas: Ukmergės g. 219-1 
+Miestas: Vilnius
+Pašto kodas: 07152
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: milda.valakeviciute@cpo.lt
+Telefono numeris: 06721158
+Pirkėjo profilis: www.cpo.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl 
+kitiems pirkėjams skirtų darbų, prekių ar paslaugų
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Dameda
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 123322285
+Pašto adresas: Molėtų g. 13-1 
+Miestas: Vilnius
+Pašto kodas: LT-14262
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: justina@dameda.lt
+Telefono numeris: +37052313956
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Unihealth
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 305664798
+Pašto adresas: A.Goštauto g. 8-341 
+Miestas: Vilnius
+Pašto kodas: 01108
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: darius@unihealth.lt
+Telefono numeris: +370 665 22277
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0004
+Oficialus pavadinimas: A.Zapalskio IĮ "Azas"
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 147838431
+Pašto adresas: Tiekimo g. 2A 
+Miestas: Panevėžys
+Pašto kodas: 35289
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: juozas@azas.lt
+Telefono numeris: +370 68655121
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0005
+Oficialus pavadinimas: UAB Medita
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 110323729
+Pašto adresas: Aviečių g. 14 
+Miestas: Vilnius
+Pašto kodas: 08418
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: medita@medita.lt
+Telefono numeris: +37052720372
+Interneto adresas: www.medita.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0006
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0007
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+8.1 ORG-0008
+Oficialus pavadinimas: VšĮ Respublikinė Panevėžio ligoninė
+Registracijos numeris: 191340120
+Miestas: Panevėžys
+Pašto kodas: 35144
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Šios organizacijos vaidmenys:
+Organizacija, pasirašanti sutartį
+Skelbimo informacija
+Skelbimo identifikatorius / versija: aa5040f5-e5ab-48bf-b0e1-7a00215b05a1 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/10/2025 07:10 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

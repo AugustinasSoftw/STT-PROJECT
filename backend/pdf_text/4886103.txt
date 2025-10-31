@@ -1,0 +1,121 @@
+Lietuva: Kelio darbai
+Valstybinės reikšmės krašto kelio Nr. 220 Trakai-Rūdiškės-Pivašiūnai-Alytus paprastojo 
+remonto, įrengiant nežymėtas pėsčiųjų perėjas, darbai (SKELBIAMA APKLAUSA)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Trakų rajono savivaldybės administracija
+Pirkėjo teisinė forma: Regioninės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Valstybinės reikšmės krašto kelio Nr. 220 Trakai-Rūdiškės-Pivašiūnai-Alytus paprastojo remonto, 
+įrengiant nežymėtas pėsčiųjų perėjas, darbai (SKELBIAMA APKLAUSA)
+Aprašymas: Perkami „Valstybinės reikšmės krašto kelio Nr. 220 Trakai - Rūdiškės - Pivašiūnai - Alytus 0,459, 0,614, 
+0,780 ir 0,900 km paprastojo remonto, įrengiant nežymėtas pėsčiųjų perėjas, darbai.
+Procedūros identifikatorius: 58b15065-a48f-43b0-b97a-bd71a8393a6e
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233140 Kelio darbai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 92 768,52 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Valstybinės reikšmės krašto kelio Nr. 220 Trakai-Rūdiškės-Pivašiūnai-Alytus paprastojo remonto, 
+įrengiant nežymėtas pėsčiųjų perėjas, darbai (SKELBIAMA APKLAUSA)
+Aprašymas: Perkami „Valstybinės reikšmės krašto kelio Nr. 220 Trakai - Rūdiškės - Pivašiūnai - Alytus 0,459, 0,614, 
+0,780 ir 0,900 km paprastojo remonto, įrengiant nežymėtas pėsčiųjų perėjas, darbai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: darbai
+Pagrindinis klasifikacijos kodas (cpv): 45233140 Kelio darbai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 92 768,52 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: nėra
+Kategorija skyrimo kriterijaus slenkstis: Eilės tvarka pagal svarbą
+Skyrimo kriterijus: skaičius: 0
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 0
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: Ginčai sprendžiami Viešųjų pirkimų įstatymo VII skyriuje nustatyta tvarka.
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Trakų rajono savivaldybės administracija
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Pasiūlymų, dalyvavimo prašymų ar projektų negauta
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Trakų rajono savivaldybės administracija
+Registracijos numeris: 181626536
+Pašto adresas: Vytauto g. 33 
+Miestas: Trakai
+Pašto kodas: 21106
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: direktorius@trakai.lt
+Telefono numeris: +370 52858300
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 73cdb003-5280-4171-925a-829b929f3798 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/10/2025 15:04 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

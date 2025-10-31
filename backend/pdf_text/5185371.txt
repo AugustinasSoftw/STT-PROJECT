@@ -1,0 +1,148 @@
+Lietuva: Architektūrinio projektavimo paslaugos
+Autobusų stoties pastato, keičiant į administracinės paskirties pastatą Savanorių a. 5, 
+Panevėžyje, kapitalinio remonto projekto korektūra (patikslinimas)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Panevėžio miesto savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Autobusų stoties pastato, keičiant į administracinės paskirties pastatą Savanorių a. 5, Panevėžyje, 
+kapitalinio remonto projekto korektūra (patikslinimas)
+Aprašymas: Perkančioji organizacija planuoja įsigyti Autobusų stoties pastato, keičiant į administracinės paskirties 
+pastatą Savanorių a. 5, Panevėžyje, kapitalinio remonto projekto korektūros (patikslinimo) paslaugas
+Procedūros identifikatorius: bf781935-e6ec-413a-bd18-4b73976cf5aa
+Pirkimo būdas: Derybos be išankstinio skelbimo apie pirkimą
+2.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+2.1.3 Vertė
+Numatoma vertė be PVM: 42 300 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Autobusų stoties pastato, keičiant į administracinės paskirties pastatą Savanorių a. 5, Panevėžyje, 
+kapitalinio remonto projekto korektūra (patikslinimas)
+Aprašymas: Perkančioji organizacija planuoja įsigyti Autobusų stoties pastato, keičiant į administracinės paskirties 
+pastatą Savanorių a. 5, Panevėžyje, kapitalinio remonto projekto korektūros (patikslinimo) paslaugas
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Paslaugos
+Pagrindinis klasifikacijos kodas (cpv): 71220000 Architektūrinio projektavimo paslaugos
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 42 300 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: Mažiausia kaina
+Kategorija skyrimo kriterijaus svoris: Fiksuota vertė (iš viso)
+Skyrimo kriterijus: skaičius: 42 200
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Panevėžio apygardos teismas
+Informacija apie peržiūros terminus: Numatyta VPĮ
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Panevėžio miesto savivaldybės administracija
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 42 200 Euro
+Tiesioginis skyrimas:
+Tiesioginio skyrimo pagrindimas: Paslaugų pirkimo sutartis, skiriama remiantis išimtine teise
+Kitas pagrindimas: vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymo 71 straipsnio 1 dalies 2) punkto c)
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Projektų ekspertai
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000100337
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 42 200 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 32075
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 1
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Panevėžio miesto savivaldybės administracija
+Registracijos numeris: 288724610
+Pašto adresas: Laisvės a. 20 
+Miestas: Panevėžys
+Pašto kodas: LT-35200
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: jolanta.valuziene@panevezys.lt
+Telefono numeris: +370 45 501 292
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Projektų ekspertai
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 302605951
+Pašto adresas: Draugystės g. 19-341 
+Miestas: Kaunas
+Pašto kodas: LT-51230
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: info@projektuekspertai.lt
+Telefono numeris: +37067745754
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+8.1 ORG-0003
+Oficialus pavadinimas: Panevėžio apygardos teismas
+Registracijos numeris: 188607531
+Pašto adresas: Elektros g. 9 
+Miestas: Panevėžys
+Pašto kodas: 37175
+Šalies administracinis vienetas (NUTS): Panevėžio apskritis (LT025)
+Šalis: Lietuva
+E. paštas: panevezio.apygardos@teismas.lt
+Telefono numeris: +370 45468765
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0004
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 40216d44-5eae-4def-bf73-2d96a8b59f75 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/10/2025 11:53 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

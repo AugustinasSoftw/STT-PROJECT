@@ -1,0 +1,232 @@
+Lietuva: Medicinos įranga
+VETERINARINIAI INFUZINIAI PRIETAISAI (VETERINARINIŲ ŠVIRKŠTINIŲ POMPŲ, 
+VETERINARINIŲ INFUZINIŲ POMPŲ)
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universitetas (PV)
+Pirkėjo teisinė forma: Viešosios teisės reglamentuojama įstaiga
+Perkančiosios organizacijos veiklos sritis: Švietimas
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: VETERINARINIAI INFUZINIAI PRIETAISAI (VETERINARINIŲ ŠVIRKŠTINIŲ POMPŲ, 
+VETERINARINIŲ INFUZINIŲ POMPŲ)
+Aprašymas: VETERINARINIAI INFUZINIAI PRIETAISAI (VETERINARINIŲ ŠVIRKŠTINIŲ POMPŲ, VETERINARINIŲ 
+INFUZINIŲ POMPŲ)
+Procedūros identifikatorius: f84e678a-0727-4a83-8b1f-970eec574409
+Ankstesnis skelbimas: 077e8e4e-f99c-4bab-8856-eefaf613f888-02
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+2.1.2 Sutarties vykdymo vieta
+Šalis: Lietuva
+Bet kurioje konkrečios šalies vietoje
+2.1.3 Vertė
+Numatoma vertė be PVM: 30 000 Euro
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Veterinarinės švirkštinės pompos (1 pirkimo objekto dalis)
+Aprašymas: VETERINARINIAI INFUZINIAI PRIETAISAI (VETERINARINIŲ ŠVIRKŠTINIŲ POMPŲ, VETERINARINIŲ 
+INFUZINIŲ POMPŲ)
+Vidaus identifikatorius: 1
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 10 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: Vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: kaina, žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: 2. Antras kriterijus - Garantija (T) Y = 10
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos sveikatos mokslų universitetas (PV)
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universitetas (PV)
+5.1 Techninės ID dalies: LOT-0002
+Pavadinimas: Veterinarinės infuzinės pompos ( 2 pirkimo objekto dalis)
+Aprašymas: VETERINARINIAI INFUZINIAI PRIETAISAI (VETERINARINIŲ ŠVIRKŠTINIŲ POMPŲ, VETERINARINIŲ 
+INFUZINIŲ POMPŲ)
+Vidaus identifikatorius: 2
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 33100000 Medicinos įranga
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.5 Vertė
+Numatoma vertė be PVM: 20 000 Euro
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Poveikio aplinkai mažinimas
+Aprašymas: vykdomas žaliasis pirkimas
+Poveikio aplinkai mažinimo metodas: Kita
+Žaliasis viešasis pirkimas: kriterijai: Nacionaliniai žaliojo viešojo pirkimo kriterijai
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: kaina, žr. pirkimo dokumentuose
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 90
+Kriterijus:
+Rūšis: Kokybė
+Aprašymas: 2. Antras kriterijus - Garantija (T) Y = 10
+Kategorija skyrimo kriterijaus slenkstis: Lyginamasis svoris (procentinė dalis, tikslus skaičius)
+Skyrimo kriterijus: skaičius: 10
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Kauno apygardos teismas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Lietuvos sveikatos mokslų universitetas (PV)
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras: Lietuvos sveikatos mokslų universitetas (PV)
+Organizacija, atliekanti mokėjimus: Lietuvos sveikatos mokslų universitetas (PV)
+6 Rezultatai
+Visų šiame pranešime suteiktų sutarčių vertė: 16 090 Euro
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB MedUS Medical
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000089327
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0001
+Pasiūlymo vertė: 10 600 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34509
+Sutarties sudarymo data: 28/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 2
+6.1 Rezultatai: pirkimo dalies ID: LOT-0002
+Pasirinktas bent vienas laimėtojas.
+6.1.2 Informacija apie laimėtojus
+Laimėtojas:
+Oficialus pavadinimas: UAB Asanmeda
+Pasiūlymas:
+Pasiūlymo identifikatorius: 000088764
+Pirkimo dalies arba pirkimo dalių grupės identifikatorius: LOT-0002
+Pasiūlymo vertė: 5 490 Euro
+Subranga: Ne
+Informacija apie sutartį:
+Sutarties identifikatorius: 34510
+Sutarties sudarymo data: 24/10/2025
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Elektroninėmis priemonėmis pateikti pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 4
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Lietuvos sveikatos mokslų universitetas (PV)
+Registracijos numeris: 302536989
+Pašto adresas: A. Mickevičiaus g. 9 
+Miestas: Kaunas
+Pašto kodas: LT-44307
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: sigita.varneckiene@lsmu.lt
+Telefono numeris: +37037395805
+Interneto adresas: 
+Pirkėjo profilis: 
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+Organizacija, teikianti daugiau informacijos apie peržiūros procedūras
+Organizacija, atliekanti mokėjimus
+8.1 ORG-0002
+Oficialus pavadinimas: UAB Asanmeda
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 221906050
+Pašto adresas: V. A. Graičiūno g. 4 
+Miestas: Vilnius
+Pašto kodas: 02241
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilnius@limeta.lt
+Telefono numeris: +37061579335
+Interneto adresas: www.limeta.lt
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0002
+8.1 ORG-0003
+Oficialus pavadinimas: UAB MedUS Medical
+Ekonominės veiklos vykdytojo dydis: Labai mažas, mažasis ar vidutinis
+Registracijos numeris: 306252616
+Pašto adresas: Veiverių g. 153 
+Miestas: Kaunas
+Pašto kodas: LT-46417
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: egle.gelbudiene@med-us.eu
+Telefono numeris: +37064361987
+Interneto adresas: www.med-us.eu
+Šios organizacijos vaidmenys:
+Dalyvis
+Šių pirkimo dalių laimėtojas: LOT-0001
+Laimėtojo vertybiniais popieriais prekiaujama reguliuojamoje rinkoje
+8.1 ORG-0004
+Oficialus pavadinimas: Kauno apygardos teismas
+Registracijos numeris: 293372420
+Pašto adresas: A.Mickevičiaus g.18 
+Miestas: Kaunas
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Kauno apskritis (LT022)
+Šalis: Lietuva
+E. paštas: kauno.apygardos@teismas.lt
+Telefono numeris: +370 37490941
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0005
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: 5a41849f-d7b6-45fa-9744-95c76a497d9a - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/10/2025 14:27 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 

@@ -1,0 +1,111 @@
+Lietuva: Mikrofonai ir patalpų įgarsinimo įranga
+Salės profesionalus įgarsinimas ir jos priedai (IT) NUTRAUKTAS
+Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Generolo Jono Žemaičio Lietuvos karo akademija
+Pirkėjo teisinė forma: Centrinės valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Gynyba
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Salės profesionalus įgarsinimas ir jos priedai (IT) NUTRAUKTAS
+Aprašymas: Salės profesionalus įgarsinimas ir jo priedai.
+Procedūros identifikatorius: 7964e313-8b82-4fa9-8a0e-debedc3e62ea
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32342300 Mikrofonai ir patalpų įgarsinimo įranga
+2.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+5 Pirkimo dalis
+5.1 Techninės ID dalies: LOT-0001
+Pavadinimas: Salės profesionalus įgarsinimas ir jos priedai (IT) NUTRAUKTAS
+Aprašymas: Salės profesionalus įgarsinimas ir jo priedai.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 32342300 Mikrofonai ir patalpų įgarsinimo įranga
+5.1.2 Sutarties vykdymo vieta
+Miestas: Vilnius
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.6 Bendra informacija
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.10 Skyrimo kriterijai
+Kriterijus:
+Rūšis: Kaina
+Aprašymas: 100
+Naudotino metodo aprašymas, jei lyginamasis svoris negali būti išreikštas kriterijais: 100
+5.1.15 Metodai
+Preliminarioji sutartis:
+Preliminariosios sutarties nėra
+Informacija apie dinaminę pirkimo sistemą:
+Dinaminės pirkimo sistemos nėra
+5.1.16 Išsamesnė informacija, tarpininkavimas ir peržiūra
+Peržiūros organizacija: Vilniaus apygardos teismas
+Informacija apie peržiūros terminus: 100
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų: Generolo Jono Žemaičio Lietuvos karo akademija
+6 Rezultatai
+6.1 Rezultatai: pirkimo dalies ID: LOT-0001
+Nepasirinktas nė vienas laimėtojas ir konkursas baigtas.
+Priežastis, dėl kurios laimėtojas nebuvo pasirinktas: Kita
+6.1.4 Statistinė informacija
+Gauti pasiūlymai arba dalyvavimo prašymai:
+Pateikimas: rūšys: Pasiūlymai
+Gautų pasiūlymų ar dalyvavimo prašymų skaičius: 0
+8 Organizacijos
+8.1 ORG-0001
+Oficialus pavadinimas: Generolo Jono Žemaičio Lietuvos karo akademija
+Registracijos numeris: 211959040
+Pašto adresas: Šilo g. 5A 
+Miestas: Vilnius
+Pašto kodas: LT-10322
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: rimas.stankevicius@mil.lt
+Telefono numeris: +370 650 03 676
+Interneto adresas: www.lka.lt
+Pirkėjo profilis: www.lka.lt
+Šios organizacijos vaidmenys:
+Pirkėjas
+Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų
+8.1 ORG-0002
+Oficialus pavadinimas: Vilniaus apygardos teismas
+Registracijos numeris: 193312970
+Pašto adresas: Gedimino pr. 40 
+Miestas: Vilnius
+Pašto kodas: 01501
+Šalies administracinis vienetas (NUTS): Vilniaus apskritis (LT011)
+Šalis: Lietuva
+E. paštas: vilniaus.apygardos@teismas.lt
+Telefono numeris: +370 70668369
+Šios organizacijos vaidmenys:
+Peržiūros organizacija
+8.1 ORG-0003
+Oficialus pavadinimas: European Dynamics S.A.
+Registracijos numeris: 002024901000
+Padalinys: European Dynamics S.A.
+Miestas: Athens
+Pašto kodas: 15125
+Šalies administracinis vienetas (NUTS): Βόρειος Τομέας Αθηνών (EL301)
+Šalis: Graikija
+E. paštas: eproc-esender@eurodyn.com
+Telefono numeris: +30 2108094500
+Šios organizacijos vaidmenys:
+TED eSender
+Skelbimo informacija
+Skelbimo identifikatorius / versija: ab23cdfd-2211-4955-85eb-2d5605076a28 - 01
+Formos tipas: Rezultatai
+Skelbimo rūšis: Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka
+Skelbimo išsiuntimo data: 29/10/2025 09:13 +02:00
+Kalbos, kuriomis šis skelbimas oficialiai skelbiamas: lietuvių kalba 
